@@ -1,0 +1,51 @@
+name="WARNING"
+url="http://cyberxnuke.com"
+img="http://computertechs.org/xbmc/warning.png"
+fanart="http://computertechs.org/xbmc/warning.png"
+description="CYBERxNUKE"
+type="main"
+
+name="Install All Plugins"
+url="http://computertechs.org/xbmc/XBMC.zip"
+img="http://computertechs.org/xbmc/warning.png"
+fanart="http://computertechs.org/xbmc/omfg.jpg"
+description="Configure KODI!"
+type="main"
+
+name="Install All Repositories"
+url="http://computertechs.org/xbmc/XBMC2.zip"
+img="http://computertechs.org/xbmc/warning.png"
+fanart="http://computertechs.org/xbmc/omfg.jpg"
+description="Configure KODI!"
+type="main"
+
+name="UPDATES 10-3-15"
+url="http://computertechs.org/xbmc/XBMC3.zip"
+img="http://computertechs.org/xbmc/omfg.jpg"
+fanart="http://computertechs.org/xbmc/omfg.jpg"
+description="UPDATE KODI!"
+type="main"
+
+name="UPDATE Shortcuts"
+url="http://computertechs.org/xbmc/XBMC4.zip"
+img="http://computertechs.org/xbmc/omfg.jpg"
+fanart="http://computertechs.org/xbmc/omfg.jpg"
+description="UPDATE shortcuts for KODI!"
+type="main"
+
+name="ERASE KODI"
+url="http://computertechs.org/xbmc/kodi.zip"
+img="http://computertechs.org/xbmc/warning.png"
+fanart="http://computertechs.org/xbmc/omfg.jpg"
+description="This will delete everything, and will have to be configured again!"
+type="main"
+
+
+name="TEST 2 KODI"
+url="https://github.com/CYBERxNUKE/KODI/raw/master/XBMC9.zip"
+img="http://computertechs.org/xbmc/warning.png"
+fanart="http://computertechs.org/xbmc/omfg.jpg"
+description="This will delete everything, and will have to be configured again!"
+type="main"
+
+
