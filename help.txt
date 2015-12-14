@@ -19,3 +19,10 @@ fanart="http://computertechs.org/xbmc/omfg.jpg"
 description="UPDATE shortcuts for KODI!"
 type="main"
 
+name="test"
+url="https://github.com/CYBERxNUKE/cputech/raw/master/iptv-mx.zip"
+img="http://computertechs.org/xbmc/omfg.jpg"
+fanart="http://computertechs.org/xbmc/omfg.jpg"
+description="Testing Live TV"
+type="main"
+
