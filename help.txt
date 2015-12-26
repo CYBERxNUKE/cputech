@@ -19,10 +19,17 @@ fanart="http://computertechs.org/xbmc/omfg.jpg"
 description="UPDATE shortcuts for KODI!"
 type="main"
 
-name="test"
+name="Torrent Addon"
+url="https://github.com/CYBERxNUKE/cputech/raw/master/XBMC8.zip"
+img="http://computertechs.org/xbmc/omfg.jpg"
+fanart="http://computertechs.org/xbmc/omfg.jpg"
+description="torrent addon"
+type="main"
+
+
+name="Spanish TV Addon "
 url="https://github.com/CYBERxNUKE/cputech/raw/master/iptv-mx.zip"
 img="http://computertechs.org/xbmc/omfg.jpg"
 fanart="http://computertechs.org/xbmc/omfg.jpg"
-description="Testing Live TV"
+description="Spanish Live TV"
 type="main"
-
