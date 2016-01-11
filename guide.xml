@@ -46,6 +46,7 @@
   </channel>
   <channel id="Azteca 7">
     <display-name lang="es">Azteca 7</display-name>
+    <icon src="http://z.cdn.entutele.com/media/channels/big/azteca-7.gif" />
     <url>http://www.entutele.com</url>
   </channel>
   <channel id="Azteca Internacional">
@@ -14599,5 +14600,1550 @@
     <title lang="es">Resumen Toros</title>
     <category lang="es">Deportes</category>
     <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160111010000 -0600" stop="20160111020000 -0600" channel="Azteca 7">
+    <title lang="es">Marcas de renombre</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160111020000 -0600" stop="20160111023000 -0600" channel="Azteca 7">
+    <title lang="es">Inova</title>
+    <desc lang="es">Promoción y venta de productos por televisión(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160111023000 -0600" stop="20160111030000 -0600" channel="Azteca 7">
+    <title lang="es">Marcas de renombre</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160111030000 -0600" stop="20160111033000 -0600" channel="Azteca 7">
+    <title lang="es">Marcas de renombre</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160111033000 -0600" stop="20160111040000 -0600" channel="Azteca 7">
+    <title lang="es">Marcas de renombre</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160111040000 -0600" stop="20160111043000 -0600" channel="Azteca 7">
+    <title lang="es">Marcas de renombre</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160111043000 -0600" stop="20160111050000 -0600" channel="Azteca 7">
+    <title lang="es">Marcas de renombre</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160111050000 -0600" stop="20160111051500 -0600" channel="Azteca 7">
+    <title lang="es">Barras de ajuste</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160111051500 -0600" stop="20160111053000 -0600" channel="Azteca 7">
+    <title lang="es">Rtc</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160111053000 -0600" stop="20160111060000 -0600" channel="Azteca 7">
+    <title lang="es">Iglesia universal - varios</title>
+    <desc lang="es">Tiene por objetivo predicar el Evangelio a los seguidores de esta vertiente religiosa(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Religioso</category>
+  </programme>
+  <programme start="20160111060000 -0600" stop="20160111063000 -0600" channel="Azteca 7">
+    <title lang="es">Inova</title>
+    <desc lang="es">Promoción y venta de productos por televisión(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160111063000 -0600" stop="20160111070000 -0600" channel="Azteca 7">
+    <title lang="es">Inova</title>
+    <desc lang="es">Promoción y venta de productos por televisión(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160111070000 -0600" stop="20160111073000 -0600" channel="Azteca 7">
+    <title lang="es">Inova</title>
+    <desc lang="es">Promoción y venta de productos por televisión(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160111073000 -0600" stop="20160111080000 -0600" channel="Azteca 7">
+    <title lang="es">Inova</title>
+    <desc lang="es">Promoción y venta de productos por televisión(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160111080000 -0600" stop="20160111083000 -0600" channel="Azteca 7">
+    <title lang="es">Inova</title>
+    <desc lang="es">Promoción y venta de productos por televisión(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160111083000 -0600" stop="20160111090000 -0600" channel="Azteca 7">
+    <title lang="es">Iglesia universal - varios</title>
+    <desc lang="es">Tiene por objetivo predicar el Evangelio a los seguidores de esta vertiente religiosa(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Religioso</category>
+  </programme>
+  <programme start="20160111090000 -0600" stop="20160111093000 -0600" channel="Azteca 7">
+    <title lang="es">Marcas de renombre</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160111093000 -0600" stop="20160111100000 -0600" channel="Azteca 7">
+    <title lang="es">Inova</title>
+    <desc lang="es">Promoción y venta de productos por televisión(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160111100000 -0600" stop="20160111103000 -0600" channel="Azteca 7">
+    <title lang="es">Inova</title>
+    <desc lang="es">Promoción y venta de productos por televisión(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160111103000 -0600" stop="20160111110000 -0600" channel="Azteca 7">
+    <title lang="es">Inova</title>
+    <desc lang="es">Promoción y venta de productos por televisión(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160111110000 -0600" stop="20160111113000 -0600" channel="Azteca 7">
+    <title lang="es">Inova</title>
+    <desc lang="es">Promoción y venta de productos por televisión(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160111113000 -0600" stop="20160111120000 -0600" channel="Azteca 7">
+    <title lang="es">Inova</title>
+    <desc lang="es">Promoción y venta de productos por televisión(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160111120000 -0600" stop="20160111123000 -0600" channel="Azteca 7">
+    <title lang="es">Marcas de renombre</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160111123000 -0600" stop="20160111130000 -0600" channel="Azteca 7">
+    <title lang="es">Avengers Assemble</title>
+    <desc lang="es">En esta serie animada de acción y aventuras, Los Vengadores unidos de Marvel, el grupo más famoso de superhéroes –Iron Man, Hulk, el Capitán América, Thor, Hawkeye y Black Widow-, junto con el recién llegado Falcon, se unen para luchar contra amenazas que un único héroe no podría resistir. Entrenándose y conviviendo en sus nuevos cuarteles centrales, la torre de los Vengadores, los héroes deberán superar sus diferencias y aprender a trabajar juntos para defender el planeta. Así se trate del Dr. Doom, que intenta conquistar Asgard; de Attuma liderando el Ejército Atlante hacia la ciudad de Nueva York o de Drácula desatando hordas de vampiros, los villanos más amenazantes del planeta no tienen oportunidad alguna cuando los Vengadores se unen(n)</desc>
+    <credits>
+      <actor>Fred Tatasciore</actor>
+      <actor>Adrian Pasdar</actor>
+      <actor>Roger Craig Smith</actor>
+      <actor>Jeff Allen</actor>
+    </credits>
+    <category lang="es">Infantiles</category>
+    <category lang="es">Aventura</category>
+  </programme>
+  <programme start="20160111130000 -0600" stop="20160111140000 -0600" channel="Azteca 7">
+    <title lang="es">A quien corresponda</title>
+    <desc lang="es">Único programa de la TV mexicana con denuncias sociales. "A quien corresponda" es el vínculo entre la ciudadanía y las autoridades, traspasando las fronteras de México y extendiéndose y apoyando a las comunidades latinas de Estados Unidos. Tomando la postura de mediador, el espacio conducido por Jorge Garralda se asegura que las peticiones o demandas ejercidas por el público sean atendidas por las personas indicadas, con el fin de que se pueda obtener una respuesta verídica y rápida(n)</desc>
+    <credits>
+      <actor>Jorge Garralda</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160111140000 -0600" stop="20160111150000 -0600" channel="Azteca 7">
+    <title lang="es">Deporte Caliente</title>
+    <desc lang="es">Luis García, ícono mexicano del fútbol, será el encargado de informarte de manera divertida y resumida todo lo que acontece en el mundo deportivo(n)</desc>
+    <credits>
+      <actor>Antonio Rosique</actor>
+      <actor>Luis García</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20160111150000 -0600" stop="20160111170000 -0600" channel="Azteca 7">
+    <title lang="es">El ángel malvado</title>
+    <desc lang="es">Sólo Mark ve lo que se esconde tras la sonrisa de Henry, una afición secreta por los juegos mortales. Pero cuando Mark intenta alertar a su familia de lo que ocurre, ellos no le creen, dejando solo al chico(n)</desc>
+    <credits>
+      <actor>Macaulay Culkin</actor>
+      <actor>Wendy Crewson</actor>
+      <actor>Elijah Wood</actor>
+      <actor>Joseph Ruben</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Terror y Suspenso</category>
+  </programme>
+  <programme start="20160111170000 -0600" stop="20160111190000 -0600" channel="Azteca 7">
+    <title lang="es">La historia de Sandra y Tammi Chase</title>
+    <desc lang="es">Una mujer decide tomarse unas vacaciones en Ecuador. Sin saberlo, terminará encarcelada injustamente por un crimen que no cometió: Tráfico de drogas(n)</desc>
+    <credits>
+      <actor>Barbara Hershey</actor>
+      <actor>Rachael Leigh Cook</actor>
+      <actor>Leon Ichaso</actor>
+      <actor>Vincent Irizarry</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Película</category>
+  </programme>
+  <programme start="20160111190000 -0600" stop="20160111194500 -0600" channel="Azteca 7">
+    <title lang="es">Ay caramba</title>
+    <desc lang="es">Programa que recopila los videos caseros más graciosos del mundo. Caídas, golpes, perros inteligentes y bebes pícaros tendrán lugar en este espacio creado para divertirse(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160111194500 -0600" stop="20160111203000 -0600" channel="Azteca 7">
+    <title lang="es">Los Simpsons</title>
+    <desc lang="es">Los Simpson son una familia disfuncional que vive en Springfield; donde Homero trabaja como inspector en una planta de energía eléctrica y disfruta de su pasión por la cerveza, Marge es una madre trabajadora y dedicada a su hogar. Bart el pilluelo hijo mayor de 10 años, es un mal alumno y pequeño delincuente; en cambio su hermana Lisa, de 8, es una estudiante destacada. Finalmente Maggie, es solo una bebecita que ve todo lo que pasa mientras se entretiene con su chupón(n)</desc>
+    <credits>
+      <actor>Dan Castellaneta</actor>
+      <actor>Julie Kavner</actor>
+      <actor>Nancy Cartwright</actor>
+      <actor>Yeardley Smith</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Animación</category>
+  </programme>
+  <programme start="20160111203000 -0600" stop="20160111213000 -0600" channel="Azteca 7">
+    <title lang="es">American Ninja Warrior</title>
+    <desc lang="es">Cientos de concursantes aceptan el reto de llegar a ser un guerrero ninja pero, para conseguirlo, deberán pasar pruebas de agilidad, destreza, fuerza, coordinación y velocidad realmente extremas, en un circuito de pruebas físicas especialmente preparado para ello(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Reality Show</category>
+  </programme>
+  <programme start="20160111213000 -0600" stop="20160111223000 -0600" channel="Azteca 7">
+    <title lang="es">Scorpion</title>
+    <desc lang="es">Walter O'Brien es un genio excéntrico que, empeñado en detener todas las amenazas del mundo moderno, recluta un equipo de jóvenes brillantes en diferentes aptitudes para dicha labor. Entre ellos se encuentran Happy Quinn, un erudito de la mecánica, Toby Curtis, una persona capaz de descubrir a cualquier persona en base a su comportamiento y, por último, Sylvester Dodd, un experto en estadística(n)</desc>
+    <category lang="es">Series</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160111223000 -0600" stop="20160111233000 -0600" channel="Azteca 7">
+    <title lang="es">Mentes criminales</title>
+    <desc lang="es">La Unidad de Análisis Conductal es un grupo de élite del FBI que analiza las mentes criminales más peligrosas de la nación en un esfuerzo por anticipar posibles crímenes(n)</desc>
+    <credits>
+      <actor>Shemar Moore</actor>
+      <actor>A.J. Cook</actor>
+      <actor>Thomas Gibson</actor>
+      <actor>Matthew Gray Gubler</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160111233000 -0600" stop="20160112003000 -0600" channel="Azteca 7">
+    <title lang="es">Graceland</title>
+    <desc lang="es">Sigue a un grupo de agentes provenientes de la Drug Enforcement Agency (DEA), el FBI y las Aduanas de EE.UU., cuyos mundos colisionan mientras se ven obligados a vivir juntos en una casa secreta en la playa en el sur de California(n)</desc>
+    <credits>
+      <actor>Vanessa Ferlito</actor>
+      <actor>Daniel Sunjata</actor>
+      <actor>Aaron Tveit</actor>
+      <actor>Jeff Eastin</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Acción</category>
+  </programme>
+  <programme start="20160112003000 -0600" stop="20160112010000 -0600" channel="Azteca 7">
+    <title lang="es">New Girl</title>
+    <desc lang="es">Una fresca y descarada mirada a las relaciones modernas entre hombres y mujeres. Se centra en una profesora de educación primaria optimista, pero desagraciada en asuntos del amor, que después de una reciente ruptura sentimental decide irse a vivir con tres chicos jóvenes. Mientras sus relaciones progresan, estos nuevos amigos empezarán a darse cuenta de que se necesitan los unos a los otros más de lo que pensaban y terminan formando una encantadora, pero disfuncional familia(n)</desc>
+    <credits>
+      <actor>Zooey Deschanel</actor>
+      <actor>Max Greenfield</actor>
+      <actor>Jake Kasdan</actor>
+      <actor>Jake Johnson</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160112010000 -0600" stop="20160112013000 -0600" channel="Azteca 7">
+    <title lang="es">Marcas de renombre</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160112013000 -0600" stop="20160112020000 -0600" channel="Azteca 7">
+    <title lang="es">Inova</title>
+    <desc lang="es">Promoción y venta de productos por televisión(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160112020000 -0600" stop="20160112023000 -0600" channel="Azteca 7">
+    <title lang="es">Inova</title>
+    <desc lang="es">Promoción y venta de productos por televisión(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160112023000 -0600" stop="20160112030000 -0600" channel="Azteca 7">
+    <title lang="es">Marcas de renombre</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160112030000 -0600" stop="20160112033000 -0600" channel="Azteca 7">
+    <title lang="es">Marcas de renombre</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160112033000 -0600" stop="20160112040000 -0600" channel="Azteca 7">
+    <title lang="es">Marcas de renombre</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160112040000 -0600" stop="20160112043000 -0600" channel="Azteca 7">
+    <title lang="es">Marcas de renombre</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160112043000 -0600" stop="20160112050000 -0600" channel="Azteca 7">
+    <title lang="es">Marcas de renombre</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160112050000 -0600" stop="20160112051500 -0600" channel="Azteca 7">
+    <title lang="es">Barras de ajuste</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160112051500 -0600" stop="20160112053000 -0600" channel="Azteca 7">
+    <title lang="es">Rtc</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160112053000 -0600" stop="20160112060000 -0600" channel="Azteca 7">
+    <title lang="es">Iglesia universal - varios</title>
+    <desc lang="es">Tiene por objetivo predicar el Evangelio a los seguidores de esta vertiente religiosa(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Religioso</category>
+  </programme>
+  <programme start="20160112060000 -0600" stop="20160112063000 -0600" channel="Azteca 7">
+    <title lang="es">Inova</title>
+    <desc lang="es">Promoción y venta de productos por televisión(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160112063000 -0600" stop="20160112070000 -0600" channel="Azteca 7">
+    <title lang="es">Inova</title>
+    <desc lang="es">Promoción y venta de productos por televisión(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160112070000 -0600" stop="20160112073000 -0600" channel="Azteca 7">
+    <title lang="es">Inova</title>
+    <desc lang="es">Promoción y venta de productos por televisión(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160112073000 -0600" stop="20160112080000 -0600" channel="Azteca 7">
+    <title lang="es">Inova</title>
+    <desc lang="es">Promoción y venta de productos por televisión(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160112080000 -0600" stop="20160112083000 -0600" channel="Azteca 7">
+    <title lang="es">Inova</title>
+    <desc lang="es">Promoción y venta de productos por televisión(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160112083000 -0600" stop="20160112090000 -0600" channel="Azteca 7">
+    <title lang="es">Iglesia universal - varios</title>
+    <desc lang="es">Tiene por objetivo predicar el Evangelio a los seguidores de esta vertiente religiosa(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Religioso</category>
+  </programme>
+  <programme start="20160112090000 -0600" stop="20160112093000 -0600" channel="Azteca 7">
+    <title lang="es">Marcas de renombre</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160112093000 -0600" stop="20160112100000 -0600" channel="Azteca 7">
+    <title lang="es">Inova</title>
+    <desc lang="es">Promoción y venta de productos por televisión(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160112100000 -0600" stop="20160112103000 -0600" channel="Azteca 7">
+    <title lang="es">Inova</title>
+    <desc lang="es">Promoción y venta de productos por televisión(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160112103000 -0600" stop="20160112110000 -0600" channel="Azteca 7">
+    <title lang="es">Inova</title>
+    <desc lang="es">Promoción y venta de productos por televisión(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160112110000 -0600" stop="20160112113000 -0600" channel="Azteca 7">
+    <title lang="es">Inova</title>
+    <desc lang="es">Promoción y venta de productos por televisión(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160112113000 -0600" stop="20160112120000 -0600" channel="Azteca 7">
+    <title lang="es">Inova</title>
+    <desc lang="es">Promoción y venta de productos por televisión(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160112120000 -0600" stop="20160112123000 -0600" channel="Azteca 7">
+    <title lang="es">Marcas de renombre</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160112123000 -0600" stop="20160112130000 -0600" channel="Azteca 7">
+    <title lang="es">Avengers Assemble</title>
+    <desc lang="es">En esta serie animada de acción y aventuras, Los Vengadores unidos de Marvel, el grupo más famoso de superhéroes –Iron Man, Hulk, el Capitán América, Thor, Hawkeye y Black Widow-, junto con el recién llegado Falcon, se unen para luchar contra amenazas que un único héroe no podría resistir. Entrenándose y conviviendo en sus nuevos cuarteles centrales, la torre de los Vengadores, los héroes deberán superar sus diferencias y aprender a trabajar juntos para defender el planeta. Así se trate del Dr. Doom, que intenta conquistar Asgard; de Attuma liderando el Ejército Atlante hacia la ciudad de Nueva York o de Drácula desatando hordas de vampiros, los villanos más amenazantes del planeta no tienen oportunidad alguna cuando los Vengadores se unen(n)</desc>
+    <credits>
+      <actor>Fred Tatasciore</actor>
+      <actor>Adrian Pasdar</actor>
+      <actor>Roger Craig Smith</actor>
+      <actor>Jeff Allen</actor>
+    </credits>
+    <category lang="es">Infantiles</category>
+    <category lang="es">Aventura</category>
+  </programme>
+  <programme start="20160112130000 -0600" stop="20160112140000 -0600" channel="Azteca 7">
+    <title lang="es">A quien corresponda</title>
+    <desc lang="es">Único programa de la TV mexicana con denuncias sociales. "A quien corresponda" es el vínculo entre la ciudadanía y las autoridades, traspasando las fronteras de México y extendiéndose y apoyando a las comunidades latinas de Estados Unidos. Tomando la postura de mediador, el espacio conducido por Jorge Garralda se asegura que las peticiones o demandas ejercidas por el público sean atendidas por las personas indicadas, con el fin de que se pueda obtener una respuesta verídica y rápida(n)</desc>
+    <credits>
+      <actor>Jorge Garralda</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160112140000 -0600" stop="20160112150000 -0600" channel="Azteca 7">
+    <title lang="es">Deporte Caliente</title>
+    <desc lang="es">Luis García, ícono mexicano del fútbol, será el encargado de informarte de manera divertida y resumida todo lo que acontece en el mundo deportivo(n)</desc>
+    <credits>
+      <actor>Antonio Rosique</actor>
+      <actor>Luis García</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20160112150000 -0600" stop="20160112170000 -0600" channel="Azteca 7">
+    <title lang="es">film 7</title>
+    <desc lang="es">Ciclo de cine del canal Azteca 7(n)</desc>
+    <category lang="es">Ciclo</category>
+    <category lang="es">Película</category>
+  </programme>
+  <programme start="20160112170000 -0600" stop="20160112190000 -0600" channel="Azteca 7">
+    <title lang="es">film 7</title>
+    <desc lang="es">Ciclo de cine del canal Azteca 7(n)</desc>
+    <category lang="es">Ciclo</category>
+    <category lang="es">Película</category>
+  </programme>
+  <programme start="20160112190000 -0600" stop="20160112194500 -0600" channel="Azteca 7">
+    <title lang="es">Ay caramba</title>
+    <desc lang="es">Programa que recopila los videos caseros más graciosos del mundo. Caídas, golpes, perros inteligentes y bebes pícaros tendrán lugar en este espacio creado para divertirse(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160112194500 -0600" stop="20160112203000 -0600" channel="Azteca 7">
+    <title lang="es">Los Simpsons</title>
+    <desc lang="es">Los Simpson son una familia disfuncional que vive en Springfield; donde Homero trabaja como inspector en una planta de energía eléctrica y disfruta de su pasión por la cerveza, Marge es una madre trabajadora y dedicada a su hogar. Bart el pilluelo hijo mayor de 10 años, es un mal alumno y pequeño delincuente; en cambio su hermana Lisa, de 8, es una estudiante destacada. Finalmente Maggie, es solo una bebecita que ve todo lo que pasa mientras se entretiene con su chupón(n)</desc>
+    <credits>
+      <actor>Dan Castellaneta</actor>
+      <actor>Julie Kavner</actor>
+      <actor>Nancy Cartwright</actor>
+      <actor>Yeardley Smith</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Animación</category>
+  </programme>
+  <programme start="20160112203000 -0600" stop="20160112213000 -0600" channel="Azteca 7">
+    <title lang="es">American Ninja Warrior</title>
+    <desc lang="es">Cientos de concursantes aceptan el reto de llegar a ser un guerrero ninja pero, para conseguirlo, deberán pasar pruebas de agilidad, destreza, fuerza, coordinación y velocidad realmente extremas, en un circuito de pruebas físicas especialmente preparado para ello(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Reality Show</category>
+  </programme>
+  <programme start="20160112213000 -0600" stop="20160112223000 -0600" channel="Azteca 7">
+    <title lang="es">Scorpion</title>
+    <desc lang="es">Walter O'Brien es un genio excéntrico que, empeñado en detener todas las amenazas del mundo moderno, recluta un equipo de jóvenes brillantes en diferentes aptitudes para dicha labor. Entre ellos se encuentran Happy Quinn, un erudito de la mecánica, Toby Curtis, una persona capaz de descubrir a cualquier persona en base a su comportamiento y, por último, Sylvester Dodd, un experto en estadística(n)</desc>
+    <category lang="es">Series</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160112223000 -0600" stop="20160112233000 -0600" channel="Azteca 7">
+    <title lang="es">Mentes criminales</title>
+    <desc lang="es">La Unidad de Análisis Conductal es un grupo de élite del FBI que analiza las mentes criminales más peligrosas de la nación en un esfuerzo por anticipar posibles crímenes(n)</desc>
+    <credits>
+      <actor>Shemar Moore</actor>
+      <actor>A.J. Cook</actor>
+      <actor>Thomas Gibson</actor>
+      <actor>Matthew Gray Gubler</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160112233000 -0600" stop="20160113003000 -0600" channel="Azteca 7">
+    <title lang="es">Graceland</title>
+    <desc lang="es">Sigue a un grupo de agentes provenientes de la Drug Enforcement Agency (DEA), el FBI y las Aduanas de EE.UU., cuyos mundos colisionan mientras se ven obligados a vivir juntos en una casa secreta en la playa en el sur de California(n)</desc>
+    <credits>
+      <actor>Vanessa Ferlito</actor>
+      <actor>Daniel Sunjata</actor>
+      <actor>Aaron Tveit</actor>
+      <actor>Jeff Eastin</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Acción</category>
+  </programme>
+  <programme start="20160113003000 -0600" stop="20160113010000 -0600" channel="Azteca 7">
+    <title lang="es">New Girl</title>
+    <desc lang="es">Una fresca y descarada mirada a las relaciones modernas entre hombres y mujeres. Se centra en una profesora de educación primaria optimista, pero desagraciada en asuntos del amor, que después de una reciente ruptura sentimental decide irse a vivir con tres chicos jóvenes. Mientras sus relaciones progresan, estos nuevos amigos empezarán a darse cuenta de que se necesitan los unos a los otros más de lo que pensaban y terminan formando una encantadora, pero disfuncional familia(n)</desc>
+    <credits>
+      <actor>Zooey Deschanel</actor>
+      <actor>Max Greenfield</actor>
+      <actor>Jake Kasdan</actor>
+      <actor>Jake Johnson</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160113010000 -0600" stop="20160113013000 -0600" channel="Azteca 7">
+    <title lang="es">Marcas de renombre</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160113013000 -0600" stop="20160113020000 -0600" channel="Azteca 7">
+    <title lang="es">Inova</title>
+    <desc lang="es">Promoción y venta de productos por televisión(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160113020000 -0600" stop="20160113023000 -0600" channel="Azteca 7">
+    <title lang="es">Inova</title>
+    <desc lang="es">Promoción y venta de productos por televisión(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160113023000 -0600" stop="20160113030000 -0600" channel="Azteca 7">
+    <title lang="es">Marcas de renombre</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160113030000 -0600" stop="20160113033000 -0600" channel="Azteca 7">
+    <title lang="es">Marcas de renombre</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160113033000 -0600" stop="20160113040000 -0600" channel="Azteca 7">
+    <title lang="es">Marcas de renombre</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160113040000 -0600" stop="20160113043000 -0600" channel="Azteca 7">
+    <title lang="es">Marcas de renombre</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160113043000 -0600" stop="20160113050000 -0600" channel="Azteca 7">
+    <title lang="es">Marcas de renombre</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160113050000 -0600" stop="20160113051500 -0600" channel="Azteca 7">
+    <title lang="es">Barras de ajuste</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160113051500 -0600" stop="20160113053000 -0600" channel="Azteca 7">
+    <title lang="es">Rtc</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160113053000 -0600" stop="20160113060000 -0600" channel="Azteca 7">
+    <title lang="es">Iglesia universal - varios</title>
+    <desc lang="es">Tiene por objetivo predicar el Evangelio a los seguidores de esta vertiente religiosa(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Religioso</category>
+  </programme>
+  <programme start="20160113060000 -0600" stop="20160113063000 -0600" channel="Azteca 7">
+    <title lang="es">Inova</title>
+    <desc lang="es">Promoción y venta de productos por televisión(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160113063000 -0600" stop="20160113070000 -0600" channel="Azteca 7">
+    <title lang="es">Inova</title>
+    <desc lang="es">Promoción y venta de productos por televisión(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160113070000 -0600" stop="20160113073000 -0600" channel="Azteca 7">
+    <title lang="es">Inova</title>
+    <desc lang="es">Promoción y venta de productos por televisión(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160113073000 -0600" stop="20160113080000 -0600" channel="Azteca 7">
+    <title lang="es">Inova</title>
+    <desc lang="es">Promoción y venta de productos por televisión(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160113080000 -0600" stop="20160113083000 -0600" channel="Azteca 7">
+    <title lang="es">Inova</title>
+    <desc lang="es">Promoción y venta de productos por televisión(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160113083000 -0600" stop="20160113090000 -0600" channel="Azteca 7">
+    <title lang="es">Iglesia universal - varios</title>
+    <desc lang="es">Tiene por objetivo predicar el Evangelio a los seguidores de esta vertiente religiosa(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Religioso</category>
+  </programme>
+  <programme start="20160113090000 -0600" stop="20160113093000 -0600" channel="Azteca 7">
+    <title lang="es">Marcas de renombre</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160113093000 -0600" stop="20160113100000 -0600" channel="Azteca 7">
+    <title lang="es">Inova</title>
+    <desc lang="es">Promoción y venta de productos por televisión(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160113100000 -0600" stop="20160113103000 -0600" channel="Azteca 7">
+    <title lang="es">Inova</title>
+    <desc lang="es">Promoción y venta de productos por televisión(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160113103000 -0600" stop="20160113110000 -0600" channel="Azteca 7">
+    <title lang="es">Inova</title>
+    <desc lang="es">Promoción y venta de productos por televisión(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160113110000 -0600" stop="20160113113000 -0600" channel="Azteca 7">
+    <title lang="es">Inova</title>
+    <desc lang="es">Promoción y venta de productos por televisión(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160113113000 -0600" stop="20160113120000 -0600" channel="Azteca 7">
+    <title lang="es">Inova</title>
+    <desc lang="es">Promoción y venta de productos por televisión(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160113120000 -0600" stop="20160113123000 -0600" channel="Azteca 7">
+    <title lang="es">Marcas de renombre</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160113123000 -0600" stop="20160113130000 -0600" channel="Azteca 7">
+    <title lang="es">Avengers Assemble</title>
+    <desc lang="es">En esta serie animada de acción y aventuras, Los Vengadores unidos de Marvel, el grupo más famoso de superhéroes –Iron Man, Hulk, el Capitán América, Thor, Hawkeye y Black Widow-, junto con el recién llegado Falcon, se unen para luchar contra amenazas que un único héroe no podría resistir. Entrenándose y conviviendo en sus nuevos cuarteles centrales, la torre de los Vengadores, los héroes deberán superar sus diferencias y aprender a trabajar juntos para defender el planeta. Así se trate del Dr. Doom, que intenta conquistar Asgard; de Attuma liderando el Ejército Atlante hacia la ciudad de Nueva York o de Drácula desatando hordas de vampiros, los villanos más amenazantes del planeta no tienen oportunidad alguna cuando los Vengadores se unen(n)</desc>
+    <credits>
+      <actor>Fred Tatasciore</actor>
+      <actor>Adrian Pasdar</actor>
+      <actor>Roger Craig Smith</actor>
+      <actor>Jeff Allen</actor>
+    </credits>
+    <category lang="es">Infantiles</category>
+    <category lang="es">Aventura</category>
+  </programme>
+  <programme start="20160113130000 -0600" stop="20160113140000 -0600" channel="Azteca 7">
+    <title lang="es">A quien corresponda</title>
+    <desc lang="es">Único programa de la TV mexicana con denuncias sociales. "A quien corresponda" es el vínculo entre la ciudadanía y las autoridades, traspasando las fronteras de México y extendiéndose y apoyando a las comunidades latinas de Estados Unidos. Tomando la postura de mediador, el espacio conducido por Jorge Garralda se asegura que las peticiones o demandas ejercidas por el público sean atendidas por las personas indicadas, con el fin de que se pueda obtener una respuesta verídica y rápida(n)</desc>
+    <credits>
+      <actor>Jorge Garralda</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160113140000 -0600" stop="20160113150000 -0600" channel="Azteca 7">
+    <title lang="es">Deporte Caliente</title>
+    <desc lang="es">Luis García, ícono mexicano del fútbol, será el encargado de informarte de manera divertida y resumida todo lo que acontece en el mundo deportivo(n)</desc>
+    <credits>
+      <actor>Antonio Rosique</actor>
+      <actor>Luis García</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20160113150000 -0600" stop="20160113170000 -0600" channel="Azteca 7">
+    <title lang="es">film 7</title>
+    <desc lang="es">Ciclo de cine del canal Azteca 7(n)</desc>
+    <category lang="es">Ciclo</category>
+    <category lang="es">Película</category>
+  </programme>
+  <programme start="20160113170000 -0600" stop="20160113190000 -0600" channel="Azteca 7">
+    <title lang="es">film 7</title>
+    <desc lang="es">Ciclo de cine del canal Azteca 7(n)</desc>
+    <category lang="es">Ciclo</category>
+    <category lang="es">Película</category>
+  </programme>
+  <programme start="20160113190000 -0600" stop="20160113194500 -0600" channel="Azteca 7">
+    <title lang="es">Ay caramba</title>
+    <desc lang="es">Programa que recopila los videos caseros más graciosos del mundo. Caídas, golpes, perros inteligentes y bebes pícaros tendrán lugar en este espacio creado para divertirse(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160113194500 -0600" stop="20160113203000 -0600" channel="Azteca 7">
+    <title lang="es">Los Simpsons</title>
+    <desc lang="es">Los Simpson son una familia disfuncional que vive en Springfield; donde Homero trabaja como inspector en una planta de energía eléctrica y disfruta de su pasión por la cerveza, Marge es una madre trabajadora y dedicada a su hogar. Bart el pilluelo hijo mayor de 10 años, es un mal alumno y pequeño delincuente; en cambio su hermana Lisa, de 8, es una estudiante destacada. Finalmente Maggie, es solo una bebecita que ve todo lo que pasa mientras se entretiene con su chupón(n)</desc>
+    <credits>
+      <actor>Dan Castellaneta</actor>
+      <actor>Julie Kavner</actor>
+      <actor>Nancy Cartwright</actor>
+      <actor>Yeardley Smith</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Animación</category>
+  </programme>
+  <programme start="20160113203000 -0600" stop="20160113213000 -0600" channel="Azteca 7">
+    <title lang="es">American Ninja Warrior</title>
+    <desc lang="es">Cientos de concursantes aceptan el reto de llegar a ser un guerrero ninja pero, para conseguirlo, deberán pasar pruebas de agilidad, destreza, fuerza, coordinación y velocidad realmente extremas, en un circuito de pruebas físicas especialmente preparado para ello(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Reality Show</category>
+  </programme>
+  <programme start="20160113213000 -0600" stop="20160113223000 -0600" channel="Azteca 7">
+    <title lang="es">Scorpion</title>
+    <desc lang="es">Walter O'Brien es un genio excéntrico que, empeñado en detener todas las amenazas del mundo moderno, recluta un equipo de jóvenes brillantes en diferentes aptitudes para dicha labor. Entre ellos se encuentran Happy Quinn, un erudito de la mecánica, Toby Curtis, una persona capaz de descubrir a cualquier persona en base a su comportamiento y, por último, Sylvester Dodd, un experto en estadística(n)</desc>
+    <category lang="es">Series</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160113223000 -0600" stop="20160113233000 -0600" channel="Azteca 7">
+    <title lang="es">Mentes criminales</title>
+    <desc lang="es">La Unidad de Análisis Conductal es un grupo de élite del FBI que analiza las mentes criminales más peligrosas de la nación en un esfuerzo por anticipar posibles crímenes(n)</desc>
+    <credits>
+      <actor>Shemar Moore</actor>
+      <actor>A.J. Cook</actor>
+      <actor>Thomas Gibson</actor>
+      <actor>Matthew Gray Gubler</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160113233000 -0600" stop="20160114003000 -0600" channel="Azteca 7">
+    <title lang="es">Graceland</title>
+    <desc lang="es">Sigue a un grupo de agentes provenientes de la Drug Enforcement Agency (DEA), el FBI y las Aduanas de EE.UU., cuyos mundos colisionan mientras se ven obligados a vivir juntos en una casa secreta en la playa en el sur de California(n)</desc>
+    <credits>
+      <actor>Vanessa Ferlito</actor>
+      <actor>Daniel Sunjata</actor>
+      <actor>Aaron Tveit</actor>
+      <actor>Jeff Eastin</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Acción</category>
+  </programme>
+  <programme start="20160114003000 -0600" stop="20160114010000 -0600" channel="Azteca 7">
+    <title lang="es">New Girl</title>
+    <desc lang="es">Una fresca y descarada mirada a las relaciones modernas entre hombres y mujeres. Se centra en una profesora de educación primaria optimista, pero desagraciada en asuntos del amor, que después de una reciente ruptura sentimental decide irse a vivir con tres chicos jóvenes. Mientras sus relaciones progresan, estos nuevos amigos empezarán a darse cuenta de que se necesitan los unos a los otros más de lo que pensaban y terminan formando una encantadora, pero disfuncional familia(n)</desc>
+    <credits>
+      <actor>Zooey Deschanel</actor>
+      <actor>Max Greenfield</actor>
+      <actor>Jake Kasdan</actor>
+      <actor>Jake Johnson</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160114010000 -0600" stop="20160114013000 -0600" channel="Azteca 7">
+    <title lang="es">Marcas de renombre</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160114013000 -0600" stop="20160114020000 -0600" channel="Azteca 7">
+    <title lang="es">Inova</title>
+    <desc lang="es">Promoción y venta de productos por televisión(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160114020000 -0600" stop="20160114023000 -0600" channel="Azteca 7">
+    <title lang="es">Inova</title>
+    <desc lang="es">Promoción y venta de productos por televisión(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160114023000 -0600" stop="20160114030000 -0600" channel="Azteca 7">
+    <title lang="es">Marcas de renombre</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160114030000 -0600" stop="20160114033000 -0600" channel="Azteca 7">
+    <title lang="es">Marcas de renombre</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160114033000 -0600" stop="20160114040000 -0600" channel="Azteca 7">
+    <title lang="es">Marcas de renombre</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160114040000 -0600" stop="20160114043000 -0600" channel="Azteca 7">
+    <title lang="es">Marcas de renombre</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160114043000 -0600" stop="20160114050000 -0600" channel="Azteca 7">
+    <title lang="es">Marcas de renombre</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160114050000 -0600" stop="20160114051500 -0600" channel="Azteca 7">
+    <title lang="es">Barras de ajuste</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160114051500 -0600" stop="20160114053000 -0600" channel="Azteca 7">
+    <title lang="es">Rtc</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160114053000 -0600" stop="20160114060000 -0600" channel="Azteca 7">
+    <title lang="es">Iglesia universal - varios</title>
+    <desc lang="es">Tiene por objetivo predicar el Evangelio a los seguidores de esta vertiente religiosa(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Religioso</category>
+  </programme>
+  <programme start="20160114060000 -0600" stop="20160114063000 -0600" channel="Azteca 7">
+    <title lang="es">Inova</title>
+    <desc lang="es">Promoción y venta de productos por televisión(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160114063000 -0600" stop="20160114070000 -0600" channel="Azteca 7">
+    <title lang="es">Inova</title>
+    <desc lang="es">Promoción y venta de productos por televisión(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160114070000 -0600" stop="20160114073000 -0600" channel="Azteca 7">
+    <title lang="es">Inova</title>
+    <desc lang="es">Promoción y venta de productos por televisión(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160114073000 -0600" stop="20160114080000 -0600" channel="Azteca 7">
+    <title lang="es">Inova</title>
+    <desc lang="es">Promoción y venta de productos por televisión(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160114080000 -0600" stop="20160114083000 -0600" channel="Azteca 7">
+    <title lang="es">Inova</title>
+    <desc lang="es">Promoción y venta de productos por televisión(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160114083000 -0600" stop="20160114090000 -0600" channel="Azteca 7">
+    <title lang="es">Iglesia universal - varios</title>
+    <desc lang="es">Tiene por objetivo predicar el Evangelio a los seguidores de esta vertiente religiosa(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Religioso</category>
+  </programme>
+  <programme start="20160114090000 -0600" stop="20160114093000 -0600" channel="Azteca 7">
+    <title lang="es">Marcas de renombre</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160114093000 -0600" stop="20160114100000 -0600" channel="Azteca 7">
+    <title lang="es">Inova</title>
+    <desc lang="es">Promoción y venta de productos por televisión(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160114100000 -0600" stop="20160114103000 -0600" channel="Azteca 7">
+    <title lang="es">Inova</title>
+    <desc lang="es">Promoción y venta de productos por televisión(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160114103000 -0600" stop="20160114110000 -0600" channel="Azteca 7">
+    <title lang="es">Inova</title>
+    <desc lang="es">Promoción y venta de productos por televisión(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160114110000 -0600" stop="20160114113000 -0600" channel="Azteca 7">
+    <title lang="es">Inova</title>
+    <desc lang="es">Promoción y venta de productos por televisión(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160114113000 -0600" stop="20160114120000 -0600" channel="Azteca 7">
+    <title lang="es">Inova</title>
+    <desc lang="es">Promoción y venta de productos por televisión(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160114120000 -0600" stop="20160114123000 -0600" channel="Azteca 7">
+    <title lang="es">Marcas de renombre</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160114123000 -0600" stop="20160114130000 -0600" channel="Azteca 7">
+    <title lang="es">Avengers Assemble</title>
+    <desc lang="es">En esta serie animada de acción y aventuras, Los Vengadores unidos de Marvel, el grupo más famoso de superhéroes –Iron Man, Hulk, el Capitán América, Thor, Hawkeye y Black Widow-, junto con el recién llegado Falcon, se unen para luchar contra amenazas que un único héroe no podría resistir. Entrenándose y conviviendo en sus nuevos cuarteles centrales, la torre de los Vengadores, los héroes deberán superar sus diferencias y aprender a trabajar juntos para defender el planeta. Así se trate del Dr. Doom, que intenta conquistar Asgard; de Attuma liderando el Ejército Atlante hacia la ciudad de Nueva York o de Drácula desatando hordas de vampiros, los villanos más amenazantes del planeta no tienen oportunidad alguna cuando los Vengadores se unen(n)</desc>
+    <credits>
+      <actor>Fred Tatasciore</actor>
+      <actor>Adrian Pasdar</actor>
+      <actor>Roger Craig Smith</actor>
+      <actor>Jeff Allen</actor>
+    </credits>
+    <category lang="es">Infantiles</category>
+    <category lang="es">Aventura</category>
+  </programme>
+  <programme start="20160114130000 -0600" stop="20160114140000 -0600" channel="Azteca 7">
+    <title lang="es">A quien corresponda</title>
+    <desc lang="es">Único programa de la TV mexicana con denuncias sociales. "A quien corresponda" es el vínculo entre la ciudadanía y las autoridades, traspasando las fronteras de México y extendiéndose y apoyando a las comunidades latinas de Estados Unidos. Tomando la postura de mediador, el espacio conducido por Jorge Garralda se asegura que las peticiones o demandas ejercidas por el público sean atendidas por las personas indicadas, con el fin de que se pueda obtener una respuesta verídica y rápida(n)</desc>
+    <credits>
+      <actor>Jorge Garralda</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160114140000 -0600" stop="20160114150000 -0600" channel="Azteca 7">
+    <title lang="es">Deporte Caliente</title>
+    <desc lang="es">Luis García, ícono mexicano del fútbol, será el encargado de informarte de manera divertida y resumida todo lo que acontece en el mundo deportivo(n)</desc>
+    <credits>
+      <actor>Antonio Rosique</actor>
+      <actor>Luis García</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20160114150000 -0600" stop="20160114170000 -0600" channel="Azteca 7">
+    <title lang="es">film 7</title>
+    <desc lang="es">Ciclo de cine del canal Azteca 7(n)</desc>
+    <category lang="es">Ciclo</category>
+    <category lang="es">Película</category>
+  </programme>
+  <programme start="20160114170000 -0600" stop="20160114190000 -0600" channel="Azteca 7">
+    <title lang="es">film 7</title>
+    <desc lang="es">Ciclo de cine del canal Azteca 7(n)</desc>
+    <category lang="es">Ciclo</category>
+    <category lang="es">Película</category>
+  </programme>
+  <programme start="20160114190000 -0600" stop="20160114194500 -0600" channel="Azteca 7">
+    <title lang="es">Ay caramba</title>
+    <desc lang="es">Programa que recopila los videos caseros más graciosos del mundo. Caídas, golpes, perros inteligentes y bebes pícaros tendrán lugar en este espacio creado para divertirse(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160114194500 -0600" stop="20160114203000 -0600" channel="Azteca 7">
+    <title lang="es">Los Simpsons</title>
+    <desc lang="es">Los Simpson son una familia disfuncional que vive en Springfield; donde Homero trabaja como inspector en una planta de energía eléctrica y disfruta de su pasión por la cerveza, Marge es una madre trabajadora y dedicada a su hogar. Bart el pilluelo hijo mayor de 10 años, es un mal alumno y pequeño delincuente; en cambio su hermana Lisa, de 8, es una estudiante destacada. Finalmente Maggie, es solo una bebecita que ve todo lo que pasa mientras se entretiene con su chupón(n)</desc>
+    <credits>
+      <actor>Dan Castellaneta</actor>
+      <actor>Julie Kavner</actor>
+      <actor>Nancy Cartwright</actor>
+      <actor>Yeardley Smith</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Animación</category>
+  </programme>
+  <programme start="20160114203000 -0600" stop="20160114213000 -0600" channel="Azteca 7">
+    <title lang="es">American Ninja Warrior</title>
+    <desc lang="es">Cientos de concursantes aceptan el reto de llegar a ser un guerrero ninja pero, para conseguirlo, deberán pasar pruebas de agilidad, destreza, fuerza, coordinación y velocidad realmente extremas, en un circuito de pruebas físicas especialmente preparado para ello(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Reality Show</category>
+  </programme>
+  <programme start="20160114213000 -0600" stop="20160114223000 -0600" channel="Azteca 7">
+    <title lang="es">Scorpion</title>
+    <desc lang="es">Walter O'Brien es un genio excéntrico que, empeñado en detener todas las amenazas del mundo moderno, recluta un equipo de jóvenes brillantes en diferentes aptitudes para dicha labor. Entre ellos se encuentran Happy Quinn, un erudito de la mecánica, Toby Curtis, una persona capaz de descubrir a cualquier persona en base a su comportamiento y, por último, Sylvester Dodd, un experto en estadística(n)</desc>
+    <category lang="es">Series</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160114223000 -0600" stop="20160114233000 -0600" channel="Azteca 7">
+    <title lang="es">Mentes criminales</title>
+    <desc lang="es">La Unidad de Análisis Conductal es un grupo de élite del FBI que analiza las mentes criminales más peligrosas de la nación en un esfuerzo por anticipar posibles crímenes(n)</desc>
+    <credits>
+      <actor>Shemar Moore</actor>
+      <actor>A.J. Cook</actor>
+      <actor>Thomas Gibson</actor>
+      <actor>Matthew Gray Gubler</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160114233000 -0600" stop="20160115003000 -0600" channel="Azteca 7">
+    <title lang="es">Graceland</title>
+    <desc lang="es">Sigue a un grupo de agentes provenientes de la Drug Enforcement Agency (DEA), el FBI y las Aduanas de EE.UU., cuyos mundos colisionan mientras se ven obligados a vivir juntos en una casa secreta en la playa en el sur de California(n)</desc>
+    <credits>
+      <actor>Vanessa Ferlito</actor>
+      <actor>Daniel Sunjata</actor>
+      <actor>Aaron Tveit</actor>
+      <actor>Jeff Eastin</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Acción</category>
+  </programme>
+  <programme start="20160115003000 -0600" stop="20160115010000 -0600" channel="Azteca 7">
+    <title lang="es">New Girl</title>
+    <desc lang="es">Una fresca y descarada mirada a las relaciones modernas entre hombres y mujeres. Se centra en una profesora de educación primaria optimista, pero desagraciada en asuntos del amor, que después de una reciente ruptura sentimental decide irse a vivir con tres chicos jóvenes. Mientras sus relaciones progresan, estos nuevos amigos empezarán a darse cuenta de que se necesitan los unos a los otros más de lo que pensaban y terminan formando una encantadora, pero disfuncional familia(n)</desc>
+    <credits>
+      <actor>Zooey Deschanel</actor>
+      <actor>Max Greenfield</actor>
+      <actor>Jake Kasdan</actor>
+      <actor>Jake Johnson</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160115010000 -0600" stop="20160115013000 -0600" channel="Azteca 7">
+    <title lang="es">Farmacias de similares</title>
+    <desc lang="es">Venta y publicidad de Farmacias Similares(n)</desc>
+    <category lang="es">Venta y Publicidad</category>
+    <category lang="es">Publicidad</category>
+  </programme>
+  <programme start="20160115013000 -0600" stop="20160115020000 -0600" channel="Azteca 7">
+    <title lang="es">Inova</title>
+    <desc lang="es">Promoción y venta de productos por televisión(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160115020000 -0600" stop="20160115023000 -0600" channel="Azteca 7">
+    <title lang="es">Inova</title>
+    <desc lang="es">Promoción y venta de productos por televisión(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160115023000 -0600" stop="20160115030000 -0600" channel="Azteca 7">
+    <title lang="es">Marcas de renombre</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160115030000 -0600" stop="20160115033000 -0600" channel="Azteca 7">
+    <title lang="es">Marcas de renombre</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160115033000 -0600" stop="20160115040000 -0600" channel="Azteca 7">
+    <title lang="es">Marcas de renombre</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160115040000 -0600" stop="20160115043000 -0600" channel="Azteca 7">
+    <title lang="es">Marcas de renombre</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160115043000 -0600" stop="20160115050000 -0600" channel="Azteca 7">
+    <title lang="es">Marcas de renombre</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160115050000 -0600" stop="20160115051500 -0600" channel="Azteca 7">
+    <title lang="es">Barras de ajuste</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160115051500 -0600" stop="20160115053000 -0600" channel="Azteca 7">
+    <title lang="es">Rtc</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160115053000 -0600" stop="20160115060000 -0600" channel="Azteca 7">
+    <title lang="es">Iglesia universal - varios</title>
+    <desc lang="es">Tiene por objetivo predicar el Evangelio a los seguidores de esta vertiente religiosa(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Religioso</category>
+  </programme>
+  <programme start="20160115060000 -0600" stop="20160115063000 -0600" channel="Azteca 7">
+    <title lang="es">Inova</title>
+    <desc lang="es">Promoción y venta de productos por televisión(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160115063000 -0600" stop="20160115070000 -0600" channel="Azteca 7">
+    <title lang="es">Inova</title>
+    <desc lang="es">Promoción y venta de productos por televisión(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160115070000 -0600" stop="20160115073000 -0600" channel="Azteca 7">
+    <title lang="es">Inova</title>
+    <desc lang="es">Promoción y venta de productos por televisión(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160115073000 -0600" stop="20160115080000 -0600" channel="Azteca 7">
+    <title lang="es">Inova</title>
+    <desc lang="es">Promoción y venta de productos por televisión(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160115080000 -0600" stop="20160115083000 -0600" channel="Azteca 7">
+    <title lang="es">Inova</title>
+    <desc lang="es">Promoción y venta de productos por televisión(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160115083000 -0600" stop="20160115090000 -0600" channel="Azteca 7">
+    <title lang="es">Iglesia universal - varios</title>
+    <desc lang="es">Tiene por objetivo predicar el Evangelio a los seguidores de esta vertiente religiosa(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Religioso</category>
+  </programme>
+  <programme start="20160115090000 -0600" stop="20160115093000 -0600" channel="Azteca 7">
+    <title lang="es">Marcas de renombre</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160115093000 -0600" stop="20160115100000 -0600" channel="Azteca 7">
+    <title lang="es">Inova</title>
+    <desc lang="es">Promoción y venta de productos por televisión(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160115100000 -0600" stop="20160115103000 -0600" channel="Azteca 7">
+    <title lang="es">Inova</title>
+    <desc lang="es">Promoción y venta de productos por televisión(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160115103000 -0600" stop="20160115110000 -0600" channel="Azteca 7">
+    <title lang="es">Inova</title>
+    <desc lang="es">Promoción y venta de productos por televisión(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160115110000 -0600" stop="20160115113000 -0600" channel="Azteca 7">
+    <title lang="es">Inova</title>
+    <desc lang="es">Promoción y venta de productos por televisión(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160115113000 -0600" stop="20160115120000 -0600" channel="Azteca 7">
+    <title lang="es">Inova</title>
+    <desc lang="es">Promoción y venta de productos por televisión(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160115120000 -0600" stop="20160115123000 -0600" channel="Azteca 7">
+    <title lang="es">Marcas de renombre</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160115123000 -0600" stop="20160115130000 -0600" channel="Azteca 7">
+    <title lang="es">Avengers Assemble</title>
+    <desc lang="es">En esta serie animada de acción y aventuras, Los Vengadores unidos de Marvel, el grupo más famoso de superhéroes –Iron Man, Hulk, el Capitán América, Thor, Hawkeye y Black Widow-, junto con el recién llegado Falcon, se unen para luchar contra amenazas que un único héroe no podría resistir. Entrenándose y conviviendo en sus nuevos cuarteles centrales, la torre de los Vengadores, los héroes deberán superar sus diferencias y aprender a trabajar juntos para defender el planeta. Así se trate del Dr. Doom, que intenta conquistar Asgard; de Attuma liderando el Ejército Atlante hacia la ciudad de Nueva York o de Drácula desatando hordas de vampiros, los villanos más amenazantes del planeta no tienen oportunidad alguna cuando los Vengadores se unen(n)</desc>
+    <credits>
+      <actor>Fred Tatasciore</actor>
+      <actor>Adrian Pasdar</actor>
+      <actor>Roger Craig Smith</actor>
+      <actor>Jeff Allen</actor>
+    </credits>
+    <category lang="es">Infantiles</category>
+    <category lang="es">Aventura</category>
+  </programme>
+  <programme start="20160115130000 -0600" stop="20160115140000 -0600" channel="Azteca 7">
+    <title lang="es">A quien corresponda</title>
+    <desc lang="es">Único programa de la TV mexicana con denuncias sociales. "A quien corresponda" es el vínculo entre la ciudadanía y las autoridades, traspasando las fronteras de México y extendiéndose y apoyando a las comunidades latinas de Estados Unidos. Tomando la postura de mediador, el espacio conducido por Jorge Garralda se asegura que las peticiones o demandas ejercidas por el público sean atendidas por las personas indicadas, con el fin de que se pueda obtener una respuesta verídica y rápida(n)</desc>
+    <credits>
+      <actor>Jorge Garralda</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160115140000 -0600" stop="20160115150000 -0600" channel="Azteca 7">
+    <title lang="es">Deporte Caliente</title>
+    <desc lang="es">Luis García, ícono mexicano del fútbol, será el encargado de informarte de manera divertida y resumida todo lo que acontece en el mundo deportivo(n)</desc>
+    <credits>
+      <actor>Antonio Rosique</actor>
+      <actor>Luis García</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20160115150000 -0600" stop="20160115171500 -0600" channel="Azteca 7">
+    <title lang="es">Película</title>
+    <category lang="es">Ciclo</category>
+    <category lang="es">Película</category>
+  </programme>
+  <programme start="20160115171500 -0600" stop="20160115191500 -0600" channel="Azteca 7">
+    <title lang="es">Película</title>
+    <category lang="es">Ciclo</category>
+    <category lang="es">Película</category>
+  </programme>
+  <programme start="20160115191500 -0600" stop="20160115213000 -0600" channel="Azteca 7">
+    <title lang="es">Liga MX</title>
+    <desc lang="es">La Liga MX es el torneo de fútbol profesional más importante de México y el más dominante del área de la Concacaf. En ella compiten 18 equipos acumulando puntos a lo largo de 17 jornadas para clasificar a la "Liguilla". Los ocho clubes con mejor puntuación en la tabla son los que lo logran(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20160115213000 -0600" stop="20160115233000 -0600" channel="Azteca 7">
+    <title lang="es">Liga MX</title>
+    <desc lang="es">La Liga MX es el torneo de fútbol profesional más importante de México y el más dominante del área de la Concacaf. En ella compiten 18 equipos acumulando puntos a lo largo de 17 jornadas para clasificar a la "Liguilla". Los ocho clubes con mejor puntuación en la tabla son los que lo logran(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20160115233000 -0600" stop="20160116003000 -0600" channel="Azteca 7">
+    <title lang="es">Marcaje personal</title>
+    <desc lang="es">Programa con toda la actualidad del fútbol y de todo el deporte mexicano e internacional, con una experimentada mesa de debate(n)</desc>
+    <credits>
+      <actor>David Medrano</actor>
+      <actor>Pablo Latapi</actor>
+      <actor>Alfredo Domínguez Muro</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160116003000 -0600" stop="20160116010000 -0600" channel="Azteca 7">
+    <title lang="es">New Girl</title>
+    <desc lang="es">Una fresca y descarada mirada a las relaciones modernas entre hombres y mujeres. Se centra en una profesora de educación primaria optimista, pero desagraciada en asuntos del amor, que después de una reciente ruptura sentimental decide irse a vivir con tres chicos jóvenes. Mientras sus relaciones progresan, estos nuevos amigos empezarán a darse cuenta de que se necesitan los unos a los otros más de lo que pensaban y terminan formando una encantadora, pero disfuncional familia(n)</desc>
+    <credits>
+      <actor>Zooey Deschanel</actor>
+      <actor>Max Greenfield</actor>
+      <actor>Jake Kasdan</actor>
+      <actor>Jake Johnson</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160116010000 -0600" stop="20160116020000 -0600" channel="Azteca 7">
+    <title lang="es">Marca y gana</title>
+    <desc lang="es">Programa de juegos, en el que los televidentes llaman y resuelven consignas, para obtener dinero a cambio como premio(n)</desc>
+    <credits>
+      <actor>Ofelia Somoza</actor>
+      <actor>Katia Pinzon</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160116020000 -0600" stop="20160116023000 -0600" channel="Azteca 7">
+    <title lang="es">Inova</title>
+    <desc lang="es">Promoción y venta de productos por televisión(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160116023000 -0600" stop="20160116030000 -0600" channel="Azteca 7">
+    <title lang="es">Inova</title>
+    <desc lang="es">Promoción y venta de productos por televisión(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160116030000 -0600" stop="20160116033000 -0600" channel="Azteca 7">
+    <title lang="es">Inova</title>
+    <desc lang="es">Promoción y venta de productos por televisión(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160116033000 -0600" stop="20160116040000 -0600" channel="Azteca 7">
+    <title lang="es">Inova</title>
+    <desc lang="es">Promoción y venta de productos por televisión(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160116040000 -0600" stop="20160116043000 -0600" channel="Azteca 7">
+    <title lang="es">Inova</title>
+    <desc lang="es">Promoción y venta de productos por televisión(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160116043000 -0600" stop="20160116050000 -0600" channel="Azteca 7">
+    <title lang="es">Inova</title>
+    <desc lang="es">Promoción y venta de productos por televisión(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160116050000 -0600" stop="20160116051500 -0600" channel="Azteca 7">
+    <title lang="es">Barras de ajuste</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160116051500 -0600" stop="20160116053000 -0600" channel="Azteca 7">
+    <title lang="es">Rtc</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160116053000 -0600" stop="20160116060000 -0600" channel="Azteca 7">
+    <title lang="es">Iglesia universal - varios</title>
+    <desc lang="es">Tiene por objetivo predicar el Evangelio a los seguidores de esta vertiente religiosa(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Religioso</category>
+  </programme>
+  <programme start="20160116060000 -0600" stop="20160116063000 -0600" channel="Azteca 7">
+    <title lang="es">Inova</title>
+    <desc lang="es">Promoción y venta de productos por televisión(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160116063000 -0600" stop="20160116070000 -0600" channel="Azteca 7">
+    <title lang="es">Inova</title>
+    <desc lang="es">Promoción y venta de productos por televisión(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160116070000 -0600" stop="20160116083000 -0600" channel="Azteca 7">
+    <title lang="es">Phineas y Ferb</title>
+    <desc lang="es">Como cualquier niño, Phineas y Ferb aman sus vacaciones de verano, por ello disfrutarán cada día antes de que estas terminen viviendo grandes aventuras. Candance, su hermana mayor, tratará de acusarlos con su mamá, ¿lo logrará o terminará uniéndose a las aventuras de este fabuloso par?(n)</desc>
+    <credits>
+      <actor>Vincent Martella</actor>
+      <actor>Thomas Sangster</actor>
+      <actor>Ashley Tisdale</actor>
+      <actor>Dee Bradley Baker</actor>
+    </credits>
+    <category lang="es">Infantiles</category>
+    <category lang="es">Animación</category>
+  </programme>
+  <programme start="20160116083000 -0600" stop="20160116100000 -0600" channel="Azteca 7">
+    <title lang="es">Gravity Falls: un verano de misterios</title>
+    <desc lang="es">Los mellizos Dipper y Mabel Pines se encuentran en medio de una inesperada aventura cuando pasan el verano con su tío abuelo en el misterioso pueblo de Gravity Falls, Oregón(n)</desc>
+    <credits>
+      <actor>Jason Ritter</actor>
+      <actor>Linda Cardellini</actor>
+      <actor>Kristen Schaal</actor>
+      <actor>John Aoshima</actor>
+    </credits>
+    <category lang="es">Infantiles</category>
+    <category lang="es">Animación</category>
+  </programme>
+  <programme start="20160116100000 -0600" stop="20160116100000 -0600" channel="Azteca 7">
+    <title lang="es">Sábado Apantallante</title>
+    <desc lang="es">Ciclo de películas de Tv Azteca(n)</desc>
+    <category lang="es">Ciclo</category>
+    <category lang="es">Película</category>
+  </programme>
+  <programme start="20160116100000 -0600" stop="20160116153500 -0600" channel="Azteca 7">
+    <title lang="es">Sábado Apantallante</title>
+    <desc lang="es">Ciclo de películas de Tv Azteca(n)</desc>
+    <category lang="es">Ciclo</category>
+    <category lang="es">Película</category>
+  </programme>
+  <programme start="20160116153500 -0600" stop="20160116184500 -0600" channel="Azteca 7">
+    <title lang="es">NFL: Playoffs</title>
+    <category lang="es">Deportes</category>
+    <category lang="es">Football Americano</category>
+  </programme>
+  <programme start="20160116184500 -0600" stop="20160116191500 -0600" channel="Azteca 7">
+    <title lang="es">Ritual NFL</title>
+    <desc lang="es">Vive las mejores transmisiones de los partidos de la liga de Fútbol Americano(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Football Americano</category>
+  </programme>
+  <programme start="20160116191500 -0600" stop="20160116222000 -0600" channel="Azteca 7">
+    <title lang="es">NFL: Playoffs</title>
+    <category lang="es">Deportes</category>
+    <category lang="es">Football Americano</category>
+  </programme>
+  <programme start="20160116222000 -0600" stop="20160117000000 -0600" channel="Azteca 7">
+    <title lang="es">Leyendas de box azteca</title>
+    <category lang="es">Deportes</category>
+    <category lang="es">Boxeo</category>
+  </programme>
+  <programme start="20160117000000 -0600" stop="20160117013000 -0600" channel="Azteca 7">
+    <title lang="es">Marca y gana</title>
+    <desc lang="es">Programa de juegos, en el que los televidentes llaman y resuelven consignas, para obtener dinero a cambio como premio(n)</desc>
+    <credits>
+      <actor>Ofelia Somoza</actor>
+      <actor>Katia Pinzon</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160117013000 -0600" stop="20160117020000 -0600" channel="Azteca 7">
+    <title lang="es">Inova</title>
+    <desc lang="es">Promoción y venta de productos por televisión(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160117020000 -0600" stop="20160117023000 -0600" channel="Azteca 7">
+    <title lang="es">Inova</title>
+    <desc lang="es">Promoción y venta de productos por televisión(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160117023000 -0600" stop="20160117030000 -0600" channel="Azteca 7">
+    <title lang="es">Inova</title>
+    <desc lang="es">Promoción y venta de productos por televisión(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160117030000 -0600" stop="20160117033000 -0600" channel="Azteca 7">
+    <title lang="es">Inova</title>
+    <desc lang="es">Promoción y venta de productos por televisión(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160117033000 -0600" stop="20160117040000 -0600" channel="Azteca 7">
+    <title lang="es">Inova</title>
+    <desc lang="es">Promoción y venta de productos por televisión(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160117040000 -0600" stop="20160117043000 -0600" channel="Azteca 7">
+    <title lang="es">Inova</title>
+    <desc lang="es">Promoción y venta de productos por televisión(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160117043000 -0600" stop="20160117050000 -0600" channel="Azteca 7">
+    <title lang="es">Inova</title>
+    <desc lang="es">Promoción y venta de productos por televisión(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160117050000 -0600" stop="20160117051500 -0600" channel="Azteca 7">
+    <title lang="es">Barras de ajuste</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160117051500 -0600" stop="20160117053000 -0600" channel="Azteca 7">
+    <title lang="es">Rtc</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160117053000 -0600" stop="20160117060000 -0600" channel="Azteca 7">
+    <title lang="es">Iglesia universal - varios</title>
+    <desc lang="es">Tiene por objetivo predicar el Evangelio a los seguidores de esta vertiente religiosa(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Religioso</category>
+  </programme>
+  <programme start="20160117060000 -0600" stop="20160117063000 -0600" channel="Azteca 7">
+    <title lang="es">Inova</title>
+    <desc lang="es">Promoción y venta de productos por televisión(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160117063000 -0600" stop="20160117070000 -0600" channel="Azteca 7">
+    <title lang="es">Inova</title>
+    <desc lang="es">Promoción y venta de productos por televisión(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160117070000 -0600" stop="20160117083000 -0600" channel="Azteca 7">
+    <title lang="es">Phineas y Ferb</title>
+    <desc lang="es">Como cualquier niño, Phineas y Ferb aman sus vacaciones de verano, por ello disfrutarán cada día antes de que estas terminen viviendo grandes aventuras. Candance, su hermana mayor, tratará de acusarlos con su mamá, ¿lo logrará o terminará uniéndose a las aventuras de este fabuloso par?(n)</desc>
+    <credits>
+      <actor>Vincent Martella</actor>
+      <actor>Thomas Sangster</actor>
+      <actor>Ashley Tisdale</actor>
+      <actor>Dee Bradley Baker</actor>
+    </credits>
+    <category lang="es">Infantiles</category>
+    <category lang="es">Animación</category>
+  </programme>
+  <programme start="20160117083000 -0600" stop="20160117100000 -0600" channel="Azteca 7">
+    <title lang="es">Gravity Falls: un verano de misterios</title>
+    <desc lang="es">Los mellizos Dipper y Mabel Pines se encuentran en medio de una inesperada aventura cuando pasan el verano con su tío abuelo en el misterioso pueblo de Gravity Falls, Oregón(n)</desc>
+    <credits>
+      <actor>Jason Ritter</actor>
+      <actor>Linda Cardellini</actor>
+      <actor>Kristen Schaal</actor>
+      <actor>John Aoshima</actor>
+    </credits>
+    <category lang="es">Infantiles</category>
+    <category lang="es">Animación</category>
+  </programme>
+  <programme start="20160117100000 -0600" stop="20160117103000 -0600" channel="Azteca 7">
+    <title lang="es">Star Wars: La guerra de los clones</title>
+    <desc lang="es">¡Las Guerras Clónicas están en su punto culminante! Una épica batalla entre la luz y el lado oscuro de la fuerza. Con Obi-Wan al mando, las Tropas Clones se enfrentarán a la temible Armada Droide. Anakin y Asajj Ventress se encontrarán en una sorprendente pelea por el destino de la fuerza que los llevará a los confines de la galaxia(n)</desc>
+    <category lang="es">Infantiles</category>
+    <category lang="es">Animación</category>
+  </programme>
+  <programme start="20160117103000 -0600" stop="20160117110000 -0600" channel="Azteca 7">
+    <title lang="es">Star Wars Rebels</title>
+    <desc lang="es">El canciller supremo Palpatine ha ideado una falsa guerra para aumentar su poder dentro de la República galáctica y con ella ha proclamado un Imperio del que él es líder supremo. Para consolidar su nuevo régimen tratará de destruir a la noble Orden Jedi, al tiempo que surge en la sombra un movimiento rebelde(n)</desc>
+    <credits>
+      <actor>Vanessa Marshall</actor>
+      <actor>Freddie Prinze Jr.</actor>
+      <actor>Steve Blum</actor>
+    </credits>
+    <category lang="es">Infantiles</category>
+    <category lang="es">Animación</category>
+  </programme>
+  <programme start="20160117110000 -0600" stop="20160117110000 -0600" channel="Azteca 7">
+    <title lang="es">Ultimate Spider-Man</title>
+    <desc lang="es">Después de que Peter Parker ha salvado vidas y luchado contra supervillanos por un año, Nick Fury de S.H.I.E.L.D. le ofrecerá la oportunidad de entrenar y aprender cosas básicas de superhéroes, pero no todo será fácil pues tendrá que aprender a trabajar con un grupo de superhéroes adolescentes(n)</desc>
+    <credits>
+      <actor>Drake Bell</actor>
+      <actor>Ogie Banks</actor>
+      <actor>Greg Cipes</actor>
+      <actor>Clark Gregg</actor>
+      <actor>Tom Kenny</actor>
+    </credits>
+    <category lang="es">Infantiles</category>
+    <category lang="es">Animación</category>
+  </programme>
+  <programme start="20160117110000 -0600" stop="20160117123000 -0600" channel="Azteca 7">
+    <title lang="es">Ultimate Spider-Man</title>
+    <desc lang="es">Después de que Peter Parker ha salvado vidas y luchado contra supervillanos por un año, Nick Fury de S.H.I.E.L.D. le ofrecerá la oportunidad de entrenar y aprender cosas básicas de superhéroes, pero no todo será fácil pues tendrá que aprender a trabajar con un grupo de superhéroes adolescentes(n)</desc>
+    <credits>
+      <actor>Drake Bell</actor>
+      <actor>Ogie Banks</actor>
+      <actor>Greg Cipes</actor>
+      <actor>Clark Gregg</actor>
+      <actor>Tom Kenny</actor>
+    </credits>
+    <category lang="es">Infantiles</category>
+    <category lang="es">Animación</category>
+  </programme>
+  <programme start="20160117123000 -0600" stop="20160117230000 -0600" channel="Azteca 7">
+    <title lang="es">Por confirmar</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160117230000 -0600" stop="20160118000000 -0600" channel="Azteca 7">
+    <title lang="es">Depor TV</title>
+    <desc lang="es">Desarrollo de todos los temas deportivos mas destacados de la semana en la provincia y la región(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20160118000000 -0600" stop="20160118010000 -0600" channel="Azteca 7">
+    <title lang="es">Marca y gana</title>
+    <desc lang="es">Programa de juegos, en el que los televidentes llaman y resuelven consignas, para obtener dinero a cambio como premio(n)</desc>
+    <credits>
+      <actor>Ofelia Somoza</actor>
+      <actor>Katia Pinzon</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160118010000 -0600" stop="20160118013000 -0600" channel="Azteca 7">
+    <title lang="es">Marcas de renombre</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160118013000 -0600" stop="20160118020000 -0600" channel="Azteca 7">
+    <title lang="es">Inova</title>
+    <desc lang="es">Promoción y venta de productos por televisión(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160118020000 -0600" stop="20160118023000 -0600" channel="Azteca 7">
+    <title lang="es">Inova</title>
+    <desc lang="es">Promoción y venta de productos por televisión(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160118023000 -0600" stop="20160118030000 -0600" channel="Azteca 7">
+    <title lang="es">Marcas de renombre</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160118030000 -0600" stop="20160118033000 -0600" channel="Azteca 7">
+    <title lang="es">Marcas de renombre</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160118033000 -0600" stop="20160118040000 -0600" channel="Azteca 7">
+    <title lang="es">Marcas de renombre</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160118040000 -0600" stop="20160118043000 -0600" channel="Azteca 7">
+    <title lang="es">Marcas de renombre</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160118043000 -0600" stop="20160118050000 -0600" channel="Azteca 7">
+    <title lang="es">Marcas de renombre</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160118050000 -0600" stop="20160118051500 -0600" channel="Azteca 7">
+    <title lang="es">Barras de ajuste</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160118051500 -0600" stop="20160118053000 -0600" channel="Azteca 7">
+    <title lang="es">Rtc</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160118053000 -0600" stop="20160118060000 -0600" channel="Azteca 7">
+    <title lang="es">Iglesia universal - varios</title>
+    <desc lang="es">Tiene por objetivo predicar el Evangelio a los seguidores de esta vertiente religiosa(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Religioso</category>
+  </programme>
+  <programme start="20160118060000 -0600" stop="20160118063000 -0600" channel="Azteca 7">
+    <title lang="es">Inova</title>
+    <desc lang="es">Promoción y venta de productos por televisión(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160118063000 -0600" stop="20160118070000 -0600" channel="Azteca 7">
+    <title lang="es">Inova</title>
+    <desc lang="es">Promoción y venta de productos por televisión(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160118070000 -0600" stop="20160118073000 -0600" channel="Azteca 7">
+    <title lang="es">Inova</title>
+    <desc lang="es">Promoción y venta de productos por televisión(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160118073000 -0600" stop="20160118080000 -0600" channel="Azteca 7">
+    <title lang="es">Inova</title>
+    <desc lang="es">Promoción y venta de productos por televisión(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160118080000 -0600" stop="20160118083000 -0600" channel="Azteca 7">
+    <title lang="es">Inova</title>
+    <desc lang="es">Promoción y venta de productos por televisión(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160118083000 -0600" stop="20160118090000 -0600" channel="Azteca 7">
+    <title lang="es">Iglesia universal - varios</title>
+    <desc lang="es">Tiene por objetivo predicar el Evangelio a los seguidores de esta vertiente religiosa(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Religioso</category>
+  </programme>
+  <programme start="20160118090000 -0600" stop="20160118093000 -0600" channel="Azteca 7">
+    <title lang="es">Marcas de renombre</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160118093000 -0600" stop="20160118100000 -0600" channel="Azteca 7">
+    <title lang="es">Inova</title>
+    <desc lang="es">Promoción y venta de productos por televisión(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160118100000 -0600" stop="20160118103000 -0600" channel="Azteca 7">
+    <title lang="es">Inova</title>
+    <desc lang="es">Promoción y venta de productos por televisión(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160118103000 -0600" stop="20160118110000 -0600" channel="Azteca 7">
+    <title lang="es">Inova</title>
+    <desc lang="es">Promoción y venta de productos por televisión(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160118110000 -0600" stop="20160118113000 -0600" channel="Azteca 7">
+    <title lang="es">Inova</title>
+    <desc lang="es">Promoción y venta de productos por televisión(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160118113000 -0600" stop="20160118120000 -0600" channel="Azteca 7">
+    <title lang="es">Inova</title>
+    <desc lang="es">Promoción y venta de productos por televisión(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160118120000 -0600" stop="20160118123000 -0600" channel="Azteca 7">
+    <title lang="es">Marcas de renombre</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160118123000 -0600" stop="20160118130000 -0600" channel="Azteca 7">
+    <title lang="es">Avengers Assemble</title>
+    <desc lang="es">En esta serie animada de acción y aventuras, Los Vengadores unidos de Marvel, el grupo más famoso de superhéroes –Iron Man, Hulk, el Capitán América, Thor, Hawkeye y Black Widow-, junto con el recién llegado Falcon, se unen para luchar contra amenazas que un único héroe no podría resistir. Entrenándose y conviviendo en sus nuevos cuarteles centrales, la torre de los Vengadores, los héroes deberán superar sus diferencias y aprender a trabajar juntos para defender el planeta. Así se trate del Dr. Doom, que intenta conquistar Asgard; de Attuma liderando el Ejército Atlante hacia la ciudad de Nueva York o de Drácula desatando hordas de vampiros, los villanos más amenazantes del planeta no tienen oportunidad alguna cuando los Vengadores se unen(n)</desc>
+    <credits>
+      <actor>Fred Tatasciore</actor>
+      <actor>Adrian Pasdar</actor>
+      <actor>Roger Craig Smith</actor>
+      <actor>Jeff Allen</actor>
+    </credits>
+    <category lang="es">Infantiles</category>
+    <category lang="es">Aventura</category>
+  </programme>
+  <programme start="20160118130000 -0600" stop="20160118140000 -0600" channel="Azteca 7">
+    <title lang="es">A quien corresponda</title>
+    <desc lang="es">Único programa de la TV mexicana con denuncias sociales. "A quien corresponda" es el vínculo entre la ciudadanía y las autoridades, traspasando las fronteras de México y extendiéndose y apoyando a las comunidades latinas de Estados Unidos. Tomando la postura de mediador, el espacio conducido por Jorge Garralda se asegura que las peticiones o demandas ejercidas por el público sean atendidas por las personas indicadas, con el fin de que se pueda obtener una respuesta verídica y rápida(n)</desc>
+    <credits>
+      <actor>Jorge Garralda</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160118140000 -0600" stop="20160118150000 -0600" channel="Azteca 7">
+    <title lang="es">Deporte Caliente</title>
+    <desc lang="es">Luis García, ícono mexicano del fútbol, será el encargado de informarte de manera divertida y resumida todo lo que acontece en el mundo deportivo(n)</desc>
+    <credits>
+      <actor>Antonio Rosique</actor>
+      <actor>Luis García</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20160118150000 -0600" stop="20160118170000 -0600" channel="Azteca 7">
+    <title lang="es">film 7</title>
+    <desc lang="es">Ciclo de cine del canal Azteca 7(n)</desc>
+    <category lang="es">Ciclo</category>
+    <category lang="es">Película</category>
+  </programme>
+  <programme start="20160118170000 -0600" stop="20160118190000 -0600" channel="Azteca 7">
+    <title lang="es">film 7</title>
+    <desc lang="es">Ciclo de cine del canal Azteca 7(n)</desc>
+    <category lang="es">Ciclo</category>
+    <category lang="es">Película</category>
+  </programme>
+  <programme start="20160118190000 -0600" stop="20160118194500 -0600" channel="Azteca 7">
+    <title lang="es">Ay caramba</title>
+    <desc lang="es">Programa que recopila los videos caseros más graciosos del mundo. Caídas, golpes, perros inteligentes y bebes pícaros tendrán lugar en este espacio creado para divertirse(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160118194500 -0600" stop="20160118203000 -0600" channel="Azteca 7">
+    <title lang="es">Los Simpsons</title>
+    <desc lang="es">Los Simpson son una familia disfuncional que vive en Springfield; donde Homero trabaja como inspector en una planta de energía eléctrica y disfruta de su pasión por la cerveza, Marge es una madre trabajadora y dedicada a su hogar. Bart el pilluelo hijo mayor de 10 años, es un mal alumno y pequeño delincuente; en cambio su hermana Lisa, de 8, es una estudiante destacada. Finalmente Maggie, es solo una bebecita que ve todo lo que pasa mientras se entretiene con su chupón(n)</desc>
+    <credits>
+      <actor>Dan Castellaneta</actor>
+      <actor>Julie Kavner</actor>
+      <actor>Nancy Cartwright</actor>
+      <actor>Yeardley Smith</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Animación</category>
+  </programme>
+  <programme start="20160118203000 -0600" stop="20160118213000 -0600" channel="Azteca 7">
+    <title lang="es">American Ninja Warrior</title>
+    <desc lang="es">Cientos de concursantes aceptan el reto de llegar a ser un guerrero ninja pero, para conseguirlo, deberán pasar pruebas de agilidad, destreza, fuerza, coordinación y velocidad realmente extremas, en un circuito de pruebas físicas especialmente preparado para ello(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Reality Show</category>
+  </programme>
+  <programme start="20160118213000 -0600" stop="20160118223000 -0600" channel="Azteca 7">
+    <title lang="es">Scorpion</title>
+    <desc lang="es">Walter O'Brien es un genio excéntrico que, empeñado en detener todas las amenazas del mundo moderno, recluta un equipo de jóvenes brillantes en diferentes aptitudes para dicha labor. Entre ellos se encuentran Happy Quinn, un erudito de la mecánica, Toby Curtis, una persona capaz de descubrir a cualquier persona en base a su comportamiento y, por último, Sylvester Dodd, un experto en estadística(n)</desc>
+    <category lang="es">Series</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160118223000 -0600" stop="20160118233000 -0600" channel="Azteca 7">
+    <title lang="es">Mentes criminales</title>
+    <desc lang="es">La Unidad de Análisis Conductal es un grupo de élite del FBI que analiza las mentes criminales más peligrosas de la nación en un esfuerzo por anticipar posibles crímenes(n)</desc>
+    <credits>
+      <actor>Shemar Moore</actor>
+      <actor>A.J. Cook</actor>
+      <actor>Thomas Gibson</actor>
+      <actor>Matthew Gray Gubler</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
   </programme>
 </tv>
