@@ -137,6 +137,7 @@
   </channel>
   <channel id="CCTV">
     <display-name lang="es">CCTV</display-name>
+    <icon src="http://x.cdn.entutele.com/media/channels/big/cctv.gif" />
     <url>http://www.entutele.com</url>
   </channel>
   <channel id="Cine Latino">
@@ -48875,5 +48876,93 @@
     </credits>
     <category lang="es">Infantiles</category>
     <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160111090000 -0600" stop="20160111210000 -0600" channel="CCTV">
+    <title lang="es">CCTV</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160111210000 -0600" stop="20160112090000 -0600" channel="CCTV">
+    <title lang="es">CCTV</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160112090000 -0600" stop="20160112090000 -0600" channel="CCTV">
+    <title lang="es">CCTV</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160112090000 -0600" stop="20160112210000 -0600" channel="CCTV">
+    <title lang="es">CCTV</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160112210000 -0600" stop="20160113090000 -0600" channel="CCTV">
+    <title lang="es">CCTV</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160113090000 -0600" stop="20160113090000 -0600" channel="CCTV">
+    <title lang="es">CCTV</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160113090000 -0600" stop="20160113210000 -0600" channel="CCTV">
+    <title lang="es">CCTV</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160113210000 -0600" stop="20160114090000 -0600" channel="CCTV">
+    <title lang="es">CCTV</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160114090000 -0600" stop="20160114090000 -0600" channel="CCTV">
+    <title lang="es">CCTV</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160114090000 -0600" stop="20160114210000 -0600" channel="CCTV">
+    <title lang="es">CCTV</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160114210000 -0600" stop="20160115090000 -0600" channel="CCTV">
+    <title lang="es">CCTV</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160115090000 -0600" stop="20160115090000 -0600" channel="CCTV">
+    <title lang="es">CCTV</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160115090000 -0600" stop="20160115210000 -0600" channel="CCTV">
+    <title lang="es">CCTV</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160115210000 -0600" stop="20160116090000 -0600" channel="CCTV">
+    <title lang="es">CCTV</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160116090000 -0600" stop="20160116090000 -0600" channel="CCTV">
+    <title lang="es">CCTV</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160116090000 -0600" stop="20160116210000 -0600" channel="CCTV">
+    <title lang="es">CCTV</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160116210000 -0600" stop="20160117090000 -0600" channel="CCTV">
+    <title lang="es">CCTV</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160117090000 -0600" stop="20160117090000 -0600" channel="CCTV">
+    <title lang="es">CCTV</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160117090000 -0600" stop="20160117210000 -0600" channel="CCTV">
+    <title lang="es">CCTV</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160117210000 -0600" stop="20160118090000 -0600" channel="CCTV">
+    <title lang="es">CCTV</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160118090000 -0600" stop="20160118090000 -0600" channel="CCTV">
+    <title lang="es">CCTV</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160118090000 -0600" stop="20160118210000 -0600" channel="CCTV">
+    <title lang="es">CCTV</title>
+    <category lang="es">Variedades</category>
   </programme>
 </tv>
