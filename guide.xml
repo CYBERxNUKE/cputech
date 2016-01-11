@@ -167,6 +167,7 @@
   </channel>
   <channel id="ClaroSports">
     <display-name lang="es">ClaroSports</display-name>
+    <icon src="http://y.cdn.entutele.com/media/channels/big/clarosports.gif" />
     <url>http://www.entutele.com</url>
   </channel>
   <channel id="CNN en español">
@@ -54825,5 +54826,1322 @@
     </credits>
     <category lang="es">Series</category>
     <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160111010000 -0600" stop="20160111020000 -0600" channel="ClaroSports">
+    <title lang="es">El corazón de la fiera</title>
+    <desc lang="es">Programa con la intención de dar al aficionado del futbol mexicano, el lado humano del jugador y de las personas involucradas en toda la logística y organización del Club León(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160111020000 -0600" stop="20160111040000 -0600" channel="ClaroSports">
+    <title lang="es">Bayern TV</title>
+    <sub-title lang="es">Real Madrid vs. Bayern Munich</sub-title>
+    <desc lang="es">Partidos donde juegue Bayer Munich(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20160111040000 -0600" stop="20160111050000 -0600" channel="ClaroSports">
+    <title lang="es">Especiales Bayern</title>
+    <desc lang="es">Programas en torno a todo lo que sucede con el Equipo Bayern Munich(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20160111050000 -0600" stop="20160111060000 -0600" channel="ClaroSports">
+    <title lang="es">Deportes en Claro</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20160111060000 -0600" stop="20160111063000 -0600" channel="ClaroSports">
+    <title lang="es">Bolly Blast</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20160111063000 -0600" stop="20160111070000 -0600" channel="ClaroSports">
+    <title lang="es">Fitness First Class</title>
+    <desc lang="es">Diferentes series de Fitness(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160111070000 -0600" stop="20160111073000 -0600" channel="ClaroSports">
+    <title lang="es">Vida Zen</title>
+    <desc lang="es">Programa dedicado a brindar consejos de fitness, salud, nutrición y bienestar para cuerpo y mente. Edna, nuestra experta en Health Care, muestra en pocos minutos el paso a paso para lograr un estilo de vida más saludable y pleno(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160111073000 -0600" stop="20160111080000 -0600" channel="ClaroSports">
+    <title lang="es">Bolly Blast</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20160111080000 -0600" stop="20160111083000 -0600" channel="ClaroSports">
+    <title lang="es">Vida Zen</title>
+    <desc lang="es">Programa dedicado a brindar consejos de fitness, salud, nutrición y bienestar para cuerpo y mente. Edna, nuestra experta en Health Care, muestra en pocos minutos el paso a paso para lograr un estilo de vida más saludable y pleno(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160111083000 -0600" stop="20160111090000 -0600" channel="ClaroSports">
+    <title lang="es">101 Exercises to Do Before You Die</title>
+    <desc lang="es">¡Descubran "101 ejercicios que hacer antes de morir"!(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Salud</category>
+  </programme>
+  <programme start="20160111090000 -0600" stop="20160111093000 -0600" channel="ClaroSports">
+    <title lang="es">Sport Stars Uncovered</title>
+    <desc lang="es">En "Sport Stars Uncovered", conozcan la vida de los más grandes campeones. En Trace Sport Stars vean sus fortunas, sus tatuajes y hasta sus parejas(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160111093000 -0600" stop="20160111100000 -0600" channel="ClaroSports">
+    <title lang="es">National Icons</title>
+    <desc lang="es">El cara a cara entre campeones del deporte, pasados versus actuales en una épica batalla por la supremacía. Además de fútbol, incluirá deportes tales como la F1, tenis, básquetbol, deportes olímpicos y más(n)</desc>
+    <category lang="es">Noticias</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20160111100000 -0600" stop="20160111110000 -0600" channel="ClaroSports">
+    <title lang="es">Deportes en Claro</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20160111110000 -0600" stop="20160111120000 -0600" channel="ClaroSports">
+    <title lang="es">Jugando claro</title>
+    <desc lang="es">Programa dedicado al futbol latinoamericano y europeo, donde se busca dar noticias, generar exclusivas, causar polémica y lograr que diferentes medios retomen esta información y contenido(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20160111120000 -0600" stop="20160111123000 -0600" channel="ClaroSports">
+    <title lang="es">Fútbol en corto</title>
+    <category lang="es">Deportes</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20160111123000 -0600" stop="20160111130000 -0600" channel="ClaroSports">
+    <title lang="es">Where the Trail Ends</title>
+    <desc lang="es">Documental que sigue a los ciclistas profesionales Darren Berrecloth, Cameron Zink, Kurt Sorge, James Doerfling, Andreu Lacondeguy y a otros seis de los mejores atletas del freeride de mayor nivel en un viaje de exploración, caos y cultura a algunos de los paisajes más impresionantes y remotos del mundo(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160111130000 -0600" stop="20160111133000 -0600" channel="ClaroSports">
+    <title lang="es">Chelsea TV</title>
+    <desc lang="es">Programas en torno a todo lo que sucede con el Equipo Chelsea(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20160111133000 -0600" stop="20160111153000 -0600" channel="ClaroSports">
+    <title lang="es">Chelsea TV</title>
+    <desc lang="es">Programas en torno a todo lo que sucede con el Equipo Chelsea(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20160111153000 -0600" stop="20160111160000 -0600" channel="ClaroSports">
+    <title lang="es">Deportes en Claro</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20160111160000 -0600" stop="20160111163000 -0600" channel="ClaroSports">
+    <title lang="es">Road to Río</title>
+    <desc lang="es">Este especial incluirá información de la próxima Copa del Mundo 2014 y de los Juegos Olímpicos del 2016, a través de imágenes exclusivas, entrevistas y perfiles de los principales atletas(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20160111163000 -0600" stop="20160111170000 -0600" channel="ClaroSports">
+    <title lang="es">The Football Review</title>
+    <desc lang="es">El más completo resumen de todas las ligas europeas fecha a fecha, el enfoque principal es el impacto, el significado de los resultados, y el desarrollo de cada competencia(n)</desc>
+    <category lang="es">Noticias</category>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20160111170000 -0600" stop="20160111190000 -0600" channel="ClaroSports">
+    <title lang="es">Bayern TV</title>
+    <desc lang="es">Partidos donde juegue Bayer Munich(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20160111190000 -0600" stop="20160111200000 -0600" channel="ClaroSports">
+    <title lang="es">Especiales Bayern</title>
+    <desc lang="es">Programas en torno a todo lo que sucede con el Equipo Bayern Munich(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20160111200000 -0600" stop="20160111210000 -0600" channel="ClaroSports">
+    <title lang="es">En el diamante</title>
+    <desc lang="es">Alfonso Lazangorta y Duaner Sánchez, conducen este magazine especializado sobre el Rey de los deportes, con todo el acontecer del beisbol a nivel nacional e internacional(n)</desc>
+    <credits>
+      <actor>Duaner Sánchez</actor>
+      <actor>Alfonso Lazangorta</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160111210000 -0600" stop="20160111220000 -0600" channel="ClaroSports">
+    <title lang="es">Deportes en Claro</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20160111220000 -0600" stop="20160111223000 -0600" channel="ClaroSports">
+    <title lang="es">The Football Review</title>
+    <desc lang="es">El más completo resumen de todas las ligas europeas fecha a fecha, el enfoque principal es el impacto, el significado de los resultados, y el desarrollo de cada competencia(n)</desc>
+    <category lang="es">Noticias</category>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20160111223000 -0600" stop="20160111230000 -0600" channel="ClaroSports">
+    <title lang="es">Fútbol y tacón</title>
+    <desc lang="es">Magazine Deportivo con invitados especiales donde los temas principales son en torno al fútbol internacional(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20160111230000 -0600" stop="20160112000000 -0600" channel="ClaroSports">
+    <title lang="es">En el diamante</title>
+    <desc lang="es">Alfonso Lazangorta y Duaner Sánchez, conducen este magazine especializado sobre el Rey de los deportes, con todo el acontecer del beisbol a nivel nacional e internacional(n)</desc>
+    <credits>
+      <actor>Duaner Sánchez</actor>
+      <actor>Alfonso Lazangorta</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160112000000 -0600" stop="20160112020000 -0600" channel="ClaroSports">
+    <title lang="es">Bayern TV</title>
+    <desc lang="es">Partidos donde juegue Bayer Munich(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20160112020000 -0600" stop="20160112030000 -0600" channel="ClaroSports">
+    <title lang="es">Especiales Bayern</title>
+    <desc lang="es">Programas en torno a todo lo que sucede con el Equipo Bayern Munich(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20160112030000 -0600" stop="20160112033000 -0600" channel="ClaroSports">
+    <title lang="es">Fútbol y tacón</title>
+    <desc lang="es">Magazine Deportivo con invitados especiales donde los temas principales son en torno al fútbol internacional(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20160112033000 -0600" stop="20160112040000 -0600" channel="ClaroSports">
+    <title lang="es">Where the Trail Ends</title>
+    <desc lang="es">Documental que sigue a los ciclistas profesionales Darren Berrecloth, Cameron Zink, Kurt Sorge, James Doerfling, Andreu Lacondeguy y a otros seis de los mejores atletas del freeride de mayor nivel en un viaje de exploración, caos y cultura a algunos de los paisajes más impresionantes y remotos del mundo(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160112040000 -0600" stop="20160112043000 -0600" channel="ClaroSports">
+    <title lang="es">El corazón de la fiera</title>
+    <desc lang="es">Programa con la intención de dar al aficionado del futbol mexicano, el lado humano del jugador y de las personas involucradas en toda la logística y organización del Club León(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160112043000 -0600" stop="20160112050000 -0600" channel="ClaroSports">
+    <title lang="es">Road to Río</title>
+    <desc lang="es">Este especial incluirá información de la próxima Copa del Mundo 2014 y de los Juegos Olímpicos del 2016, a través de imágenes exclusivas, entrevistas y perfiles de los principales atletas(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20160112050000 -0600" stop="20160112060000 -0600" channel="ClaroSports">
+    <title lang="es">Deportes en Claro</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20160112060000 -0600" stop="20160112063000 -0600" channel="ClaroSports">
+    <title lang="es">Bolly Blast</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20160112063000 -0600" stop="20160112070000 -0600" channel="ClaroSports">
+    <title lang="es">Fitness First Class</title>
+    <desc lang="es">Diferentes series de Fitness(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160112070000 -0600" stop="20160112080000 -0600" channel="ClaroSports">
+    <title lang="es">New Fitness Collection</title>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fisicoculturismo</category>
+  </programme>
+  <programme start="20160112080000 -0600" stop="20160112083000 -0600" channel="ClaroSports">
+    <title lang="es">Star Block Workout</title>
+    <desc lang="es">Block Workout es un show internacional urbano en el que Terroll 'Boost' Lewis presenta el más novedoso sistema de ejercicio en las mejores ciudades(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20160112083000 -0600" stop="20160112090000 -0600" channel="ClaroSports">
+    <title lang="es">Bolly Blast</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20160112090000 -0600" stop="20160112093000 -0600" channel="ClaroSports">
+    <title lang="es">Road to Río</title>
+    <desc lang="es">Este especial incluirá información de la próxima Copa del Mundo 2014 y de los Juegos Olímpicos del 2016, a través de imágenes exclusivas, entrevistas y perfiles de los principales atletas(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20160112093000 -0600" stop="20160112100000 -0600" channel="ClaroSports">
+    <title lang="es">Football Stars</title>
+    <desc lang="es">Excepcionales con el esférico y portada de tabloides: el lado ácido de los campeones del fútbol se muestra en Football Stars(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20160112100000 -0600" stop="20160112110000 -0600" channel="ClaroSports">
+    <title lang="es">Deportes en Claro</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20160112110000 -0600" stop="20160112120000 -0600" channel="ClaroSports">
+    <title lang="es">En el diamante</title>
+    <desc lang="es">Alfonso Lazangorta y Duaner Sánchez, conducen este magazine especializado sobre el Rey de los deportes, con todo el acontecer del beisbol a nivel nacional e internacional(n)</desc>
+    <credits>
+      <actor>Duaner Sánchez</actor>
+      <actor>Alfonso Lazangorta</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160112120000 -0600" stop="20160112123000 -0600" channel="ClaroSports">
+    <title lang="es">Documentary</title>
+    <category lang="es">Documentales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160112123000 -0600" stop="20160112130000 -0600" channel="ClaroSports">
+    <title lang="es">The Football Review</title>
+    <desc lang="es">El más completo resumen de todas las ligas europeas fecha a fecha, el enfoque principal es el impacto, el significado de los resultados, y el desarrollo de cada competencia(n)</desc>
+    <category lang="es">Noticias</category>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20160112130000 -0600" stop="20160112133000 -0600" channel="ClaroSports">
+    <title lang="es">En Corto</title>
+    <desc lang="es">Compartimos los mejores videos de la web sobre temas de actualidad(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160112133000 -0600" stop="20160112153000 -0600" channel="ClaroSports">
+    <title lang="es">NCAA Basquetbol</title>
+    <desc lang="es">Se denomina así a la categoría de basquetbol que engloba las competiciones y partidos entre equipos universitarios(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Basquet</category>
+  </programme>
+  <programme start="20160112153000 -0600" stop="20160112160000 -0600" channel="ClaroSports">
+    <title lang="es">Deportes en Claro</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20160112160000 -0600" stop="20160112170000 -0600" channel="ClaroSports">
+    <title lang="es">Titanes del ring</title>
+    <desc lang="es">Los mejores exponentes del Consejo Mundial de Lucha Libre se dan cita en el cuadrilátero para deleitar con su técnica a los miles de fans de la lucha mexicana(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Artes Marciales</category>
+  </programme>
+  <programme start="20160112170000 -0600" stop="20160112173000 -0600" channel="ClaroSports">
+    <title lang="es">Fútbol y tacón</title>
+    <desc lang="es">Magazine Deportivo con invitados especiales donde los temas principales son en torno al fútbol internacional(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20160112173000 -0600" stop="20160112180000 -0600" channel="ClaroSports">
+    <title lang="es">Sport Confidential</title>
+    <desc lang="es">Una serie que desvela las noticias y acontecimientos más destacados en el mundo del deporte cada semana. Historias de interés actual alrededor de los deportes más importantes, enfocadas en los eventos y atletas de más alto perfil. Todo lo que el espectador necesita saber en materia deportiva cada semana en un formato dinámico y audaz(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20160112180000 -0600" stop="20160112200000 -0600" channel="ClaroSports">
+    <title lang="es">Liga MX</title>
+    <sub-title lang="es">León vs. Santos</sub-title>
+    <desc lang="es">La Liga MX es el torneo de fútbol profesional más importante de México y el más dominante del área de la Concacaf. En ella compiten 18 equipos acumulando puntos a lo largo de 17 jornadas para clasificar a la "Liguilla". Los ocho clubes con mejor puntuación en la tabla son los que lo logran(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20160112200000 -0600" stop="20160112210000 -0600" channel="ClaroSports">
+    <title lang="es">Olympia</title>
+    <desc lang="es">Este especial incluirá información de los Juegos Olímpicos del 2016, a través de imágenes exclusivas, entrevistas y perfiles de los principales atletas(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Olímpicos</category>
+  </programme>
+  <programme start="20160112210000 -0600" stop="20160112220000 -0600" channel="ClaroSports">
+    <title lang="es">Deportes en Claro</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20160112220000 -0600" stop="20160112223000 -0600" channel="ClaroSports">
+    <title lang="es">Vidas extraordinarias</title>
+    <desc lang="es">Programa de contenido social y deportivo que muestra la historia de vida de deportistas profesionales y amateur(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160112223000 -0600" stop="20160112230000 -0600" channel="ClaroSports">
+    <title lang="es">Sport Confidential</title>
+    <desc lang="es">Una serie que desvela las noticias y acontecimientos más destacados en el mundo del deporte cada semana. Historias de interés actual alrededor de los deportes más importantes, enfocadas en los eventos y atletas de más alto perfil. Todo lo que el espectador necesita saber en materia deportiva cada semana en un formato dinámico y audaz(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20160112230000 -0600" stop="20160113000000 -0600" channel="ClaroSports">
+    <title lang="es">Olympia</title>
+    <desc lang="es">Este especial incluirá información de los Juegos Olímpicos del 2016, a través de imágenes exclusivas, entrevistas y perfiles de los principales atletas(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Olímpicos</category>
+  </programme>
+  <programme start="20160113000000 -0600" stop="20160113020000 -0600" channel="ClaroSports">
+    <title lang="es">Liga MX</title>
+    <sub-title lang="es">León vs. Santos</sub-title>
+    <desc lang="es">La Liga MX es el torneo de fútbol profesional más importante de México y el más dominante del área de la Concacaf. En ella compiten 18 equipos acumulando puntos a lo largo de 17 jornadas para clasificar a la "Liguilla". Los ocho clubes con mejor puntuación en la tabla son los que lo logran(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20160113020000 -0600" stop="20160113030000 -0600" channel="ClaroSports">
+    <title lang="es">Titanes del ring</title>
+    <desc lang="es">Los mejores exponentes del Consejo Mundial de Lucha Libre se dan cita en el cuadrilátero para deleitar con su técnica a los miles de fans de la lucha mexicana(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Artes Marciales</category>
+  </programme>
+  <programme start="20160113030000 -0600" stop="20160113033000 -0600" channel="ClaroSports">
+    <title lang="es">Sport Stars Uncovered</title>
+    <desc lang="es">En "Sport Stars Uncovered", conozcan la vida de los más grandes campeones. En Trace Sport Stars vean sus fortunas, sus tatuajes y hasta sus parejas(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160113033000 -0600" stop="20160113040000 -0600" channel="ClaroSports">
+    <title lang="es">National Icons</title>
+    <desc lang="es">El cara a cara entre campeones del deporte, pasados versus actuales en una épica batalla por la supremacía. Además de fútbol, incluirá deportes tales como la F1, tenis, básquetbol, deportes olímpicos y más(n)</desc>
+    <category lang="es">Noticias</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20160113040000 -0600" stop="20160113043000 -0600" channel="ClaroSports">
+    <title lang="es">Vidas extraordinarias</title>
+    <desc lang="es">Programa de contenido social y deportivo que muestra la historia de vida de deportistas profesionales y amateur(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160113043000 -0600" stop="20160113050000 -0600" channel="ClaroSports">
+    <title lang="es">The Football Review</title>
+    <desc lang="es">El más completo resumen de todas las ligas europeas fecha a fecha, el enfoque principal es el impacto, el significado de los resultados, y el desarrollo de cada competencia(n)</desc>
+    <category lang="es">Noticias</category>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20160113050000 -0600" stop="20160113060000 -0600" channel="ClaroSports">
+    <title lang="es">Deportes en Claro</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20160113060000 -0600" stop="20160113063000 -0600" channel="ClaroSports">
+    <title lang="es">Bolly Blast</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20160113063000 -0600" stop="20160113070000 -0600" channel="ClaroSports">
+    <title lang="es">Fitness First Class</title>
+    <desc lang="es">Diferentes series de Fitness(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160113070000 -0600" stop="20160113080000 -0600" channel="ClaroSports">
+    <title lang="es">New Fitness Collection</title>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fisicoculturismo</category>
+  </programme>
+  <programme start="20160113080000 -0600" stop="20160113083000 -0600" channel="ClaroSports">
+    <title lang="es">101 Exercises to Do Before You Die</title>
+    <desc lang="es">¡Descubran "101 ejercicios que hacer antes de morir"!(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Salud</category>
+  </programme>
+  <programme start="20160113083000 -0600" stop="20160113090000 -0600" channel="ClaroSports">
+    <title lang="es">Star Block Workout</title>
+    <desc lang="es">Block Workout es un show internacional urbano en el que Terroll 'Boost' Lewis presenta el más novedoso sistema de ejercicio en las mejores ciudades(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20160113090000 -0600" stop="20160113093000 -0600" channel="ClaroSports">
+    <title lang="es">101 World Cups</title>
+    <desc lang="es">Conozcan los Mundiales con TRACE Sport Stars. Lisa Raleigh y Maps Maponyane les proponen unas competiciones ¡inesperadas e ineludibles!(n)</desc>
+    <credits>
+      <actor>Lisa Raleigh</actor>
+      <actor>Maps Maponyane</actor>
+    </credits>
+    <category lang="es">Deportes</category>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20160113093000 -0600" stop="20160113100000 -0600" channel="ClaroSports">
+    <title lang="es">Vidas extraordinarias</title>
+    <desc lang="es">Programa de contenido social y deportivo que muestra la historia de vida de deportistas profesionales y amateur(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160113100000 -0600" stop="20160113110000 -0600" channel="ClaroSports">
+    <title lang="es">Deportes en Claro</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20160113110000 -0600" stop="20160113120000 -0600" channel="ClaroSports">
+    <title lang="es">Olympia</title>
+    <desc lang="es">Este especial incluirá información de los Juegos Olímpicos del 2016, a través de imágenes exclusivas, entrevistas y perfiles de los principales atletas(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Olímpicos</category>
+  </programme>
+  <programme start="20160113120000 -0600" stop="20160113123000 -0600" channel="ClaroSports">
+    <title lang="es">The Extreme Collxtion</title>
+    <category lang="es">Deportes</category>
+    <category lang="es">D.Extremos</category>
+  </programme>
+  <programme start="20160113123000 -0600" stop="20160113143000 -0600" channel="ClaroSports">
+    <title lang="es">Bayern TV</title>
+    <desc lang="es">Partidos donde juegue Bayer Munich(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20160113143000 -0600" stop="20160113153000 -0600" channel="ClaroSports">
+    <title lang="es">Especiales Bayern</title>
+    <desc lang="es">Programas en torno a todo lo que sucede con el Equipo Bayern Munich(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20160113153000 -0600" stop="20160113160000 -0600" channel="ClaroSports">
+    <title lang="es">Deportes en Claro</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20160113160000 -0600" stop="20160113163000 -0600" channel="ClaroSports">
+    <title lang="es">Por confirmar</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160113163000 -0600" stop="20160113170000 -0600" channel="ClaroSports">
+    <title lang="es">The Extreme Collxtion</title>
+    <category lang="es">Deportes</category>
+    <category lang="es">D.Extremos</category>
+  </programme>
+  <programme start="20160113170000 -0600" stop="20160113173000 -0600" channel="ClaroSports">
+    <title lang="es">GP Racing</title>
+    <desc lang="es">Todas las noticias, el drama y el glamour del alto ritmo del mundo de Fórmula1(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Automovilismo</category>
+  </programme>
+  <programme start="20160113173000 -0600" stop="20160113180000 -0600" channel="ClaroSports">
+    <title lang="es">The Football Review</title>
+    <desc lang="es">El más completo resumen de todas las ligas europeas fecha a fecha, el enfoque principal es el impacto, el significado de los resultados, y el desarrollo de cada competencia(n)</desc>
+    <category lang="es">Noticias</category>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20160113180000 -0600" stop="20160113200000 -0600" channel="ClaroSports">
+    <title lang="es">NCAA Basquetbol</title>
+    <sub-title lang="es">Ohio State vs. Indiana</sub-title>
+    <desc lang="es">Se denomina así a la categoría de basquetbol que engloba las competiciones y partidos entre equipos universitarios(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Basquet</category>
+  </programme>
+  <programme start="20160113200000 -0600" stop="20160113210000 -0600" channel="ClaroSports">
+    <title lang="es">El análisis</title>
+    <desc lang="es">Programa de debate periodístico encaminado a analizar los temas del momento en el mundo del deporte a nivel internacional, bajo varias perspectivas, que van desde la tradicional arista periodística hasta el sesgo psicológico, económico y/o social. El Análisis también cuenta con temas de investigación especial. El Análisis brinda profundidad en cada tema y sobre todo deja elementos de reflexión en el televidente(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20160113210000 -0600" stop="20160113220000 -0600" channel="ClaroSports">
+    <title lang="es">Deportes en Claro</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20160113220000 -0600" stop="20160113223000 -0600" channel="ClaroSports">
+    <title lang="es">Destino Río</title>
+    <desc lang="es">La llamada "Ciudad Maravillosa" siempre ha sido lugar de encuentro de brasileros y extranjeros, que diariamente protagonizan en ella innumerables y diferentes historias. La miniserie Destino Río ofrece, en seis episodios, una combinación de drama, comedia, romance, tensión y poesía. Se trata de unas crónicas de amor y amistad, familia, vicios, crimen, encuentros y desencuentros, celos, separaciones, búsqueda y revelaciones. Son las historias de los extranjeros de diferentes nacionalidades que viven, se encuentran y se cruzan en una de las ciudades más conocidas y visitadas del mundo, donde sus vidas se entrelazan para siempre(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160113223000 -0600" stop="20160113230000 -0600" channel="ClaroSports">
+    <title lang="es">3 Puntos</title>
+    <category lang="es">Deportes</category>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160113230000 -0600" stop="20160114000000 -0600" channel="ClaroSports">
+    <title lang="es">El análisis</title>
+    <desc lang="es">Programa de debate periodístico encaminado a analizar los temas del momento en el mundo del deporte a nivel internacional, bajo varias perspectivas, que van desde la tradicional arista periodística hasta el sesgo psicológico, económico y/o social. El Análisis también cuenta con temas de investigación especial. El Análisis brinda profundidad en cada tema y sobre todo deja elementos de reflexión en el televidente(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20160114000000 -0600" stop="20160114020000 -0600" channel="ClaroSports">
+    <title lang="es">Bayern TV</title>
+    <desc lang="es">Partidos donde juegue Bayer Munich(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20160114020000 -0600" stop="20160114030000 -0600" channel="ClaroSports">
+    <title lang="es">Especiales Bayern</title>
+    <desc lang="es">Programas en torno a todo lo que sucede con el Equipo Bayern Munich(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20160114030000 -0600" stop="20160114033000 -0600" channel="ClaroSports">
+    <title lang="es">Road to Río</title>
+    <desc lang="es">Este especial incluirá información de la próxima Copa del Mundo 2014 y de los Juegos Olímpicos del 2016, a través de imágenes exclusivas, entrevistas y perfiles de los principales atletas(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20160114033000 -0600" stop="20160114040000 -0600" channel="ClaroSports">
+    <title lang="es">GP Racing</title>
+    <desc lang="es">Todas las noticias, el drama y el glamour del alto ritmo del mundo de Fórmula1(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Automovilismo</category>
+  </programme>
+  <programme start="20160114040000 -0600" stop="20160114050000 -0600" channel="ClaroSports">
+    <title lang="es">En el diamante</title>
+    <desc lang="es">Alfonso Lazangorta y Duaner Sánchez, conducen este magazine especializado sobre el Rey de los deportes, con todo el acontecer del beisbol a nivel nacional e internacional(n)</desc>
+    <credits>
+      <actor>Duaner Sánchez</actor>
+      <actor>Alfonso Lazangorta</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160114050000 -0600" stop="20160114060000 -0600" channel="ClaroSports">
+    <title lang="es">Deportes en Claro</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20160114060000 -0600" stop="20160114063000 -0600" channel="ClaroSports">
+    <title lang="es">Bolly Blast</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20160114063000 -0600" stop="20160114070000 -0600" channel="ClaroSports">
+    <title lang="es">Fitness First Class</title>
+    <desc lang="es">Diferentes series de Fitness(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160114070000 -0600" stop="20160114080000 -0600" channel="ClaroSports">
+    <title lang="es">New Fitness Collection</title>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fisicoculturismo</category>
+  </programme>
+  <programme start="20160114080000 -0600" stop="20160114083000 -0600" channel="ClaroSports">
+    <title lang="es">Star Block Workout</title>
+    <desc lang="es">Block Workout es un show internacional urbano en el que Terroll 'Boost' Lewis presenta el más novedoso sistema de ejercicio en las mejores ciudades(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20160114083000 -0600" stop="20160114090000 -0600" channel="ClaroSports">
+    <title lang="es">Fitness First Class</title>
+    <desc lang="es">Diferentes series de Fitness(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160114090000 -0600" stop="20160114093000 -0600" channel="ClaroSports">
+    <title lang="es">National Icons</title>
+    <desc lang="es">El cara a cara entre campeones del deporte, pasados versus actuales en una épica batalla por la supremacía. Además de fútbol, incluirá deportes tales como la F1, tenis, básquetbol, deportes olímpicos y más(n)</desc>
+    <category lang="es">Noticias</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20160114093000 -0600" stop="20160114100000 -0600" channel="ClaroSports">
+    <title lang="es">Por confirmar</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160114100000 -0600" stop="20160114110000 -0600" channel="ClaroSports">
+    <title lang="es">Deportes en Claro</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20160114110000 -0600" stop="20160114120000 -0600" channel="ClaroSports">
+    <title lang="es">El análisis</title>
+    <desc lang="es">Programa de debate periodístico encaminado a analizar los temas del momento en el mundo del deporte a nivel internacional, bajo varias perspectivas, que van desde la tradicional arista periodística hasta el sesgo psicológico, económico y/o social. El Análisis también cuenta con temas de investigación especial. El Análisis brinda profundidad en cada tema y sobre todo deja elementos de reflexión en el televidente(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20160114120000 -0600" stop="20160114123000 -0600" channel="ClaroSports">
+    <title lang="es">Destino Río</title>
+    <desc lang="es">La llamada "Ciudad Maravillosa" siempre ha sido lugar de encuentro de brasileros y extranjeros, que diariamente protagonizan en ella innumerables y diferentes historias. La miniserie Destino Río ofrece, en seis episodios, una combinación de drama, comedia, romance, tensión y poesía. Se trata de unas crónicas de amor y amistad, familia, vicios, crimen, encuentros y desencuentros, celos, separaciones, búsqueda y revelaciones. Son las historias de los extranjeros de diferentes nacionalidades que viven, se encuentran y se cruzan en una de las ciudades más conocidas y visitadas del mundo, donde sus vidas se entrelazan para siempre(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160114123000 -0600" stop="20160114130000 -0600" channel="ClaroSports">
+    <title lang="es">3 Puntos</title>
+    <category lang="es">Deportes</category>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160114130000 -0600" stop="20160114133000 -0600" channel="ClaroSports">
+    <title lang="es">Chelsea TV</title>
+    <desc lang="es">Programas en torno a todo lo que sucede con el Equipo Chelsea(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20160114133000 -0600" stop="20160114153000 -0600" channel="ClaroSports">
+    <title lang="es">Chelsea TV</title>
+    <sub-title lang="es">Chelsea vs. West Bromwich</sub-title>
+    <desc lang="es">Programas en torno a todo lo que sucede con el Equipo Chelsea(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20160114153000 -0600" stop="20160114160000 -0600" channel="ClaroSports">
+    <title lang="es">Deportes en Claro</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20160114160000 -0600" stop="20160114163000 -0600" channel="ClaroSports">
+    <title lang="es">Fútbol y tacón</title>
+    <desc lang="es">Magazine Deportivo con invitados especiales donde los temas principales son en torno al fútbol internacional(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20160114163000 -0600" stop="20160114170000 -0600" channel="ClaroSports">
+    <title lang="es">The Football Review</title>
+    <desc lang="es">El más completo resumen de todas las ligas europeas fecha a fecha, el enfoque principal es el impacto, el significado de los resultados, y el desarrollo de cada competencia(n)</desc>
+    <category lang="es">Noticias</category>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20160114170000 -0600" stop="20160114173000 -0600" channel="ClaroSports">
+    <title lang="es">Claro, soy Tuzo</title>
+    <desc lang="es">Programas en torno a todo lo que sucede con el Equipo Pachuca(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160114173000 -0600" stop="20160114180000 -0600" channel="ClaroSports">
+    <title lang="es">GP Racing</title>
+    <desc lang="es">Todas las noticias, el drama y el glamour del alto ritmo del mundo de Fórmula1(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Automovilismo</category>
+  </programme>
+  <programme start="20160114180000 -0600" stop="20160114200000 -0600" channel="ClaroSports">
+    <title lang="es">Voleibol europeo continental</title>
+    <sub-title lang="es">Final</sub-title>
+    <category lang="es">Deportes</category>
+    <category lang="es">Voley</category>
+  </programme>
+  <programme start="20160114200000 -0600" stop="20160114210000 -0600" channel="ClaroSports">
+    <title lang="es">Auto y pista</title>
+    <desc lang="es">Magazine informativo dedicado al deporte motor y al automóvil. Contará con información de competencias en todas las categorías, entrevistas, especiales y reportajes. Tendrá una sección dedicada a ecología y nuevas tecnologías(n)</desc>
+    <credits>
+      <actor>Marco Tolama</actor>
+    </credits>
+    <category lang="es">Deportes</category>
+    <category lang="es">Automovilismo</category>
+  </programme>
+  <programme start="20160114210000 -0600" stop="20160114220000 -0600" channel="ClaroSports">
+    <title lang="es">Deportes en Claro</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20160114220000 -0600" stop="20160114230000 -0600" channel="ClaroSports">
+    <title lang="es">Jugando claro</title>
+    <desc lang="es">Programa dedicado al futbol latinoamericano y europeo, donde se busca dar noticias, generar exclusivas, causar polémica y lograr que diferentes medios retomen esta información y contenido(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20160114230000 -0600" stop="20160115000000 -0600" channel="ClaroSports">
+    <title lang="es">Auto y pista</title>
+    <desc lang="es">Magazine informativo dedicado al deporte motor y al automóvil. Contará con información de competencias en todas las categorías, entrevistas, especiales y reportajes. Tendrá una sección dedicada a ecología y nuevas tecnologías(n)</desc>
+    <credits>
+      <actor>Marco Tolama</actor>
+    </credits>
+    <category lang="es">Deportes</category>
+    <category lang="es">Automovilismo</category>
+  </programme>
+  <programme start="20160115000000 -0600" stop="20160115003000 -0600" channel="ClaroSports">
+    <title lang="es">Chelsea TV</title>
+    <desc lang="es">Programas en torno a todo lo que sucede con el Equipo Chelsea(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20160115003000 -0600" stop="20160115023000 -0600" channel="ClaroSports">
+    <title lang="es">Chelsea TV</title>
+    <sub-title lang="es">Chelsea vs. West Bromwich</sub-title>
+    <desc lang="es">Programas en torno a todo lo que sucede con el Equipo Chelsea(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20160115023000 -0600" stop="20160115030000 -0600" channel="ClaroSports">
+    <title lang="es">Claro, soy Tuzo</title>
+    <desc lang="es">Programas en torno a todo lo que sucede con el Equipo Pachuca(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160115030000 -0600" stop="20160115033000 -0600" channel="ClaroSports">
+    <title lang="es">The Extreme Collxtion</title>
+    <category lang="es">Deportes</category>
+    <category lang="es">D.Extremos</category>
+  </programme>
+  <programme start="20160115033000 -0600" stop="20160115040000 -0600" channel="ClaroSports">
+    <title lang="es">Sport Confidential</title>
+    <desc lang="es">Una serie que desvela las noticias y acontecimientos más destacados en el mundo del deporte cada semana. Historias de interés actual alrededor de los deportes más importantes, enfocadas en los eventos y atletas de más alto perfil. Todo lo que el espectador necesita saber en materia deportiva cada semana en un formato dinámico y audaz(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20160115040000 -0600" stop="20160115050000 -0600" channel="ClaroSports">
+    <title lang="es">El análisis</title>
+    <desc lang="es">Programa de debate periodístico encaminado a analizar los temas del momento en el mundo del deporte a nivel internacional, bajo varias perspectivas, que van desde la tradicional arista periodística hasta el sesgo psicológico, económico y/o social. El Análisis también cuenta con temas de investigación especial. El Análisis brinda profundidad en cada tema y sobre todo deja elementos de reflexión en el televidente(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20160115050000 -0600" stop="20160115060000 -0600" channel="ClaroSports">
+    <title lang="es">Deportes en Claro</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20160115060000 -0600" stop="20160115063000 -0600" channel="ClaroSports">
+    <title lang="es">Bolly Blast</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20160115063000 -0600" stop="20160115070000 -0600" channel="ClaroSports">
+    <title lang="es">Fitness First Class</title>
+    <desc lang="es">Diferentes series de Fitness(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160115070000 -0600" stop="20160115080000 -0600" channel="ClaroSports">
+    <title lang="es">New Fitness Collection</title>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fisicoculturismo</category>
+  </programme>
+  <programme start="20160115080000 -0600" stop="20160115083000 -0600" channel="ClaroSports">
+    <title lang="es">Vida Zen</title>
+    <desc lang="es">Programa dedicado a brindar consejos de fitness, salud, nutrición y bienestar para cuerpo y mente. Edna, nuestra experta en Health Care, muestra en pocos minutos el paso a paso para lograr un estilo de vida más saludable y pleno(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160115083000 -0600" stop="20160115090000 -0600" channel="ClaroSports">
+    <title lang="es">Fitness First Class</title>
+    <desc lang="es">Diferentes series de Fitness(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160115090000 -0600" stop="20160115093000 -0600" channel="ClaroSports">
+    <title lang="es">Vidas extraordinarias</title>
+    <desc lang="es">Programa de contenido social y deportivo que muestra la historia de vida de deportistas profesionales y amateur(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160115093000 -0600" stop="20160115100000 -0600" channel="ClaroSports">
+    <title lang="es">The Football Review</title>
+    <desc lang="es">El más completo resumen de todas las ligas europeas fecha a fecha, el enfoque principal es el impacto, el significado de los resultados, y el desarrollo de cada competencia(n)</desc>
+    <category lang="es">Noticias</category>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20160115100000 -0600" stop="20160115110000 -0600" channel="ClaroSports">
+    <title lang="es">Deportes en Claro</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20160115110000 -0600" stop="20160115120000 -0600" channel="ClaroSports">
+    <title lang="es">Auto y pista</title>
+    <desc lang="es">Magazine informativo dedicado al deporte motor y al automóvil. Contará con información de competencias en todas las categorías, entrevistas, especiales y reportajes. Tendrá una sección dedicada a ecología y nuevas tecnologías(n)</desc>
+    <credits>
+      <actor>Marco Tolama</actor>
+    </credits>
+    <category lang="es">Deportes</category>
+    <category lang="es">Automovilismo</category>
+  </programme>
+  <programme start="20160115120000 -0600" stop="20160115130000 -0600" channel="ClaroSports">
+    <title lang="es">Jugando claro</title>
+    <desc lang="es">Programa dedicado al futbol latinoamericano y europeo, donde se busca dar noticias, generar exclusivas, causar polémica y lograr que diferentes medios retomen esta información y contenido(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20160115130000 -0600" stop="20160115133000 -0600" channel="ClaroSports">
+    <title lang="es">En Corto</title>
+    <desc lang="es">Compartimos los mejores videos de la web sobre temas de actualidad(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160115133000 -0600" stop="20160115153000 -0600" channel="ClaroSports">
+    <title lang="es">NCAA Basquetbol</title>
+    <sub-title lang="es">Lsu vs. Florida</sub-title>
+    <desc lang="es">Se denomina así a la categoría de basquetbol que engloba las competiciones y partidos entre equipos universitarios(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Basquet</category>
+  </programme>
+  <programme start="20160115153000 -0600" stop="20160115160000 -0600" channel="ClaroSports">
+    <title lang="es">Deportes en Claro</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20160115160000 -0600" stop="20160115163000 -0600" channel="ClaroSports">
+    <title lang="es">The Extreme Collxtion</title>
+    <category lang="es">Deportes</category>
+    <category lang="es">D.Extremos</category>
+  </programme>
+  <programme start="20160115163000 -0600" stop="20160115170000 -0600" channel="ClaroSports">
+    <title lang="es">Por confirmar</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160115170000 -0600" stop="20160115173000 -0600" channel="ClaroSports">
+    <title lang="es">El corazón de la fiera</title>
+    <desc lang="es">Programa con la intención de dar al aficionado del futbol mexicano, el lado humano del jugador y de las personas involucradas en toda la logística y organización del Club León(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160115173000 -0600" stop="20160115180000 -0600" channel="ClaroSports">
+    <title lang="es">Sport Confidential</title>
+    <desc lang="es">Una serie que desvela las noticias y acontecimientos más destacados en el mundo del deporte cada semana. Historias de interés actual alrededor de los deportes más importantes, enfocadas en los eventos y atletas de más alto perfil. Todo lo que el espectador necesita saber en materia deportiva cada semana en un formato dinámico y audaz(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20160115180000 -0600" stop="20160115183000 -0600" channel="ClaroSports">
+    <title lang="es">Destino Río</title>
+    <desc lang="es">La llamada "Ciudad Maravillosa" siempre ha sido lugar de encuentro de brasileros y extranjeros, que diariamente protagonizan en ella innumerables y diferentes historias. La miniserie Destino Río ofrece, en seis episodios, una combinación de drama, comedia, romance, tensión y poesía. Se trata de unas crónicas de amor y amistad, familia, vicios, crimen, encuentros y desencuentros, celos, separaciones, búsqueda y revelaciones. Son las historias de los extranjeros de diferentes nacionalidades que viven, se encuentran y se cruzan en una de las ciudades más conocidas y visitadas del mundo, donde sus vidas se entrelazan para siempre(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160115183000 -0600" stop="20160115190000 -0600" channel="ClaroSports">
+    <title lang="es">Chelsea TV</title>
+    <desc lang="es">Programas en torno a todo lo que sucede con el Equipo Chelsea(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20160115190000 -0600" stop="20160115210000 -0600" channel="ClaroSports">
+    <title lang="es">Chelsea TV</title>
+    <sub-title lang="es">Chelsea vs. West Bromwich</sub-title>
+    <desc lang="es">Programas en torno a todo lo que sucede con el Equipo Chelsea(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20160115210000 -0600" stop="20160115220000 -0600" channel="ClaroSports">
+    <title lang="es">Deportes en Claro</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20160115220000 -0600" stop="20160116000000 -0600" channel="ClaroSports">
+    <title lang="es">Bayern TV</title>
+    <desc lang="es">Partidos donde juegue Bayer Munich(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20160116000000 -0600" stop="20160116010000 -0600" channel="ClaroSports">
+    <title lang="es">Especiales Bayern</title>
+    <desc lang="es">Programas en torno a todo lo que sucede con el Equipo Bayern Munich(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20160116010000 -0600" stop="20160116013000 -0600" channel="ClaroSports">
+    <title lang="es">El corazón de la fiera</title>
+    <desc lang="es">Programa con la intención de dar al aficionado del futbol mexicano, el lado humano del jugador y de las personas involucradas en toda la logística y organización del Club León(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160116013000 -0600" stop="20160116020000 -0600" channel="ClaroSports">
+    <title lang="es">Sport Confidential</title>
+    <desc lang="es">Una serie que desvela las noticias y acontecimientos más destacados en el mundo del deporte cada semana. Historias de interés actual alrededor de los deportes más importantes, enfocadas en los eventos y atletas de más alto perfil. Todo lo que el espectador necesita saber en materia deportiva cada semana en un formato dinámico y audaz(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20160116020000 -0600" stop="20160116040000 -0600" channel="ClaroSports">
+    <title lang="es">NCAA Basquetbol</title>
+    <sub-title lang="es">Lsu vs. Florida</sub-title>
+    <desc lang="es">Se denomina así a la categoría de basquetbol que engloba las competiciones y partidos entre equipos universitarios(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Basquet</category>
+  </programme>
+  <programme start="20160116040000 -0600" stop="20160116050000 -0600" channel="ClaroSports">
+    <title lang="es">Olympia</title>
+    <desc lang="es">Este especial incluirá información de los Juegos Olímpicos del 2016, a través de imágenes exclusivas, entrevistas y perfiles de los principales atletas(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Olímpicos</category>
+  </programme>
+  <programme start="20160116050000 -0600" stop="20160116060000 -0600" channel="ClaroSports">
+    <title lang="es">Deportes en Claro</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20160116060000 -0600" stop="20160116063000 -0600" channel="ClaroSports">
+    <title lang="es">Vida Zen</title>
+    <desc lang="es">Programa dedicado a brindar consejos de fitness, salud, nutrición y bienestar para cuerpo y mente. Edna, nuestra experta en Health Care, muestra en pocos minutos el paso a paso para lograr un estilo de vida más saludable y pleno(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160116063000 -0600" stop="20160116070000 -0600" channel="ClaroSports">
+    <title lang="es">Star Block Workout</title>
+    <desc lang="es">Block Workout es un show internacional urbano en el que Terroll 'Boost' Lewis presenta el más novedoso sistema de ejercicio en las mejores ciudades(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20160116070000 -0600" stop="20160116073000 -0600" channel="ClaroSports">
+    <title lang="es">Fitness First Class</title>
+    <desc lang="es">Diferentes series de Fitness(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160116073000 -0600" stop="20160116080000 -0600" channel="ClaroSports">
+    <title lang="es">Vida Zen</title>
+    <desc lang="es">Programa dedicado a brindar consejos de fitness, salud, nutrición y bienestar para cuerpo y mente. Edna, nuestra experta en Health Care, muestra en pocos minutos el paso a paso para lograr un estilo de vida más saludable y pleno(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160116080000 -0600" stop="20160116083000 -0600" channel="ClaroSports">
+    <title lang="es">GP Racing</title>
+    <desc lang="es">Todas las noticias, el drama y el glamour del alto ritmo del mundo de Fórmula1(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Automovilismo</category>
+  </programme>
+  <programme start="20160116083000 -0600" stop="20160116090000 -0600" channel="ClaroSports">
+    <title lang="es">Sport Stars Uncovered</title>
+    <desc lang="es">En "Sport Stars Uncovered", conozcan la vida de los más grandes campeones. En Trace Sport Stars vean sus fortunas, sus tatuajes y hasta sus parejas(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160116090000 -0600" stop="20160116110000 -0600" channel="ClaroSports">
+    <title lang="es">Bayern TV</title>
+    <desc lang="es">Partidos donde juegue Bayer Munich(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20160116110000 -0600" stop="20160116120000 -0600" channel="ClaroSports">
+    <title lang="es">Especiales Bayern</title>
+    <desc lang="es">Programas en torno a todo lo que sucede con el Equipo Bayern Munich(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20160116120000 -0600" stop="20160116123000 -0600" channel="ClaroSports">
+    <title lang="es">Chelsea TV</title>
+    <desc lang="es">Programas en torno a todo lo que sucede con el Equipo Chelsea(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20160116123000 -0600" stop="20160116143000 -0600" channel="ClaroSports">
+    <title lang="es">Chelsea TV</title>
+    <sub-title lang="es">Chelsea vs. West Bromwich</sub-title>
+    <desc lang="es">Programas en torno a todo lo que sucede con el Equipo Chelsea(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20160116143000 -0600" stop="20160116153000 -0600" channel="ClaroSports">
+    <title lang="es">Titanes del ring</title>
+    <desc lang="es">Los mejores exponentes del Consejo Mundial de Lucha Libre se dan cita en el cuadrilátero para deleitar con su técnica a los miles de fans de la lucha mexicana(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Artes Marciales</category>
+  </programme>
+  <programme start="20160116153000 -0600" stop="20160116160000 -0600" channel="ClaroSports">
+    <title lang="es">Sport Confidential</title>
+    <desc lang="es">Una serie que desvela las noticias y acontecimientos más destacados en el mundo del deporte cada semana. Historias de interés actual alrededor de los deportes más importantes, enfocadas en los eventos y atletas de más alto perfil. Todo lo que el espectador necesita saber en materia deportiva cada semana en un formato dinámico y audaz(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20160116160000 -0600" stop="20160116180000 -0600" channel="ClaroSports">
+    <title lang="es">Voleibol europeo continental</title>
+    <sub-title lang="es">Final</sub-title>
+    <category lang="es">Deportes</category>
+    <category lang="es">Voley</category>
+  </programme>
+  <programme start="20160116180000 -0600" stop="20160116183000 -0600" channel="ClaroSports">
+    <title lang="es">Road to Río</title>
+    <desc lang="es">Este especial incluirá información de la próxima Copa del Mundo 2014 y de los Juegos Olímpicos del 2016, a través de imágenes exclusivas, entrevistas y perfiles de los principales atletas(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20160116183000 -0600" stop="20160116190000 -0600" channel="ClaroSports">
+    <title lang="es">Claro, soy Tuzo</title>
+    <desc lang="es">Programas en torno a todo lo que sucede con el Equipo Pachuca(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160116190000 -0600" stop="20160116200000 -0600" channel="ClaroSports">
+    <title lang="es">Previa futbol</title>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20160116200000 -0600" stop="20160116223000 -0600" channel="ClaroSports">
+    <title lang="es">Liga MX</title>
+    <desc lang="es">La Liga MX es el torneo de fútbol profesional más importante de México y el más dominante del área de la Concacaf. En ella compiten 18 equipos acumulando puntos a lo largo de 17 jornadas para clasificar a la "Liguilla". Los ocho clubes con mejor puntuación en la tabla son los que lo logran(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20160116223000 -0600" stop="20160117003000 -0600" channel="ClaroSports">
+    <title lang="es">Liga MX</title>
+    <desc lang="es">La Liga MX es el torneo de fútbol profesional más importante de México y el más dominante del área de la Concacaf. En ella compiten 18 equipos acumulando puntos a lo largo de 17 jornadas para clasificar a la "Liguilla". Los ocho clubes con mejor puntuación en la tabla son los que lo logran(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20160117003000 -0600" stop="20160117010000 -0600" channel="ClaroSports">
+    <title lang="es">Sport Confidential</title>
+    <desc lang="es">Una serie que desvela las noticias y acontecimientos más destacados en el mundo del deporte cada semana. Historias de interés actual alrededor de los deportes más importantes, enfocadas en los eventos y atletas de más alto perfil. Todo lo que el espectador necesita saber en materia deportiva cada semana en un formato dinámico y audaz(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20160117010000 -0600" stop="20160117013000 -0600" channel="ClaroSports">
+    <title lang="es">Football Stars</title>
+    <desc lang="es">Excepcionales con el esférico y portada de tabloides: el lado ácido de los campeones del fútbol se muestra en Football Stars(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20160117013000 -0600" stop="20160117020000 -0600" channel="ClaroSports">
+    <title lang="es">Road to Río</title>
+    <desc lang="es">Este especial incluirá información de la próxima Copa del Mundo 2014 y de los Juegos Olímpicos del 2016, a través de imágenes exclusivas, entrevistas y perfiles de los principales atletas(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20160117020000 -0600" stop="20160117040000 -0600" channel="ClaroSports">
+    <title lang="es">Bayern TV</title>
+    <desc lang="es">Partidos donde juegue Bayer Munich(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20160117040000 -0600" stop="20160117050000 -0600" channel="ClaroSports">
+    <title lang="es">Especiales Bayern</title>
+    <desc lang="es">Programas en torno a todo lo que sucede con el Equipo Bayern Munich(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20160117050000 -0600" stop="20160117060000 -0600" channel="ClaroSports">
+    <title lang="es">Titanes del ring</title>
+    <desc lang="es">Los mejores exponentes del Consejo Mundial de Lucha Libre se dan cita en el cuadrilátero para deleitar con su técnica a los miles de fans de la lucha mexicana(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Artes Marciales</category>
+  </programme>
+  <programme start="20160117060000 -0600" stop="20160117063000 -0600" channel="ClaroSports">
+    <title lang="es">Vida Zen</title>
+    <desc lang="es">Programa dedicado a brindar consejos de fitness, salud, nutrición y bienestar para cuerpo y mente. Edna, nuestra experta en Health Care, muestra en pocos minutos el paso a paso para lograr un estilo de vida más saludable y pleno(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160117063000 -0600" stop="20160117070000 -0600" channel="ClaroSports">
+    <title lang="es">Star Block Workout</title>
+    <desc lang="es">Block Workout es un show internacional urbano en el que Terroll 'Boost' Lewis presenta el más novedoso sistema de ejercicio en las mejores ciudades(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20160117070000 -0600" stop="20160117073000 -0600" channel="ClaroSports">
+    <title lang="es">Fitness First Class</title>
+    <desc lang="es">Diferentes series de Fitness(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160117073000 -0600" stop="20160117080000 -0600" channel="ClaroSports">
+    <title lang="es">101 Exercises to Do Before You Die</title>
+    <desc lang="es">¡Descubran "101 ejercicios que hacer antes de morir"!(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Salud</category>
+  </programme>
+  <programme start="20160117080000 -0600" stop="20160117090000 -0600" channel="ClaroSports">
+    <title lang="es">Auto y pista</title>
+    <desc lang="es">Magazine informativo dedicado al deporte motor y al automóvil. Contará con información de competencias en todas las categorías, entrevistas, especiales y reportajes. Tendrá una sección dedicada a ecología y nuevas tecnologías(n)</desc>
+    <credits>
+      <actor>Marco Tolama</actor>
+    </credits>
+    <category lang="es">Deportes</category>
+    <category lang="es">Automovilismo</category>
+  </programme>
+  <programme start="20160117090000 -0600" stop="20160117093000 -0600" channel="ClaroSports">
+    <title lang="es">Chelsea TV</title>
+    <desc lang="es">Programas en torno a todo lo que sucede con el Equipo Chelsea(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20160117093000 -0600" stop="20160117113000 -0600" channel="ClaroSports">
+    <title lang="es">Chelsea TV</title>
+    <sub-title lang="es">Chelsea vs. West Bromwich</sub-title>
+    <desc lang="es">Programas en torno a todo lo que sucede con el Equipo Chelsea(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20160117113000 -0600" stop="20160117120000 -0600" channel="ClaroSports">
+    <title lang="es">Vidas extraordinarias</title>
+    <desc lang="es">Programa de contenido social y deportivo que muestra la historia de vida de deportistas profesionales y amateur(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160117120000 -0600" stop="20160117123000 -0600" channel="ClaroSports">
+    <title lang="es">Sport Confidential</title>
+    <desc lang="es">Una serie que desvela las noticias y acontecimientos más destacados en el mundo del deporte cada semana. Historias de interés actual alrededor de los deportes más importantes, enfocadas en los eventos y atletas de más alto perfil. Todo lo que el espectador necesita saber en materia deportiva cada semana en un formato dinámico y audaz(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20160117123000 -0600" stop="20160117143000 -0600" channel="ClaroSports">
+    <title lang="es">NCAA Basquetbol</title>
+    <desc lang="es">Se denomina así a la categoría de basquetbol que engloba las competiciones y partidos entre equipos universitarios(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Basquet</category>
+  </programme>
+  <programme start="20160117143000 -0600" stop="20160117163000 -0600" channel="ClaroSports">
+    <title lang="es">Liga MX</title>
+    <desc lang="es">La Liga MX es el torneo de fútbol profesional más importante de México y el más dominante del área de la Concacaf. En ella compiten 18 equipos acumulando puntos a lo largo de 17 jornadas para clasificar a la "Liguilla". Los ocho clubes con mejor puntuación en la tabla son los que lo logran(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20160117163000 -0600" stop="20160117170000 -0600" channel="ClaroSports">
+    <title lang="es">The Extreme Collxtion</title>
+    <category lang="es">Deportes</category>
+    <category lang="es">D.Extremos</category>
+  </programme>
+  <programme start="20160117170000 -0600" stop="20160117180000 -0600" channel="ClaroSports">
+    <title lang="es">Titanes del ring</title>
+    <desc lang="es">Los mejores exponentes del Consejo Mundial de Lucha Libre se dan cita en el cuadrilátero para deleitar con su técnica a los miles de fans de la lucha mexicana(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Artes Marciales</category>
+  </programme>
+  <programme start="20160117180000 -0600" stop="20160117200000 -0600" channel="ClaroSports">
+    <title lang="es">NCAA Basquetbol</title>
+    <desc lang="es">Se denomina así a la categoría de basquetbol que engloba las competiciones y partidos entre equipos universitarios(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Basquet</category>
+  </programme>
+  <programme start="20160117200000 -0600" stop="20160117210000 -0600" channel="ClaroSports">
+    <title lang="es">Deportes en Claro</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20160117210000 -0600" stop="20160117213000 -0600" channel="ClaroSports">
+    <title lang="es">Where the Trail Ends</title>
+    <desc lang="es">Documental que sigue a los ciclistas profesionales Darren Berrecloth, Cameron Zink, Kurt Sorge, James Doerfling, Andreu Lacondeguy y a otros seis de los mejores atletas del freeride de mayor nivel en un viaje de exploración, caos y cultura a algunos de los paisajes más impresionantes y remotos del mundo(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160117213000 -0600" stop="20160117220000 -0600" channel="ClaroSports">
+    <title lang="es">The Extreme Collxtion</title>
+    <category lang="es">Deportes</category>
+    <category lang="es">D.Extremos</category>
+  </programme>
+  <programme start="20160117220000 -0600" stop="20160117230000 -0600" channel="ClaroSports">
+    <title lang="es">Jugando claro</title>
+    <desc lang="es">Programa dedicado al futbol latinoamericano y europeo, donde se busca dar noticias, generar exclusivas, causar polémica y lograr que diferentes medios retomen esta información y contenido(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20160117230000 -0600" stop="20160118010000 -0600" channel="ClaroSports">
+    <title lang="es">Liga MX</title>
+    <desc lang="es">La Liga MX es el torneo de fútbol profesional más importante de México y el más dominante del área de la Concacaf. En ella compiten 18 equipos acumulando puntos a lo largo de 17 jornadas para clasificar a la "Liguilla". Los ocho clubes con mejor puntuación en la tabla son los que lo logran(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20160118010000 -0600" stop="20160118013000 -0600" channel="ClaroSports">
+    <title lang="es">El corazón de la fiera</title>
+    <desc lang="es">Programa con la intención de dar al aficionado del futbol mexicano, el lado humano del jugador y de las personas involucradas en toda la logística y organización del Club León(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160118013000 -0600" stop="20160118020000 -0600" channel="ClaroSports">
+    <title lang="es">National Icons</title>
+    <desc lang="es">El cara a cara entre campeones del deporte, pasados versus actuales en una épica batalla por la supremacía. Además de fútbol, incluirá deportes tales como la F1, tenis, básquetbol, deportes olímpicos y más(n)</desc>
+    <category lang="es">Noticias</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20160118020000 -0600" stop="20160118023000 -0600" channel="ClaroSports">
+    <title lang="es">Vidas extraordinarias</title>
+    <desc lang="es">Programa de contenido social y deportivo que muestra la historia de vida de deportistas profesionales y amateur(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160118023000 -0600" stop="20160118030000 -0600" channel="ClaroSports">
+    <title lang="es">Chelsea TV</title>
+    <desc lang="es">Programas en torno a todo lo que sucede con el Equipo Chelsea(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20160118030000 -0600" stop="20160118050000 -0600" channel="ClaroSports">
+    <title lang="es">Chelsea TV</title>
+    <sub-title lang="es">Chelsea vs. West Bromwich</sub-title>
+    <desc lang="es">Programas en torno a todo lo que sucede con el Equipo Chelsea(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20160118050000 -0600" stop="20160118060000 -0600" channel="ClaroSports">
+    <title lang="es">Deportes en Claro</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20160118060000 -0600" stop="20160118063000 -0600" channel="ClaroSports">
+    <title lang="es">Bolly Blast</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20160118063000 -0600" stop="20160118070000 -0600" channel="ClaroSports">
+    <title lang="es">Fitness First Class</title>
+    <desc lang="es">Diferentes series de Fitness(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160118070000 -0600" stop="20160118073000 -0600" channel="ClaroSports">
+    <title lang="es">Vida Zen</title>
+    <desc lang="es">Programa dedicado a brindar consejos de fitness, salud, nutrición y bienestar para cuerpo y mente. Edna, nuestra experta en Health Care, muestra en pocos minutos el paso a paso para lograr un estilo de vida más saludable y pleno(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160118073000 -0600" stop="20160118080000 -0600" channel="ClaroSports">
+    <title lang="es">Bolly Blast</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20160118080000 -0600" stop="20160118083000 -0600" channel="ClaroSports">
+    <title lang="es">Vida Zen</title>
+    <desc lang="es">Programa dedicado a brindar consejos de fitness, salud, nutrición y bienestar para cuerpo y mente. Edna, nuestra experta en Health Care, muestra en pocos minutos el paso a paso para lograr un estilo de vida más saludable y pleno(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160118083000 -0600" stop="20160118090000 -0600" channel="ClaroSports">
+    <title lang="es">Fitness First Class</title>
+    <desc lang="es">Diferentes series de Fitness(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160118090000 -0600" stop="20160118093000 -0600" channel="ClaroSports">
+    <title lang="es">Sport Stars Uncovered</title>
+    <desc lang="es">En "Sport Stars Uncovered", conozcan la vida de los más grandes campeones. En Trace Sport Stars vean sus fortunas, sus tatuajes y hasta sus parejas(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160118093000 -0600" stop="20160118100000 -0600" channel="ClaroSports">
+    <title lang="es">National Icons</title>
+    <desc lang="es">El cara a cara entre campeones del deporte, pasados versus actuales en una épica batalla por la supremacía. Además de fútbol, incluirá deportes tales como la F1, tenis, básquetbol, deportes olímpicos y más(n)</desc>
+    <category lang="es">Noticias</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20160118100000 -0600" stop="20160118110000 -0600" channel="ClaroSports">
+    <title lang="es">Tiempo extra</title>
+    <desc lang="es">Diego Díaz, Joaquín Álvarez y Quique Felman proponen terminar el día con una sonrisa en Tiempo Extra, el magazine de la medianoche de TyC Sports. Con invitados en el estudio, entrevistas a personalidades del deporte y del espectáculo, móviles y, sobre todo, mucho humor(n)</desc>
+    <credits>
+      <actor>Diego Díaz</actor>
+      <actor>Enrique Felman</actor>
+      <actor>Ivana Nadal</actor>
+    </credits>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20160118110000 -0600" stop="20160118120000 -0600" channel="ClaroSports">
+    <title lang="es">Jugando claro</title>
+    <desc lang="es">Programa dedicado al futbol latinoamericano y europeo, donde se busca dar noticias, generar exclusivas, causar polémica y lograr que diferentes medios retomen esta información y contenido(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20160118120000 -0600" stop="20160118123000 -0600" channel="ClaroSports">
+    <title lang="es">Extreme Sailing</title>
+    <desc lang="es">Competencia internacional de circuito de veleros que convoca solo a los mejores veleristas del mundo para competir entre ellos(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Náutica</category>
+  </programme>
+  <programme start="20160118123000 -0600" stop="20160118130000 -0600" channel="ClaroSports">
+    <title lang="es">Where the Trail Ends</title>
+    <desc lang="es">Documental que sigue a los ciclistas profesionales Darren Berrecloth, Cameron Zink, Kurt Sorge, James Doerfling, Andreu Lacondeguy y a otros seis de los mejores atletas del freeride de mayor nivel en un viaje de exploración, caos y cultura a algunos de los paisajes más impresionantes y remotos del mundo(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160118130000 -0600" stop="20160118133000 -0600" channel="ClaroSports">
+    <title lang="es">AFL en corto</title>
+    <desc lang="es">Enorme tradición, el fútbol de reglas australianas es un deporte dinámico en el que 18 jugadores por equipo muestran técnica, garra y destreza para anotar la mayor cantidad de puntos posibles(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20160118133000 -0600" stop="20160118153000 -0600" channel="ClaroSports">
+    <title lang="es">Liga MX</title>
+    <desc lang="es">La Liga MX es el torneo de fútbol profesional más importante de México y el más dominante del área de la Concacaf. En ella compiten 18 equipos acumulando puntos a lo largo de 17 jornadas para clasificar a la "Liguilla". Los ocho clubes con mejor puntuación en la tabla son los que lo logran(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20160118153000 -0600" stop="20160118160000 -0600" channel="ClaroSports">
+    <title lang="es">Noticiero Claro Sports, primer tiempo</title>
+    <desc lang="es">Noticiero que aborda con una óptica juvenil y divertida los eventos deportivos más importantes de la jornada(n)</desc>
+    <credits>
+      <actor>Gabriela Cobo</actor>
+      <actor>Rodrigo Méndez</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160118160000 -0600" stop="20160118163000 -0600" channel="ClaroSports">
+    <title lang="es">Road to Río</title>
+    <desc lang="es">Este especial incluirá información de la próxima Copa del Mundo 2014 y de los Juegos Olímpicos del 2016, a través de imágenes exclusivas, entrevistas y perfiles de los principales atletas(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20160118163000 -0600" stop="20160118170000 -0600" channel="ClaroSports">
+    <title lang="es">Where the Trail Ends</title>
+    <desc lang="es">Documental que sigue a los ciclistas profesionales Darren Berrecloth, Cameron Zink, Kurt Sorge, James Doerfling, Andreu Lacondeguy y a otros seis de los mejores atletas del freeride de mayor nivel en un viaje de exploración, caos y cultura a algunos de los paisajes más impresionantes y remotos del mundo(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160118170000 -0600" stop="20160118190000 -0600" channel="ClaroSports">
+    <title lang="es">Bayern TV</title>
+    <sub-title lang="es">DFB Pokal Wolfburg vs. Bayern Munich</sub-title>
+    <desc lang="es">Partidos donde juegue Bayer Munich(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20160118190000 -0600" stop="20160118200000 -0600" channel="ClaroSports">
+    <title lang="es">Especiales Bayern</title>
+    <desc lang="es">Programas en torno a todo lo que sucede con el Equipo Bayern Munich(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20160118200000 -0600" stop="20160118210000 -0600" channel="ClaroSports">
+    <title lang="es">En el diamante</title>
+    <desc lang="es">Alfonso Lazangorta y Duaner Sánchez, conducen este magazine especializado sobre el Rey de los deportes, con todo el acontecer del beisbol a nivel nacional e internacional(n)</desc>
+    <credits>
+      <actor>Duaner Sánchez</actor>
+      <actor>Alfonso Lazangorta</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160118210000 -0600" stop="20160118220000 -0600" channel="ClaroSports">
+    <title lang="es">Noticiero Claro Sports, segundo tiempo</title>
+    <desc lang="es">Noticiero que aborda con una óptica juvenil y divertida los eventos deportivos más importantes de la jornada(n)</desc>
+    <credits>
+      <actor>Gabriela Cobo</actor>
+      <actor>Rodrigo Méndez</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160118220000 -0600" stop="20160118223000 -0600" channel="ClaroSports">
+    <title lang="es">The Football Review</title>
+    <desc lang="es">El más completo resumen de todas las ligas europeas fecha a fecha, el enfoque principal es el impacto, el significado de los resultados, y el desarrollo de cada competencia(n)</desc>
+    <category lang="es">Noticias</category>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20160118223000 -0600" stop="20160118230000 -0600" channel="ClaroSports">
+    <title lang="es">Fútbol y tacón</title>
+    <desc lang="es">Magazine Deportivo con invitados especiales donde los temas principales son en torno al fútbol internacional(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Deportivo</category>
   </programme>
 </tv>
