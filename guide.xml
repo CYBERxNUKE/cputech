@@ -98,6 +98,7 @@
   </channel>
   <channel id="Canal 4 Guadalajara">
     <display-name lang="es">Canal 4 Guadalajara</display-name>
+    <icon src="http://y.cdn.entutele.com/media/channels/big/canal-4-guadalajara.gif" />
     <url>http://www.entutele.com</url>
   </channel>
   <channel id="Canal 5">
@@ -29533,5 +29534,1325 @@
     <desc lang="es">De Charles Chaplin a Wong Kar Wai. De Emilio "El indio" Fernández a Carlos Reygadas. Todas las historias, todas las miradas y todos los directores los encontrarás en Cinema 22(n)</desc>
     <category lang="es">Ciclo</category>
     <category lang="es">Película</category>
+  </programme>
+  <programme start="20160111020000 -0600" stop="20160111033000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Blue demon frente a la muerte</title>
+    <desc lang="es">El agente secreto Lafargue localiza el cuartel general del malvado profesor Marcus, quien con la ayuda del doctor Bellini y de un androide de su invención, planean la conquista del mundo. Lafargue es descubierto y gravemente herido por lo que es incapaz de recordar dónde se encuentra la base de Marcus o en qué consiste su plan. Para resolver esta situación las autoridades llaman al Agente Cero, un equipo de contraespionaje conformado por Blue Demon y el empresario de lucha libre, Julio, quienes deberán enfrentar a los agentes de Marcus, así como al temible androide y una situación inesperada(n)</desc>
+    <credits>
+      <actor>Ana Luisa Peluffo</actor>
+      <actor>Blue Demon</actor>
+      <actor>Alfredo B. Crevenna</actor>
+      <actor>Alejandro Cruz</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Acción</category>
+  </programme>
+  <programme start="20160111033000 -0600" stop="20160111051500 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Foro GDL</title>
+    <sub-title lang="es">Día del adulto mayor</sub-title>
+    <desc lang="es">Los domingos conoce con mayor profundidad los temas de más importantes que involucran al estado mexicano, a través de una mesa de debate que analizará cada uno de los detalles correspondientes(n)</desc>
+    <credits>
+      <actor>José Antonio Fernández</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160111051500 -0600" stop="20160111053000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Programas especiales Jal</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Especial</category>
+  </programme>
+  <programme start="20160111053000 -0600" stop="20160111060000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Fuerza cósmica</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160111060000 -0600" stop="20160111090000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">GDL Noticias - Matutino</title>
+    <desc lang="es">Toda la información y las notas más relevantes sobre el clima, las finanzas, policiacas y viales del país, llegan a ti de manera oportuna con este noticiero conformado por un equipo de profesionales(n)</desc>
+    <credits>
+      <actor>Paola Velasco</actor>
+      <actor>Rodolfo Martín Guerrero</actor>
+      <actor>Miguel Ángel Collado</actor>
+      <actor>Marilyn Sicilia</actor>
+      <actor>Daniela Vega</actor>
+      <actor>Elsa Martha Gutierrez</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160111090000 -0600" stop="20160111120000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Día a día</title>
+    <desc lang="es">Programa de revista fresco y divertido para las mujeres del hogar. Cuenta con una variedad amplia de temas que involucra la salud, la moda, las manualidades, la jardinería, los consejos para tu familia y la gastronomía, sin olvidar las últimas noticias del espectáculo. También disfrutarás de la mejor música con la presentación en vivo de los artistas del momento(n)</desc>
+    <credits>
+      <actor>Paco Aceves</actor>
+      <actor>Carlos Anaya</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Interés General</category>
+  </programme>
+  <programme start="20160111120000 -0600" stop="20160111130000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Cocina práctica</title>
+    <desc lang="es">Programa culinario en el que tres chefs te presentan platillos fáciles de hacer, de la cocina mexicana e internacional, con la participación de invitados especiales. Durante media hora serás partícipe de una receta práctica, sencilla y económica, siendo ésta una interesante, pero por sobre todo, divertida combinación que no puedes dejar de ver(n)</desc>
+    <credits>
+      <actor>Antonio Sayavera</actor>
+      <actor>Tony Nardelli</actor>
+      <actor>Carlos Treviño</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Cocina</category>
+  </programme>
+  <programme start="20160111130000 -0600" stop="20160111160000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">GDL contigo</title>
+    <desc lang="es">GDL Contigo fue creado para ayudar a la sociedad mas desprotegida de la zona metropolitana de Guadalajara y sus alrededores,(n)</desc>
+    <credits>
+      <actor>Rodolfo Martín Guerrero</actor>
+      <actor>Karina Lomelí</actor>
+      <actor>Silverio Gamboa</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20160111160000 -0600" stop="20160111174500 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Amor en las nubes</title>
+    <desc lang="es">Historia de cuatro mujeres que, tras finalizar sus estudios de azafatas, empiezan a ver culminados sus sueños de viajar y conocer distintos países de América y de Europa. Sin embargo, cada una de ellas enfrentará diferentes circunstancias, todas como consecuencia de sus respectivos pasados, los cuales también son distintos(n)</desc>
+    <credits>
+      <actor>Armando Silvestre</actor>
+      <actor>Barbara Angely</actor>
+      <actor>Alejandro Algara</actor>
+      <actor>Manuel Zecena Diéguez</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Aventura</category>
+  </programme>
+  <programme start="20160111174500 -0600" stop="20160111180000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Alternativa</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160111180000 -0600" stop="20160111190000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Que Pokar!</title>
+    <desc lang="es">Aquí encontrarás todas las noticias referidas al mundo del espectáculo mexicano e internacional con un toque distintivo, lleno de frescura y conducido por sensuales mujeres(n)</desc>
+    <credits>
+      <actor>Paola Velasco</actor>
+      <actor>Astrid</actor>
+      <actor>Karina Angulo</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20160111190000 -0600" stop="20160111200000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">El gordo y la flaca</title>
+    <desc lang="es">Raúl De Molina alias 'El Gordo’ y Lili Estefan conocida como ‘La Flaca’ son quienes llevan la batuta en este espacio reservado para los chismes del mundo del espectáculo, ellos no dejarán de revelar cualquier intimidad relacionada con las estrellas que brillan en la televisión, el cine y la música. Gracias al olfato de este par sin igual y de sus reporteros que siempre andan tras la pista del mejor chisme, los secretos de Hollywood se hacen más divertidos y originales(n)</desc>
+    <credits>
+      <actor>Raúl De Molina</actor>
+      <actor>Lili Estefan</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20160111200000 -0600" stop="20160111210000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">A nivel de cancha</title>
+    <desc lang="es">La polémica se mantiene viva en este programa que muestra de manera ágil los sucesos más importantes y trascendentes del fútbol del fin de semana y de otros deportes, con el análisis de los mejores conductores de Guadalajara, quienes, con el choque de sus posturas, muchas veces generan debates que mantienen atentos a todos los televidentes(n)</desc>
+    <credits>
+      <actor>Aldo González</actor>
+      <actor>Juan Pablo Romero</actor>
+      <actor>Pedro Flores</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160111210000 -0600" stop="20160111220000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">GDL Noticias - Nocturno</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160111220000 -0600" stop="20160111230000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Periodismo en plural</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Político</category>
+  </programme>
+  <programme start="20160111230000 -0600" stop="20160112000000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Resumen anual</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Especial</category>
+  </programme>
+  <programme start="20160112000000 -0600" stop="20160112003000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Univer TV</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160112003000 -0600" stop="20160112010000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Sendero del bien</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160112010000 -0600" stop="20160112020000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">El gordo y la flaca</title>
+    <desc lang="es">Raúl De Molina alias 'El Gordo’ y Lili Estefan conocida como ‘La Flaca’ son quienes llevan la batuta en este espacio reservado para los chismes del mundo del espectáculo, ellos no dejarán de revelar cualquier intimidad relacionada con las estrellas que brillan en la televisión, el cine y la música. Gracias al olfato de este par sin igual y de sus reporteros que siempre andan tras la pista del mejor chisme, los secretos de Hollywood se hacen más divertidos y originales(n)</desc>
+    <credits>
+      <actor>Raúl De Molina</actor>
+      <actor>Lili Estefan</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20160112020000 -0600" stop="20160112024500 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">A nivel de cancha</title>
+    <desc lang="es">La polémica se mantiene viva en este programa que muestra de manera ágil los sucesos más importantes y trascendentes del fútbol del fin de semana y de otros deportes, con el análisis de los mejores conductores de Guadalajara, quienes, con el choque de sus posturas, muchas veces generan debates que mantienen atentos a todos los televidentes(n)</desc>
+    <credits>
+      <actor>Aldo González</actor>
+      <actor>Juan Pablo Romero</actor>
+      <actor>Pedro Flores</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160112024500 -0600" stop="20160112033000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">GDL Noticias - Nocturno</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160112033000 -0600" stop="20160112051500 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Noches de humor</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Humorístico</category>
+  </programme>
+  <programme start="20160112051500 -0600" stop="20160112053000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Programas especiales Jal</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Especial</category>
+  </programme>
+  <programme start="20160112053000 -0600" stop="20160112060000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Fuerza cósmica</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160112060000 -0600" stop="20160112090000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">GDL Noticias - Matutino</title>
+    <desc lang="es">Toda la información y las notas más relevantes sobre el clima, las finanzas, policiacas y viales del país, llegan a ti de manera oportuna con este noticiero conformado por un equipo de profesionales(n)</desc>
+    <credits>
+      <actor>Paola Velasco</actor>
+      <actor>Rodolfo Martín Guerrero</actor>
+      <actor>Miguel Ángel Collado</actor>
+      <actor>Marilyn Sicilia</actor>
+      <actor>Daniela Vega</actor>
+      <actor>Elsa Martha Gutierrez</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160112090000 -0600" stop="20160112120000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Día a día</title>
+    <desc lang="es">Programa de revista fresco y divertido para las mujeres del hogar. Cuenta con una variedad amplia de temas que involucra la salud, la moda, las manualidades, la jardinería, los consejos para tu familia y la gastronomía, sin olvidar las últimas noticias del espectáculo. También disfrutarás de la mejor música con la presentación en vivo de los artistas del momento(n)</desc>
+    <credits>
+      <actor>Paco Aceves</actor>
+      <actor>Carlos Anaya</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Interés General</category>
+  </programme>
+  <programme start="20160112120000 -0600" stop="20160112130000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Cocina práctica</title>
+    <desc lang="es">Programa culinario en el que tres chefs te presentan platillos fáciles de hacer, de la cocina mexicana e internacional, con la participación de invitados especiales. Durante media hora serás partícipe de una receta práctica, sencilla y económica, siendo ésta una interesante, pero por sobre todo, divertida combinación que no puedes dejar de ver(n)</desc>
+    <credits>
+      <actor>Antonio Sayavera</actor>
+      <actor>Tony Nardelli</actor>
+      <actor>Carlos Treviño</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Cocina</category>
+  </programme>
+  <programme start="20160112130000 -0600" stop="20160112160000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">GDL contigo</title>
+    <desc lang="es">GDL Contigo fue creado para ayudar a la sociedad mas desprotegida de la zona metropolitana de Guadalajara y sus alrededores,(n)</desc>
+    <credits>
+      <actor>Rodolfo Martín Guerrero</actor>
+      <actor>Karina Lomelí</actor>
+      <actor>Silverio Gamboa</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20160112160000 -0600" stop="20160112174500 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Favoritas del cine mexicano</title>
+    <desc lang="es">Revive la época de oro del cine mexicano(n)</desc>
+    <category lang="es">Ciclo</category>
+    <category lang="es">Película</category>
+  </programme>
+  <programme start="20160112174500 -0600" stop="20160112180000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Alternativa</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160112180000 -0600" stop="20160112190000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Que Pokar!</title>
+    <desc lang="es">Aquí encontrarás todas las noticias referidas al mundo del espectáculo mexicano e internacional con un toque distintivo, lleno de frescura y conducido por sensuales mujeres(n)</desc>
+    <credits>
+      <actor>Paola Velasco</actor>
+      <actor>Astrid</actor>
+      <actor>Karina Angulo</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20160112190000 -0600" stop="20160112200000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">El gordo y la flaca</title>
+    <desc lang="es">Raúl De Molina alias 'El Gordo’ y Lili Estefan conocida como ‘La Flaca’ son quienes llevan la batuta en este espacio reservado para los chismes del mundo del espectáculo, ellos no dejarán de revelar cualquier intimidad relacionada con las estrellas que brillan en la televisión, el cine y la música. Gracias al olfato de este par sin igual y de sus reporteros que siempre andan tras la pista del mejor chisme, los secretos de Hollywood se hacen más divertidos y originales(n)</desc>
+    <credits>
+      <actor>Raúl De Molina</actor>
+      <actor>Lili Estefan</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20160112200000 -0600" stop="20160112210000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">A nivel de cancha</title>
+    <desc lang="es">La polémica se mantiene viva en este programa que muestra de manera ágil los sucesos más importantes y trascendentes del fútbol del fin de semana y de otros deportes, con el análisis de los mejores conductores de Guadalajara, quienes, con el choque de sus posturas, muchas veces generan debates que mantienen atentos a todos los televidentes(n)</desc>
+    <credits>
+      <actor>Aldo González</actor>
+      <actor>Juan Pablo Romero</actor>
+      <actor>Pedro Flores</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160112210000 -0600" stop="20160112220000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">GDL Noticias - Nocturno</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160112220000 -0600" stop="20160113000000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Noches de humor</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Humorístico</category>
+  </programme>
+  <programme start="20160113000000 -0600" stop="20160113003000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Cero en conducta</title>
+    <desc lang="es">La Escuela Mártires de Almoloya es dirigida por el Sr. Patiño, quien tiene la difícil labor de educar a un grupo de niños irrespetuosos y traviesos. En su tarea, lo ayuda la maestra Canuta, quien también deberá lidiar con los revoltosos jóvenes. Jorgito es el más travieso de todos ellos: es el que tiene las ideas y los demás son sus fieles seguidores. Disfruta hacer que los maestros queden en ridículo y después burlarse de ellos, por lo que siempre termina sacándose un cero en conducta. Sus compañeritos siguen fielmente sus bromas y burlas, convirtiendo el salón de clases en una pesadilla(n)</desc>
+    <credits>
+      <actor>David Villalpando</actor>
+      <actor>Martha O. Galindo</actor>
+      <actor>Jorge Ortíz De Pinedo</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160113003000 -0600" stop="20160113010000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Sendero del bien</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160113010000 -0600" stop="20160113020000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">El gordo y la flaca</title>
+    <desc lang="es">Raúl De Molina alias 'El Gordo’ y Lili Estefan conocida como ‘La Flaca’ son quienes llevan la batuta en este espacio reservado para los chismes del mundo del espectáculo, ellos no dejarán de revelar cualquier intimidad relacionada con las estrellas que brillan en la televisión, el cine y la música. Gracias al olfato de este par sin igual y de sus reporteros que siempre andan tras la pista del mejor chisme, los secretos de Hollywood se hacen más divertidos y originales(n)</desc>
+    <credits>
+      <actor>Raúl De Molina</actor>
+      <actor>Lili Estefan</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20160113020000 -0600" stop="20160113024500 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">A nivel de cancha</title>
+    <desc lang="es">La polémica se mantiene viva en este programa que muestra de manera ágil los sucesos más importantes y trascendentes del fútbol del fin de semana y de otros deportes, con el análisis de los mejores conductores de Guadalajara, quienes, con el choque de sus posturas, muchas veces generan debates que mantienen atentos a todos los televidentes(n)</desc>
+    <credits>
+      <actor>Aldo González</actor>
+      <actor>Juan Pablo Romero</actor>
+      <actor>Pedro Flores</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160113024500 -0600" stop="20160113033000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">GDL Noticias - Nocturno</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160113033000 -0600" stop="20160113051500 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Noche a noche contigo...</title>
+    <desc lang="es">Tú y tu familia están invitados a disfrutar de este programa acompañados de artistas de talla internacional, en el que encontrarás muy buena música, mucho romanticismo y la participación de las grandes estrellas mexicanas(n)</desc>
+    <credits>
+      <actor>Carlos Cuevas</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160113051500 -0600" stop="20160113053000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Programas especiales Jal</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Especial</category>
+  </programme>
+  <programme start="20160113053000 -0600" stop="20160113060000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Fuerza cósmica</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160113060000 -0600" stop="20160113090000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">GDL Noticias - Matutino</title>
+    <desc lang="es">Toda la información y las notas más relevantes sobre el clima, las finanzas, policiacas y viales del país, llegan a ti de manera oportuna con este noticiero conformado por un equipo de profesionales(n)</desc>
+    <credits>
+      <actor>Paola Velasco</actor>
+      <actor>Rodolfo Martín Guerrero</actor>
+      <actor>Miguel Ángel Collado</actor>
+      <actor>Marilyn Sicilia</actor>
+      <actor>Daniela Vega</actor>
+      <actor>Elsa Martha Gutierrez</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160113090000 -0600" stop="20160113120000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Día a día</title>
+    <desc lang="es">Programa de revista fresco y divertido para las mujeres del hogar. Cuenta con una variedad amplia de temas que involucra la salud, la moda, las manualidades, la jardinería, los consejos para tu familia y la gastronomía, sin olvidar las últimas noticias del espectáculo. También disfrutarás de la mejor música con la presentación en vivo de los artistas del momento(n)</desc>
+    <credits>
+      <actor>Paco Aceves</actor>
+      <actor>Carlos Anaya</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Interés General</category>
+  </programme>
+  <programme start="20160113120000 -0600" stop="20160113130000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Cocina práctica</title>
+    <desc lang="es">Programa culinario en el que tres chefs te presentan platillos fáciles de hacer, de la cocina mexicana e internacional, con la participación de invitados especiales. Durante media hora serás partícipe de una receta práctica, sencilla y económica, siendo ésta una interesante, pero por sobre todo, divertida combinación que no puedes dejar de ver(n)</desc>
+    <credits>
+      <actor>Antonio Sayavera</actor>
+      <actor>Tony Nardelli</actor>
+      <actor>Carlos Treviño</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Cocina</category>
+  </programme>
+  <programme start="20160113130000 -0600" stop="20160113160000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">GDL contigo</title>
+    <desc lang="es">GDL Contigo fue creado para ayudar a la sociedad mas desprotegida de la zona metropolitana de Guadalajara y sus alrededores,(n)</desc>
+    <credits>
+      <actor>Rodolfo Martín Guerrero</actor>
+      <actor>Karina Lomelí</actor>
+      <actor>Silverio Gamboa</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20160113160000 -0600" stop="20160113174500 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Favoritas del cine mexicano</title>
+    <desc lang="es">Revive la época de oro del cine mexicano(n)</desc>
+    <category lang="es">Ciclo</category>
+    <category lang="es">Película</category>
+  </programme>
+  <programme start="20160113174500 -0600" stop="20160113180000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Alternativa</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160113180000 -0600" stop="20160113190000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Que Pokar!</title>
+    <desc lang="es">Aquí encontrarás todas las noticias referidas al mundo del espectáculo mexicano e internacional con un toque distintivo, lleno de frescura y conducido por sensuales mujeres(n)</desc>
+    <credits>
+      <actor>Paola Velasco</actor>
+      <actor>Astrid</actor>
+      <actor>Karina Angulo</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20160113190000 -0600" stop="20160113200000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Zona Chiva</title>
+    <desc lang="es">Desde la casa del Rebaño Sagrado llega lo más destacado del equipo que es sinónimo de tradición y orgullo mexicano. El sitio ideal para conocer de cerca todas las novedades acerca de este equipo único y recorrer la historia que lo hizo grande. Para una afición fiel que se pone la camiseta y vive su pasión con intensidad(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160113200000 -0600" stop="20160113210000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">A nivel de cancha</title>
+    <desc lang="es">La polémica se mantiene viva en este programa que muestra de manera ágil los sucesos más importantes y trascendentes del fútbol del fin de semana y de otros deportes, con el análisis de los mejores conductores de Guadalajara, quienes, con el choque de sus posturas, muchas veces generan debates que mantienen atentos a todos los televidentes(n)</desc>
+    <credits>
+      <actor>Aldo González</actor>
+      <actor>Juan Pablo Romero</actor>
+      <actor>Pedro Flores</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160113210000 -0600" stop="20160113220000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">GDL Noticias - Nocturno</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160113220000 -0600" stop="20160114000000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Noche a noche contigo...</title>
+    <desc lang="es">Tú y tu familia están invitados a disfrutar de este programa acompañados de artistas de talla internacional, en el que encontrarás muy buena música, mucho romanticismo y la participación de las grandes estrellas mexicanas(n)</desc>
+    <credits>
+      <actor>Carlos Cuevas</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160114000000 -0600" stop="20160114003000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Hospital el Paisa</title>
+    <desc lang="es">El nombre del hospital El Paisa surge a partir de que el dueño de éste, Don Gastón Loera, tenía una taquería en la planta baja del edificio, pero como todos sus clientes se enfermaban decidió comprar todo el inmueble y hacerlo un hospital-taquería usando algunos elementos de dicha taquería para curar enfermos y no desaprovechar nada de lo que ya tenía. Las situaciones que ocurren regularmente en un hospital serán llevadas al extremo y al absurdo a través de la comedia. Los invitados pueden ser los pacientes, amigos y doctores que lleguen al hospital(n)</desc>
+    <credits>
+      <actor>Galilea Montijo</actor>
+      <actor>Miguel Zuñiga</actor>
+      <actor>Héctor Sandarti</actor>
+      <actor>Gustavo Rodríguez</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160114003000 -0600" stop="20160114010000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Sendero del bien</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160114010000 -0600" stop="20160114020000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Zona Chiva</title>
+    <desc lang="es">Desde la casa del Rebaño Sagrado llega lo más destacado del equipo que es sinónimo de tradición y orgullo mexicano. El sitio ideal para conocer de cerca todas las novedades acerca de este equipo único y recorrer la historia que lo hizo grande. Para una afición fiel que se pone la camiseta y vive su pasión con intensidad(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160114020000 -0600" stop="20160114024500 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">A nivel de cancha</title>
+    <desc lang="es">La polémica se mantiene viva en este programa que muestra de manera ágil los sucesos más importantes y trascendentes del fútbol del fin de semana y de otros deportes, con el análisis de los mejores conductores de Guadalajara, quienes, con el choque de sus posturas, muchas veces generan debates que mantienen atentos a todos los televidentes(n)</desc>
+    <credits>
+      <actor>Aldo González</actor>
+      <actor>Juan Pablo Romero</actor>
+      <actor>Pedro Flores</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160114024500 -0600" stop="20160114033000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">GDL Noticias - Nocturno</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160114033000 -0600" stop="20160114051500 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Que quiere la banda</title>
+    <desc lang="es">Programa musical con un giro netamente de Bandas, creado para aquellos que gustan de este género musical. Todas nuestras transmisiones se realizan en vivo en nuestros estudios donde la gente escucha y disfruta de su banda favorita(n)</desc>
+    <credits>
+      <actor>Adrián Padilla</actor>
+      <actor>Ely Castro</actor>
+    </credits>
+    <category lang="es">Musicales</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160114051500 -0600" stop="20160114053000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Programas especiales Jal</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Especial</category>
+  </programme>
+  <programme start="20160114053000 -0600" stop="20160114060000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Fuerza cósmica</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160114060000 -0600" stop="20160114090000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">GDL Noticias - Matutino</title>
+    <desc lang="es">Toda la información y las notas más relevantes sobre el clima, las finanzas, policiacas y viales del país, llegan a ti de manera oportuna con este noticiero conformado por un equipo de profesionales(n)</desc>
+    <credits>
+      <actor>Paola Velasco</actor>
+      <actor>Rodolfo Martín Guerrero</actor>
+      <actor>Miguel Ángel Collado</actor>
+      <actor>Marilyn Sicilia</actor>
+      <actor>Daniela Vega</actor>
+      <actor>Elsa Martha Gutierrez</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160114090000 -0600" stop="20160114120000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Día a día</title>
+    <desc lang="es">Programa de revista fresco y divertido para las mujeres del hogar. Cuenta con una variedad amplia de temas que involucra la salud, la moda, las manualidades, la jardinería, los consejos para tu familia y la gastronomía, sin olvidar las últimas noticias del espectáculo. También disfrutarás de la mejor música con la presentación en vivo de los artistas del momento(n)</desc>
+    <credits>
+      <actor>Paco Aceves</actor>
+      <actor>Carlos Anaya</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Interés General</category>
+  </programme>
+  <programme start="20160114120000 -0600" stop="20160114130000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Cocina práctica</title>
+    <desc lang="es">Programa culinario en el que tres chefs te presentan platillos fáciles de hacer, de la cocina mexicana e internacional, con la participación de invitados especiales. Durante media hora serás partícipe de una receta práctica, sencilla y económica, siendo ésta una interesante, pero por sobre todo, divertida combinación que no puedes dejar de ver(n)</desc>
+    <credits>
+      <actor>Antonio Sayavera</actor>
+      <actor>Tony Nardelli</actor>
+      <actor>Carlos Treviño</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Cocina</category>
+  </programme>
+  <programme start="20160114130000 -0600" stop="20160114160000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">GDL contigo</title>
+    <desc lang="es">GDL Contigo fue creado para ayudar a la sociedad mas desprotegida de la zona metropolitana de Guadalajara y sus alrededores,(n)</desc>
+    <credits>
+      <actor>Rodolfo Martín Guerrero</actor>
+      <actor>Karina Lomelí</actor>
+      <actor>Silverio Gamboa</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20160114160000 -0600" stop="20160114174500 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Favoritas del cine mexicano</title>
+    <desc lang="es">Revive la época de oro del cine mexicano(n)</desc>
+    <category lang="es">Ciclo</category>
+    <category lang="es">Película</category>
+  </programme>
+  <programme start="20160114174500 -0600" stop="20160114180000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Alternativa</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160114180000 -0600" stop="20160114190000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Que Pokar!</title>
+    <desc lang="es">Aquí encontrarás todas las noticias referidas al mundo del espectáculo mexicano e internacional con un toque distintivo, lleno de frescura y conducido por sensuales mujeres(n)</desc>
+    <credits>
+      <actor>Paola Velasco</actor>
+      <actor>Astrid</actor>
+      <actor>Karina Angulo</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20160114190000 -0600" stop="20160114193000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Cuide su salud</title>
+    <desc lang="es">La doctora Diane Pérez te ofrecerá sencillos y valiosos consejos para mantenerte sano, con un buen estado físico y mental, además de ofrecerte una nueva forma de viajar por el mundo de la salud(n)</desc>
+    <credits>
+      <actor>Diane Pérez</actor>
+    </credits>
+    <category lang="es">Cocina, hogar y salud</category>
+    <category lang="es">Salud</category>
+  </programme>
+  <programme start="20160114193000 -0600" stop="20160114200000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Alianza de camioneros</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160114200000 -0600" stop="20160114210000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">A nivel de cancha</title>
+    <desc lang="es">La polémica se mantiene viva en este programa que muestra de manera ágil los sucesos más importantes y trascendentes del fútbol del fin de semana y de otros deportes, con el análisis de los mejores conductores de Guadalajara, quienes, con el choque de sus posturas, muchas veces generan debates que mantienen atentos a todos los televidentes(n)</desc>
+    <credits>
+      <actor>Aldo González</actor>
+      <actor>Juan Pablo Romero</actor>
+      <actor>Pedro Flores</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160114210000 -0600" stop="20160114220000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">GDL Noticias - Nocturno</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160114220000 -0600" stop="20160115000000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Que quiere la banda</title>
+    <desc lang="es">Programa musical con un giro netamente de Bandas, creado para aquellos que gustan de este género musical. Todas nuestras transmisiones se realizan en vivo en nuestros estudios donde la gente escucha y disfruta de su banda favorita(n)</desc>
+    <credits>
+      <actor>Adrián Padilla</actor>
+      <actor>Ely Castro</actor>
+    </credits>
+    <category lang="es">Musicales</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160115000000 -0600" stop="20160115003000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Cero en conducta</title>
+    <desc lang="es">La Escuela Mártires de Almoloya es dirigida por el Sr. Patiño, quien tiene la difícil labor de educar a un grupo de niños irrespetuosos y traviesos. En su tarea, lo ayuda la maestra Canuta, quien también deberá lidiar con los revoltosos jóvenes. Jorgito es el más travieso de todos ellos: es el que tiene las ideas y los demás son sus fieles seguidores. Disfruta hacer que los maestros queden en ridículo y después burlarse de ellos, por lo que siempre termina sacándose un cero en conducta. Sus compañeritos siguen fielmente sus bromas y burlas, convirtiendo el salón de clases en una pesadilla(n)</desc>
+    <credits>
+      <actor>David Villalpando</actor>
+      <actor>Martha O. Galindo</actor>
+      <actor>Jorge Ortíz De Pinedo</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160115003000 -0600" stop="20160115010000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Sendero del bien</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160115010000 -0600" stop="20160115020000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">El gordo y la flaca</title>
+    <desc lang="es">Raúl De Molina alias 'El Gordo’ y Lili Estefan conocida como ‘La Flaca’ son quienes llevan la batuta en este espacio reservado para los chismes del mundo del espectáculo, ellos no dejarán de revelar cualquier intimidad relacionada con las estrellas que brillan en la televisión, el cine y la música. Gracias al olfato de este par sin igual y de sus reporteros que siempre andan tras la pista del mejor chisme, los secretos de Hollywood se hacen más divertidos y originales(n)</desc>
+    <credits>
+      <actor>Raúl De Molina</actor>
+      <actor>Lili Estefan</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20160115020000 -0600" stop="20160115024500 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">A nivel de cancha</title>
+    <desc lang="es">La polémica se mantiene viva en este programa que muestra de manera ágil los sucesos más importantes y trascendentes del fútbol del fin de semana y de otros deportes, con el análisis de los mejores conductores de Guadalajara, quienes, con el choque de sus posturas, muchas veces generan debates que mantienen atentos a todos los televidentes(n)</desc>
+    <credits>
+      <actor>Aldo González</actor>
+      <actor>Juan Pablo Romero</actor>
+      <actor>Pedro Flores</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160115024500 -0600" stop="20160115033000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">GDL Noticias - Nocturno</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160115033000 -0600" stop="20160115051500 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">A confirmar</title>
+    <category lang="es">Series</category>
+    <category lang="es">Telenovela</category>
+  </programme>
+  <programme start="20160115051500 -0600" stop="20160115053000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Programas especiales Jal</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Especial</category>
+  </programme>
+  <programme start="20160115053000 -0600" stop="20160115060000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Fuerza cósmica</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160115060000 -0600" stop="20160115090000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">GDL Noticias - Matutino</title>
+    <desc lang="es">Toda la información y las notas más relevantes sobre el clima, las finanzas, policiacas y viales del país, llegan a ti de manera oportuna con este noticiero conformado por un equipo de profesionales(n)</desc>
+    <credits>
+      <actor>Paola Velasco</actor>
+      <actor>Rodolfo Martín Guerrero</actor>
+      <actor>Miguel Ángel Collado</actor>
+      <actor>Marilyn Sicilia</actor>
+      <actor>Daniela Vega</actor>
+      <actor>Elsa Martha Gutierrez</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160115090000 -0600" stop="20160115120000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Día a día</title>
+    <desc lang="es">Programa de revista fresco y divertido para las mujeres del hogar. Cuenta con una variedad amplia de temas que involucra la salud, la moda, las manualidades, la jardinería, los consejos para tu familia y la gastronomía, sin olvidar las últimas noticias del espectáculo. También disfrutarás de la mejor música con la presentación en vivo de los artistas del momento(n)</desc>
+    <credits>
+      <actor>Paco Aceves</actor>
+      <actor>Carlos Anaya</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Interés General</category>
+  </programme>
+  <programme start="20160115120000 -0600" stop="20160115130000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Cocina práctica</title>
+    <desc lang="es">Programa culinario en el que tres chefs te presentan platillos fáciles de hacer, de la cocina mexicana e internacional, con la participación de invitados especiales. Durante media hora serás partícipe de una receta práctica, sencilla y económica, siendo ésta una interesante, pero por sobre todo, divertida combinación que no puedes dejar de ver(n)</desc>
+    <credits>
+      <actor>Antonio Sayavera</actor>
+      <actor>Tony Nardelli</actor>
+      <actor>Carlos Treviño</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Cocina</category>
+  </programme>
+  <programme start="20160115130000 -0600" stop="20160115160000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">GDL contigo</title>
+    <desc lang="es">GDL Contigo fue creado para ayudar a la sociedad mas desprotegida de la zona metropolitana de Guadalajara y sus alrededores,(n)</desc>
+    <credits>
+      <actor>Rodolfo Martín Guerrero</actor>
+      <actor>Karina Lomelí</actor>
+      <actor>Silverio Gamboa</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20160115160000 -0600" stop="20160115174500 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Favoritas del cine mexicano</title>
+    <desc lang="es">Revive la época de oro del cine mexicano(n)</desc>
+    <category lang="es">Ciclo</category>
+    <category lang="es">Película</category>
+  </programme>
+  <programme start="20160115174500 -0600" stop="20160115180000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">El gordo y la flaca</title>
+    <desc lang="es">Raúl De Molina alias 'El Gordo’ y Lili Estefan conocida como ‘La Flaca’ son quienes llevan la batuta en este espacio reservado para los chismes del mundo del espectáculo, ellos no dejarán de revelar cualquier intimidad relacionada con las estrellas que brillan en la televisión, el cine y la música. Gracias al olfato de este par sin igual y de sus reporteros que siempre andan tras la pista del mejor chisme, los secretos de Hollywood se hacen más divertidos y originales(n)</desc>
+    <credits>
+      <actor>Raúl De Molina</actor>
+      <actor>Lili Estefan</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20160115180000 -0600" stop="20160115190000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Que Pokar!</title>
+    <desc lang="es">Aquí encontrarás todas las noticias referidas al mundo del espectáculo mexicano e internacional con un toque distintivo, lleno de frescura y conducido por sensuales mujeres(n)</desc>
+    <credits>
+      <actor>Paola Velasco</actor>
+      <actor>Astrid</actor>
+      <actor>Karina Angulo</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20160115190000 -0600" stop="20160115200000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">El gordo y la flaca</title>
+    <desc lang="es">Raúl De Molina alias 'El Gordo’ y Lili Estefan conocida como ‘La Flaca’ son quienes llevan la batuta en este espacio reservado para los chismes del mundo del espectáculo, ellos no dejarán de revelar cualquier intimidad relacionada con las estrellas que brillan en la televisión, el cine y la música. Gracias al olfato de este par sin igual y de sus reporteros que siempre andan tras la pista del mejor chisme, los secretos de Hollywood se hacen más divertidos y originales(n)</desc>
+    <credits>
+      <actor>Raúl De Molina</actor>
+      <actor>Lili Estefan</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20160115200000 -0600" stop="20160115210000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">A nivel de cancha</title>
+    <desc lang="es">La polémica se mantiene viva en este programa que muestra de manera ágil los sucesos más importantes y trascendentes del fútbol del fin de semana y de otros deportes, con el análisis de los mejores conductores de Guadalajara, quienes, con el choque de sus posturas, muchas veces generan debates que mantienen atentos a todos los televidentes(n)</desc>
+    <credits>
+      <actor>Aldo González</actor>
+      <actor>Juan Pablo Romero</actor>
+      <actor>Pedro Flores</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160115210000 -0600" stop="20160115220000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">GDL Noticias - Nocturno</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160115220000 -0600" stop="20160116000000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Kolorina's Night Show</title>
+    <credits>
+      <actor>Francisco Javier Navarro</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160116000000 -0600" stop="20160116010000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Teleautos Guadalajara</title>
+    <category lang="es">Deportes</category>
+    <category lang="es">Automovilismo</category>
+  </programme>
+  <programme start="20160116010000 -0600" stop="20160116020000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">El gordo y la flaca</title>
+    <desc lang="es">Raúl De Molina alias 'El Gordo’ y Lili Estefan conocida como ‘La Flaca’ son quienes llevan la batuta en este espacio reservado para los chismes del mundo del espectáculo, ellos no dejarán de revelar cualquier intimidad relacionada con las estrellas que brillan en la televisión, el cine y la música. Gracias al olfato de este par sin igual y de sus reporteros que siempre andan tras la pista del mejor chisme, los secretos de Hollywood se hacen más divertidos y originales(n)</desc>
+    <credits>
+      <actor>Raúl De Molina</actor>
+      <actor>Lili Estefan</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20160116020000 -0600" stop="20160116024500 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">A nivel de cancha</title>
+    <desc lang="es">La polémica se mantiene viva en este programa que muestra de manera ágil los sucesos más importantes y trascendentes del fútbol del fin de semana y de otros deportes, con el análisis de los mejores conductores de Guadalajara, quienes, con el choque de sus posturas, muchas veces generan debates que mantienen atentos a todos los televidentes(n)</desc>
+    <credits>
+      <actor>Aldo González</actor>
+      <actor>Juan Pablo Romero</actor>
+      <actor>Pedro Flores</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160116024500 -0600" stop="20160116033000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">GDL Noticias - Nocturno</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160116033000 -0600" stop="20160116051500 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Muestra de cine mexicano</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160116051500 -0600" stop="20160116053000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Programas especiales Jal</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Especial</category>
+  </programme>
+  <programme start="20160116053000 -0600" stop="20160116060000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Cero en conducta</title>
+    <desc lang="es">La Escuela Mártires de Almoloya es dirigida por el Sr. Patiño, quien tiene la difícil labor de educar a un grupo de niños irrespetuosos y traviesos. En su tarea, lo ayuda la maestra Canuta, quien también deberá lidiar con los revoltosos jóvenes. Jorgito es el más travieso de todos ellos: es el que tiene las ideas y los demás son sus fieles seguidores. Disfruta hacer que los maestros queden en ridículo y después burlarse de ellos, por lo que siempre termina sacándose un cero en conducta. Sus compañeritos siguen fielmente sus bromas y burlas, convirtiendo el salón de clases en una pesadilla(n)</desc>
+    <credits>
+      <actor>David Villalpando</actor>
+      <actor>Martha O. Galindo</actor>
+      <actor>Jorge Ortíz De Pinedo</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160116060000 -0600" stop="20160116064500 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Con caña y carrete</title>
+    <desc lang="es">Programa dedicado a la promoción y difusión de la pesca, en el que podrás aprender las técnicas, especies, lugares y demás pormenores de la pesca deportiva(n)</desc>
+    <credits>
+      <actor>Pedro Sors</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Interés General</category>
+  </programme>
+  <programme start="20160116064500 -0600" stop="20160116070000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Resumen semanal de Que Pokar!</title>
+    <desc lang="es">Aquí encontrarás todas las noticias referidas al mundo del espectáculo mexicano e internacional con un toque distintivo, lleno de frescura y conducido por sensuales mujeres(n)</desc>
+    <credits>
+      <actor>Paola Velasco</actor>
+      <actor>Astrid</actor>
+      <actor>Karina Angulo</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Espectáculo</category>
+  </programme>
+  <programme start="20160116070000 -0600" stop="20160116080000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Teleautos Guadalajara</title>
+    <category lang="es">Deportes</category>
+    <category lang="es">Automovilismo</category>
+  </programme>
+  <programme start="20160116080000 -0600" stop="20160116103000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">GDL Noticias - Matutino</title>
+    <desc lang="es">Toda la información y las notas más relevantes sobre el clima, las finanzas, policiacas y viales del país, llegan a ti de manera oportuna con este noticiero conformado por un equipo de profesionales(n)</desc>
+    <credits>
+      <actor>Paola Velasco</actor>
+      <actor>Rodolfo Martín Guerrero</actor>
+      <actor>Miguel Ángel Collado</actor>
+      <actor>Marilyn Sicilia</actor>
+      <actor>Daniela Vega</actor>
+      <actor>Elsa Martha Gutierrez</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160116103000 -0600" stop="20160116110000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Cuide su salud</title>
+    <desc lang="es">La doctora Diane Pérez te ofrecerá sencillos y valiosos consejos para mantenerte sano, con un buen estado físico y mental, además de ofrecerte una nueva forma de viajar por el mundo de la salud(n)</desc>
+    <credits>
+      <actor>Diane Pérez</actor>
+    </credits>
+    <category lang="es">Cocina, hogar y salud</category>
+    <category lang="es">Salud</category>
+  </programme>
+  <programme start="20160116110000 -0600" stop="20160116113000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Jorge el curioso</title>
+    <desc lang="es">George es un simpático mono lleno de curiosidad que lo llevará a explorar el mundo que lo rodea, por ello vivirá aventuras extraordinarias aunque se meta en problemas, pero logrará salir airoso gracias a sus amigos y su inteligencia(n)</desc>
+    <credits>
+      <actor>Frank Welker</actor>
+      <actor>Rino Romano</actor>
+      <actor>Jeff Bennett</actor>
+      <actor>Jim Cummings</actor>
+    </credits>
+    <category lang="es">Infantiles</category>
+    <category lang="es">Animación</category>
+  </programme>
+  <programme start="20160116113000 -0600" stop="20160116120000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">El principito</title>
+    <desc lang="es">En algún sitio del asteroide B-612, el Principito vive en paz con su amada rosa y su amigo leal, el zorro. Pero la rosa se pone celosa del zorro porque este pasa demasiado tiempo con su dulce Principito. Queriendo aprovechar su aflicción, la malvada serpiente planea encantar a la rosa en vano(n)</desc>
+    <credits>
+      <actor>Guillaume Gallienne</actor>
+      <actor>Franck Capillery</actor>
+      <actor>Gabriel Bismuth Bienaimé</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20160116120000 -0600" stop="20160116123000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">La pantera rosa</title>
+    <desc lang="es">Un famoso entrenador de fútbol ha sido asesinado y su anillo, con un diamante llamado "La Pantera Rosa", robado. El Gobierno francés necesita resolver el crimen y recluta a Jacques Clouseau y su socio, quienes deberán descubrir al culpable(n)</desc>
+    <credits>
+      <actor>Jean Reno</actor>
+      <actor>Kevin Kline</actor>
+      <actor>Steve Martin</actor>
+      <actor>Shawn Levi</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160116123000 -0600" stop="20160116130000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Manantial de vida</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160116130000 -0600" stop="20160116140000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Resumen semanal de Que Pokar!</title>
+    <desc lang="es">Aquí encontrarás todas las noticias referidas al mundo del espectáculo mexicano e internacional con un toque distintivo, lleno de frescura y conducido por sensuales mujeres(n)</desc>
+    <credits>
+      <actor>Paola Velasco</actor>
+      <actor>Astrid</actor>
+      <actor>Karina Angulo</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Espectáculo</category>
+  </programme>
+  <programme start="20160116140000 -0600" stop="20160116143000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Cuide su salud</title>
+    <desc lang="es">La doctora Diane Pérez te ofrecerá sencillos y valiosos consejos para mantenerte sano, con un buen estado físico y mental, además de ofrecerte una nueva forma de viajar por el mundo de la salud(n)</desc>
+    <credits>
+      <actor>Diane Pérez</actor>
+    </credits>
+    <category lang="es">Cocina, hogar y salud</category>
+    <category lang="es">Salud</category>
+  </programme>
+  <programme start="20160116143000 -0600" stop="20160116150000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Hogar dulce hogar</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160116150000 -0600" stop="20160116153000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Amuebla y decora</title>
+    <desc lang="es">Programa de televisión dedicado a la venta de muebles(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160116153000 -0600" stop="20160116160000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Angular una visión</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160116160000 -0600" stop="20160116170000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Tierra fértil</title>
+    <desc lang="es">Cada capítulo de Tierra Fértil está dedicado a una labor de la agricultura y a los temas relacionados con la tierra. A través de imágenes documentales, se aborda y explica de manera detallada cada una de la etapas del proceso hasta llegar al producto final(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Agro</category>
+  </programme>
+  <programme start="20160116170000 -0600" stop="20160116173000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">La guereja de mi vida</title>
+    <desc lang="es">Esta serie está solamente enfocada en el personaje de la Güereja. Sólo aparece con su "Papiringo" debido a que su "Mamiringa" se fue a vivir a la ciudad de Saltillo, Coahuila. El "Papiringo" ahora se dedica a vender automóviles, mientras que la Güereja estudia en el colegio "Franco Tirador"(n)</desc>
+    <category lang="es">Series</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160116173000 -0600" stop="20160116180000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Alternativa</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160116180000 -0600" stop="20160116183000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Cero en conducta</title>
+    <desc lang="es">La Escuela Mártires de Almoloya es dirigida por el Sr. Patiño, quien tiene la difícil labor de educar a un grupo de niños irrespetuosos y traviesos. En su tarea, lo ayuda la maestra Canuta, quien también deberá lidiar con los revoltosos jóvenes. Jorgito es el más travieso de todos ellos: es el que tiene las ideas y los demás son sus fieles seguidores. Disfruta hacer que los maestros queden en ridículo y después burlarse de ellos, por lo que siempre termina sacándose un cero en conducta. Sus compañeritos siguen fielmente sus bromas y burlas, convirtiendo el salón de clases en una pesadilla(n)</desc>
+    <credits>
+      <actor>David Villalpando</actor>
+      <actor>Martha O. Galindo</actor>
+      <actor>Jorge Ortíz De Pinedo</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160116183000 -0600" stop="20160116190000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Univer TV</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160116190000 -0600" stop="20160116193000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Resumen semanal de Que Pokar!</title>
+    <desc lang="es">Aquí encontrarás todas las noticias referidas al mundo del espectáculo mexicano e internacional con un toque distintivo, lleno de frescura y conducido por sensuales mujeres(n)</desc>
+    <credits>
+      <actor>Paola Velasco</actor>
+      <actor>Astrid</actor>
+      <actor>Karina Angulo</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Espectáculo</category>
+  </programme>
+  <programme start="20160116193000 -0600" stop="20160116200000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Cuide su salud</title>
+    <desc lang="es">La doctora Diane Pérez te ofrecerá sencillos y valiosos consejos para mantenerte sano, con un buen estado físico y mental, además de ofrecerte una nueva forma de viajar por el mundo de la salud(n)</desc>
+    <credits>
+      <actor>Diane Pérez</actor>
+    </credits>
+    <category lang="es">Cocina, hogar y salud</category>
+    <category lang="es">Salud</category>
+  </programme>
+  <programme start="20160116200000 -0600" stop="20160116210000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">GDL Noticias - Nocturno</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160116210000 -0600" stop="20160116213000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Cuide su salud</title>
+    <desc lang="es">La doctora Diane Pérez te ofrecerá sencillos y valiosos consejos para mantenerte sano, con un buen estado físico y mental, además de ofrecerte una nueva forma de viajar por el mundo de la salud(n)</desc>
+    <credits>
+      <actor>Diane Pérez</actor>
+    </credits>
+    <category lang="es">Cocina, hogar y salud</category>
+    <category lang="es">Salud</category>
+  </programme>
+  <programme start="20160116213000 -0600" stop="20160116220000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Hospital el Paisa</title>
+    <desc lang="es">El nombre del hospital El Paisa surge a partir de que el dueño de éste, Don Gastón Loera, tenía una taquería en la planta baja del edificio, pero como todos sus clientes se enfermaban decidió comprar todo el inmueble y hacerlo un hospital-taquería usando algunos elementos de dicha taquería para curar enfermos y no desaprovechar nada de lo que ya tenía. Las situaciones que ocurren regularmente en un hospital serán llevadas al extremo y al absurdo a través de la comedia. Los invitados pueden ser los pacientes, amigos y doctores que lleguen al hospital(n)</desc>
+    <credits>
+      <actor>Galilea Montijo</actor>
+      <actor>Miguel Zuñiga</actor>
+      <actor>Héctor Sandarti</actor>
+      <actor>Gustavo Rodríguez</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160116220000 -0600" stop="20160116223000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Guadalajara y su gente</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160116223000 -0600" stop="20160116230000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Martes de glamour en la arena Coliseo</title>
+    <category lang="es">Deportes</category>
+    <category lang="es">Lucha</category>
+  </programme>
+  <programme start="20160116230000 -0600" stop="20160116233000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Sorteo estrella de la fortuna</title>
+    <desc lang="es">El 7 de mayo de 2005, se funda en la ciudad de Guadalajara El Sorteo la Estrella de la Fortuna, por el atractivo de sus premios genera un arraigo inusitado en la sociedad, ya que logra la preferencia de todos los tapatíos que lo toman como propio. Así se convierte en el sorteo de casa. Al pasar de los años El Sorteo la Estrella de la Fortuna se convierte en sinónimo de suerte y fortuna para todo Jalisco, ya que desde siempre había sido creado para alcanzar las ilusiones de una vida mejor. Para el 2012 La Estrella de la fortuna ya tenía más de 3000 ganadores y más de 200,000,000.00 Millones entregados en todo Jalisco, así se covierte en el sorteo más exitoso a nivel occidente gracias a ese compromiso de generar nuevas historias de exito entre sus compradores(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160116233000 -0600" stop="20160117010000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Cine extranjero</title>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160117010000 -0600" stop="20160117020000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Emergencias 065</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160117020000 -0600" stop="20160117051500 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">A confirmar</title>
+    <category lang="es">Series</category>
+    <category lang="es">Telenovela</category>
+  </programme>
+  <programme start="20160117051500 -0600" stop="20160117053000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Programas especiales Jal</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Especial</category>
+  </programme>
+  <programme start="20160117053000 -0600" stop="20160117060000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Cero en conducta</title>
+    <desc lang="es">La Escuela Mártires de Almoloya es dirigida por el Sr. Patiño, quien tiene la difícil labor de educar a un grupo de niños irrespetuosos y traviesos. En su tarea, lo ayuda la maestra Canuta, quien también deberá lidiar con los revoltosos jóvenes. Jorgito es el más travieso de todos ellos: es el que tiene las ideas y los demás son sus fieles seguidores. Disfruta hacer que los maestros queden en ridículo y después burlarse de ellos, por lo que siempre termina sacándose un cero en conducta. Sus compañeritos siguen fielmente sus bromas y burlas, convirtiendo el salón de clases en una pesadilla(n)</desc>
+    <credits>
+      <actor>David Villalpando</actor>
+      <actor>Martha O. Galindo</actor>
+      <actor>Jorge Ortíz De Pinedo</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160117060000 -0600" stop="20160117064500 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Con caña y carrete</title>
+    <desc lang="es">Programa dedicado a la promoción y difusión de la pesca, en el que podrás aprender las técnicas, especies, lugares y demás pormenores de la pesca deportiva(n)</desc>
+    <credits>
+      <actor>Pedro Sors</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Interés General</category>
+  </programme>
+  <programme start="20160117064500 -0600" stop="20160117073000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Resumen semanal de Que Pokar!</title>
+    <desc lang="es">Aquí encontrarás todas las noticias referidas al mundo del espectáculo mexicano e internacional con un toque distintivo, lleno de frescura y conducido por sensuales mujeres(n)</desc>
+    <credits>
+      <actor>Paola Velasco</actor>
+      <actor>Astrid</actor>
+      <actor>Karina Angulo</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Espectáculo</category>
+  </programme>
+  <programme start="20160117073000 -0600" stop="20160117080000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Manantial de vida</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160117080000 -0600" stop="20160117090000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Teleautos Guadalajara</title>
+    <category lang="es">Deportes</category>
+    <category lang="es">Automovilismo</category>
+  </programme>
+  <programme start="20160117090000 -0600" stop="20160117100000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">GDL en la semana</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160117100000 -0600" stop="20160117120000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Foro GDL</title>
+    <desc lang="es">Los domingos conoce con mayor profundidad los temas de más importantes que involucran al estado mexicano, a través de una mesa de debate que analizará cada uno de los detalles correspondientes(n)</desc>
+    <credits>
+      <actor>José Antonio Fernández</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160117120000 -0600" stop="20160117123000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Cuide su salud</title>
+    <desc lang="es">La doctora Diane Pérez te ofrecerá sencillos y valiosos consejos para mantenerte sano, con un buen estado físico y mental, además de ofrecerte una nueva forma de viajar por el mundo de la salud(n)</desc>
+    <credits>
+      <actor>Diane Pérez</actor>
+    </credits>
+    <category lang="es">Cocina, hogar y salud</category>
+    <category lang="es">Salud</category>
+  </programme>
+  <programme start="20160117123000 -0600" stop="20160117133000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Las más picudas de Bandamax</title>
+    <desc lang="es">Todas las semanas, revive el top ten de Bandamax, conformado por los diez mejores videos musicales de cada semana. Además, también encontrarás la mejor información actualizada acerca de los artistas que integran el ranking(n)</desc>
+    <credits>
+      <actor>Cynthia Urias</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160117133000 -0600" stop="20160117140000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Manantial de vida</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160117140000 -0600" stop="20160117153000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Cine de oro</title>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160117153000 -0600" stop="20160117160000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Resumen semanal de Que Pokar!</title>
+    <desc lang="es">Aquí encontrarás todas las noticias referidas al mundo del espectáculo mexicano e internacional con un toque distintivo, lleno de frescura y conducido por sensuales mujeres(n)</desc>
+    <credits>
+      <actor>Paola Velasco</actor>
+      <actor>Astrid</actor>
+      <actor>Karina Angulo</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Espectáculo</category>
+  </programme>
+  <programme start="20160117160000 -0600" stop="20160117163000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Univer TV</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160117163000 -0600" stop="20160117170000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Cuide su salud</title>
+    <desc lang="es">La doctora Diane Pérez te ofrecerá sencillos y valiosos consejos para mantenerte sano, con un buen estado físico y mental, además de ofrecerte una nueva forma de viajar por el mundo de la salud(n)</desc>
+    <credits>
+      <actor>Diane Pérez</actor>
+    </credits>
+    <category lang="es">Cocina, hogar y salud</category>
+    <category lang="es">Salud</category>
+  </programme>
+  <programme start="20160117170000 -0600" stop="20160117180000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">De frente al poder empresarial</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160117180000 -0600" stop="20160117190000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Resumen anual</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Especial</category>
+  </programme>
+  <programme start="20160117190000 -0600" stop="20160117210000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Liga MX</title>
+    <desc lang="es">La Liga MX es el torneo de fútbol profesional más importante de México y el más dominante del área de la Concacaf. En ella compiten 18 equipos acumulando puntos a lo largo de 17 jornadas para clasificar a la "Liguilla". Los ocho clubes con mejor puntuación en la tabla son los que lo logran(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20160117210000 -0600" stop="20160117220000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Recta final</title>
+    <desc lang="es">Programa especializado en todo el género deportivo, que cuenta con entrevistas en vivo a grandes deportistas y el análisis de todo lo que dejen las disciplinas en actividad(n)</desc>
+    <credits>
+      <actor>Josué Layseca</actor>
+      <actor>Diana Bañuelos</actor>
+    </credits>
+    <category lang="es">Periodístico</category>
+    <category lang="es">Político</category>
+  </programme>
+  <programme start="20160117220000 -0600" stop="20160117223000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Cuide su salud</title>
+    <desc lang="es">La doctora Diane Pérez te ofrecerá sencillos y valiosos consejos para mantenerte sano, con un buen estado físico y mental, además de ofrecerte una nueva forma de viajar por el mundo de la salud(n)</desc>
+    <credits>
+      <actor>Diane Pérez</actor>
+    </credits>
+    <category lang="es">Cocina, hogar y salud</category>
+    <category lang="es">Salud</category>
+  </programme>
+  <programme start="20160117223000 -0600" stop="20160117233000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Charreria lo nuestro</title>
+    <desc lang="es">Lo mejor de los deportes mexicanos(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20160117233000 -0600" stop="20160118000000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Cero en conducta</title>
+    <desc lang="es">La Escuela Mártires de Almoloya es dirigida por el Sr. Patiño, quien tiene la difícil labor de educar a un grupo de niños irrespetuosos y traviesos. En su tarea, lo ayuda la maestra Canuta, quien también deberá lidiar con los revoltosos jóvenes. Jorgito es el más travieso de todos ellos: es el que tiene las ideas y los demás son sus fieles seguidores. Disfruta hacer que los maestros queden en ridículo y después burlarse de ellos, por lo que siempre termina sacándose un cero en conducta. Sus compañeritos siguen fielmente sus bromas y burlas, convirtiendo el salón de clases en una pesadilla(n)</desc>
+    <credits>
+      <actor>David Villalpando</actor>
+      <actor>Martha O. Galindo</actor>
+      <actor>Jorge Ortíz De Pinedo</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160118000000 -0600" stop="20160118010000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Teleautos Guadalajara</title>
+    <category lang="es">Deportes</category>
+    <category lang="es">Automovilismo</category>
+  </programme>
+  <programme start="20160118010000 -0600" stop="20160118020000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">GDL en la semana</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160118020000 -0600" stop="20160118033000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Muestra de cine mexicano</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160118033000 -0600" stop="20160118051500 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Foro GDL</title>
+    <desc lang="es">Los domingos conoce con mayor profundidad los temas de más importantes que involucran al estado mexicano, a través de una mesa de debate que analizará cada uno de los detalles correspondientes(n)</desc>
+    <credits>
+      <actor>José Antonio Fernández</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160118051500 -0600" stop="20160118053000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Programas especiales Jal</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Especial</category>
+  </programme>
+  <programme start="20160118053000 -0600" stop="20160118060000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Fuerza cósmica</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160118060000 -0600" stop="20160118090000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">GDL Noticias - Matutino</title>
+    <desc lang="es">Toda la información y las notas más relevantes sobre el clima, las finanzas, policiacas y viales del país, llegan a ti de manera oportuna con este noticiero conformado por un equipo de profesionales(n)</desc>
+    <credits>
+      <actor>Paola Velasco</actor>
+      <actor>Rodolfo Martín Guerrero</actor>
+      <actor>Miguel Ángel Collado</actor>
+      <actor>Marilyn Sicilia</actor>
+      <actor>Daniela Vega</actor>
+      <actor>Elsa Martha Gutierrez</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160118090000 -0600" stop="20160118120000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Día a día</title>
+    <desc lang="es">Programa de revista fresco y divertido para las mujeres del hogar. Cuenta con una variedad amplia de temas que involucra la salud, la moda, las manualidades, la jardinería, los consejos para tu familia y la gastronomía, sin olvidar las últimas noticias del espectáculo. También disfrutarás de la mejor música con la presentación en vivo de los artistas del momento(n)</desc>
+    <credits>
+      <actor>Paco Aceves</actor>
+      <actor>Carlos Anaya</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Interés General</category>
+  </programme>
+  <programme start="20160118120000 -0600" stop="20160118130000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Cocina práctica</title>
+    <desc lang="es">Programa culinario en el que tres chefs te presentan platillos fáciles de hacer, de la cocina mexicana e internacional, con la participación de invitados especiales. Durante media hora serás partícipe de una receta práctica, sencilla y económica, siendo ésta una interesante, pero por sobre todo, divertida combinación que no puedes dejar de ver(n)</desc>
+    <credits>
+      <actor>Antonio Sayavera</actor>
+      <actor>Tony Nardelli</actor>
+      <actor>Carlos Treviño</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Cocina</category>
+  </programme>
+  <programme start="20160118130000 -0600" stop="20160118160000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">GDL contigo</title>
+    <desc lang="es">GDL Contigo fue creado para ayudar a la sociedad mas desprotegida de la zona metropolitana de Guadalajara y sus alrededores,(n)</desc>
+    <credits>
+      <actor>Rodolfo Martín Guerrero</actor>
+      <actor>Karina Lomelí</actor>
+      <actor>Silverio Gamboa</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20160118160000 -0600" stop="20160118174500 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Favoritas del cine mexicano</title>
+    <desc lang="es">Revive la época de oro del cine mexicano(n)</desc>
+    <category lang="es">Ciclo</category>
+    <category lang="es">Película</category>
+  </programme>
+  <programme start="20160118174500 -0600" stop="20160118180000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Alternativa</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160118180000 -0600" stop="20160118190000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Que Pokar!</title>
+    <desc lang="es">Aquí encontrarás todas las noticias referidas al mundo del espectáculo mexicano e internacional con un toque distintivo, lleno de frescura y conducido por sensuales mujeres(n)</desc>
+    <credits>
+      <actor>Paola Velasco</actor>
+      <actor>Astrid</actor>
+      <actor>Karina Angulo</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20160118190000 -0600" stop="20160118200000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">El gordo y la flaca</title>
+    <desc lang="es">Raúl De Molina alias 'El Gordo’ y Lili Estefan conocida como ‘La Flaca’ son quienes llevan la batuta en este espacio reservado para los chismes del mundo del espectáculo, ellos no dejarán de revelar cualquier intimidad relacionada con las estrellas que brillan en la televisión, el cine y la música. Gracias al olfato de este par sin igual y de sus reporteros que siempre andan tras la pista del mejor chisme, los secretos de Hollywood se hacen más divertidos y originales(n)</desc>
+    <credits>
+      <actor>Raúl De Molina</actor>
+      <actor>Lili Estefan</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20160118200000 -0600" stop="20160118210000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">A nivel de cancha</title>
+    <desc lang="es">La polémica se mantiene viva en este programa que muestra de manera ágil los sucesos más importantes y trascendentes del fútbol del fin de semana y de otros deportes, con el análisis de los mejores conductores de Guadalajara, quienes, con el choque de sus posturas, muchas veces generan debates que mantienen atentos a todos los televidentes(n)</desc>
+    <credits>
+      <actor>Aldo González</actor>
+      <actor>Juan Pablo Romero</actor>
+      <actor>Pedro Flores</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160118210000 -0600" stop="20160118220000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">GDL Noticias - Nocturno</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160118220000 -0600" stop="20160118230000 -0600" channel="Canal 4 Guadalajara">
+    <title lang="es">Periodismo en plural</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Político</category>
   </programme>
 </tv>
