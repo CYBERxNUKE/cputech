@@ -7,6 +7,7 @@
   </channel>
   <channel id="AMC">
     <display-name lang="es">AMC</display-name>
+    <icon src="http://x.cdn.entutele.com/media/channels/big/amc.gif" />
     <url>http://www.entutele.com</url>
   </channel>
   <channel id="AMC HD">
@@ -3188,5 +3189,1140 @@
     <sub-title lang="es">Un escándalo de pollos</sub-title>
     <desc lang="es">Sigue muy de cerca el trabajo de unos transportistas que han descubierto la suerte de hacer dinero entregando cargas que las empresas tradicionales se niegan a llevar. En cada episodio podrás encontrarte con envíos que parecieran imposibles hacerlos realidad, pero la destreza y competición de estos arriesgados transportistas los lleva a considerar que ningún envío es demasiado grande siempre y cuando el precio sea justo. Atravesando las principales autopistas de Los Estados Unidos, competirán por despachar la mercancía más inusual y voluminosa que jamás hayas visto(n)</desc>
     <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160111051000 -0600" stop="20160111070000 -0600" channel="AMC">
+    <title lang="es">And Soon the Darkness</title>
+    <desc lang="es">Cuenta la historia de Cathy y Jane, dos jóvenes británicas que viajan a través de Argentina en bicicleta. En una solitaria carretera Cathy desaparece sin dejar rastro. Un joven que afirma ser agente de policía advierte a Jane de la presencia de un asesino en la zona. Las horas transcurren, la noche acecha y Jane ignora el paradero de su amiga. Entonces la angustia comenzará a apoderarse de la joven, que no deja de pensar en la historia del maníaco asesino(n)</desc>
+    <credits>
+      <actor>Karl Urban</actor>
+      <actor>Odette Annable</actor>
+      <actor>Amber Heard</actor>
+      <actor>Marcos Efron</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Thriller</category>
+  </programme>
+  <programme start="20160111070000 -0600" stop="20160111073000 -0600" channel="AMC">
+    <title lang="es">Big Screen</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160111073000 -0600" stop="20160111080000 -0600" channel="AMC">
+    <title lang="es">Action Zone</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160111080000 -0600" stop="20160111083000 -0600" channel="AMC">
+    <title lang="es">Programa pagado</title>
+    <desc lang="es">Espacio dedicado a la publicidad de productos comerciales patrocinados por diferentes compañías(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160111083000 -0600" stop="20160111090000 -0600" channel="AMC">
+    <title lang="es">Programa pagado</title>
+    <desc lang="es">Espacio dedicado a la publicidad de productos comerciales patrocinados por diferentes compañías(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160111090000 -0600" stop="20160111093000 -0600" channel="AMC">
+    <title lang="es">Programa pagado</title>
+    <desc lang="es">Espacio dedicado a la publicidad de productos comerciales patrocinados por diferentes compañías(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160111093000 -0600" stop="20160111100000 -0600" channel="AMC">
+    <title lang="es">Programa pagado</title>
+    <desc lang="es">Espacio dedicado a la publicidad de productos comerciales patrocinados por diferentes compañías(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160111100000 -0600" stop="20160111103000 -0600" channel="AMC">
+    <title lang="es">Programa pagado</title>
+    <desc lang="es">Espacio dedicado a la publicidad de productos comerciales patrocinados por diferentes compañías(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160111103000 -0600" stop="20160111110000 -0600" channel="AMC">
+    <title lang="es">Programa pagado</title>
+    <desc lang="es">Espacio dedicado a la publicidad de productos comerciales patrocinados por diferentes compañías(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160111110000 -0600" stop="20160111113000 -0600" channel="AMC">
+    <title lang="es">Action Zone</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160111113000 -0600" stop="20160111120000 -0600" channel="AMC">
+    <title lang="es">Action Zone</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160111120000 -0600" stop="20160111140500 -0600" channel="AMC">
+    <title lang="es">El barón rojo</title>
+    <desc lang="es">Un héroe, una leyenda de su tiempo, un hombre temido y respetado por el enemigo. El Barón Rojo se convirtió durante la 1ª. Guerra Mundial en el piloto más famoso de la historia(n)</desc>
+    <credits>
+      <actor>Lena Headey</actor>
+      <actor>Matthias Schweighöfer</actor>
+      <actor>Til Schweiger</actor>
+      <actor>Nikolai Müllerschön</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Acción</category>
+  </programme>
+  <programme start="20160111140500 -0600" stop="20160111162000 -0600" channel="AMC">
+    <title lang="es">Find Me Guilty</title>
+    <desc lang="es">Tras años de investigación federal, el proceso criminal más largo de la historia de Estados Unidos sentó en el banquillo a 20 miembros de la familia Lucchese, conocida por sus conexiones con la mafia, acusados de 76 cargos. El Gobierno de Estados Unidos se había propuesto acabar con una de las más importantes familias de mafiosos del país. Hasta que uno de los acusados, un notorio miembro del crimen organizado de New Jersey, decidió hacer lo impensable: defenderse a sí mismo(n)</desc>
+    <credits>
+      <actor>Frank Pietrangolare</actor>
+      <actor>Sidney Lumet</actor>
+      <actor>Vin Diesel</actor>
+      <actor>Alex Rocco</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160111162000 -0600" stop="20160111192500 -0600" channel="AMC">
+    <title lang="es">El patriota</title>
+    <desc lang="es">Benjamin Martin, héroe de guerra, renuncia a la guerra para siempre al casarse con una hermosa mujer que le da 7 hijos. La pacífica vida que lleva la familia se ve interrumpida con la rebelión independentista contra Inglaterra(n)</desc>
+    <credits>
+      <actor>Heath Ledger</actor>
+      <actor>Mel Gibson</actor>
+      <actor>Joely Richardson</actor>
+      <actor>Roland Emmerich</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Acción</category>
+  </programme>
+  <programme start="20160111192500 -0600" stop="20160111220000 -0600" channel="AMC">
+    <title lang="es">Rurouni Kenshin</title>
+    <desc lang="es">Kenshin Himura es un famoso samurái conocido por su destreza con la katana y su frialdad a la hora de matar. En el pasado estuvo al servicio de los Ishin Shishi, un grupo de patriotas que luchaban para devolver el poder al Emperador, librando cientos de batallas y cobrándose muchas vidas(n)</desc>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Acción</category>
+  </programme>
+  <programme start="20160111220000 -0600" stop="20160111230000 -0600" channel="AMC">
+    <title lang="es">Into the Badlands</title>
+    <sub-title lang="es">Puño como una bala</sub-title>
+    <desc lang="es">En una tierra controlada por siete barones feudales, cuenta la historia de Sunny, un gran guerrero entrenado en las artes marciales, y M.K., su joven aprendiz, que se embarcan en un viaje espiritual cruzando una tierra peligrosa para encontrar la iluminación(n)</desc>
+    <category lang="es">Series</category>
+    <category lang="es">Fantasía</category>
+  </programme>
+  <programme start="20160111230000 -0600" stop="20160112000000 -0600" channel="AMC">
+    <title lang="es">Into the Badlands</title>
+    <sub-title lang="es">La grulla blanca extiende sus alas</sub-title>
+    <desc lang="es">En una tierra controlada por siete barones feudales, cuenta la historia de Sunny, un gran guerrero entrenado en las artes marciales, y M.K., su joven aprendiz, que se embarcan en un viaje espiritual cruzando una tierra peligrosa para encontrar la iluminación(n)</desc>
+    <category lang="es">Series</category>
+    <category lang="es">Fantasía</category>
+  </programme>
+  <programme start="20160112000000 -0600" stop="20160112023500 -0600" channel="AMC">
+    <title lang="es">Rurouni Kenshin</title>
+    <desc lang="es">Kenshin Himura es un famoso samurái conocido por su destreza con la katana y su frialdad a la hora de matar. En el pasado estuvo al servicio de los Ishin Shishi, un grupo de patriotas que luchaban para devolver el poder al Emperador, librando cientos de batallas y cobrándose muchas vidas(n)</desc>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Acción</category>
+  </programme>
+  <programme start="20160112023500 -0600" stop="20160112042500 -0600" channel="AMC">
+    <title lang="es">And Soon the Darkness</title>
+    <desc lang="es">Cuenta la historia de Cathy y Jane, dos jóvenes británicas que viajan a través de Argentina en bicicleta. En una solitaria carretera Cathy desaparece sin dejar rastro. Un joven que afirma ser agente de policía advierte a Jane de la presencia de un asesino en la zona. Las horas transcurren, la noche acecha y Jane ignora el paradero de su amiga. Entonces la angustia comenzará a apoderarse de la joven, que no deja de pensar en la historia del maníaco asesino(n)</desc>
+    <credits>
+      <actor>Karl Urban</actor>
+      <actor>Odette Annable</actor>
+      <actor>Amber Heard</actor>
+      <actor>Marcos Efron</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Thriller</category>
+  </programme>
+  <programme start="20160112042500 -0600" stop="20160112061000 -0600" channel="AMC">
+    <title lang="es">La tribu</title>
+    <desc lang="es">Después de un devastador accidente en bote, un grupo de amigos quedan varados en una isla desierta donde encontrarán una tribu antigua de criaturas humanoides(n)</desc>
+    <credits>
+      <actor>Jewel Staite</actor>
+      <actor>Justin Baldoni</actor>
+      <actor>Marc Bacher</actor>
+      <actor>Jorg Ihle</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Terror y Suspenso</category>
+  </programme>
+  <programme start="20160112061000 -0600" stop="20160112080000 -0600" channel="AMC">
+    <title lang="es">Kings of South Beach</title>
+    <desc lang="es">Chris Troiano construyó en la noche de Miami su propio imperio. Ahora ha encontrado al hombre ideal para mantenerlo. Basada en hechos reales(n)</desc>
+    <credits>
+      <actor>Tim Hunter</actor>
+      <actor>Donnie Wahlberg</actor>
+      <actor>Jason Gedrick</actor>
+      <actor>Steven Bauer</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160112080000 -0600" stop="20160112083000 -0600" channel="AMC">
+    <title lang="es">Programa pagado</title>
+    <desc lang="es">Espacio dedicado a la publicidad de productos comerciales patrocinados por diferentes compañías(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160112083000 -0600" stop="20160112090000 -0600" channel="AMC">
+    <title lang="es">Programa pagado</title>
+    <desc lang="es">Espacio dedicado a la publicidad de productos comerciales patrocinados por diferentes compañías(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160112090000 -0600" stop="20160112093000 -0600" channel="AMC">
+    <title lang="es">Programa pagado</title>
+    <desc lang="es">Espacio dedicado a la publicidad de productos comerciales patrocinados por diferentes compañías(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160112093000 -0600" stop="20160112100000 -0600" channel="AMC">
+    <title lang="es">Programa pagado</title>
+    <desc lang="es">Espacio dedicado a la publicidad de productos comerciales patrocinados por diferentes compañías(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160112100000 -0600" stop="20160112103000 -0600" channel="AMC">
+    <title lang="es">Programa pagado</title>
+    <desc lang="es">Espacio dedicado a la publicidad de productos comerciales patrocinados por diferentes compañías(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160112103000 -0600" stop="20160112110000 -0600" channel="AMC">
+    <title lang="es">Programa pagado</title>
+    <desc lang="es">Espacio dedicado a la publicidad de productos comerciales patrocinados por diferentes compañías(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160112110000 -0600" stop="20160112110000 -0600" channel="AMC">
+    <title lang="es">Find Me Guilty</title>
+    <desc lang="es">Tras años de investigación federal, el proceso criminal más largo de la historia de Estados Unidos sentó en el banquillo a 20 miembros de la familia Lucchese, conocida por sus conexiones con la mafia, acusados de 76 cargos. El Gobierno de Estados Unidos se había propuesto acabar con una de las más importantes familias de mafiosos del país. Hasta que uno de los acusados, un notorio miembro del crimen organizado de New Jersey, decidió hacer lo impensable: defenderse a sí mismo(n)</desc>
+    <credits>
+      <actor>Frank Pietrangolare</actor>
+      <actor>Sidney Lumet</actor>
+      <actor>Vin Diesel</actor>
+      <actor>Alex Rocco</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160112110000 -0600" stop="20160112132000 -0600" channel="AMC">
+    <title lang="es">Find Me Guilty</title>
+    <desc lang="es">Tras años de investigación federal, el proceso criminal más largo de la historia de Estados Unidos sentó en el banquillo a 20 miembros de la familia Lucchese, conocida por sus conexiones con la mafia, acusados de 76 cargos. El Gobierno de Estados Unidos se había propuesto acabar con una de las más importantes familias de mafiosos del país. Hasta que uno de los acusados, un notorio miembro del crimen organizado de New Jersey, decidió hacer lo impensable: defenderse a sí mismo(n)</desc>
+    <credits>
+      <actor>Frank Pietrangolare</actor>
+      <actor>Sidney Lumet</actor>
+      <actor>Vin Diesel</actor>
+      <actor>Alex Rocco</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160112132000 -0600" stop="20160112150500 -0600" channel="AMC">
+    <title lang="es">Los mensajeros</title>
+    <desc lang="es">La familia Solomon abandona Chicago y se establece en una remota granja de girasoles en Dakota del Norte. La armonía se ve interrumpida cuando Jess, la hija mayor, y su hermano Ben, de 3 años, empiezan a ver siniestras apariciones, invisibles para los demás. Cuando Jess intenta advertir a sus padres de la terrible amenaza que se cierne sobre ellos, no le harán ningún caso. Pero los espectros se vuelven cada vez más violentos(n)</desc>
+    <credits>
+      <actor>Kristen Stewart</actor>
+      <actor>Penelope Ann Miller</actor>
+      <actor>Dylan McDermott</actor>
+      <actor>Oxide Pang Chun</actor>
+      <actor>Danny Pang</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Terror y Suspenso</category>
+  </programme>
+  <programme start="20160112150500 -0600" stop="20160112165000 -0600" channel="AMC">
+    <title lang="es">Kings of South Beach</title>
+    <desc lang="es">Chris Troiano construyó en la noche de Miami su propio imperio. Ahora ha encontrado al hombre ideal para mantenerlo. Basada en hechos reales(n)</desc>
+    <credits>
+      <actor>Tim Hunter</actor>
+      <actor>Donnie Wahlberg</actor>
+      <actor>Jason Gedrick</actor>
+      <actor>Steven Bauer</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160112165000 -0600" stop="20160112192500 -0600" channel="AMC">
+    <title lang="es">Rurouni Kenshin</title>
+    <desc lang="es">Kenshin Himura es un famoso samurái conocido por su destreza con la katana y su frialdad a la hora de matar. En el pasado estuvo al servicio de los Ishin Shishi, un grupo de patriotas que luchaban para devolver el poder al Emperador, librando cientos de batallas y cobrándose muchas vidas(n)</desc>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Acción</category>
+  </programme>
+  <programme start="20160112192500 -0600" stop="20160112220000 -0600" channel="AMC">
+    <title lang="es">Rurouni Kenshin</title>
+    <desc lang="es">Kenshin Himura es un famoso samurái conocido por su destreza con la katana y su frialdad a la hora de matar. En el pasado estuvo al servicio de los Ishin Shishi, un grupo de patriotas que luchaban para devolver el poder al Emperador, librando cientos de batallas y cobrándose muchas vidas(n)</desc>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Acción</category>
+  </programme>
+  <programme start="20160112220000 -0600" stop="20160113004500 -0600" channel="AMC">
+    <title lang="es">Dos policías rebeldes 2</title>
+    <desc lang="es">Vuelven a imponer la ley… su ley. Los oficiales Mike y Marcus planean capturar a un capo de la droga que busca controlar el tráfico de narcóticos en la ciudad. Todo se complica cuando Mike se enamora de la hermana de Marcus, quien trabaja como agente encubierta para la DEA(n)</desc>
+    <credits>
+      <actor>Martin Lawrence</actor>
+      <actor>Jordi Molla</actor>
+      <actor>Michael Bay</actor>
+      <actor>Will Smith</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Acción</category>
+  </programme>
+  <programme start="20160113004500 -0600" stop="20160113032000 -0600" channel="AMC">
+    <title lang="es">Rurouni Kenshin</title>
+    <desc lang="es">Kenshin Himura es un famoso samurái conocido por su destreza con la katana y su frialdad a la hora de matar. En el pasado estuvo al servicio de los Ishin Shishi, un grupo de patriotas que luchaban para devolver el poder al Emperador, librando cientos de batallas y cobrándose muchas vidas(n)</desc>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Acción</category>
+  </programme>
+  <programme start="20160113032000 -0600" stop="20160113060500 -0600" channel="AMC">
+    <title lang="es">Dos policías rebeldes 2</title>
+    <desc lang="es">Vuelven a imponer la ley… su ley. Los oficiales Mike y Marcus planean capturar a un capo de la droga que busca controlar el tráfico de narcóticos en la ciudad. Todo se complica cuando Mike se enamora de la hermana de Marcus, quien trabaja como agente encubierta para la DEA(n)</desc>
+    <credits>
+      <actor>Martin Lawrence</actor>
+      <actor>Jordi Molla</actor>
+      <actor>Michael Bay</actor>
+      <actor>Will Smith</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Acción</category>
+  </programme>
+  <programme start="20160113060500 -0600" stop="20160113080000 -0600" channel="AMC">
+    <title lang="es">Ruslan</title>
+    <desc lang="es">Un ex mafioso ruso llamado Ruslan, que actualmente es un escritor de novelas de crimen, descubre que su hija está a punto de casarse con el hijo de su más odiado enemigo. Cuando su familia es amenazada, regresa a su vida anterior para vengarse(n)</desc>
+    <credits>
+      <actor>Steven Seagal</actor>
+      <actor>Igor Jijikine</actor>
+      <actor>Dmitry Chepovetsky</actor>
+      <actor>Jeff King</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Acción</category>
+  </programme>
+  <programme start="20160113080000 -0600" stop="20160113083000 -0600" channel="AMC">
+    <title lang="es">Programa pagado</title>
+    <desc lang="es">Espacio dedicado a la publicidad de productos comerciales patrocinados por diferentes compañías(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160113083000 -0600" stop="20160113090000 -0600" channel="AMC">
+    <title lang="es">Programa pagado</title>
+    <desc lang="es">Espacio dedicado a la publicidad de productos comerciales patrocinados por diferentes compañías(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160113090000 -0600" stop="20160113093000 -0600" channel="AMC">
+    <title lang="es">Programa pagado</title>
+    <desc lang="es">Espacio dedicado a la publicidad de productos comerciales patrocinados por diferentes compañías(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160113093000 -0600" stop="20160113100000 -0600" channel="AMC">
+    <title lang="es">Programa pagado</title>
+    <desc lang="es">Espacio dedicado a la publicidad de productos comerciales patrocinados por diferentes compañías(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160113100000 -0600" stop="20160113103000 -0600" channel="AMC">
+    <title lang="es">Programa pagado</title>
+    <desc lang="es">Espacio dedicado a la publicidad de productos comerciales patrocinados por diferentes compañías(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160113103000 -0600" stop="20160113110000 -0600" channel="AMC">
+    <title lang="es">Programa pagado</title>
+    <desc lang="es">Espacio dedicado a la publicidad de productos comerciales patrocinados por diferentes compañías(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160113110000 -0600" stop="20160113113000 -0600" channel="AMC">
+    <title lang="es">Big Screen</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160113113000 -0600" stop="20160113120000 -0600" channel="AMC">
+    <title lang="es">Action Zone</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160113120000 -0600" stop="20160113140500 -0600" channel="AMC">
+    <title lang="es">Guerra de vinos</title>
+    <desc lang="es">Un británico expatriado que vive en París, propietario de una tienda de vinos, decide demostrar a los franceses la calidad de los vinos de otros países. Por lo que se traslada a California para llevar un vino norteamericano a concursar en Francia(n)</desc>
+    <credits>
+      <actor>Randall Miller</actor>
+      <actor>Hal B. Klein</actor>
+      <actor>Chris Pine</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160113140500 -0600" stop="20160113165000 -0600" channel="AMC">
+    <title lang="es">Dos policías rebeldes 2</title>
+    <desc lang="es">Vuelven a imponer la ley… su ley. Los oficiales Mike y Marcus planean capturar a un capo de la droga que busca controlar el tráfico de narcóticos en la ciudad. Todo se complica cuando Mike se enamora de la hermana de Marcus, quien trabaja como agente encubierta para la DEA(n)</desc>
+    <credits>
+      <actor>Martin Lawrence</actor>
+      <actor>Jordi Molla</actor>
+      <actor>Michael Bay</actor>
+      <actor>Will Smith</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Acción</category>
+  </programme>
+  <programme start="20160113165000 -0600" stop="20160113192500 -0600" channel="AMC">
+    <title lang="es">Rurouni Kenshin</title>
+    <desc lang="es">Kenshin Himura es un famoso samurái conocido por su destreza con la katana y su frialdad a la hora de matar. En el pasado estuvo al servicio de los Ishin Shishi, un grupo de patriotas que luchaban para devolver el poder al Emperador, librando cientos de batallas y cobrándose muchas vidas(n)</desc>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Acción</category>
+  </programme>
+  <programme start="20160113192500 -0600" stop="20160113220000 -0600" channel="AMC">
+    <title lang="es">Rurouni Kenshin 3: La leyenda termina</title>
+    <desc lang="es">El duelo entre Kenshin Himura y el maligno Shishio Makoto sigue sin resolverse. El conflicto entre los dos guerreros decidirá el destino de Japón, y pondrá un bombástico punto final a la memorable adaptación cinematográfica del manga de Nobuhiro Watsuki(n)</desc>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Acción</category>
+  </programme>
+  <programme start="20160113220000 -0600" stop="20160114000500 -0600" channel="AMC">
+    <title lang="es">Mary Reilly</title>
+    <desc lang="es">Una joven encuentra el trabajo de su vida en la casa del Dr. Jeckyll. Allí, poco a poco Mary se siente atraída por el Dr. Jeckyll pero la enigmática figura de Hide hará que sus sentimientos se repartan entre los dos hombres(n)</desc>
+    <credits>
+      <actor>Glenn Close</actor>
+      <actor>Julia Roberts</actor>
+      <actor>John Malkovich</actor>
+      <actor>Stephen Frears</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160114000500 -0600" stop="20160114010500 -0600" channel="AMC">
+    <title lang="es">Into the Badlands</title>
+    <sub-title lang="es">Puño como una bala</sub-title>
+    <desc lang="es">En una tierra controlada por siete barones feudales, cuenta la historia de Sunny, un gran guerrero entrenado en las artes marciales, y M.K., su joven aprendiz, que se embarcan en un viaje espiritual cruzando una tierra peligrosa para encontrar la iluminación(n)</desc>
+    <category lang="es">Series</category>
+    <category lang="es">Fantasía</category>
+  </programme>
+  <programme start="20160114010500 -0600" stop="20160114020500 -0600" channel="AMC">
+    <title lang="es">Into the Badlands</title>
+    <sub-title lang="es">La grulla blanca extiende sus alas</sub-title>
+    <desc lang="es">En una tierra controlada por siete barones feudales, cuenta la historia de Sunny, un gran guerrero entrenado en las artes marciales, y M.K., su joven aprendiz, que se embarcan en un viaje espiritual cruzando una tierra peligrosa para encontrar la iluminación(n)</desc>
+    <category lang="es">Series</category>
+    <category lang="es">Fantasía</category>
+  </programme>
+  <programme start="20160114020500 -0600" stop="20160114041000 -0600" channel="AMC">
+    <title lang="es">Mary Reilly</title>
+    <desc lang="es">Una joven encuentra el trabajo de su vida en la casa del Dr. Jeckyll. Allí, poco a poco Mary se siente atraída por el Dr. Jeckyll pero la enigmática figura de Hide hará que sus sentimientos se repartan entre los dos hombres(n)</desc>
+    <credits>
+      <actor>Glenn Close</actor>
+      <actor>Julia Roberts</actor>
+      <actor>John Malkovich</actor>
+      <actor>Stephen Frears</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160114041000 -0600" stop="20160114060000 -0600" channel="AMC">
+    <title lang="es">Ruslan</title>
+    <desc lang="es">Un ex mafioso ruso llamado Ruslan, que actualmente es un escritor de novelas de crimen, descubre que su hija está a punto de casarse con el hijo de su más odiado enemigo. Cuando su familia es amenazada, regresa a su vida anterior para vengarse(n)</desc>
+    <credits>
+      <actor>Steven Seagal</actor>
+      <actor>Igor Jijikine</actor>
+      <actor>Dmitry Chepovetsky</actor>
+      <actor>Jeff King</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Acción</category>
+  </programme>
+  <programme start="20160114060000 -0600" stop="20160114080000 -0600" channel="AMC">
+    <title lang="es">Los cazafantasmas</title>
+    <desc lang="es">Los doctores en parapsicología Peter Venkman, Raymond Stantz y Egon Epengler crean la empresa 'Los cazafantasmas' al dejar de recibir apoyo del centro universitario donde estaban trabajando(n)</desc>
+    <credits>
+      <actor>Rick Moranis</actor>
+      <actor>Dan Aykroyd</actor>
+      <actor>Ivan Reitman</actor>
+      <actor>Bill Murray</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">C.Ficción</category>
+  </programme>
+  <programme start="20160114080000 -0600" stop="20160114083000 -0600" channel="AMC">
+    <title lang="es">Programa pagado</title>
+    <desc lang="es">Espacio dedicado a la publicidad de productos comerciales patrocinados por diferentes compañías(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160114083000 -0600" stop="20160114090000 -0600" channel="AMC">
+    <title lang="es">Programa pagado</title>
+    <desc lang="es">Espacio dedicado a la publicidad de productos comerciales patrocinados por diferentes compañías(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160114090000 -0600" stop="20160114093000 -0600" channel="AMC">
+    <title lang="es">Programa pagado</title>
+    <desc lang="es">Espacio dedicado a la publicidad de productos comerciales patrocinados por diferentes compañías(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160114093000 -0600" stop="20160114100000 -0600" channel="AMC">
+    <title lang="es">Programa pagado</title>
+    <desc lang="es">Espacio dedicado a la publicidad de productos comerciales patrocinados por diferentes compañías(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160114100000 -0600" stop="20160114103000 -0600" channel="AMC">
+    <title lang="es">Programa pagado</title>
+    <desc lang="es">Espacio dedicado a la publicidad de productos comerciales patrocinados por diferentes compañías(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160114103000 -0600" stop="20160114110000 -0600" channel="AMC">
+    <title lang="es">Programa pagado</title>
+    <desc lang="es">Espacio dedicado a la publicidad de productos comerciales patrocinados por diferentes compañías(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160114110000 -0600" stop="20160114113000 -0600" channel="AMC">
+    <title lang="es">Action Zone</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160114113000 -0600" stop="20160114113000 -0600" channel="AMC">
+    <title lang="es">Los cazafantasmas</title>
+    <desc lang="es">Los doctores en parapsicología Peter Venkman, Raymond Stantz y Egon Epengler crean la empresa 'Los cazafantasmas' al dejar de recibir apoyo del centro universitario donde estaban trabajando(n)</desc>
+    <credits>
+      <actor>Rick Moranis</actor>
+      <actor>Dan Aykroyd</actor>
+      <actor>Ivan Reitman</actor>
+      <actor>Bill Murray</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">C.Ficción</category>
+  </programme>
+  <programme start="20160114113000 -0600" stop="20160114133000 -0600" channel="AMC">
+    <title lang="es">Los cazafantasmas</title>
+    <desc lang="es">Los doctores en parapsicología Peter Venkman, Raymond Stantz y Egon Epengler crean la empresa 'Los cazafantasmas' al dejar de recibir apoyo del centro universitario donde estaban trabajando(n)</desc>
+    <credits>
+      <actor>Rick Moranis</actor>
+      <actor>Dan Aykroyd</actor>
+      <actor>Ivan Reitman</actor>
+      <actor>Bill Murray</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">C.Ficción</category>
+  </programme>
+  <programme start="20160114133000 -0600" stop="20160114160500 -0600" channel="AMC">
+    <title lang="es">Rurouni Kenshin 3: La leyenda termina</title>
+    <desc lang="es">El duelo entre Kenshin Himura y el maligno Shishio Makoto sigue sin resolverse. El conflicto entre los dos guerreros decidirá el destino de Japón, y pondrá un bombástico punto final a la memorable adaptación cinematográfica del manga de Nobuhiro Watsuki(n)</desc>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Acción</category>
+  </programme>
+  <programme start="20160114160500 -0600" stop="20160114180500 -0600" channel="AMC">
+    <title lang="es">Diez años</title>
+    <desc lang="es">Un grupo de ex compañeros de escuela se reúnen 10 años después de la graduación, pero se dan cuenta de que no han madurado demasiado. Jake está profundamente enamorado de su novia y listo para proponerle matrimonio, hasta que se encuentra con su amor de la secundaria por primera vez en años(n)</desc>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160114180500 -0600" stop="20160114195500 -0600" channel="AMC">
+    <title lang="es">Fuego cruzado</title>
+    <desc lang="es">Un bombero fuera de servicio es testigo de un asesinato a manos de una banda de mafiosos. Por eso, entrará en el programa de protección de testigos hasta que testifique, pero no conseguirá ocultarse por mucho tiempo de sus enemigos, por lo que decidirá actuar por su cuenta e ir a por el cabecilla para proteger a la mujer que ama(n)</desc>
+    <credits>
+      <actor>Rosario Dawson</actor>
+      <actor>Bruce Willis</actor>
+      <actor>Josh Duhamel</actor>
+      <actor>David Barrett</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Acción</category>
+  </programme>
+  <programme start="20160114195500 -0600" stop="20160114220000 -0600" channel="AMC">
+    <title lang="es">Flores Rotas</title>
+    <desc lang="es">Don, un soltero empedernido, recibe una carta de una antigua novia que cambiará su vida: tiene un hijo de 19 años que podría estar buscándolo. Intrigado investiga pistas sobre cuatro antiguas amantes que lo enfrentan a su pasado y sus consecuencias en el presente(n)</desc>
+    <credits>
+      <actor>Julie Delpy</actor>
+      <actor>Heather Simms</actor>
+      <actor>Bill Murray</actor>
+      <actor>Jim Jarmusch</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160114220000 -0600" stop="20160114225500 -0600" channel="AMC">
+    <title lang="es">Humans</title>
+    <desc lang="es">Humans explora un mundo donde la tecnología se cruza con las relaciones humanas, desafiando valores morales y éticos y lo que significa ser humano. A la vez que la sociedad sigue dependiendo cada vez más de la tecnología, pronto encontrarán que borrando los límites y compartiendo la vida con las máquinas tiene consecuencias graves(n)</desc>
+    <category lang="es">Series</category>
+    <category lang="es">C.Ficción</category>
+  </programme>
+  <programme start="20160114225500 -0600" stop="20160115012500 -0600" channel="AMC">
+    <title lang="es">El pueblo vs. Larry Flint</title>
+    <desc lang="es">La película cuenta la historia de la revista Hustler. En la década de los años 70, Estados Unidos se encuentra inmersa en plena revolución sexual. Larry Flynt (Woody Harrelson) es un empresario que decide abrir varios establecimientos de striptease. Tras promocionarlos con boletines de las artistas, sus ingresos económicos aumentan y decide dar un paso más creando la revista para adultos Hustler(n)</desc>
+    <credits>
+      <actor>Woody Harrelson</actor>
+      <actor>Edward Norton</actor>
+      <actor>Courtney Love</actor>
+      <actor>Milos Forman</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160115012500 -0600" stop="20160115022500 -0600" channel="AMC">
+    <title lang="es">Humans</title>
+    <desc lang="es">Humans explora un mundo donde la tecnología se cruza con las relaciones humanas, desafiando valores morales y éticos y lo que significa ser humano. A la vez que la sociedad sigue dependiendo cada vez más de la tecnología, pronto encontrarán que borrando los límites y compartiendo la vida con las máquinas tiene consecuencias graves(n)</desc>
+    <category lang="es">Series</category>
+    <category lang="es">C.Ficción</category>
+  </programme>
+  <programme start="20160115022500 -0600" stop="20160115043000 -0600" channel="AMC">
+    <title lang="es">Flores Rotas</title>
+    <desc lang="es">Don, un soltero empedernido, recibe una carta de una antigua novia que cambiará su vida: tiene un hijo de 19 años que podría estar buscándolo. Intrigado investiga pistas sobre cuatro antiguas amantes que lo enfrentan a su pasado y sus consecuencias en el presente(n)</desc>
+    <credits>
+      <actor>Julie Delpy</actor>
+      <actor>Heather Simms</actor>
+      <actor>Bill Murray</actor>
+      <actor>Jim Jarmusch</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160115043000 -0600" stop="20160115070000 -0600" channel="AMC">
+    <title lang="es">El pueblo vs. Larry Flint</title>
+    <desc lang="es">La película cuenta la historia de la revista Hustler. En la década de los años 70, Estados Unidos se encuentra inmersa en plena revolución sexual. Larry Flynt (Woody Harrelson) es un empresario que decide abrir varios establecimientos de striptease. Tras promocionarlos con boletines de las artistas, sus ingresos económicos aumentan y decide dar un paso más creando la revista para adultos Hustler(n)</desc>
+    <credits>
+      <actor>Woody Harrelson</actor>
+      <actor>Edward Norton</actor>
+      <actor>Courtney Love</actor>
+      <actor>Milos Forman</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160115070000 -0600" stop="20160115073000 -0600" channel="AMC">
+    <title lang="es">Big Screen</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160115073000 -0600" stop="20160115080000 -0600" channel="AMC">
+    <title lang="es">Action Zone</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160115080000 -0600" stop="20160115083000 -0600" channel="AMC">
+    <title lang="es">Programa pagado</title>
+    <desc lang="es">Espacio dedicado a la publicidad de productos comerciales patrocinados por diferentes compañías(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160115083000 -0600" stop="20160115090000 -0600" channel="AMC">
+    <title lang="es">Programa pagado</title>
+    <desc lang="es">Espacio dedicado a la publicidad de productos comerciales patrocinados por diferentes compañías(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160115090000 -0600" stop="20160115093000 -0600" channel="AMC">
+    <title lang="es">Programa pagado</title>
+    <desc lang="es">Espacio dedicado a la publicidad de productos comerciales patrocinados por diferentes compañías(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160115093000 -0600" stop="20160115100000 -0600" channel="AMC">
+    <title lang="es">Programa pagado</title>
+    <desc lang="es">Espacio dedicado a la publicidad de productos comerciales patrocinados por diferentes compañías(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160115100000 -0600" stop="20160115103000 -0600" channel="AMC">
+    <title lang="es">Programa pagado</title>
+    <desc lang="es">Espacio dedicado a la publicidad de productos comerciales patrocinados por diferentes compañías(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160115103000 -0600" stop="20160115110000 -0600" channel="AMC">
+    <title lang="es">Programa pagado</title>
+    <desc lang="es">Espacio dedicado a la publicidad de productos comerciales patrocinados por diferentes compañías(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160115110000 -0600" stop="20160115113000 -0600" channel="AMC">
+    <title lang="es">Action Zone</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160115113000 -0600" stop="20160115120000 -0600" channel="AMC">
+    <title lang="es">Big Screen</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160115120000 -0600" stop="20160115140000 -0600" channel="AMC">
+    <title lang="es">Diez años</title>
+    <desc lang="es">Un grupo de ex compañeros de escuela se reúnen 10 años después de la graduación, pero se dan cuenta de que no han madurado demasiado. Jake está profundamente enamorado de su novia y listo para proponerle matrimonio, hasta que se encuentra con su amor de la secundaria por primera vez en años(n)</desc>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160115140000 -0600" stop="20160115155000 -0600" channel="AMC">
+    <title lang="es">Fuego cruzado</title>
+    <desc lang="es">Un bombero fuera de servicio es testigo de un asesinato a manos de una banda de mafiosos. Por eso, entrará en el programa de protección de testigos hasta que testifique, pero no conseguirá ocultarse por mucho tiempo de sus enemigos, por lo que decidirá actuar por su cuenta e ir a por el cabecilla para proteger a la mujer que ama(n)</desc>
+    <credits>
+      <actor>Rosario Dawson</actor>
+      <actor>Bruce Willis</actor>
+      <actor>Josh Duhamel</actor>
+      <actor>David Barrett</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Acción</category>
+  </programme>
+  <programme start="20160115155000 -0600" stop="20160115181000 -0600" channel="AMC">
+    <title lang="es">Find Me Guilty</title>
+    <desc lang="es">Tras años de investigación federal, el proceso criminal más largo de la historia de Estados Unidos sentó en el banquillo a 20 miembros de la familia Lucchese, conocida por sus conexiones con la mafia, acusados de 76 cargos. El Gobierno de Estados Unidos se había propuesto acabar con una de las más importantes familias de mafiosos del país. Hasta que uno de los acusados, un notorio miembro del crimen organizado de New Jersey, decidió hacer lo impensable: defenderse a sí mismo(n)</desc>
+    <credits>
+      <actor>Frank Pietrangolare</actor>
+      <actor>Sidney Lumet</actor>
+      <actor>Vin Diesel</actor>
+      <actor>Alex Rocco</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160115181000 -0600" stop="20160115201500 -0600" channel="AMC">
+    <title lang="es">Flores Rotas</title>
+    <desc lang="es">Don, un soltero empedernido, recibe una carta de una antigua novia que cambiará su vida: tiene un hijo de 19 años que podría estar buscándolo. Intrigado investiga pistas sobre cuatro antiguas amantes que lo enfrentan a su pasado y sus consecuencias en el presente(n)</desc>
+    <credits>
+      <actor>Julie Delpy</actor>
+      <actor>Heather Simms</actor>
+      <actor>Bill Murray</actor>
+      <actor>Jim Jarmusch</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160115201500 -0600" stop="20160115220000 -0600" channel="AMC">
+    <title lang="es">Dolan's Cadillac</title>
+    <desc lang="es">Tom Robinson, un tranquilo y honrado profesor de ciencia, se convierte en un vengador sangriento cuando el mafioso más poderoso de Las Vegas, llamado Jimmy Dolan, mata a su esposa, quien fue testigo ocasional de un asesinato(n)</desc>
+    <credits>
+      <actor>Wes Bentley</actor>
+      <actor>Emmanuelle Vaugier</actor>
+      <actor>Greg Bryk</actor>
+      <actor>Jeff Beesley</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Thriller</category>
+  </programme>
+  <programme start="20160115220000 -0600" stop="20160116000000 -0600" channel="AMC">
+    <title lang="es">Vigilante nocturno</title>
+    <desc lang="es">Un estudiante de abogacía empieza a trabajar como cuidador nocturno en una morgue, y de esta manera comienza a descubrir algunas claves que lo implicarán a él como sospechoso de una serie de asesinatos(n)</desc>
+    <credits>
+      <actor>Ewan McGregor</actor>
+      <actor>Patricia Arquette</actor>
+      <actor>Ole Bornedal</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Acción</category>
+  </programme>
+  <programme start="20160116000000 -0600" stop="20160116014500 -0600" channel="AMC">
+    <title lang="es">Dolan's Cadillac</title>
+    <desc lang="es">Tom Robinson, un tranquilo y honrado profesor de ciencia, se convierte en un vengador sangriento cuando el mafioso más poderoso de Las Vegas, llamado Jimmy Dolan, mata a su esposa, quien fue testigo ocasional de un asesinato(n)</desc>
+    <credits>
+      <actor>Wes Bentley</actor>
+      <actor>Emmanuelle Vaugier</actor>
+      <actor>Greg Bryk</actor>
+      <actor>Jeff Beesley</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Thriller</category>
+  </programme>
+  <programme start="20160116014500 -0600" stop="20160116034500 -0600" channel="AMC">
+    <title lang="es">Vigilante nocturno</title>
+    <desc lang="es">Un estudiante de abogacía empieza a trabajar como cuidador nocturno en una morgue, y de esta manera comienza a descubrir algunas claves que lo implicarán a él como sospechoso de una serie de asesinatos(n)</desc>
+    <credits>
+      <actor>Ewan McGregor</actor>
+      <actor>Patricia Arquette</actor>
+      <actor>Ole Bornedal</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Acción</category>
+  </programme>
+  <programme start="20160116034500 -0600" stop="20160116060000 -0600" channel="AMC">
+    <title lang="es">Find Me Guilty</title>
+    <desc lang="es">Tras años de investigación federal, el proceso criminal más largo de la historia de Estados Unidos sentó en el banquillo a 20 miembros de la familia Lucchese, conocida por sus conexiones con la mafia, acusados de 76 cargos. El Gobierno de Estados Unidos se había propuesto acabar con una de las más importantes familias de mafiosos del país. Hasta que uno de los acusados, un notorio miembro del crimen organizado de New Jersey, decidió hacer lo impensable: defenderse a sí mismo(n)</desc>
+    <credits>
+      <actor>Frank Pietrangolare</actor>
+      <actor>Sidney Lumet</actor>
+      <actor>Vin Diesel</actor>
+      <actor>Alex Rocco</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160116060000 -0600" stop="20160116080000 -0600" channel="AMC">
+    <title lang="es">Furia Oriental</title>
+    <desc lang="es">En el Shangai de 1908, Chen (Bruce Lee) es un estudiante de artes marciales que al regresar a su escuela se encuentra con que su maestro ha fallecido. Tras la inesperada visita al velorio de los representantes de una escuela japonesa, Chen acude a darles una lección y descubre que en realidad su maestro murió envenenado. Decidido a vengar su muerte, Chen emprende una cruzada contra la escuela japonesa y su aliado ruso Petrov, en la cual necesitará de toda su habilidad marcial para salir victorioso(n)</desc>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Acción</category>
+  </programme>
+  <programme start="20160116080000 -0600" stop="20160116083000 -0600" channel="AMC">
+    <title lang="es">Programa pagado</title>
+    <desc lang="es">Espacio dedicado a la publicidad de productos comerciales patrocinados por diferentes compañías(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160116083000 -0600" stop="20160116090000 -0600" channel="AMC">
+    <title lang="es">Programa pagado</title>
+    <desc lang="es">Espacio dedicado a la publicidad de productos comerciales patrocinados por diferentes compañías(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160116090000 -0600" stop="20160116093000 -0600" channel="AMC">
+    <title lang="es">Programa pagado</title>
+    <desc lang="es">Espacio dedicado a la publicidad de productos comerciales patrocinados por diferentes compañías(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160116093000 -0600" stop="20160116100000 -0600" channel="AMC">
+    <title lang="es">Programa pagado</title>
+    <desc lang="es">Espacio dedicado a la publicidad de productos comerciales patrocinados por diferentes compañías(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160116100000 -0600" stop="20160116103000 -0600" channel="AMC">
+    <title lang="es">Action Zone</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160116103000 -0600" stop="20160116103000 -0600" channel="AMC">
+    <title lang="es">Marcelino pan y vino</title>
+    <desc lang="es">Un niño huérfano crece en un monasterio hasta que un jefe revolucionario decide llevárselo, a cambio del hijo que perdió. Para evitarlo, los frailes encierran al pequeño sin imaginar lo que el chico descubrirá en el desván(n)</desc>
+    <credits>
+      <actor>Jorge Lavat</actor>
+      <actor>Alejandro Tommasi</actor>
+      <actor>Jose Luis Gutierrez</actor>
+      <actor>Teresa Ruiz</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Familiar</category>
+  </programme>
+  <programme start="20160116103000 -0600" stop="20160116121500 -0600" channel="AMC">
+    <title lang="es">Marcelino pan y vino</title>
+    <desc lang="es">Un niño huérfano crece en un monasterio hasta que un jefe revolucionario decide llevárselo, a cambio del hijo que perdió. Para evitarlo, los frailes encierran al pequeño sin imaginar lo que el chico descubrirá en el desván(n)</desc>
+    <credits>
+      <actor>Jorge Lavat</actor>
+      <actor>Alejandro Tommasi</actor>
+      <actor>Jose Luis Gutierrez</actor>
+      <actor>Teresa Ruiz</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Familiar</category>
+  </programme>
+  <programme start="20160116121500 -0600" stop="20160116141000 -0600" channel="AMC">
+    <title lang="es">The Matador</title>
+    <desc lang="es">Un encuentro casual entre un asesino a sueldo y un empresario hace que nazca una profunda amistad que los hará actuar como nunca hubieran imaginado, cambiando sus vidas para siempre(n)</desc>
+    <credits>
+      <actor>Portia Dawson</actor>
+      <actor>Greg Kinnear</actor>
+      <actor>Pierce Brosnan</actor>
+      <actor>Richard Shepard</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160116141000 -0600" stop="20160116160500 -0600" channel="AMC">
+    <title lang="es">Bhopal: una oración por la lluvia</title>
+    <desc lang="es">1984. Con la esperanza de abandonar la pobreza, Dilip acepta trabajar en una fábrica de pesticidas en Bhopa (India), sin saber que pronto ocurrirá un escape tóxico, el cual acabará con la vida de miles de personas y dejará terribles secuelas eternas(n)</desc>
+    <credits>
+      <actor>Martin Sheen</actor>
+      <actor>Kal Penn</actor>
+      <actor>Ravi Kumar</actor>
+      <actor>Mischa Barton</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160116160500 -0600" stop="20160116180500 -0600" channel="AMC">
+    <title lang="es">Furia Oriental</title>
+    <desc lang="es">En el Shangai de 1908, Chen (Bruce Lee) es un estudiante de artes marciales que al regresar a su escuela se encuentra con que su maestro ha fallecido. Tras la inesperada visita al velorio de los representantes de una escuela japonesa, Chen acude a darles una lección y descubre que en realidad su maestro murió envenenado. Decidido a vengar su muerte, Chen emprende una cruzada contra la escuela japonesa y su aliado ruso Petrov, en la cual necesitará de toda su habilidad marcial para salir victorioso(n)</desc>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Acción</category>
+  </programme>
+  <programme start="20160116180500 -0600" stop="20160116201000 -0600" channel="AMC">
+    <title lang="es">Hooligans: defiende a los tuyos</title>
+    <desc lang="es">Un joven norteamericano se muda a Londres, donde se integra al violento mundo de los hooligans, que tienen sólo una meta: ser la pandilla que inspire más miedo y respeto, sin importar cómo lo logren(n)</desc>
+    <credits>
+      <actor>David Alexander</actor>
+      <actor>Elijah Wood</actor>
+      <actor>Charlie Hunnam</actor>
+      <actor>Lexi Alexander</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Terror y Suspenso</category>
+  </programme>
+  <programme start="20160116201000 -0600" stop="20160116220000 -0600" channel="AMC">
+    <title lang="es">Volver a empezar</title>
+    <desc lang="es">La historia gira en torno a Nick, un hombre que intenta superar su adicción al alcohol. Tras la última recaída Nick es despedido, y su mujer lo echa de casa. El pobre se encuentra así de un día para otro sin nada, sin trabajo y sin hogar, con todas sus cosas esparcidas por el jardín. Al principio intenta seguir su vida en esa parcela, como si fuese algo normal, pero unos amigos le ayudarán a ver que tiene que abandonarlo todo, dejarlo atrás, y empezar de nuevo(n)</desc>
+    <credits>
+      <actor>Rebecca Hall</actor>
+      <actor>Will Ferrell</actor>
+      <actor>Stephen Root</actor>
+      <actor>Dan Rush</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160116220000 -0600" stop="20160117002000 -0600" channel="AMC">
+    <title lang="es">Dos por dinero</title>
+    <desc lang="es">Brandon Lang, un ex jugador de fútbol americano, tiene el don de predecir el resultado de los juegos. Esa habilidad atrae a un ambicioso asesor de apuestas. Brandon se convierte en su protegido hasta que pierde su toque mágico y ambos se enfrascan en un juego final que puede ser mortal(n)</desc>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160117002000 -0600" stop="20160117021000 -0600" channel="AMC">
+    <title lang="es">Volver a empezar</title>
+    <desc lang="es">La historia gira en torno a Nick, un hombre que intenta superar su adicción al alcohol. Tras la última recaída Nick es despedido, y su mujer lo echa de casa. El pobre se encuentra así de un día para otro sin nada, sin trabajo y sin hogar, con todas sus cosas esparcidas por el jardín. Al principio intenta seguir su vida en esa parcela, como si fuese algo normal, pero unos amigos le ayudarán a ver que tiene que abandonarlo todo, dejarlo atrás, y empezar de nuevo(n)</desc>
+    <credits>
+      <actor>Rebecca Hall</actor>
+      <actor>Will Ferrell</actor>
+      <actor>Stephen Root</actor>
+      <actor>Dan Rush</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160117021000 -0600" stop="20160117041500 -0600" channel="AMC">
+    <title lang="es">Hooligans: defiende a los tuyos</title>
+    <desc lang="es">Un joven norteamericano se muda a Londres, donde se integra al violento mundo de los hooligans, que tienen sólo una meta: ser la pandilla que inspire más miedo y respeto, sin importar cómo lo logren(n)</desc>
+    <credits>
+      <actor>David Alexander</actor>
+      <actor>Elijah Wood</actor>
+      <actor>Charlie Hunnam</actor>
+      <actor>Lexi Alexander</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Terror y Suspenso</category>
+  </programme>
+  <programme start="20160117041500 -0600" stop="20160117061000 -0600" channel="AMC">
+    <title lang="es">Bhopal: una oración por la lluvia</title>
+    <desc lang="es">1984. Con la esperanza de abandonar la pobreza, Dilip acepta trabajar en una fábrica de pesticidas en Bhopa (India), sin saber que pronto ocurrirá un escape tóxico, el cual acabará con la vida de miles de personas y dejará terribles secuelas eternas(n)</desc>
+    <credits>
+      <actor>Martin Sheen</actor>
+      <actor>Kal Penn</actor>
+      <actor>Ravi Kumar</actor>
+      <actor>Mischa Barton</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160117061000 -0600" stop="20160117080000 -0600" channel="AMC">
+    <title lang="es">King of Triads</title>
+    <desc lang="es">El jefe de una familia de las triadas es atrapado por la policía china, sentenciado a muerte y ajusticiado. A partir de ese momento, empezarán ciertos conflictos sucesorios en una confusa trama de intereses(n)</desc>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Acción</category>
+  </programme>
+  <programme start="20160117080000 -0600" stop="20160117083000 -0600" channel="AMC">
+    <title lang="es">Programa pagado</title>
+    <desc lang="es">Espacio dedicado a la publicidad de productos comerciales patrocinados por diferentes compañías(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160117083000 -0600" stop="20160117090000 -0600" channel="AMC">
+    <title lang="es">Programa pagado</title>
+    <desc lang="es">Espacio dedicado a la publicidad de productos comerciales patrocinados por diferentes compañías(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160117090000 -0600" stop="20160117093000 -0600" channel="AMC">
+    <title lang="es">Programa pagado</title>
+    <desc lang="es">Espacio dedicado a la publicidad de productos comerciales patrocinados por diferentes compañías(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160117093000 -0600" stop="20160117100000 -0600" channel="AMC">
+    <title lang="es">Programa pagado</title>
+    <desc lang="es">Espacio dedicado a la publicidad de productos comerciales patrocinados por diferentes compañías(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160117100000 -0600" stop="20160117115500 -0600" channel="AMC">
+    <title lang="es">Bhopal: una oración por la lluvia</title>
+    <desc lang="es">1984. Con la esperanza de abandonar la pobreza, Dilip acepta trabajar en una fábrica de pesticidas en Bhopa (India), sin saber que pronto ocurrirá un escape tóxico, el cual acabará con la vida de miles de personas y dejará terribles secuelas eternas(n)</desc>
+    <credits>
+      <actor>Martin Sheen</actor>
+      <actor>Kal Penn</actor>
+      <actor>Ravi Kumar</actor>
+      <actor>Mischa Barton</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160117115500 -0600" stop="20160117115500 -0600" channel="AMC">
+    <title lang="es">Hooligans: defiende a los tuyos</title>
+    <desc lang="es">Un joven norteamericano se muda a Londres, donde se integra al violento mundo de los hooligans, que tienen sólo una meta: ser la pandilla que inspire más miedo y respeto, sin importar cómo lo logren(n)</desc>
+    <credits>
+      <actor>David Alexander</actor>
+      <actor>Elijah Wood</actor>
+      <actor>Charlie Hunnam</actor>
+      <actor>Lexi Alexander</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Terror y Suspenso</category>
+  </programme>
+  <programme start="20160117115500 -0600" stop="20160117140000 -0600" channel="AMC">
+    <title lang="es">Hooligans: defiende a los tuyos</title>
+    <desc lang="es">Un joven norteamericano se muda a Londres, donde se integra al violento mundo de los hooligans, que tienen sólo una meta: ser la pandilla que inspire más miedo y respeto, sin importar cómo lo logren(n)</desc>
+    <credits>
+      <actor>David Alexander</actor>
+      <actor>Elijah Wood</actor>
+      <actor>Charlie Hunnam</actor>
+      <actor>Lexi Alexander</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Terror y Suspenso</category>
+  </programme>
+  <programme start="20160117140000 -0600" stop="20160117145500 -0600" channel="AMC">
+    <title lang="es">4th and Loud</title>
+    <sub-title lang="es">Cambio de guardia</sub-title>
+    <desc lang="es">4th and Loud se basa en la temporada inaugural del equipo de fútbol americano de arena LA KISS. Esta docu-serie sigue a los jugadores del equipo, los entrenadores y los dueños: las leyendas del rock `n' roll Paul Stanley y Gene Simmons, de la banda KISS, mientras ellos convierten al único equipo de fútbol profesional de Los Ángeles en una franquicia ganadora. De la arena del rock a la arena del fútbol, despídete de las reglas, al estilo KISS(n)</desc>
+    <category lang="es">Series</category>
+    <category lang="es">Reality Show</category>
+  </programme>
+  <programme start="20160117145500 -0600" stop="20160117155000 -0600" channel="AMC">
+    <title lang="es">4th and Loud</title>
+    <sub-title lang="es">Actividad paranoica</sub-title>
+    <desc lang="es">4th and Loud se basa en la temporada inaugural del equipo de fútbol americano de arena LA KISS. Esta docu-serie sigue a los jugadores del equipo, los entrenadores y los dueños: las leyendas del rock `n' roll Paul Stanley y Gene Simmons, de la banda KISS, mientras ellos convierten al único equipo de fútbol profesional de Los Ángeles en una franquicia ganadora. De la arena del rock a la arena del fútbol, despídete de las reglas, al estilo KISS(n)</desc>
+    <category lang="es">Series</category>
+    <category lang="es">Reality Show</category>
+  </programme>
+  <programme start="20160117155000 -0600" stop="20160117174000 -0600" channel="AMC">
+    <title lang="es">Volver a empezar</title>
+    <desc lang="es">La historia gira en torno a Nick, un hombre que intenta superar su adicción al alcohol. Tras la última recaída Nick es despedido, y su mujer lo echa de casa. El pobre se encuentra así de un día para otro sin nada, sin trabajo y sin hogar, con todas sus cosas esparcidas por el jardín. Al principio intenta seguir su vida en esa parcela, como si fuese algo normal, pero unos amigos le ayudarán a ver que tiene que abandonarlo todo, dejarlo atrás, y empezar de nuevo(n)</desc>
+    <credits>
+      <actor>Rebecca Hall</actor>
+      <actor>Will Ferrell</actor>
+      <actor>Stephen Root</actor>
+      <actor>Dan Rush</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160117174000 -0600" stop="20160117200000 -0600" channel="AMC">
+    <title lang="es">Dos por dinero</title>
+    <desc lang="es">Brandon Lang, un ex jugador de fútbol americano, tiene el don de predecir el resultado de los juegos. Esa habilidad atrae a un ambicioso asesor de apuestas. Brandon se convierte en su protegido hasta que pierde su toque mágico y ambos se enfrascan en un juego final que puede ser mortal(n)</desc>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160117200000 -0600" stop="20160117220000 -0600" channel="AMC">
+    <title lang="es">Adicto</title>
+    <desc lang="es">Drama judicial que ejemplifica la historia de la lucha entre David y Goliath. Un abogado adicto a las drogas se enfrasca en una lucha legal contra una gran corporación de suministros farmacéuticos. Mientras además tiene que hacer frente a sus demonios personales(n)</desc>
+    <credits>
+      <actor>Marshall Bell</actor>
+      <actor>Mark Kassen</actor>
+      <actor>Chris Evans</actor>
+      <actor>Adam Kassen</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160117220000 -0600" stop="20160117230000 -0600" channel="AMC">
+    <title lang="es">Into the Badlands</title>
+    <sub-title lang="es">La grulla blanca extiende sus alas</sub-title>
+    <desc lang="es">En una tierra controlada por siete barones feudales, cuenta la historia de Sunny, un gran guerrero entrenado en las artes marciales, y M.K., su joven aprendiz, que se embarcan en un viaje espiritual cruzando una tierra peligrosa para encontrar la iluminación(n)</desc>
+    <category lang="es">Series</category>
+    <category lang="es">Fantasía</category>
+  </programme>
+  <programme start="20160117230000 -0600" stop="20160118000000 -0600" channel="AMC">
+    <title lang="es">Into the Badlands</title>
+    <sub-title lang="es">Dos tigres doblegan al dragón</sub-title>
+    <desc lang="es">En una tierra controlada por siete barones feudales, cuenta la historia de Sunny, un gran guerrero entrenado en las artes marciales, y M.K., su joven aprendiz, que se embarcan en un viaje espiritual cruzando una tierra peligrosa para encontrar la iluminación(n)</desc>
+    <category lang="es">Series</category>
+    <category lang="es">Fantasía</category>
+  </programme>
+  <programme start="20160118000000 -0600" stop="20160118020000 -0600" channel="AMC">
+    <title lang="es">Adicto</title>
+    <desc lang="es">Drama judicial que ejemplifica la historia de la lucha entre David y Goliath. Un abogado adicto a las drogas se enfrasca en una lucha legal contra una gran corporación de suministros farmacéuticos. Mientras además tiene que hacer frente a sus demonios personales(n)</desc>
+    <credits>
+      <actor>Marshall Bell</actor>
+      <actor>Mark Kassen</actor>
+      <actor>Chris Evans</actor>
+      <actor>Adam Kassen</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160118020000 -0600" stop="20160118034500 -0600" channel="AMC">
+    <title lang="es">King of Triads</title>
+    <desc lang="es">El jefe de una familia de las triadas es atrapado por la policía china, sentenciado a muerte y ajusticiado. A partir de ese momento, empezarán ciertos conflictos sucesorios en una confusa trama de intereses(n)</desc>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Acción</category>
+  </programme>
+  <programme start="20160118034500 -0600" stop="20160118053000 -0600" channel="AMC">
+    <title lang="es">Mini's First Time</title>
+    <desc lang="es">Mini, una joven rebelde y caprichosa, está decidida a vengarse de su madre y cumplir de paso sus deseos. El primer y más importante paso es llamar la atención de su padrastro millonario, para lo cual entra a trabajar en una agencia de acompañantes de la cual el hombre es cliente(n)</desc>
+    <credits>
+      <actor>Alec Baldwin</actor>
+      <actor>Nikki Reed</actor>
+      <actor>Jeff Goldblum</actor>
+      <actor>Nick Guthe</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160118053000 -0600" stop="20160118073000 -0600" channel="AMC">
+    <title lang="es">Adicto</title>
+    <desc lang="es">Drama judicial que ejemplifica la historia de la lucha entre David y Goliath. Un abogado adicto a las drogas se enfrasca en una lucha legal contra una gran corporación de suministros farmacéuticos. Mientras además tiene que hacer frente a sus demonios personales(n)</desc>
+    <credits>
+      <actor>Marshall Bell</actor>
+      <actor>Mark Kassen</actor>
+      <actor>Chris Evans</actor>
+      <actor>Adam Kassen</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160118073000 -0600" stop="20160118080000 -0600" channel="AMC">
+    <title lang="es">Action Zone</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160118080000 -0600" stop="20160118083000 -0600" channel="AMC">
+    <title lang="es">Programa pagado</title>
+    <desc lang="es">Espacio dedicado a la publicidad de productos comerciales patrocinados por diferentes compañías(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160118083000 -0600" stop="20160118090000 -0600" channel="AMC">
+    <title lang="es">Programa pagado</title>
+    <desc lang="es">Espacio dedicado a la publicidad de productos comerciales patrocinados por diferentes compañías(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160118090000 -0600" stop="20160118093000 -0600" channel="AMC">
+    <title lang="es">Programa pagado</title>
+    <desc lang="es">Espacio dedicado a la publicidad de productos comerciales patrocinados por diferentes compañías(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160118093000 -0600" stop="20160118100000 -0600" channel="AMC">
+    <title lang="es">Programa pagado</title>
+    <desc lang="es">Espacio dedicado a la publicidad de productos comerciales patrocinados por diferentes compañías(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160118100000 -0600" stop="20160118103000 -0600" channel="AMC">
+    <title lang="es">Programa pagado</title>
+    <desc lang="es">Espacio dedicado a la publicidad de productos comerciales patrocinados por diferentes compañías(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160118103000 -0600" stop="20160118110000 -0600" channel="AMC">
+    <title lang="es">Programa pagado</title>
+    <desc lang="es">Espacio dedicado a la publicidad de productos comerciales patrocinados por diferentes compañías(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160118110000 -0600" stop="20160118113000 -0600" channel="AMC">
+    <title lang="es">Action Zone</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160118113000 -0600" stop="20160118113000 -0600" channel="AMC">
+    <title lang="es">Guerra de vinos</title>
+    <desc lang="es">Un británico expatriado que vive en París, propietario de una tienda de vinos, decide demostrar a los franceses la calidad de los vinos de otros países. Por lo que se traslada a California para llevar un vino norteamericano a concursar en Francia(n)</desc>
+    <credits>
+      <actor>Randall Miller</actor>
+      <actor>Hal B. Klein</actor>
+      <actor>Chris Pine</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160118113000 -0600" stop="20160118134000 -0600" channel="AMC">
+    <title lang="es">Guerra de vinos</title>
+    <desc lang="es">Un británico expatriado que vive en París, propietario de una tienda de vinos, decide demostrar a los franceses la calidad de los vinos de otros países. Por lo que se traslada a California para llevar un vino norteamericano a concursar en Francia(n)</desc>
+    <credits>
+      <actor>Randall Miller</actor>
+      <actor>Hal B. Klein</actor>
+      <actor>Chris Pine</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160118134000 -0600" stop="20160118154500 -0600" channel="AMC">
+    <title lang="es">Hooligans: defiende a los tuyos</title>
+    <desc lang="es">Un joven norteamericano se muda a Londres, donde se integra al violento mundo de los hooligans, que tienen sólo una meta: ser la pandilla que inspire más miedo y respeto, sin importar cómo lo logren(n)</desc>
+    <credits>
+      <actor>David Alexander</actor>
+      <actor>Elijah Wood</actor>
+      <actor>Charlie Hunnam</actor>
+      <actor>Lexi Alexander</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Terror y Suspenso</category>
+  </programme>
+  <programme start="20160118154500 -0600" stop="20160118172500 -0600" channel="AMC">
+    <title lang="es">Possession</title>
+    <desc lang="es">Por separado, Maud y Roland estudian la obra de dos afamados poetas de la era Victoriana. Sus destinos se cruzan al descubrir la apasionada relación entre ambos escritores, cuya historia de amor renacerá un siglo más tarde en manos de Maud y Roland(n)</desc>
+    <credits>
+      <actor>Jeremy Northam</actor>
+      <actor>Aaron Eckhart</actor>
+      <actor>Gwyneth Paltrow</actor>
+      <actor>Neil LaBute</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160118172500 -0600" stop="20160118195000 -0600" channel="AMC">
+    <title lang="es">La esperanza vive en mi</title>
+    <desc lang="es">Charlie Fineman y Alan Johnson, dos antiguos compañeros de la universidad, se encuentran por casualidad y renuevan su amistad. Charlie, quien recientemente ha perdido a su esposa e hijos, se ha retraído de su propia vida, mientras que Alan se siente superado y abrumado por su familia y sus responsabilidades profesionales. El casual encuentro entre ambos es una línea salvadora tanto para Charlie como para Alan, ya que ambos se encuentran con una gran necesidad de un amigo de confianza en este momento clave en sus vidas(n)</desc>
+    <credits>
+      <actor>Jada Pinkett Smith</actor>
+      <actor>Don Cheadle</actor>
+      <actor>Mike Binder</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160118195000 -0600" stop="20160118220000 -0600" channel="AMC">
+    <title lang="es">The Guillotines</title>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Acción</category>
+  </programme>
+  <programme start="20160118220000 -0600" stop="20160118230000 -0600" channel="AMC">
+    <title lang="es">Into the Badlands</title>
+    <sub-title lang="es">La grulla blanca extiende sus alas</sub-title>
+    <desc lang="es">En una tierra controlada por siete barones feudales, cuenta la historia de Sunny, un gran guerrero entrenado en las artes marciales, y M.K., su joven aprendiz, que se embarcan en un viaje espiritual cruzando una tierra peligrosa para encontrar la iluminación(n)</desc>
+    <category lang="es">Series</category>
+    <category lang="es">Fantasía</category>
   </programme>
 </tv>
