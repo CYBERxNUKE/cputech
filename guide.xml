@@ -22,6 +22,7 @@
   </channel>
   <channel id="Antena 3">
     <display-name lang="es">Antena 3</display-name>
+    <icon src="http://z.cdn.entutele.com/media/channels/big/antena-3.gif" />
     <url>http://www.entutele.com</url>
   </channel>
   <channel id="AXN">
@@ -7410,5 +7411,1623 @@
     <desc lang="es">Esta es una serie única de historia de la naturaleza grabada en Manaos, Brasil. Rodeada por la selva tropical más grande del mundo, Manaos es una frontera salvaje en donde sus habitantes comparten sus vidas con miles de criaturas extrañas, asombrosas y mortales. Cada episodio sigue una especie exótica diferente que se ha adaptado a la vida en la ciudad, y a los expertos que están disponibles las 24 horas del día para los animales que se encuentren en problemas para sobrevivir en la selva(n)</desc>
     <category lang="es">Culturales</category>
     <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160111000500 -0600" stop="20160111015500 -0600" channel="Antena 3">
+    <title lang="es">Zapeando</title>
+    <desc lang="es">Un original formato que desmenuzará con humor y desenfado los mejores momentos de las cadenas nacionales e internacionales. Cada tarde, Frank Blanco y sus colaboradores comentarán lo mejor y lo peor de la televisión(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160111015500 -0600" stop="20160111053500 -0600" channel="Antena 3">
+    <title lang="es">Espejo público</title>
+    <desc lang="es">Magazine informativo donde el público es el principal protagonista, así como la calle y el acontecer diario. Una parte importante del espacio gira en torno a un tema de actualidad, político o social(n)</desc>
+    <credits>
+      <actor>Susanna Griso</actor>
+      <actor>Carlos Aguilera</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160111053500 -0600" stop="20160111061000 -0600" channel="Antena 3">
+    <title lang="es">Qué me pasa doctor</title>
+    <desc lang="es">Un espacio divulgativo sobre el tema que más interesa a la población: la salud(n)</desc>
+    <credits>
+      <actor>Bartolomé Beltrán</actor>
+    </credits>
+    <category lang="es">Cocina, hogar y salud</category>
+    <category lang="es">Salud</category>
+  </programme>
+  <programme start="20160111061000 -0600" stop="20160111070500 -0600" channel="Antena 3">
+    <title lang="es">Hoy cocinas tú</title>
+    <desc lang="es">Programa que se encarga de explicar los trucos y técnicas necesarias para elaborar suculentos platos de fácil elaboración. Por su cocina desfilan todo tipo de sugerentes recetas y postres deliciosos con los que sorprender a la familia. Cocinar de forma sencilla, alimentarse bien y no aburrirse en la mesa son sus tres claves. El programa cuenta cada día con la presencia de un invitado, al que enseña a preparar un plato para alguien especial y que después tendrá que elaborar en su casa. Eva Arguiñano se encarga de explicarle todos los trucos y técnicas necesarias para que pueda preparar ese mismo menú en su casa, sin ayuda de la famosa cocinera(n)</desc>
+    <category lang="es">Cocina, hogar y salud</category>
+    <category lang="es">Cocina</category>
+  </programme>
+  <programme start="20160111070500 -0600" stop="20160111073000 -0600" channel="Antena 3">
+    <title lang="es">Cocina con Bruno</title>
+    <desc lang="es">Bruno Oteiza, nos anima a jugar y experimentar en la cocina. Platos únicos y originales para hacer en casa(n)</desc>
+    <credits>
+      <actor>Bruno Oteiza</actor>
+    </credits>
+    <category lang="es">Cocina, hogar y salud</category>
+    <category lang="es">Cocina</category>
+  </programme>
+  <programme start="20160111073000 -0600" stop="20160111080000 -0600" channel="Antena 3">
+    <title lang="es">Karlos Arguiñano en tu cocina</title>
+    <desc lang="es">Con la conducción del reconocido chef español, Karlos Arguiñano, todos los días una receta diferente para saborear en familia. Los mejores consejos y todos los secretos de una cocina simple y sana(n)</desc>
+    <credits>
+      <actor>Karlos Arguiñano</actor>
+      <actor>Eva Arguiñano</actor>
+    </credits>
+    <category lang="es">Cocina, hogar y salud</category>
+    <category lang="es">Cocina</category>
+  </programme>
+  <programme start="20160111080000 -0600" stop="20160111085000 -0600" channel="Antena 3">
+    <title lang="es">Noticias</title>
+    <desc lang="es">Se presenta la actualidad europea y española a los espectadores iberoamericanos, presentando especial atención a las noticias relacionadas con América que se producen en Europa y España(n)</desc>
+    <credits>
+      <actor>Olga Viza</actor>
+      <actor>Jesús Lozano</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160111085000 -0600" stop="20160111090500 -0600" channel="Antena 3">
+    <title lang="es">el tiempo</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Clima</category>
+  </programme>
+  <programme start="20160111090500 -0600" stop="20160111090500 -0600" channel="Antena 3">
+    <title lang="es">Espejo público</title>
+    <desc lang="es">Magazine informativo donde el público es el principal protagonista, así como la calle y el acontecer diario. Una parte importante del espacio gira en torno a un tema de actualidad, político o social(n)</desc>
+    <credits>
+      <actor>Susanna Griso</actor>
+      <actor>Carlos Aguilera</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160111090500 -0600" stop="20160111123000 -0600" channel="Antena 3">
+    <title lang="es">Espejo público</title>
+    <desc lang="es">Magazine informativo donde el público es el principal protagonista, así como la calle y el acontecer diario. Una parte importante del espacio gira en torno a un tema de actualidad, político o social(n)</desc>
+    <credits>
+      <actor>Susanna Griso</actor>
+      <actor>Carlos Aguilera</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160111123000 -0600" stop="20160111125500 -0600" channel="Antena 3">
+    <title lang="es">Karlos Arguiñano en tu cocina</title>
+    <desc lang="es">Con la conducción del reconocido chef español, Karlos Arguiñano, todos los días una receta diferente para saborear en familia. Los mejores consejos y todos los secretos de una cocina simple y sana(n)</desc>
+    <credits>
+      <actor>Karlos Arguiñano</actor>
+      <actor>Eva Arguiñano</actor>
+    </credits>
+    <category lang="es">Cocina, hogar y salud</category>
+    <category lang="es">Cocina</category>
+  </programme>
+  <programme start="20160111125500 -0600" stop="20160111140000 -0600" channel="Antena 3">
+    <title lang="es">El secreto de Puente viejo</title>
+    <desc lang="es">Es la historia de un amor imposible en el marco de la España de 1900; una mujer valiente que partiendo de la nada, llegará a serlo todo: una amante decidida, una comadrona reputada y sobre todo, una madre que no olvida(n)</desc>
+    <credits>
+      <actor>Alex Gadea</actor>
+      <actor>Megan Montaner</actor>
+      <actor>Maria Bouzas</actor>
+      <actor>Fariba Sheikhan</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160111140000 -0600" stop="20160111142000 -0600" channel="Antena 3">
+    <title lang="es">Noticias</title>
+    <desc lang="es">Se presenta la actualidad europea y española a los espectadores iberoamericanos, presentando especial atención a las noticias relacionadas con América que se producen en Europa y España(n)</desc>
+    <credits>
+      <actor>Olga Viza</actor>
+      <actor>Jesús Lozano</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160111142000 -0600" stop="20160111143500 -0600" channel="Antena 3">
+    <title lang="es">Deportes</title>
+    <desc lang="es">Incluye diferentes retransmisiones deportivas(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20160111143500 -0600" stop="20160111144000 -0600" channel="Antena 3">
+    <title lang="es">el tiempo</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Clima</category>
+  </programme>
+  <programme start="20160111144000 -0600" stop="20160111153500 -0600" channel="Antena 3">
+    <title lang="es">El Hormiguero</title>
+    <desc lang="es">Pablo Motos entrevistará a diversas estrellas de la música, el cine y la farándula; por su parte Trancas y Barrancas, las hormigas, llenarán la pantalla con sus divertidas ocurrencias(n)</desc>
+    <credits>
+      <actor>Pablo Motos</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Talk Show</category>
+  </programme>
+  <programme start="20160111153500 -0600" stop="20160111162500 -0600" channel="Antena 3">
+    <title lang="es">Hoy cocinas tú</title>
+    <desc lang="es">Programa que se encarga de explicar los trucos y técnicas necesarias para elaborar suculentos platos de fácil elaboración. Por su cocina desfilan todo tipo de sugerentes recetas y postres deliciosos con los que sorprender a la familia. Cocinar de forma sencilla, alimentarse bien y no aburrirse en la mesa son sus tres claves. El programa cuenta cada día con la presencia de un invitado, al que enseña a preparar un plato para alguien especial y que después tendrá que elaborar en su casa. Eva Arguiñano se encarga de explicarle todos los trucos y técnicas necesarias para que pueda preparar ese mismo menú en su casa, sin ayuda de la famosa cocinera(n)</desc>
+    <category lang="es">Cocina, hogar y salud</category>
+    <category lang="es">Cocina</category>
+  </programme>
+  <programme start="20160111162500 -0600" stop="20160111173000 -0600" channel="Antena 3">
+    <title lang="es">Amar es para siempre</title>
+    <desc lang="es">Serie de época que retrata la vida en España en los años 60, década en la que ese país sufrió cambios significativos y de gran crecimiento(n)</desc>
+    <credits>
+      <actor>José Antonio Sayagués</actor>
+      <actor>Manu Baqueiro</actor>
+      <actor>Itziar Miranda</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160111173000 -0600" stop="20160111183000 -0600" channel="Antena 3">
+    <title lang="es">El secreto de Puente viejo</title>
+    <desc lang="es">Es la historia de un amor imposible en el marco de la España de 1900; una mujer valiente que partiendo de la nada, llegará a serlo todo: una amante decidida, una comadrona reputada y sobre todo, una madre que no olvida(n)</desc>
+    <credits>
+      <actor>Alex Gadea</actor>
+      <actor>Megan Montaner</actor>
+      <actor>Maria Bouzas</actor>
+      <actor>Fariba Sheikhan</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160111183000 -0600" stop="20160111193000 -0600" channel="Antena 3">
+    <title lang="es">La Ruleta de la Suerte</title>
+    <desc lang="es">Nada como "La ruleta de la suerte" junto con Jorge Fernández para desafiar y poner a prueba la agilidad mental, los reflejos y conocimientos de los participantes que buscarán ganar el dinero que sumen a lo largo de la partida y un auto(n)</desc>
+    <credits>
+      <actor>Jorge Fernández</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160111193000 -0600" stop="20160111203000 -0600" channel="Antena 3">
+    <title lang="es">El Hormiguero</title>
+    <desc lang="es">Pablo Motos entrevistará a diversas estrellas de la música, el cine y la farándula; por su parte Trancas y Barrancas, las hormigas, llenarán la pantalla con sus divertidas ocurrencias(n)</desc>
+    <credits>
+      <actor>Pablo Motos</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Talk Show</category>
+  </programme>
+  <programme start="20160111203000 -0600" stop="20160111214500 -0600" channel="Antena 3">
+    <title lang="es">Allí abajo</title>
+    <desc lang="es">Iñaki tiene cuarenta años y sólo ha salido de Euskadi para echar gasolina barata en Francia. Vive en San Sebastián con su madre, Maritxu, la clásica matriarca vasca, absorbente y dominante, inasequible a la sonrisa. Un muro de contención emocional que entiende la vida como una obligación constante. Para ella, como para muchas madres, Iñaki es un niño eterno incapaz de funcionar por su cuenta en la vida(n)</desc>
+    <category lang="es">Telenovela</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160111214500 -0600" stop="20160111230000 -0600" channel="Antena 3">
+    <title lang="es">Equipo de investigación</title>
+    <desc lang="es">Un profesional equipo de periodistas, encabezados por Gloria Serra, nos muestran mediante reportajes de profundidad diversos temas de interés social(n)</desc>
+    <credits>
+      <actor>Gloria Serra</actor>
+    </credits>
+    <category lang="es">Periodístico</category>
+  </programme>
+  <programme start="20160111230000 -0600" stop="20160112013000 -0600" channel="Antena 3">
+    <title lang="es">Por confirmar</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160112013000 -0600" stop="20160112020000 -0600" channel="Antena 3">
+    <title lang="es">Noticias de la mañana</title>
+    <credits>
+      <actor>Daniel Lares</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160112020000 -0600" stop="20160112053000 -0600" channel="Antena 3">
+    <title lang="es">Espejo público</title>
+    <desc lang="es">Magazine informativo donde el público es el principal protagonista, así como la calle y el acontecer diario. Una parte importante del espacio gira en torno a un tema de actualidad, político o social(n)</desc>
+    <credits>
+      <actor>Susanna Griso</actor>
+      <actor>Carlos Aguilera</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160112053000 -0600" stop="20160112060000 -0600" channel="Antena 3">
+    <title lang="es">Qué me pasa doctor</title>
+    <desc lang="es">Un espacio divulgativo sobre el tema que más interesa a la población: la salud(n)</desc>
+    <credits>
+      <actor>Bartolomé Beltrán</actor>
+    </credits>
+    <category lang="es">Cocina, hogar y salud</category>
+    <category lang="es">Salud</category>
+  </programme>
+  <programme start="20160112060000 -0600" stop="20160112070000 -0600" channel="Antena 3">
+    <title lang="es">Hoy cocinas tú</title>
+    <desc lang="es">Programa que se encarga de explicar los trucos y técnicas necesarias para elaborar suculentos platos de fácil elaboración. Por su cocina desfilan todo tipo de sugerentes recetas y postres deliciosos con los que sorprender a la familia. Cocinar de forma sencilla, alimentarse bien y no aburrirse en la mesa son sus tres claves. El programa cuenta cada día con la presencia de un invitado, al que enseña a preparar un plato para alguien especial y que después tendrá que elaborar en su casa. Eva Arguiñano se encarga de explicarle todos los trucos y técnicas necesarias para que pueda preparar ese mismo menú en su casa, sin ayuda de la famosa cocinera(n)</desc>
+    <category lang="es">Cocina, hogar y salud</category>
+    <category lang="es">Cocina</category>
+  </programme>
+  <programme start="20160112070000 -0600" stop="20160112073000 -0600" channel="Antena 3">
+    <title lang="es">Cocina con Bruno</title>
+    <desc lang="es">Bruno Oteiza, nos anima a jugar y experimentar en la cocina. Platos únicos y originales para hacer en casa(n)</desc>
+    <credits>
+      <actor>Bruno Oteiza</actor>
+    </credits>
+    <category lang="es">Cocina, hogar y salud</category>
+    <category lang="es">Cocina</category>
+  </programme>
+  <programme start="20160112073000 -0600" stop="20160112080000 -0600" channel="Antena 3">
+    <title lang="es">Karlos Arguiñano en tu cocina</title>
+    <desc lang="es">Con la conducción del reconocido chef español, Karlos Arguiñano, todos los días una receta diferente para saborear en familia. Los mejores consejos y todos los secretos de una cocina simple y sana(n)</desc>
+    <credits>
+      <actor>Karlos Arguiñano</actor>
+      <actor>Eva Arguiñano</actor>
+    </credits>
+    <category lang="es">Cocina, hogar y salud</category>
+    <category lang="es">Cocina</category>
+  </programme>
+  <programme start="20160112080000 -0600" stop="20160112090000 -0600" channel="Antena 3">
+    <title lang="es">Noticias</title>
+    <desc lang="es">Se presenta la actualidad europea y española a los espectadores iberoamericanos, presentando especial atención a las noticias relacionadas con América que se producen en Europa y España(n)</desc>
+    <credits>
+      <actor>Olga Viza</actor>
+      <actor>Jesús Lozano</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160112090000 -0600" stop="20160112090000 -0600" channel="Antena 3">
+    <title lang="es">Espejo público</title>
+    <desc lang="es">Magazine informativo donde el público es el principal protagonista, así como la calle y el acontecer diario. Una parte importante del espacio gira en torno a un tema de actualidad, político o social(n)</desc>
+    <credits>
+      <actor>Susanna Griso</actor>
+      <actor>Carlos Aguilera</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160112090000 -0600" stop="20160112123000 -0600" channel="Antena 3">
+    <title lang="es">Espejo público</title>
+    <desc lang="es">Magazine informativo donde el público es el principal protagonista, así como la calle y el acontecer diario. Una parte importante del espacio gira en torno a un tema de actualidad, político o social(n)</desc>
+    <credits>
+      <actor>Susanna Griso</actor>
+      <actor>Carlos Aguilera</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160112123000 -0600" stop="20160112130000 -0600" channel="Antena 3">
+    <title lang="es">Karlos Arguiñano en tu cocina</title>
+    <desc lang="es">Con la conducción del reconocido chef español, Karlos Arguiñano, todos los días una receta diferente para saborear en familia. Los mejores consejos y todos los secretos de una cocina simple y sana(n)</desc>
+    <credits>
+      <actor>Karlos Arguiñano</actor>
+      <actor>Eva Arguiñano</actor>
+    </credits>
+    <category lang="es">Cocina, hogar y salud</category>
+    <category lang="es">Cocina</category>
+  </programme>
+  <programme start="20160112130000 -0600" stop="20160112140000 -0600" channel="Antena 3">
+    <title lang="es">El secreto de Puente viejo</title>
+    <desc lang="es">Es la historia de un amor imposible en el marco de la España de 1900; una mujer valiente que partiendo de la nada, llegará a serlo todo: una amante decidida, una comadrona reputada y sobre todo, una madre que no olvida(n)</desc>
+    <credits>
+      <actor>Alex Gadea</actor>
+      <actor>Megan Montaner</actor>
+      <actor>Maria Bouzas</actor>
+      <actor>Fariba Sheikhan</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160112140000 -0600" stop="20160112144500 -0600" channel="Antena 3">
+    <title lang="es">Noticias</title>
+    <desc lang="es">Se presenta la actualidad europea y española a los espectadores iberoamericanos, presentando especial atención a las noticias relacionadas con América que se producen en Europa y España(n)</desc>
+    <credits>
+      <actor>Olga Viza</actor>
+      <actor>Jesús Lozano</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160112144500 -0600" stop="20160112153000 -0600" channel="Antena 3">
+    <title lang="es">El Hormiguero</title>
+    <desc lang="es">Pablo Motos entrevistará a diversas estrellas de la música, el cine y la farándula; por su parte Trancas y Barrancas, las hormigas, llenarán la pantalla con sus divertidas ocurrencias(n)</desc>
+    <credits>
+      <actor>Pablo Motos</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Talk Show</category>
+  </programme>
+  <programme start="20160112153000 -0600" stop="20160112163000 -0600" channel="Antena 3">
+    <title lang="es">Hoy cocinas tú</title>
+    <desc lang="es">Programa que se encarga de explicar los trucos y técnicas necesarias para elaborar suculentos platos de fácil elaboración. Por su cocina desfilan todo tipo de sugerentes recetas y postres deliciosos con los que sorprender a la familia. Cocinar de forma sencilla, alimentarse bien y no aburrirse en la mesa son sus tres claves. El programa cuenta cada día con la presencia de un invitado, al que enseña a preparar un plato para alguien especial y que después tendrá que elaborar en su casa. Eva Arguiñano se encarga de explicarle todos los trucos y técnicas necesarias para que pueda preparar ese mismo menú en su casa, sin ayuda de la famosa cocinera(n)</desc>
+    <category lang="es">Cocina, hogar y salud</category>
+    <category lang="es">Cocina</category>
+  </programme>
+  <programme start="20160112163000 -0600" stop="20160112173000 -0600" channel="Antena 3">
+    <title lang="es">Amar es para siempre</title>
+    <desc lang="es">Serie de época que retrata la vida en España en los años 60, década en la que ese país sufrió cambios significativos y de gran crecimiento(n)</desc>
+    <credits>
+      <actor>José Antonio Sayagués</actor>
+      <actor>Manu Baqueiro</actor>
+      <actor>Itziar Miranda</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160112173000 -0600" stop="20160112183000 -0600" channel="Antena 3">
+    <title lang="es">El secreto de Puente viejo</title>
+    <desc lang="es">Es la historia de un amor imposible en el marco de la España de 1900; una mujer valiente que partiendo de la nada, llegará a serlo todo: una amante decidida, una comadrona reputada y sobre todo, una madre que no olvida(n)</desc>
+    <credits>
+      <actor>Alex Gadea</actor>
+      <actor>Megan Montaner</actor>
+      <actor>Maria Bouzas</actor>
+      <actor>Fariba Sheikhan</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160112183000 -0600" stop="20160112193000 -0600" channel="Antena 3">
+    <title lang="es">La Ruleta de la Suerte</title>
+    <desc lang="es">Nada como "La ruleta de la suerte" junto con Jorge Fernández para desafiar y poner a prueba la agilidad mental, los reflejos y conocimientos de los participantes que buscarán ganar el dinero que sumen a lo largo de la partida y un auto(n)</desc>
+    <credits>
+      <actor>Jorge Fernández</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160112193000 -0600" stop="20160112203000 -0600" channel="Antena 3">
+    <title lang="es">El Hormiguero</title>
+    <desc lang="es">Pablo Motos entrevistará a diversas estrellas de la música, el cine y la farándula; por su parte Trancas y Barrancas, las hormigas, llenarán la pantalla con sus divertidas ocurrencias(n)</desc>
+    <credits>
+      <actor>Pablo Motos</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Talk Show</category>
+  </programme>
+  <programme start="20160112203000 -0600" stop="20160112213000 -0600" channel="Antena 3">
+    <title lang="es">Bandolera</title>
+    <desc lang="es">Historia de amor ambientada en la España de finales del siglo XIX. Sara, estudiante y soñadora, llega a Andalucía en busca de aventuras. En su camino sólo encuentra problemas y el amor de un teniente que intentará salvarla de un grupo de bandoleros(n)</desc>
+    <credits>
+      <actor>Pastora Vega</actor>
+      <actor>Carles Francino</actor>
+      <actor>Manuel Bandera</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Aventura</category>
+  </programme>
+  <programme start="20160112213000 -0600" stop="20160112230000 -0600" channel="Antena 3">
+    <title lang="es">Vis a vis</title>
+    <desc lang="es">Narra las vivencias en prisión de Macarena, una joven frágil e inocente que se ve inmersa en un thriller. Además del shock que le supone acabar de golpe con su placentera existencia, pronto descubrirá que demasiada gente en la cárcel está tras la pista de nueve millones de euros robados de un furgón(n)</desc>
+    <category lang="es">Series</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160112230000 -0600" stop="20160112234500 -0600" channel="Antena 3">
+    <title lang="es">El Hormiguero</title>
+    <desc lang="es">Pablo Motos entrevistará a diversas estrellas de la música, el cine y la farándula; por su parte Trancas y Barrancas, las hormigas, llenarán la pantalla con sus divertidas ocurrencias(n)</desc>
+    <credits>
+      <actor>Pablo Motos</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Talk Show</category>
+  </programme>
+  <programme start="20160112234500 -0600" stop="20160113011500 -0600" channel="Antena 3">
+    <title lang="es">Zapeando</title>
+    <desc lang="es">Un original formato que desmenuzará con humor y desenfado los mejores momentos de las cadenas nacionales e internacionales. Cada tarde, Frank Blanco y sus colaboradores comentarán lo mejor y lo peor de la televisión(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160113011500 -0600" stop="20160113020000 -0600" channel="Antena 3">
+    <title lang="es">Noticias</title>
+    <desc lang="es">Se presenta la actualidad europea y española a los espectadores iberoamericanos, presentando especial atención a las noticias relacionadas con América que se producen en Europa y España(n)</desc>
+    <credits>
+      <actor>Olga Viza</actor>
+      <actor>Jesús Lozano</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160113020000 -0600" stop="20160113053000 -0600" channel="Antena 3">
+    <title lang="es">Espejo público</title>
+    <desc lang="es">Magazine informativo donde el público es el principal protagonista, así como la calle y el acontecer diario. Una parte importante del espacio gira en torno a un tema de actualidad, político o social(n)</desc>
+    <credits>
+      <actor>Susanna Griso</actor>
+      <actor>Carlos Aguilera</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160113053000 -0600" stop="20160113060000 -0600" channel="Antena 3">
+    <title lang="es">Qué me pasa doctor</title>
+    <desc lang="es">Un espacio divulgativo sobre el tema que más interesa a la población: la salud(n)</desc>
+    <credits>
+      <actor>Bartolomé Beltrán</actor>
+    </credits>
+    <category lang="es">Cocina, hogar y salud</category>
+    <category lang="es">Salud</category>
+  </programme>
+  <programme start="20160113060000 -0600" stop="20160113070000 -0600" channel="Antena 3">
+    <title lang="es">Hoy cocinas tú</title>
+    <desc lang="es">Programa que se encarga de explicar los trucos y técnicas necesarias para elaborar suculentos platos de fácil elaboración. Por su cocina desfilan todo tipo de sugerentes recetas y postres deliciosos con los que sorprender a la familia. Cocinar de forma sencilla, alimentarse bien y no aburrirse en la mesa son sus tres claves. El programa cuenta cada día con la presencia de un invitado, al que enseña a preparar un plato para alguien especial y que después tendrá que elaborar en su casa. Eva Arguiñano se encarga de explicarle todos los trucos y técnicas necesarias para que pueda preparar ese mismo menú en su casa, sin ayuda de la famosa cocinera(n)</desc>
+    <category lang="es">Cocina, hogar y salud</category>
+    <category lang="es">Cocina</category>
+  </programme>
+  <programme start="20160113070000 -0600" stop="20160113073000 -0600" channel="Antena 3">
+    <title lang="es">Cocina con Bruno</title>
+    <desc lang="es">Bruno Oteiza, nos anima a jugar y experimentar en la cocina. Platos únicos y originales para hacer en casa(n)</desc>
+    <credits>
+      <actor>Bruno Oteiza</actor>
+    </credits>
+    <category lang="es">Cocina, hogar y salud</category>
+    <category lang="es">Cocina</category>
+  </programme>
+  <programme start="20160113073000 -0600" stop="20160113080000 -0600" channel="Antena 3">
+    <title lang="es">Karlos Arguiñano en tu cocina</title>
+    <desc lang="es">Con la conducción del reconocido chef español, Karlos Arguiñano, todos los días una receta diferente para saborear en familia. Los mejores consejos y todos los secretos de una cocina simple y sana(n)</desc>
+    <credits>
+      <actor>Karlos Arguiñano</actor>
+      <actor>Eva Arguiñano</actor>
+    </credits>
+    <category lang="es">Cocina, hogar y salud</category>
+    <category lang="es">Cocina</category>
+  </programme>
+  <programme start="20160113080000 -0600" stop="20160113090000 -0600" channel="Antena 3">
+    <title lang="es">Noticias</title>
+    <desc lang="es">Se presenta la actualidad europea y española a los espectadores iberoamericanos, presentando especial atención a las noticias relacionadas con América que se producen en Europa y España(n)</desc>
+    <credits>
+      <actor>Olga Viza</actor>
+      <actor>Jesús Lozano</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160113090000 -0600" stop="20160113090000 -0600" channel="Antena 3">
+    <title lang="es">Espejo público</title>
+    <desc lang="es">Magazine informativo donde el público es el principal protagonista, así como la calle y el acontecer diario. Una parte importante del espacio gira en torno a un tema de actualidad, político o social(n)</desc>
+    <credits>
+      <actor>Susanna Griso</actor>
+      <actor>Carlos Aguilera</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160113090000 -0600" stop="20160113123000 -0600" channel="Antena 3">
+    <title lang="es">Espejo público</title>
+    <desc lang="es">Magazine informativo donde el público es el principal protagonista, así como la calle y el acontecer diario. Una parte importante del espacio gira en torno a un tema de actualidad, político o social(n)</desc>
+    <credits>
+      <actor>Susanna Griso</actor>
+      <actor>Carlos Aguilera</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160113123000 -0600" stop="20160113130000 -0600" channel="Antena 3">
+    <title lang="es">Karlos Arguiñano en tu cocina</title>
+    <desc lang="es">Con la conducción del reconocido chef español, Karlos Arguiñano, todos los días una receta diferente para saborear en familia. Los mejores consejos y todos los secretos de una cocina simple y sana(n)</desc>
+    <credits>
+      <actor>Karlos Arguiñano</actor>
+      <actor>Eva Arguiñano</actor>
+    </credits>
+    <category lang="es">Cocina, hogar y salud</category>
+    <category lang="es">Cocina</category>
+  </programme>
+  <programme start="20160113130000 -0600" stop="20160113140000 -0600" channel="Antena 3">
+    <title lang="es">El secreto de Puente viejo</title>
+    <desc lang="es">Es la historia de un amor imposible en el marco de la España de 1900; una mujer valiente que partiendo de la nada, llegará a serlo todo: una amante decidida, una comadrona reputada y sobre todo, una madre que no olvida(n)</desc>
+    <credits>
+      <actor>Alex Gadea</actor>
+      <actor>Megan Montaner</actor>
+      <actor>Maria Bouzas</actor>
+      <actor>Fariba Sheikhan</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160113140000 -0600" stop="20160113144500 -0600" channel="Antena 3">
+    <title lang="es">Noticias</title>
+    <desc lang="es">Se presenta la actualidad europea y española a los espectadores iberoamericanos, presentando especial atención a las noticias relacionadas con América que se producen en Europa y España(n)</desc>
+    <credits>
+      <actor>Olga Viza</actor>
+      <actor>Jesús Lozano</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160113144500 -0600" stop="20160113153000 -0600" channel="Antena 3">
+    <title lang="es">El Hormiguero</title>
+    <desc lang="es">Pablo Motos entrevistará a diversas estrellas de la música, el cine y la farándula; por su parte Trancas y Barrancas, las hormigas, llenarán la pantalla con sus divertidas ocurrencias(n)</desc>
+    <credits>
+      <actor>Pablo Motos</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Talk Show</category>
+  </programme>
+  <programme start="20160113153000 -0600" stop="20160113163000 -0600" channel="Antena 3">
+    <title lang="es">Hoy cocinas tú</title>
+    <desc lang="es">Programa que se encarga de explicar los trucos y técnicas necesarias para elaborar suculentos platos de fácil elaboración. Por su cocina desfilan todo tipo de sugerentes recetas y postres deliciosos con los que sorprender a la familia. Cocinar de forma sencilla, alimentarse bien y no aburrirse en la mesa son sus tres claves. El programa cuenta cada día con la presencia de un invitado, al que enseña a preparar un plato para alguien especial y que después tendrá que elaborar en su casa. Eva Arguiñano se encarga de explicarle todos los trucos y técnicas necesarias para que pueda preparar ese mismo menú en su casa, sin ayuda de la famosa cocinera(n)</desc>
+    <category lang="es">Cocina, hogar y salud</category>
+    <category lang="es">Cocina</category>
+  </programme>
+  <programme start="20160113163000 -0600" stop="20160113173000 -0600" channel="Antena 3">
+    <title lang="es">Amar es para siempre</title>
+    <desc lang="es">Serie de época que retrata la vida en España en los años 60, década en la que ese país sufrió cambios significativos y de gran crecimiento(n)</desc>
+    <credits>
+      <actor>José Antonio Sayagués</actor>
+      <actor>Manu Baqueiro</actor>
+      <actor>Itziar Miranda</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160113173000 -0600" stop="20160113183000 -0600" channel="Antena 3">
+    <title lang="es">El secreto de Puente viejo</title>
+    <desc lang="es">Es la historia de un amor imposible en el marco de la España de 1900; una mujer valiente que partiendo de la nada, llegará a serlo todo: una amante decidida, una comadrona reputada y sobre todo, una madre que no olvida(n)</desc>
+    <credits>
+      <actor>Alex Gadea</actor>
+      <actor>Megan Montaner</actor>
+      <actor>Maria Bouzas</actor>
+      <actor>Fariba Sheikhan</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160113183000 -0600" stop="20160113193000 -0600" channel="Antena 3">
+    <title lang="es">La Ruleta de la Suerte</title>
+    <desc lang="es">Nada como "La ruleta de la suerte" junto con Jorge Fernández para desafiar y poner a prueba la agilidad mental, los reflejos y conocimientos de los participantes que buscarán ganar el dinero que sumen a lo largo de la partida y un auto(n)</desc>
+    <credits>
+      <actor>Jorge Fernández</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160113193000 -0600" stop="20160113203000 -0600" channel="Antena 3">
+    <title lang="es">El Hormiguero</title>
+    <desc lang="es">Pablo Motos entrevistará a diversas estrellas de la música, el cine y la farándula; por su parte Trancas y Barrancas, las hormigas, llenarán la pantalla con sus divertidas ocurrencias(n)</desc>
+    <credits>
+      <actor>Pablo Motos</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Talk Show</category>
+  </programme>
+  <programme start="20160113203000 -0600" stop="20160113230000 -0600" channel="Antena 3">
+    <title lang="es">El club de la comedia</title>
+    <desc lang="es">Se presentan a los cómicos más populares del país. Todos ellos actúan en directo, respetando la esencia del "stand up comedy", para conseguir las carcajadas del público(n)</desc>
+    <credits>
+      <actor>Eva Hache</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160113230000 -0600" stop="20160113234500 -0600" channel="Antena 3">
+    <title lang="es">El Hormiguero</title>
+    <desc lang="es">Pablo Motos entrevistará a diversas estrellas de la música, el cine y la farándula; por su parte Trancas y Barrancas, las hormigas, llenarán la pantalla con sus divertidas ocurrencias(n)</desc>
+    <credits>
+      <actor>Pablo Motos</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Talk Show</category>
+  </programme>
+  <programme start="20160113234500 -0600" stop="20160114011500 -0600" channel="Antena 3">
+    <title lang="es">Zapeando</title>
+    <desc lang="es">Un original formato que desmenuzará con humor y desenfado los mejores momentos de las cadenas nacionales e internacionales. Cada tarde, Frank Blanco y sus colaboradores comentarán lo mejor y lo peor de la televisión(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160114011500 -0600" stop="20160114020000 -0600" channel="Antena 3">
+    <title lang="es">Noticias</title>
+    <desc lang="es">Se presenta la actualidad europea y española a los espectadores iberoamericanos, presentando especial atención a las noticias relacionadas con América que se producen en Europa y España(n)</desc>
+    <credits>
+      <actor>Olga Viza</actor>
+      <actor>Jesús Lozano</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160114020000 -0600" stop="20160114053000 -0600" channel="Antena 3">
+    <title lang="es">Espejo público</title>
+    <desc lang="es">Magazine informativo donde el público es el principal protagonista, así como la calle y el acontecer diario. Una parte importante del espacio gira en torno a un tema de actualidad, político o social(n)</desc>
+    <credits>
+      <actor>Susanna Griso</actor>
+      <actor>Carlos Aguilera</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160114053000 -0600" stop="20160114060000 -0600" channel="Antena 3">
+    <title lang="es">Qué me pasa doctor</title>
+    <desc lang="es">Un espacio divulgativo sobre el tema que más interesa a la población: la salud(n)</desc>
+    <credits>
+      <actor>Bartolomé Beltrán</actor>
+    </credits>
+    <category lang="es">Cocina, hogar y salud</category>
+    <category lang="es">Salud</category>
+  </programme>
+  <programme start="20160114060000 -0600" stop="20160114070000 -0600" channel="Antena 3">
+    <title lang="es">Hoy cocinas tú</title>
+    <desc lang="es">Programa que se encarga de explicar los trucos y técnicas necesarias para elaborar suculentos platos de fácil elaboración. Por su cocina desfilan todo tipo de sugerentes recetas y postres deliciosos con los que sorprender a la familia. Cocinar de forma sencilla, alimentarse bien y no aburrirse en la mesa son sus tres claves. El programa cuenta cada día con la presencia de un invitado, al que enseña a preparar un plato para alguien especial y que después tendrá que elaborar en su casa. Eva Arguiñano se encarga de explicarle todos los trucos y técnicas necesarias para que pueda preparar ese mismo menú en su casa, sin ayuda de la famosa cocinera(n)</desc>
+    <category lang="es">Cocina, hogar y salud</category>
+    <category lang="es">Cocina</category>
+  </programme>
+  <programme start="20160114070000 -0600" stop="20160114073000 -0600" channel="Antena 3">
+    <title lang="es">Cocina con Bruno</title>
+    <desc lang="es">Bruno Oteiza, nos anima a jugar y experimentar en la cocina. Platos únicos y originales para hacer en casa(n)</desc>
+    <credits>
+      <actor>Bruno Oteiza</actor>
+    </credits>
+    <category lang="es">Cocina, hogar y salud</category>
+    <category lang="es">Cocina</category>
+  </programme>
+  <programme start="20160114073000 -0600" stop="20160114080000 -0600" channel="Antena 3">
+    <title lang="es">Karlos Arguiñano en tu cocina</title>
+    <desc lang="es">Con la conducción del reconocido chef español, Karlos Arguiñano, todos los días una receta diferente para saborear en familia. Los mejores consejos y todos los secretos de una cocina simple y sana(n)</desc>
+    <credits>
+      <actor>Karlos Arguiñano</actor>
+      <actor>Eva Arguiñano</actor>
+    </credits>
+    <category lang="es">Cocina, hogar y salud</category>
+    <category lang="es">Cocina</category>
+  </programme>
+  <programme start="20160114080000 -0600" stop="20160114090000 -0600" channel="Antena 3">
+    <title lang="es">Noticias</title>
+    <desc lang="es">Se presenta la actualidad europea y española a los espectadores iberoamericanos, presentando especial atención a las noticias relacionadas con América que se producen en Europa y España(n)</desc>
+    <credits>
+      <actor>Olga Viza</actor>
+      <actor>Jesús Lozano</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160114090000 -0600" stop="20160114090000 -0600" channel="Antena 3">
+    <title lang="es">Espejo público</title>
+    <desc lang="es">Magazine informativo donde el público es el principal protagonista, así como la calle y el acontecer diario. Una parte importante del espacio gira en torno a un tema de actualidad, político o social(n)</desc>
+    <credits>
+      <actor>Susanna Griso</actor>
+      <actor>Carlos Aguilera</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160114090000 -0600" stop="20160114123000 -0600" channel="Antena 3">
+    <title lang="es">Espejo público</title>
+    <desc lang="es">Magazine informativo donde el público es el principal protagonista, así como la calle y el acontecer diario. Una parte importante del espacio gira en torno a un tema de actualidad, político o social(n)</desc>
+    <credits>
+      <actor>Susanna Griso</actor>
+      <actor>Carlos Aguilera</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160114123000 -0600" stop="20160114130000 -0600" channel="Antena 3">
+    <title lang="es">Karlos Arguiñano en tu cocina</title>
+    <desc lang="es">Con la conducción del reconocido chef español, Karlos Arguiñano, todos los días una receta diferente para saborear en familia. Los mejores consejos y todos los secretos de una cocina simple y sana(n)</desc>
+    <credits>
+      <actor>Karlos Arguiñano</actor>
+      <actor>Eva Arguiñano</actor>
+    </credits>
+    <category lang="es">Cocina, hogar y salud</category>
+    <category lang="es">Cocina</category>
+  </programme>
+  <programme start="20160114130000 -0600" stop="20160114140000 -0600" channel="Antena 3">
+    <title lang="es">El secreto de Puente viejo</title>
+    <desc lang="es">Es la historia de un amor imposible en el marco de la España de 1900; una mujer valiente que partiendo de la nada, llegará a serlo todo: una amante decidida, una comadrona reputada y sobre todo, una madre que no olvida(n)</desc>
+    <credits>
+      <actor>Alex Gadea</actor>
+      <actor>Megan Montaner</actor>
+      <actor>Maria Bouzas</actor>
+      <actor>Fariba Sheikhan</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160114140000 -0600" stop="20160114144500 -0600" channel="Antena 3">
+    <title lang="es">Noticias</title>
+    <desc lang="es">Se presenta la actualidad europea y española a los espectadores iberoamericanos, presentando especial atención a las noticias relacionadas con América que se producen en Europa y España(n)</desc>
+    <credits>
+      <actor>Olga Viza</actor>
+      <actor>Jesús Lozano</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160114144500 -0600" stop="20160114153000 -0600" channel="Antena 3">
+    <title lang="es">El Hormiguero</title>
+    <desc lang="es">Pablo Motos entrevistará a diversas estrellas de la música, el cine y la farándula; por su parte Trancas y Barrancas, las hormigas, llenarán la pantalla con sus divertidas ocurrencias(n)</desc>
+    <credits>
+      <actor>Pablo Motos</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Talk Show</category>
+  </programme>
+  <programme start="20160114153000 -0600" stop="20160114163000 -0600" channel="Antena 3">
+    <title lang="es">Hoy cocinas tú</title>
+    <desc lang="es">Programa que se encarga de explicar los trucos y técnicas necesarias para elaborar suculentos platos de fácil elaboración. Por su cocina desfilan todo tipo de sugerentes recetas y postres deliciosos con los que sorprender a la familia. Cocinar de forma sencilla, alimentarse bien y no aburrirse en la mesa son sus tres claves. El programa cuenta cada día con la presencia de un invitado, al que enseña a preparar un plato para alguien especial y que después tendrá que elaborar en su casa. Eva Arguiñano se encarga de explicarle todos los trucos y técnicas necesarias para que pueda preparar ese mismo menú en su casa, sin ayuda de la famosa cocinera(n)</desc>
+    <category lang="es">Cocina, hogar y salud</category>
+    <category lang="es">Cocina</category>
+  </programme>
+  <programme start="20160114163000 -0600" stop="20160114173000 -0600" channel="Antena 3">
+    <title lang="es">Amar es para siempre</title>
+    <desc lang="es">Serie de época que retrata la vida en España en los años 60, década en la que ese país sufrió cambios significativos y de gran crecimiento(n)</desc>
+    <credits>
+      <actor>José Antonio Sayagués</actor>
+      <actor>Manu Baqueiro</actor>
+      <actor>Itziar Miranda</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160114173000 -0600" stop="20160114183000 -0600" channel="Antena 3">
+    <title lang="es">El secreto de Puente viejo</title>
+    <desc lang="es">Es la historia de un amor imposible en el marco de la España de 1900; una mujer valiente que partiendo de la nada, llegará a serlo todo: una amante decidida, una comadrona reputada y sobre todo, una madre que no olvida(n)</desc>
+    <credits>
+      <actor>Alex Gadea</actor>
+      <actor>Megan Montaner</actor>
+      <actor>Maria Bouzas</actor>
+      <actor>Fariba Sheikhan</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160114183000 -0600" stop="20160114193000 -0600" channel="Antena 3">
+    <title lang="es">La Ruleta de la Suerte</title>
+    <desc lang="es">Nada como "La ruleta de la suerte" junto con Jorge Fernández para desafiar y poner a prueba la agilidad mental, los reflejos y conocimientos de los participantes que buscarán ganar el dinero que sumen a lo largo de la partida y un auto(n)</desc>
+    <credits>
+      <actor>Jorge Fernández</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160114193000 -0600" stop="20160114203000 -0600" channel="Antena 3">
+    <title lang="es">El Hormiguero</title>
+    <desc lang="es">Pablo Motos entrevistará a diversas estrellas de la música, el cine y la farándula; por su parte Trancas y Barrancas, las hormigas, llenarán la pantalla con sus divertidas ocurrencias(n)</desc>
+    <credits>
+      <actor>Pablo Motos</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Talk Show</category>
+  </programme>
+  <programme start="20160114203000 -0600" stop="20160114230000 -0600" channel="Antena 3">
+    <title lang="es">Tu cara me suena</title>
+    <desc lang="es">Ocho concursantes famosos aceptan cantar en directo para una causa benéfica, caracterizados como grandes protagonistas de la música. El jurado decidirá quién es el ganador(n)</desc>
+    <credits>
+      <actor>Manel Fuentes</actor>
+      <actor>Marta Sánchez</actor>
+      <actor>Mónica Naranjo</actor>
+      <actor>Carlos Latre</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Reality Show</category>
+  </programme>
+  <programme start="20160114230000 -0600" stop="20160115003000 -0600" channel="Antena 3">
+    <title lang="es">Equipo de investigación</title>
+    <desc lang="es">Un profesional equipo de periodistas, encabezados por Gloria Serra, nos muestran mediante reportajes de profundidad diversos temas de interés social(n)</desc>
+    <credits>
+      <actor>Gloria Serra</actor>
+    </credits>
+    <category lang="es">Periodístico</category>
+  </programme>
+  <programme start="20160115003000 -0600" stop="20160115020000 -0600" channel="Antena 3">
+    <title lang="es">Salvados</title>
+    <desc lang="es">Programa de reportajes y entrevistas sobre temas de actualidad. Jordi Évole y su equipo aportan un tono crítico a los temas más polémicos de la actualidad, con un toque muy fino de ironía..(n)</desc>
+    <credits>
+      <actor>Jordi Evole</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entrevista</category>
+  </programme>
+  <programme start="20160115020000 -0600" stop="20160115040000 -0600" channel="Antena 3">
+    <title lang="es">Aquí no hay quien viva</title>
+    <desc lang="es">Es la historia de un amor imposible en el marco de la España de 1900; una mujer valiente que partiendo de la nada, llegará a serlo todo: una amante decidida, una comadrona reputada y sobre todo, una madre que no olvida(n)</desc>
+    <credits>
+      <actor>José Luis Gil</actor>
+      <actor>Fernando Tejero</actor>
+      <actor>Malena Alterio</actor>
+      <actor>Eduardo Gómez</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160115040000 -0600" stop="20160115053000 -0600" channel="Antena 3">
+    <title lang="es">Aquí no hay quien viva</title>
+    <desc lang="es">Es la historia de un amor imposible en el marco de la España de 1900; una mujer valiente que partiendo de la nada, llegará a serlo todo: una amante decidida, una comadrona reputada y sobre todo, una madre que no olvida(n)</desc>
+    <credits>
+      <actor>José Luis Gil</actor>
+      <actor>Fernando Tejero</actor>
+      <actor>Malena Alterio</actor>
+      <actor>Eduardo Gómez</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160115053000 -0600" stop="20160115060000 -0600" channel="Antena 3">
+    <title lang="es">Qué me pasa doctor</title>
+    <desc lang="es">Un espacio divulgativo sobre el tema que más interesa a la población: la salud(n)</desc>
+    <credits>
+      <actor>Bartolomé Beltrán</actor>
+    </credits>
+    <category lang="es">Cocina, hogar y salud</category>
+    <category lang="es">Salud</category>
+  </programme>
+  <programme start="20160115060000 -0600" stop="20160115070000 -0600" channel="Antena 3">
+    <title lang="es">Hoy cocinas tú</title>
+    <desc lang="es">Programa que se encarga de explicar los trucos y técnicas necesarias para elaborar suculentos platos de fácil elaboración. Por su cocina desfilan todo tipo de sugerentes recetas y postres deliciosos con los que sorprender a la familia. Cocinar de forma sencilla, alimentarse bien y no aburrirse en la mesa son sus tres claves. El programa cuenta cada día con la presencia de un invitado, al que enseña a preparar un plato para alguien especial y que después tendrá que elaborar en su casa. Eva Arguiñano se encarga de explicarle todos los trucos y técnicas necesarias para que pueda preparar ese mismo menú en su casa, sin ayuda de la famosa cocinera(n)</desc>
+    <category lang="es">Cocina, hogar y salud</category>
+    <category lang="es">Cocina</category>
+  </programme>
+  <programme start="20160115070000 -0600" stop="20160115073000 -0600" channel="Antena 3">
+    <title lang="es">Cocina con Bruno</title>
+    <desc lang="es">Bruno Oteiza, nos anima a jugar y experimentar en la cocina. Platos únicos y originales para hacer en casa(n)</desc>
+    <credits>
+      <actor>Bruno Oteiza</actor>
+    </credits>
+    <category lang="es">Cocina, hogar y salud</category>
+    <category lang="es">Cocina</category>
+  </programme>
+  <programme start="20160115073000 -0600" stop="20160115080000 -0600" channel="Antena 3">
+    <title lang="es">Karlos Arguiñano en tu cocina</title>
+    <desc lang="es">Con la conducción del reconocido chef español, Karlos Arguiñano, todos los días una receta diferente para saborear en familia. Los mejores consejos y todos los secretos de una cocina simple y sana(n)</desc>
+    <credits>
+      <actor>Karlos Arguiñano</actor>
+      <actor>Eva Arguiñano</actor>
+    </credits>
+    <category lang="es">Cocina, hogar y salud</category>
+    <category lang="es">Cocina</category>
+  </programme>
+  <programme start="20160115080000 -0600" stop="20160115090000 -0600" channel="Antena 3">
+    <title lang="es">Noticias</title>
+    <desc lang="es">Se presenta la actualidad europea y española a los espectadores iberoamericanos, presentando especial atención a las noticias relacionadas con América que se producen en Europa y España(n)</desc>
+    <credits>
+      <actor>Olga Viza</actor>
+      <actor>Jesús Lozano</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160115090000 -0600" stop="20160115090000 -0600" channel="Antena 3">
+    <title lang="es">Espejo público</title>
+    <desc lang="es">Magazine informativo donde el público es el principal protagonista, así como la calle y el acontecer diario. Una parte importante del espacio gira en torno a un tema de actualidad, político o social(n)</desc>
+    <credits>
+      <actor>Susanna Griso</actor>
+      <actor>Carlos Aguilera</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160115090000 -0600" stop="20160115123000 -0600" channel="Antena 3">
+    <title lang="es">Espejo público</title>
+    <desc lang="es">Magazine informativo donde el público es el principal protagonista, así como la calle y el acontecer diario. Una parte importante del espacio gira en torno a un tema de actualidad, político o social(n)</desc>
+    <credits>
+      <actor>Susanna Griso</actor>
+      <actor>Carlos Aguilera</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160115123000 -0600" stop="20160115130000 -0600" channel="Antena 3">
+    <title lang="es">Karlos Arguiñano en tu cocina</title>
+    <desc lang="es">Con la conducción del reconocido chef español, Karlos Arguiñano, todos los días una receta diferente para saborear en familia. Los mejores consejos y todos los secretos de una cocina simple y sana(n)</desc>
+    <credits>
+      <actor>Karlos Arguiñano</actor>
+      <actor>Eva Arguiñano</actor>
+    </credits>
+    <category lang="es">Cocina, hogar y salud</category>
+    <category lang="es">Cocina</category>
+  </programme>
+  <programme start="20160115130000 -0600" stop="20160115140000 -0600" channel="Antena 3">
+    <title lang="es">El secreto de Puente viejo</title>
+    <desc lang="es">Es la historia de un amor imposible en el marco de la España de 1900; una mujer valiente que partiendo de la nada, llegará a serlo todo: una amante decidida, una comadrona reputada y sobre todo, una madre que no olvida(n)</desc>
+    <credits>
+      <actor>Alex Gadea</actor>
+      <actor>Megan Montaner</actor>
+      <actor>Maria Bouzas</actor>
+      <actor>Fariba Sheikhan</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160115140000 -0600" stop="20160115144500 -0600" channel="Antena 3">
+    <title lang="es">Noticias</title>
+    <desc lang="es">Se presenta la actualidad europea y española a los espectadores iberoamericanos, presentando especial atención a las noticias relacionadas con América que se producen en Europa y España(n)</desc>
+    <credits>
+      <actor>Olga Viza</actor>
+      <actor>Jesús Lozano</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160115144500 -0600" stop="20160115153000 -0600" channel="Antena 3">
+    <title lang="es">El Hormiguero</title>
+    <desc lang="es">Pablo Motos entrevistará a diversas estrellas de la música, el cine y la farándula; por su parte Trancas y Barrancas, las hormigas, llenarán la pantalla con sus divertidas ocurrencias(n)</desc>
+    <credits>
+      <actor>Pablo Motos</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Talk Show</category>
+  </programme>
+  <programme start="20160115153000 -0600" stop="20160115163000 -0600" channel="Antena 3">
+    <title lang="es">Hoy cocinas tú</title>
+    <desc lang="es">Programa que se encarga de explicar los trucos y técnicas necesarias para elaborar suculentos platos de fácil elaboración. Por su cocina desfilan todo tipo de sugerentes recetas y postres deliciosos con los que sorprender a la familia. Cocinar de forma sencilla, alimentarse bien y no aburrirse en la mesa son sus tres claves. El programa cuenta cada día con la presencia de un invitado, al que enseña a preparar un plato para alguien especial y que después tendrá que elaborar en su casa. Eva Arguiñano se encarga de explicarle todos los trucos y técnicas necesarias para que pueda preparar ese mismo menú en su casa, sin ayuda de la famosa cocinera(n)</desc>
+    <category lang="es">Cocina, hogar y salud</category>
+    <category lang="es">Cocina</category>
+  </programme>
+  <programme start="20160115163000 -0600" stop="20160115173000 -0600" channel="Antena 3">
+    <title lang="es">Amar es para siempre</title>
+    <desc lang="es">Serie de época que retrata la vida en España en los años 60, década en la que ese país sufrió cambios significativos y de gran crecimiento(n)</desc>
+    <credits>
+      <actor>José Antonio Sayagués</actor>
+      <actor>Manu Baqueiro</actor>
+      <actor>Itziar Miranda</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160115173000 -0600" stop="20160115183000 -0600" channel="Antena 3">
+    <title lang="es">El secreto de Puente viejo</title>
+    <desc lang="es">Es la historia de un amor imposible en el marco de la España de 1900; una mujer valiente que partiendo de la nada, llegará a serlo todo: una amante decidida, una comadrona reputada y sobre todo, una madre que no olvida(n)</desc>
+    <credits>
+      <actor>Alex Gadea</actor>
+      <actor>Megan Montaner</actor>
+      <actor>Maria Bouzas</actor>
+      <actor>Fariba Sheikhan</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160115183000 -0600" stop="20160115193000 -0600" channel="Antena 3">
+    <title lang="es">La Ruleta de la Suerte</title>
+    <desc lang="es">Nada como "La ruleta de la suerte" junto con Jorge Fernández para desafiar y poner a prueba la agilidad mental, los reflejos y conocimientos de los participantes que buscarán ganar el dinero que sumen a lo largo de la partida y un auto(n)</desc>
+    <credits>
+      <actor>Jorge Fernández</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160115193000 -0600" stop="20160115203000 -0600" channel="Antena 3">
+    <title lang="es">El Hormiguero</title>
+    <desc lang="es">Pablo Motos entrevistará a diversas estrellas de la música, el cine y la farándula; por su parte Trancas y Barrancas, las hormigas, llenarán la pantalla con sus divertidas ocurrencias(n)</desc>
+    <credits>
+      <actor>Pablo Motos</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Talk Show</category>
+  </programme>
+  <programme start="20160115203000 -0600" stop="20160115220000 -0600" channel="Antena 3">
+    <title lang="es">Vis a vis</title>
+    <desc lang="es">Narra las vivencias en prisión de Macarena, una joven frágil e inocente que se ve inmersa en un thriller. Además del shock que le supone acabar de golpe con su placentera existencia, pronto descubrirá que demasiada gente en la cárcel está tras la pista de nueve millones de euros robados de un furgón(n)</desc>
+    <category lang="es">Series</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160115220000 -0600" stop="20160115230000 -0600" channel="Antena 3">
+    <title lang="es">Reclusas</title>
+    <desc lang="es">Serie de reportajes sobre la vida de las presas en las cárceles españolas(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Serie</category>
+  </programme>
+  <programme start="20160115230000 -0600" stop="20160116000000 -0600" channel="Antena 3">
+    <title lang="es">Aquí no hay quien viva</title>
+    <desc lang="es">Es la historia de un amor imposible en el marco de la España de 1900; una mujer valiente que partiendo de la nada, llegará a serlo todo: una amante decidida, una comadrona reputada y sobre todo, una madre que no olvida(n)</desc>
+    <credits>
+      <actor>José Luis Gil</actor>
+      <actor>Fernando Tejero</actor>
+      <actor>Malena Alterio</actor>
+      <actor>Eduardo Gómez</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160116000000 -0600" stop="20160116013000 -0600" channel="Antena 3">
+    <title lang="es">Aquí no hay quien viva</title>
+    <desc lang="es">Es la historia de un amor imposible en el marco de la España de 1900; una mujer valiente que partiendo de la nada, llegará a serlo todo: una amante decidida, una comadrona reputada y sobre todo, una madre que no olvida(n)</desc>
+    <credits>
+      <actor>José Luis Gil</actor>
+      <actor>Fernando Tejero</actor>
+      <actor>Malena Alterio</actor>
+      <actor>Eduardo Gómez</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160116013000 -0600" stop="20160116030000 -0600" channel="Antena 3">
+    <title lang="es">Aquí no hay quien viva</title>
+    <desc lang="es">Es la historia de un amor imposible en el marco de la España de 1900; una mujer valiente que partiendo de la nada, llegará a serlo todo: una amante decidida, una comadrona reputada y sobre todo, una madre que no olvida(n)</desc>
+    <credits>
+      <actor>José Luis Gil</actor>
+      <actor>Fernando Tejero</actor>
+      <actor>Malena Alterio</actor>
+      <actor>Eduardo Gómez</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160116030000 -0600" stop="20160116043000 -0600" channel="Antena 3">
+    <title lang="es">Aquí no hay quien viva</title>
+    <desc lang="es">Es la historia de un amor imposible en el marco de la España de 1900; una mujer valiente que partiendo de la nada, llegará a serlo todo: una amante decidida, una comadrona reputada y sobre todo, una madre que no olvida(n)</desc>
+    <credits>
+      <actor>José Luis Gil</actor>
+      <actor>Fernando Tejero</actor>
+      <actor>Malena Alterio</actor>
+      <actor>Eduardo Gómez</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160116043000 -0600" stop="20160116060000 -0600" channel="Antena 3">
+    <title lang="es">Aquí no hay quien viva</title>
+    <desc lang="es">Es la historia de un amor imposible en el marco de la España de 1900; una mujer valiente que partiendo de la nada, llegará a serlo todo: una amante decidida, una comadrona reputada y sobre todo, una madre que no olvida(n)</desc>
+    <credits>
+      <actor>José Luis Gil</actor>
+      <actor>Fernando Tejero</actor>
+      <actor>Malena Alterio</actor>
+      <actor>Eduardo Gómez</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160116060000 -0600" stop="20160116070000 -0600" channel="Antena 3">
+    <title lang="es">Hoy cocinas tú</title>
+    <desc lang="es">Programa que se encarga de explicar los trucos y técnicas necesarias para elaborar suculentos platos de fácil elaboración. Por su cocina desfilan todo tipo de sugerentes recetas y postres deliciosos con los que sorprender a la familia. Cocinar de forma sencilla, alimentarse bien y no aburrirse en la mesa son sus tres claves. El programa cuenta cada día con la presencia de un invitado, al que enseña a preparar un plato para alguien especial y que después tendrá que elaborar en su casa. Eva Arguiñano se encarga de explicarle todos los trucos y técnicas necesarias para que pueda preparar ese mismo menú en su casa, sin ayuda de la famosa cocinera(n)</desc>
+    <category lang="es">Cocina, hogar y salud</category>
+    <category lang="es">Cocina</category>
+  </programme>
+  <programme start="20160116070000 -0600" stop="20160116073000 -0600" channel="Antena 3">
+    <title lang="es">Qué me pasa doctor</title>
+    <desc lang="es">Un espacio divulgativo sobre el tema que más interesa a la población: la salud(n)</desc>
+    <credits>
+      <actor>Bartolomé Beltrán</actor>
+    </credits>
+    <category lang="es">Cocina, hogar y salud</category>
+    <category lang="es">Salud</category>
+  </programme>
+  <programme start="20160116073000 -0600" stop="20160116080000 -0600" channel="Antena 3">
+    <title lang="es">Bricomanía</title>
+    <desc lang="es">Brinda a los espectadores los conocimientos básicos para hacer bricolaje, enseñando, de forma sencilla y práctica, cómo arreglar, reciclar, construir y crear determinados objetos(n)</desc>
+    <credits>
+      <actor>Kristian Pielhoff</actor>
+      <actor>Iñigo Segurola</actor>
+    </credits>
+    <category lang="es">Cocina, hogar y salud</category>
+    <category lang="es">Decoración</category>
+  </programme>
+  <programme start="20160116080000 -0600" stop="20160116085000 -0600" channel="Antena 3">
+    <title lang="es">Noticias</title>
+    <desc lang="es">Se presenta la actualidad europea y española a los espectadores iberoamericanos, presentando especial atención a las noticias relacionadas con América que se producen en Europa y España(n)</desc>
+    <credits>
+      <actor>Olga Viza</actor>
+      <actor>Jesús Lozano</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160116085000 -0600" stop="20160116091500 -0600" channel="Antena 3">
+    <title lang="es">Noticias culturales iberoamericanas</title>
+    <desc lang="es">Noticias culturales iberoamericanas(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160116091500 -0600" stop="20160116100000 -0600" channel="Antena 3">
+    <title lang="es">El Hormiguero</title>
+    <desc lang="es">Pablo Motos entrevistará a diversas estrellas de la música, el cine y la farándula; por su parte Trancas y Barrancas, las hormigas, llenarán la pantalla con sus divertidas ocurrencias(n)</desc>
+    <credits>
+      <actor>Pablo Motos</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Talk Show</category>
+  </programme>
+  <programme start="20160116100000 -0600" stop="20160116110000 -0600" channel="Antena 3">
+    <title lang="es">Salvados</title>
+    <desc lang="es">Programa de reportajes y entrevistas sobre temas de actualidad. Jordi Évole y su equipo aportan un tono crítico a los temas más polémicos de la actualidad, con un toque muy fino de ironía..(n)</desc>
+    <credits>
+      <actor>Jordi Evole</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entrevista</category>
+  </programme>
+  <programme start="20160116110000 -0600" stop="20160116113000 -0600" channel="Antena 3">
+    <title lang="es">Top Trending Tele</title>
+    <desc lang="es">Piezas humorísticas sacadas de la tele y de Internet, alternando reacciones, declaraciones y gestos de personajes que no tienen nada que ver con estos contenidos(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160116113000 -0600" stop="20160116113000 -0600" channel="Antena 3">
+    <title lang="es">Al rincón de pensar</title>
+    <desc lang="es">Programa de conversaciones que da voz a personalidades reconocibles y no tan conocidas pero que tienen algo interesante que contar(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Talk Show</category>
+  </programme>
+  <programme start="20160116113000 -0600" stop="20160116130000 -0600" channel="Antena 3">
+    <title lang="es">Al rincón de pensar</title>
+    <desc lang="es">Programa de conversaciones que da voz a personalidades reconocibles y no tan conocidas pero que tienen algo interesante que contar(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Talk Show</category>
+  </programme>
+  <programme start="20160116130000 -0600" stop="20160116140000 -0600" channel="Antena 3">
+    <title lang="es">Hoteles con encanto</title>
+    <desc lang="es">Las particularidades que nos hacen distinguir los diferentes hoteles de España. Hay tantos hoteles y maneras de clasificarlos como tipos de clientes. Los conoceremos todos y otros tipos de establecimientos muy de moda(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Destinos</category>
+  </programme>
+  <programme start="20160116140000 -0600" stop="20160116144500 -0600" channel="Antena 3">
+    <title lang="es">Noticias</title>
+    <desc lang="es">Se presenta la actualidad europea y española a los espectadores iberoamericanos, presentando especial atención a las noticias relacionadas con América que se producen en Europa y España(n)</desc>
+    <credits>
+      <actor>Olga Viza</actor>
+      <actor>Jesús Lozano</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160116144500 -0600" stop="20160116160000 -0600" channel="Antena 3">
+    <title lang="es">El club de la comedia</title>
+    <desc lang="es">Se presentan a los cómicos más populares del país. Todos ellos actúan en directo, respetando la esencia del "stand up comedy", para conseguir las carcajadas del público(n)</desc>
+    <credits>
+      <actor>Eva Hache</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160116160000 -0600" stop="20160116173000 -0600" channel="Antena 3">
+    <title lang="es">Aquí no hay quien viva</title>
+    <desc lang="es">Es la historia de un amor imposible en el marco de la España de 1900; una mujer valiente que partiendo de la nada, llegará a serlo todo: una amante decidida, una comadrona reputada y sobre todo, una madre que no olvida(n)</desc>
+    <credits>
+      <actor>José Luis Gil</actor>
+      <actor>Fernando Tejero</actor>
+      <actor>Malena Alterio</actor>
+      <actor>Eduardo Gómez</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160116173000 -0600" stop="20160116193000 -0600" channel="Antena 3">
+    <title lang="es">Aquí no hay quien viva</title>
+    <desc lang="es">Es la historia de un amor imposible en el marco de la España de 1900; una mujer valiente que partiendo de la nada, llegará a serlo todo: una amante decidida, una comadrona reputada y sobre todo, una madre que no olvida(n)</desc>
+    <credits>
+      <actor>José Luis Gil</actor>
+      <actor>Fernando Tejero</actor>
+      <actor>Malena Alterio</actor>
+      <actor>Eduardo Gómez</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160116193000 -0600" stop="20160116203000 -0600" channel="Antena 3">
+    <title lang="es">El Hormiguero</title>
+    <desc lang="es">Pablo Motos entrevistará a diversas estrellas de la música, el cine y la farándula; por su parte Trancas y Barrancas, las hormigas, llenarán la pantalla con sus divertidas ocurrencias(n)</desc>
+    <credits>
+      <actor>Pablo Motos</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Talk Show</category>
+  </programme>
+  <programme start="20160116203000 -0600" stop="20160116223000 -0600" channel="Antena 3">
+    <title lang="es">Equipo de investigación</title>
+    <desc lang="es">Un profesional equipo de periodistas, encabezados por Gloria Serra, nos muestran mediante reportajes de profundidad diversos temas de interés social(n)</desc>
+    <credits>
+      <actor>Gloria Serra</actor>
+    </credits>
+    <category lang="es">Periodístico</category>
+  </programme>
+  <programme start="20160116223000 -0600" stop="20160116230000 -0600" channel="Antena 3">
+    <title lang="es">Noticias culturales iberoamericanas</title>
+    <desc lang="es">Noticias culturales iberoamericanas(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160116230000 -0600" stop="20160117000000 -0600" channel="Antena 3">
+    <title lang="es">Aquí no hay quien viva</title>
+    <desc lang="es">Es la historia de un amor imposible en el marco de la España de 1900; una mujer valiente que partiendo de la nada, llegará a serlo todo: una amante decidida, una comadrona reputada y sobre todo, una madre que no olvida(n)</desc>
+    <credits>
+      <actor>José Luis Gil</actor>
+      <actor>Fernando Tejero</actor>
+      <actor>Malena Alterio</actor>
+      <actor>Eduardo Gómez</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160117000000 -0600" stop="20160117013000 -0600" channel="Antena 3">
+    <title lang="es">Aquí no hay quien viva</title>
+    <desc lang="es">Es la historia de un amor imposible en el marco de la España de 1900; una mujer valiente que partiendo de la nada, llegará a serlo todo: una amante decidida, una comadrona reputada y sobre todo, una madre que no olvida(n)</desc>
+    <credits>
+      <actor>José Luis Gil</actor>
+      <actor>Fernando Tejero</actor>
+      <actor>Malena Alterio</actor>
+      <actor>Eduardo Gómez</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160117013000 -0600" stop="20160117030000 -0600" channel="Antena 3">
+    <title lang="es">Aquí no hay quien viva</title>
+    <desc lang="es">Es la historia de un amor imposible en el marco de la España de 1900; una mujer valiente que partiendo de la nada, llegará a serlo todo: una amante decidida, una comadrona reputada y sobre todo, una madre que no olvida(n)</desc>
+    <credits>
+      <actor>José Luis Gil</actor>
+      <actor>Fernando Tejero</actor>
+      <actor>Malena Alterio</actor>
+      <actor>Eduardo Gómez</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160117030000 -0600" stop="20160117043000 -0600" channel="Antena 3">
+    <title lang="es">Aquí no hay quien viva</title>
+    <desc lang="es">Es la historia de un amor imposible en el marco de la España de 1900; una mujer valiente que partiendo de la nada, llegará a serlo todo: una amante decidida, una comadrona reputada y sobre todo, una madre que no olvida(n)</desc>
+    <credits>
+      <actor>José Luis Gil</actor>
+      <actor>Fernando Tejero</actor>
+      <actor>Malena Alterio</actor>
+      <actor>Eduardo Gómez</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160117043000 -0600" stop="20160117060000 -0600" channel="Antena 3">
+    <title lang="es">Aquí no hay quien viva</title>
+    <desc lang="es">Es la historia de un amor imposible en el marco de la España de 1900; una mujer valiente que partiendo de la nada, llegará a serlo todo: una amante decidida, una comadrona reputada y sobre todo, una madre que no olvida(n)</desc>
+    <credits>
+      <actor>José Luis Gil</actor>
+      <actor>Fernando Tejero</actor>
+      <actor>Malena Alterio</actor>
+      <actor>Eduardo Gómez</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160117060000 -0600" stop="20160117063000 -0600" channel="Antena 3">
+    <title lang="es">El estirón</title>
+    <desc lang="es">Gracias a la colaboración de los talentos de Antena 3, se realiza este programa para ayudar en el combate contra la obesidad infantil. Consejos sobre alimentación, salud, ejercicios y convivencia familiar(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Salud</category>
+  </programme>
+  <programme start="20160117063000 -0600" stop="20160117070000 -0600" channel="Antena 3">
+    <title lang="es">Noticias culturales iberoamericanas</title>
+    <desc lang="es">Noticias culturales iberoamericanas(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160117070000 -0600" stop="20160117073000 -0600" channel="Antena 3">
+    <title lang="es">Qué me pasa doctor</title>
+    <desc lang="es">Un espacio divulgativo sobre el tema que más interesa a la población: la salud(n)</desc>
+    <credits>
+      <actor>Bartolomé Beltrán</actor>
+    </credits>
+    <category lang="es">Cocina, hogar y salud</category>
+    <category lang="es">Salud</category>
+  </programme>
+  <programme start="20160117073000 -0600" stop="20160117080000 -0600" channel="Antena 3">
+    <title lang="es">Decogarden</title>
+    <desc lang="es">Aspectos relacionados con el hogar y con quienes lo habitan, el bienestar, el deleite de una vivienda agradable, la personalización de la decoración de la casa, la convivencia con mascotas y la integración de las plantas en la vivienda(n)</desc>
+    <credits>
+      <actor>Iñigo Segurola</actor>
+      <actor>Susana Gil</actor>
+      <actor>Begoña Peña</actor>
+      <actor>Jacinto Legarda</actor>
+    </credits>
+    <category lang="es">Cocina, hogar y salud</category>
+    <category lang="es">Decoración</category>
+  </programme>
+  <programme start="20160117080000 -0600" stop="20160117085000 -0600" channel="Antena 3">
+    <title lang="es">Noticias</title>
+    <desc lang="es">Se presenta la actualidad europea y española a los espectadores iberoamericanos, presentando especial atención a las noticias relacionadas con América que se producen en Europa y España(n)</desc>
+    <credits>
+      <actor>Olga Viza</actor>
+      <actor>Jesús Lozano</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160117085000 -0600" stop="20160117091500 -0600" channel="Antena 3">
+    <title lang="es">Centímetros Cúbicos</title>
+    <category lang="es">Culturales</category>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160117091500 -0600" stop="20160117100000 -0600" channel="Antena 3">
+    <title lang="es">El Hormiguero</title>
+    <desc lang="es">Pablo Motos entrevistará a diversas estrellas de la música, el cine y la farándula; por su parte Trancas y Barrancas, las hormigas, llenarán la pantalla con sus divertidas ocurrencias(n)</desc>
+    <credits>
+      <actor>Pablo Motos</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Talk Show</category>
+  </programme>
+  <programme start="20160117100000 -0600" stop="20160117110000 -0600" channel="Antena 3">
+    <title lang="es">Equipo de investigación</title>
+    <desc lang="es">Un profesional equipo de periodistas, encabezados por Gloria Serra, nos muestran mediante reportajes de profundidad diversos temas de interés social(n)</desc>
+    <credits>
+      <actor>Gloria Serra</actor>
+    </credits>
+    <category lang="es">Periodístico</category>
+  </programme>
+  <programme start="20160117110000 -0600" stop="20160117120000 -0600" channel="Antena 3">
+    <title lang="es">Top Trending Tele</title>
+    <desc lang="es">Piezas humorísticas sacadas de la tele y de Internet, alternando reacciones, declaraciones y gestos de personajes que no tienen nada que ver con estos contenidos(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160117120000 -0600" stop="20160117130000 -0600" channel="Antena 3">
+    <title lang="es">El club de la comedia</title>
+    <desc lang="es">Se presentan a los cómicos más populares del país. Todos ellos actúan en directo, respetando la esencia del "stand up comedy", para conseguir las carcajadas del público(n)</desc>
+    <credits>
+      <actor>Eva Hache</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160117130000 -0600" stop="20160117140000 -0600" channel="Antena 3">
+    <title lang="es">Hoteles con encanto</title>
+    <desc lang="es">Las particularidades que nos hacen distinguir los diferentes hoteles de España. Hay tantos hoteles y maneras de clasificarlos como tipos de clientes. Los conoceremos todos y otros tipos de establecimientos muy de moda(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Destinos</category>
+  </programme>
+  <programme start="20160117140000 -0600" stop="20160117144500 -0600" channel="Antena 3">
+    <title lang="es">Noticias</title>
+    <desc lang="es">Se presenta la actualidad europea y española a los espectadores iberoamericanos, presentando especial atención a las noticias relacionadas con América que se producen en Europa y España(n)</desc>
+    <credits>
+      <actor>Olga Viza</actor>
+      <actor>Jesús Lozano</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160117144500 -0600" stop="20160117163000 -0600" channel="Antena 3">
+    <title lang="es">Allí abajo</title>
+    <desc lang="es">Iñaki tiene cuarenta años y sólo ha salido de Euskadi para echar gasolina barata en Francia. Vive en San Sebastián con su madre, Maritxu, la clásica matriarca vasca, absorbente y dominante, inasequible a la sonrisa. Un muro de contención emocional que entiende la vida como una obligación constante. Para ella, como para muchas madres, Iñaki es un niño eterno incapaz de funcionar por su cuenta en la vida(n)</desc>
+    <category lang="es">Telenovela</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160117163000 -0600" stop="20160117173000 -0600" channel="Antena 3">
+    <title lang="es">Aquí no hay quien viva</title>
+    <desc lang="es">Es la historia de un amor imposible en el marco de la España de 1900; una mujer valiente que partiendo de la nada, llegará a serlo todo: una amante decidida, una comadrona reputada y sobre todo, una madre que no olvida(n)</desc>
+    <credits>
+      <actor>José Luis Gil</actor>
+      <actor>Fernando Tejero</actor>
+      <actor>Malena Alterio</actor>
+      <actor>Eduardo Gómez</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160117173000 -0600" stop="20160117193000 -0600" channel="Antena 3">
+    <title lang="es">Aquí no hay quien viva</title>
+    <desc lang="es">Es la historia de un amor imposible en el marco de la España de 1900; una mujer valiente que partiendo de la nada, llegará a serlo todo: una amante decidida, una comadrona reputada y sobre todo, una madre que no olvida(n)</desc>
+    <credits>
+      <actor>José Luis Gil</actor>
+      <actor>Fernando Tejero</actor>
+      <actor>Malena Alterio</actor>
+      <actor>Eduardo Gómez</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160117193000 -0600" stop="20160117203000 -0600" channel="Antena 3">
+    <title lang="es">El Hormiguero</title>
+    <desc lang="es">Pablo Motos entrevistará a diversas estrellas de la música, el cine y la farándula; por su parte Trancas y Barrancas, las hormigas, llenarán la pantalla con sus divertidas ocurrencias(n)</desc>
+    <credits>
+      <actor>Pablo Motos</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Talk Show</category>
+  </programme>
+  <programme start="20160117203000 -0600" stop="20160117213000 -0600" channel="Antena 3">
+    <title lang="es">Salvados</title>
+    <desc lang="es">Programa de reportajes y entrevistas sobre temas de actualidad. Jordi Évole y su equipo aportan un tono crítico a los temas más polémicos de la actualidad, con un toque muy fino de ironía..(n)</desc>
+    <credits>
+      <actor>Jordi Evole</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entrevista</category>
+  </programme>
+  <programme start="20160117213000 -0600" stop="20160117230000 -0600" channel="Antena 3">
+    <title lang="es">Comandancias</title>
+    <desc lang="es">El cuerpo de la Guardia Civil se estrena en la cadena con en este programa que acompaña a unidades de la benemérita en diferentes intervenciones. Se trata de una aproximación humana a las fuerzas y cuerpos de seguridad del Estado(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Serie</category>
+  </programme>
+  <programme start="20160117230000 -0600" stop="20160117234500 -0600" channel="Antena 3">
+    <title lang="es">El Hormiguero</title>
+    <desc lang="es">Pablo Motos entrevistará a diversas estrellas de la música, el cine y la farándula; por su parte Trancas y Barrancas, las hormigas, llenarán la pantalla con sus divertidas ocurrencias(n)</desc>
+    <credits>
+      <actor>Pablo Motos</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Talk Show</category>
+  </programme>
+  <programme start="20160117234500 -0600" stop="20160118011500 -0600" channel="Antena 3">
+    <title lang="es">Zapeando</title>
+    <desc lang="es">Un original formato que desmenuzará con humor y desenfado los mejores momentos de las cadenas nacionales e internacionales. Cada tarde, Frank Blanco y sus colaboradores comentarán lo mejor y lo peor de la televisión(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160118011500 -0600" stop="20160118020000 -0600" channel="Antena 3">
+    <title lang="es">Noticias</title>
+    <desc lang="es">Se presenta la actualidad europea y española a los espectadores iberoamericanos, presentando especial atención a las noticias relacionadas con América que se producen en Europa y España(n)</desc>
+    <credits>
+      <actor>Olga Viza</actor>
+      <actor>Jesús Lozano</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160118020000 -0600" stop="20160118053000 -0600" channel="Antena 3">
+    <title lang="es">Espejo público</title>
+    <desc lang="es">Magazine informativo donde el público es el principal protagonista, así como la calle y el acontecer diario. Una parte importante del espacio gira en torno a un tema de actualidad, político o social(n)</desc>
+    <credits>
+      <actor>Susanna Griso</actor>
+      <actor>Carlos Aguilera</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160118053000 -0600" stop="20160118060000 -0600" channel="Antena 3">
+    <title lang="es">Qué me pasa doctor</title>
+    <desc lang="es">Un espacio divulgativo sobre el tema que más interesa a la población: la salud(n)</desc>
+    <credits>
+      <actor>Bartolomé Beltrán</actor>
+    </credits>
+    <category lang="es">Cocina, hogar y salud</category>
+    <category lang="es">Salud</category>
+  </programme>
+  <programme start="20160118060000 -0600" stop="20160118070000 -0600" channel="Antena 3">
+    <title lang="es">Hoy cocinas tú</title>
+    <desc lang="es">Programa que se encarga de explicar los trucos y técnicas necesarias para elaborar suculentos platos de fácil elaboración. Por su cocina desfilan todo tipo de sugerentes recetas y postres deliciosos con los que sorprender a la familia. Cocinar de forma sencilla, alimentarse bien y no aburrirse en la mesa son sus tres claves. El programa cuenta cada día con la presencia de un invitado, al que enseña a preparar un plato para alguien especial y que después tendrá que elaborar en su casa. Eva Arguiñano se encarga de explicarle todos los trucos y técnicas necesarias para que pueda preparar ese mismo menú en su casa, sin ayuda de la famosa cocinera(n)</desc>
+    <category lang="es">Cocina, hogar y salud</category>
+    <category lang="es">Cocina</category>
+  </programme>
+  <programme start="20160118070000 -0600" stop="20160118073000 -0600" channel="Antena 3">
+    <title lang="es">Cocina con Bruno</title>
+    <desc lang="es">Bruno Oteiza, nos anima a jugar y experimentar en la cocina. Platos únicos y originales para hacer en casa(n)</desc>
+    <credits>
+      <actor>Bruno Oteiza</actor>
+    </credits>
+    <category lang="es">Cocina, hogar y salud</category>
+    <category lang="es">Cocina</category>
+  </programme>
+  <programme start="20160118073000 -0600" stop="20160118080000 -0600" channel="Antena 3">
+    <title lang="es">Karlos Arguiñano en tu cocina</title>
+    <desc lang="es">Con la conducción del reconocido chef español, Karlos Arguiñano, todos los días una receta diferente para saborear en familia. Los mejores consejos y todos los secretos de una cocina simple y sana(n)</desc>
+    <credits>
+      <actor>Karlos Arguiñano</actor>
+      <actor>Eva Arguiñano</actor>
+    </credits>
+    <category lang="es">Cocina, hogar y salud</category>
+    <category lang="es">Cocina</category>
+  </programme>
+  <programme start="20160118080000 -0600" stop="20160118090000 -0600" channel="Antena 3">
+    <title lang="es">Noticias</title>
+    <desc lang="es">Se presenta la actualidad europea y española a los espectadores iberoamericanos, presentando especial atención a las noticias relacionadas con América que se producen en Europa y España(n)</desc>
+    <credits>
+      <actor>Olga Viza</actor>
+      <actor>Jesús Lozano</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160118090000 -0600" stop="20160118090000 -0600" channel="Antena 3">
+    <title lang="es">Espejo público</title>
+    <desc lang="es">Magazine informativo donde el público es el principal protagonista, así como la calle y el acontecer diario. Una parte importante del espacio gira en torno a un tema de actualidad, político o social(n)</desc>
+    <credits>
+      <actor>Susanna Griso</actor>
+      <actor>Carlos Aguilera</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160118090000 -0600" stop="20160118123000 -0600" channel="Antena 3">
+    <title lang="es">Espejo público</title>
+    <desc lang="es">Magazine informativo donde el público es el principal protagonista, así como la calle y el acontecer diario. Una parte importante del espacio gira en torno a un tema de actualidad, político o social(n)</desc>
+    <credits>
+      <actor>Susanna Griso</actor>
+      <actor>Carlos Aguilera</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160118123000 -0600" stop="20160118130000 -0600" channel="Antena 3">
+    <title lang="es">Karlos Arguiñano en tu cocina</title>
+    <desc lang="es">Con la conducción del reconocido chef español, Karlos Arguiñano, todos los días una receta diferente para saborear en familia. Los mejores consejos y todos los secretos de una cocina simple y sana(n)</desc>
+    <credits>
+      <actor>Karlos Arguiñano</actor>
+      <actor>Eva Arguiñano</actor>
+    </credits>
+    <category lang="es">Cocina, hogar y salud</category>
+    <category lang="es">Cocina</category>
+  </programme>
+  <programme start="20160118130000 -0600" stop="20160118140000 -0600" channel="Antena 3">
+    <title lang="es">El secreto de Puente viejo</title>
+    <desc lang="es">Es la historia de un amor imposible en el marco de la España de 1900; una mujer valiente que partiendo de la nada, llegará a serlo todo: una amante decidida, una comadrona reputada y sobre todo, una madre que no olvida(n)</desc>
+    <credits>
+      <actor>Alex Gadea</actor>
+      <actor>Megan Montaner</actor>
+      <actor>Maria Bouzas</actor>
+      <actor>Fariba Sheikhan</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160118140000 -0600" stop="20160118144500 -0600" channel="Antena 3">
+    <title lang="es">Noticias</title>
+    <desc lang="es">Se presenta la actualidad europea y española a los espectadores iberoamericanos, presentando especial atención a las noticias relacionadas con América que se producen en Europa y España(n)</desc>
+    <credits>
+      <actor>Olga Viza</actor>
+      <actor>Jesús Lozano</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160118144500 -0600" stop="20160118153000 -0600" channel="Antena 3">
+    <title lang="es">El Hormiguero</title>
+    <desc lang="es">Pablo Motos entrevistará a diversas estrellas de la música, el cine y la farándula; por su parte Trancas y Barrancas, las hormigas, llenarán la pantalla con sus divertidas ocurrencias(n)</desc>
+    <credits>
+      <actor>Pablo Motos</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Talk Show</category>
+  </programme>
+  <programme start="20160118153000 -0600" stop="20160118163000 -0600" channel="Antena 3">
+    <title lang="es">Hoy cocinas tú</title>
+    <desc lang="es">Programa que se encarga de explicar los trucos y técnicas necesarias para elaborar suculentos platos de fácil elaboración. Por su cocina desfilan todo tipo de sugerentes recetas y postres deliciosos con los que sorprender a la familia. Cocinar de forma sencilla, alimentarse bien y no aburrirse en la mesa son sus tres claves. El programa cuenta cada día con la presencia de un invitado, al que enseña a preparar un plato para alguien especial y que después tendrá que elaborar en su casa. Eva Arguiñano se encarga de explicarle todos los trucos y técnicas necesarias para que pueda preparar ese mismo menú en su casa, sin ayuda de la famosa cocinera(n)</desc>
+    <category lang="es">Cocina, hogar y salud</category>
+    <category lang="es">Cocina</category>
+  </programme>
+  <programme start="20160118163000 -0600" stop="20160118173000 -0600" channel="Antena 3">
+    <title lang="es">Amar es para siempre</title>
+    <desc lang="es">Serie de época que retrata la vida en España en los años 60, década en la que ese país sufrió cambios significativos y de gran crecimiento(n)</desc>
+    <credits>
+      <actor>José Antonio Sayagués</actor>
+      <actor>Manu Baqueiro</actor>
+      <actor>Itziar Miranda</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160118173000 -0600" stop="20160118183000 -0600" channel="Antena 3">
+    <title lang="es">El secreto de Puente viejo</title>
+    <desc lang="es">Es la historia de un amor imposible en el marco de la España de 1900; una mujer valiente que partiendo de la nada, llegará a serlo todo: una amante decidida, una comadrona reputada y sobre todo, una madre que no olvida(n)</desc>
+    <credits>
+      <actor>Alex Gadea</actor>
+      <actor>Megan Montaner</actor>
+      <actor>Maria Bouzas</actor>
+      <actor>Fariba Sheikhan</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160118183000 -0600" stop="20160118193000 -0600" channel="Antena 3">
+    <title lang="es">La Ruleta de la Suerte</title>
+    <desc lang="es">Nada como "La ruleta de la suerte" junto con Jorge Fernández para desafiar y poner a prueba la agilidad mental, los reflejos y conocimientos de los participantes que buscarán ganar el dinero que sumen a lo largo de la partida y un auto(n)</desc>
+    <credits>
+      <actor>Jorge Fernández</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160118193000 -0600" stop="20160118203000 -0600" channel="Antena 3">
+    <title lang="es">El Hormiguero</title>
+    <desc lang="es">Pablo Motos entrevistará a diversas estrellas de la música, el cine y la farándula; por su parte Trancas y Barrancas, las hormigas, llenarán la pantalla con sus divertidas ocurrencias(n)</desc>
+    <credits>
+      <actor>Pablo Motos</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Talk Show</category>
+  </programme>
+  <programme start="20160118203000 -0600" stop="20160118220000 -0600" channel="Antena 3">
+    <title lang="es">Allí abajo</title>
+    <desc lang="es">Iñaki tiene cuarenta años y sólo ha salido de Euskadi para echar gasolina barata en Francia. Vive en San Sebastián con su madre, Maritxu, la clásica matriarca vasca, absorbente y dominante, inasequible a la sonrisa. Un muro de contención emocional que entiende la vida como una obligación constante. Para ella, como para muchas madres, Iñaki es un niño eterno incapaz de funcionar por su cuenta en la vida(n)</desc>
+    <category lang="es">Telenovela</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160118220000 -0600" stop="20160118230000 -0600" channel="Antena 3">
+    <title lang="es">Equipo de investigación</title>
+    <desc lang="es">Un profesional equipo de periodistas, encabezados por Gloria Serra, nos muestran mediante reportajes de profundidad diversos temas de interés social(n)</desc>
+    <credits>
+      <actor>Gloria Serra</actor>
+    </credits>
+    <category lang="es">Periodístico</category>
+  </programme>
+  <programme start="20160118230000 -0600" stop="20160118234500 -0600" channel="Antena 3">
+    <title lang="es">El Hormiguero</title>
+    <desc lang="es">Pablo Motos entrevistará a diversas estrellas de la música, el cine y la farándula; por su parte Trancas y Barrancas, las hormigas, llenarán la pantalla con sus divertidas ocurrencias(n)</desc>
+    <credits>
+      <actor>Pablo Motos</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Talk Show</category>
   </programme>
 </tv>
