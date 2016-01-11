@@ -32,6 +32,7 @@
   </channel>
   <channel id="AXN HD">
     <display-name lang="es">AXN HD</display-name>
+    <icon src="http://x.cdn.entutele.com/media/channels/big/axn-hd.gif" />
     <url>http://www.entutele.com</url>
   </channel>
   <channel id="AyM Sports">
@@ -11302,6 +11303,2289 @@
     <category lang="es">Acción</category>
   </programme>
   <programme start="20160118220000 -0600" stop="20160118230000 -0600" channel="AXN">
+    <title lang="es">Mentes criminales</title>
+    <sub-title lang="es">Target Rich</sub-title>
+    <desc lang="es">La Unidad de Análisis Conductal es un grupo de élite del FBI que analiza las mentes criminales más peligrosas de la nación en un esfuerzo por anticipar posibles crímenes(n)</desc>
+    <credits>
+      <actor>Shemar Moore</actor>
+      <actor>A.J. Cook</actor>
+      <actor>Thomas Gibson</actor>
+      <actor>Matthew Gray Gubler</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160111043000 -0600" stop="20160111050000 -0600" channel="AXN HD">
+    <title lang="es">AXN Flix Magazine</title>
+    <desc lang="es">Todo lo que sucede en la pantalla de AXN, estrenos, noticias, y detrás de escenas de las series y películas más taquilleras de Hollywood(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160111050000 -0600" stop="20160111060000 -0600" channel="AXN HD">
+    <title lang="es">NCIS: Investigación Criminal</title>
+    <sub-title lang="es">False witness</sub-title>
+    <desc lang="es">Los agentes del Servicio de Investigación Criminal Naval (NCIS) tienen la misión de investigar cualquier prueba ligada a crímenes en la marina, sin considerar cargos ni puestos. Al frente del equipo está el agente especial Jethro Gibbs, quien lleva adelante su trabajo de una manera singular(n)</desc>
+    <credits>
+      <actor>Michael Weatherly</actor>
+      <actor>Mark Harmon</actor>
+      <actor>Sean Murray</actor>
+      <actor>David McCallum</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160111060000 -0600" stop="20160111070000 -0600" channel="AXN HD">
+    <title lang="es">Castle</title>
+    <sub-title lang="es">Death Gone Crazy</sub-title>
+    <desc lang="es">Cuando el escritor de novelas de misterio Richard Castle se queda sin inspiración, ésta parece volver a llamar a su puerta cuando un presunto asesino en serie imita los asesinatos de sus novelas. Colaborando en este primer caso con la detective Kate Beckett, encuentra en ella la inspiración para un nueva series de libros y decide acompañarla en sus nuevos casos(n)</desc>
+    <credits>
+      <actor>Molly C. Quinn</actor>
+      <actor>Nathan Fillion</actor>
+      <actor>Stana Katic</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160111070000 -0600" stop="20160111080000 -0600" channel="AXN HD">
+    <title lang="es">CSI NY</title>
+    <sub-title lang="es">Snow Day</sub-title>
+    <desc lang="es">El detective Mac Taylor es el jefe del Departamento de Criminalística en Nueva York. Junto a Stella Bonasera, Don Flack, Danny Messer y un gran equipo de detectives, busca acabar con los maleantes de la Gran Manzana. La experiencia y el instinto son armas poderosas en su lucha por detener la violencia(n)</desc>
+    <credits>
+      <actor>Gary Sinise</actor>
+      <actor>Melina Kanakaredes</actor>
+      <actor>Hill Harper</actor>
+      <actor>Carmine Giovinazzo</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160111080000 -0600" stop="20160111090000 -0600" channel="AXN HD">
+    <title lang="es">Mentes criminales</title>
+    <sub-title lang="es">Ruta 66</sub-title>
+    <desc lang="es">La Unidad de Análisis Conductal es un grupo de élite del FBI que analiza las mentes criminales más peligrosas de la nación en un esfuerzo por anticipar posibles crímenes(n)</desc>
+    <credits>
+      <actor>Shemar Moore</actor>
+      <actor>A.J. Cook</actor>
+      <actor>Thomas Gibson</actor>
+      <actor>Matthew Gray Gubler</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160111090000 -0600" stop="20160111100000 -0600" channel="AXN HD">
+    <title lang="es">Unforgettable</title>
+    <sub-title lang="es">You Are Here</sub-title>
+    <desc lang="es">Carrie Wells es capaz de recordar cada cosa, lugar y persona, excepto los detalles que pudieran develar el misterio detrás de la muerte de su hermana. Luego de tomarse un tiempo retoma sus labores como detective y le ofrecen unirse al equipo de su ex-novio Al Burns, en el departamento de policías de Nueva York. Carrie acepta a pesar de las diferencias que tiene con Burns. Su mayor interés es encontrar el asesino de su hermana, pero para eso tiene que empezar a recordar(n)</desc>
+    <credits>
+      <actor>Michael Gaston</actor>
+      <actor>Dylan Walsh</actor>
+      <actor>Poppy Montgomery</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160111100000 -0600" stop="20160111110000 -0600" channel="AXN HD">
+    <title lang="es">CSI Miami</title>
+    <sub-title lang="es">Head Case</sub-title>
+    <desc lang="es">Un equipo de investigadores forenses resolverán una gran cantidad de crímenes, combinando el uso de métodos científicos con el trabajo típico policial. Este equipo altamente calificado es dirigido por el Teniente Horatio Caine, un detective de homicidios que ahora debe resolver los crímenes de esta ciudad tropical(n)</desc>
+    <credits>
+      <actor>David Caruso</actor>
+      <actor>Emily Procter</actor>
+      <actor>Daniel Attias</actor>
+      <actor>Joe Chappelle</actor>
+      <actor>Scott Brazil</actor>
+      <actor>Adam Rodriguez</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160111110000 -0600" stop="20160111120000 -0600" channel="AXN HD">
+    <title lang="es">NCIS: Investigación Criminal</title>
+    <sub-title lang="es">Ships in the night</sub-title>
+    <desc lang="es">Los agentes del Servicio de Investigación Criminal Naval (NCIS) tienen la misión de investigar cualquier prueba ligada a crímenes en la marina, sin considerar cargos ni puestos. Al frente del equipo está el agente especial Jethro Gibbs, quien lleva adelante su trabajo de una manera singular(n)</desc>
+    <credits>
+      <actor>Michael Weatherly</actor>
+      <actor>Mark Harmon</actor>
+      <actor>Sean Murray</actor>
+      <actor>David McCallum</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160111120000 -0600" stop="20160111130000 -0600" channel="AXN HD">
+    <title lang="es">CSI Las Vegas</title>
+    <sub-title lang="es">Split Decisions</sub-title>
+    <desc lang="es">Un equipo de investigadores forenses y criminólogos será el encargado de resolver los misterios que envuelven la ciudad de Las Vegas, recorriendo las escenas del crimen, recogiendo pruebas irrefutables y encontrando las piezas perdidas(n)</desc>
+    <credits>
+      <actor>Marg Helgenberger</actor>
+      <actor>George Eads</actor>
+      <actor>Eric Szmanda</actor>
+      <actor>Paul Guilfoyle</actor>
+      <actor>Robert David Hall</actor>
+      <actor>Jorja Fox</actor>
+      <actor>Wallace Langham</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160111130000 -0600" stop="20160111140000 -0600" channel="AXN HD">
+    <title lang="es">Castle</title>
+    <sub-title lang="es">Death Gone Crazy</sub-title>
+    <desc lang="es">Cuando el escritor de novelas de misterio Richard Castle se queda sin inspiración, ésta parece volver a llamar a su puerta cuando un presunto asesino en serie imita los asesinatos de sus novelas. Colaborando en este primer caso con la detective Kate Beckett, encuentra en ella la inspiración para un nueva series de libros y decide acompañarla en sus nuevos casos(n)</desc>
+    <credits>
+      <actor>Molly C. Quinn</actor>
+      <actor>Nathan Fillion</actor>
+      <actor>Stana Katic</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160111140000 -0600" stop="20160111150000 -0600" channel="AXN HD">
+    <title lang="es">Unforgettable</title>
+    <sub-title lang="es">You Are Here</sub-title>
+    <desc lang="es">Carrie Wells es capaz de recordar cada cosa, lugar y persona, excepto los detalles que pudieran develar el misterio detrás de la muerte de su hermana. Luego de tomarse un tiempo retoma sus labores como detective y le ofrecen unirse al equipo de su ex-novio Al Burns, en el departamento de policías de Nueva York. Carrie acepta a pesar de las diferencias que tiene con Burns. Su mayor interés es encontrar el asesino de su hermana, pero para eso tiene que empezar a recordar(n)</desc>
+    <credits>
+      <actor>Michael Gaston</actor>
+      <actor>Dylan Walsh</actor>
+      <actor>Poppy Montgomery</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160111150000 -0600" stop="20160111160000 -0600" channel="AXN HD">
+    <title lang="es">Mentes criminales</title>
+    <sub-title lang="es">Ruta 66</sub-title>
+    <desc lang="es">La Unidad de Análisis Conductal es un grupo de élite del FBI que analiza las mentes criminales más peligrosas de la nación en un esfuerzo por anticipar posibles crímenes(n)</desc>
+    <credits>
+      <actor>Shemar Moore</actor>
+      <actor>A.J. Cook</actor>
+      <actor>Thomas Gibson</actor>
+      <actor>Matthew Gray Gubler</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160111160000 -0600" stop="20160111170000 -0600" channel="AXN HD">
+    <title lang="es">NCIS: Investigación Criminal</title>
+    <sub-title lang="es">Ships in the night</sub-title>
+    <desc lang="es">Los agentes del Servicio de Investigación Criminal Naval (NCIS) tienen la misión de investigar cualquier prueba ligada a crímenes en la marina, sin considerar cargos ni puestos. Al frente del equipo está el agente especial Jethro Gibbs, quien lleva adelante su trabajo de una manera singular(n)</desc>
+    <credits>
+      <actor>Michael Weatherly</actor>
+      <actor>Mark Harmon</actor>
+      <actor>Sean Murray</actor>
+      <actor>David McCallum</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160111170000 -0600" stop="20160111180000 -0600" channel="AXN HD">
+    <title lang="es">CSI NY</title>
+    <sub-title lang="es">Snow Day</sub-title>
+    <desc lang="es">El detective Mac Taylor es el jefe del Departamento de Criminalística en Nueva York. Junto a Stella Bonasera, Don Flack, Danny Messer y un gran equipo de detectives, busca acabar con los maleantes de la Gran Manzana. La experiencia y el instinto son armas poderosas en su lucha por detener la violencia(n)</desc>
+    <credits>
+      <actor>Gary Sinise</actor>
+      <actor>Melina Kanakaredes</actor>
+      <actor>Hill Harper</actor>
+      <actor>Carmine Giovinazzo</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160111180000 -0600" stop="20160111190000 -0600" channel="AXN HD">
+    <title lang="es">CSI Las Vegas</title>
+    <sub-title lang="es">Split Decisions</sub-title>
+    <desc lang="es">Un equipo de investigadores forenses y criminólogos será el encargado de resolver los misterios que envuelven la ciudad de Las Vegas, recorriendo las escenas del crimen, recogiendo pruebas irrefutables y encontrando las piezas perdidas(n)</desc>
+    <credits>
+      <actor>Marg Helgenberger</actor>
+      <actor>George Eads</actor>
+      <actor>Eric Szmanda</actor>
+      <actor>Paul Guilfoyle</actor>
+      <actor>Robert David Hall</actor>
+      <actor>Jorja Fox</actor>
+      <actor>Wallace Langham</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160111190000 -0600" stop="20160111200000 -0600" channel="AXN HD">
+    <title lang="es">CSI Miami</title>
+    <sub-title lang="es">Head Case</sub-title>
+    <desc lang="es">Un equipo de investigadores forenses resolverán una gran cantidad de crímenes, combinando el uso de métodos científicos con el trabajo típico policial. Este equipo altamente calificado es dirigido por el Teniente Horatio Caine, un detective de homicidios que ahora debe resolver los crímenes de esta ciudad tropical(n)</desc>
+    <credits>
+      <actor>David Caruso</actor>
+      <actor>Emily Procter</actor>
+      <actor>Daniel Attias</actor>
+      <actor>Joe Chappelle</actor>
+      <actor>Scott Brazil</actor>
+      <actor>Adam Rodriguez</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160111200000 -0600" stop="20160111210000 -0600" channel="AXN HD">
+    <title lang="es">Mentes criminales</title>
+    <sub-title lang="es">Ruta 66</sub-title>
+    <desc lang="es">La Unidad de Análisis Conductal es un grupo de élite del FBI que analiza las mentes criminales más peligrosas de la nación en un esfuerzo por anticipar posibles crímenes(n)</desc>
+    <credits>
+      <actor>Shemar Moore</actor>
+      <actor>A.J. Cook</actor>
+      <actor>Thomas Gibson</actor>
+      <actor>Matthew Gray Gubler</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160111210000 -0600" stop="20160111220000 -0600" channel="AXN HD">
+    <title lang="es">Crossing Lines</title>
+    <sub-title lang="es">Enemy of the People</sub-title>
+    <desc lang="es">Localizada en las ciudades más emocionantes y exóticas, "Crossing Lines" explora los estatutos de la Corte Penal Internacional, creando un equipo especial encargado de investigar crímenes que trascienden fronteras, para conseguir a los responsables y someterlos ante la justicia, dando inicio a una FBI global(n)</desc>
+    <credits>
+      <actor>Marc Lavoine</actor>
+      <actor>William Fichtner</actor>
+      <actor>Gabriella Pession</actor>
+      <actor>Daniel Percival</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Acción</category>
+  </programme>
+  <programme start="20160111220000 -0600" stop="20160111230000 -0600" channel="AXN HD">
+    <title lang="es">Mentes criminales</title>
+    <sub-title lang="es">Pariahville</sub-title>
+    <desc lang="es">La Unidad de Análisis Conductal es un grupo de élite del FBI que analiza las mentes criminales más peligrosas de la nación en un esfuerzo por anticipar posibles crímenes(n)</desc>
+    <credits>
+      <actor>Shemar Moore</actor>
+      <actor>A.J. Cook</actor>
+      <actor>Thomas Gibson</actor>
+      <actor>Matthew Gray Gubler</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160111230000 -0600" stop="20160112000000 -0600" channel="AXN HD">
+    <title lang="es">CSI Miami</title>
+    <sub-title lang="es">Head Case</sub-title>
+    <desc lang="es">Un equipo de investigadores forenses resolverán una gran cantidad de crímenes, combinando el uso de métodos científicos con el trabajo típico policial. Este equipo altamente calificado es dirigido por el Teniente Horatio Caine, un detective de homicidios que ahora debe resolver los crímenes de esta ciudad tropical(n)</desc>
+    <credits>
+      <actor>David Caruso</actor>
+      <actor>Emily Procter</actor>
+      <actor>Daniel Attias</actor>
+      <actor>Joe Chappelle</actor>
+      <actor>Scott Brazil</actor>
+      <actor>Adam Rodriguez</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160112000000 -0600" stop="20160112010000 -0600" channel="AXN HD">
+    <title lang="es">CSI NY</title>
+    <sub-title lang="es">Snow Day</sub-title>
+    <desc lang="es">El detective Mac Taylor es el jefe del Departamento de Criminalística en Nueva York. Junto a Stella Bonasera, Don Flack, Danny Messer y un gran equipo de detectives, busca acabar con los maleantes de la Gran Manzana. La experiencia y el instinto son armas poderosas en su lucha por detener la violencia(n)</desc>
+    <credits>
+      <actor>Gary Sinise</actor>
+      <actor>Melina Kanakaredes</actor>
+      <actor>Hill Harper</actor>
+      <actor>Carmine Giovinazzo</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160112010000 -0600" stop="20160112020000 -0600" channel="AXN HD">
+    <title lang="es">The Shield</title>
+    <sub-title lang="es">Haunts</sub-title>
+    <desc lang="es">El detective Vic Mackey, jefe de una unidad especial del distrito de Fargminton, en Los Ángeles, es muy eficaz en su trabajo contra el crimen organizado. Sin embargo, sus métodos y normas de investigación son bastante peculiares, ya que no excluyen procedimientos cuestionables como la extorsión, la tortura o el chantaje(n)</desc>
+    <credits>
+      <actor>Catherine Dent</actor>
+      <actor>Michael Chiklis</actor>
+      <actor>Reed Diamond</actor>
+      <actor>Ryan Shawn</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160112020000 -0600" stop="20160112030000 -0600" channel="AXN HD">
+    <title lang="es">Castle</title>
+    <sub-title lang="es">Death Gone Crazy</sub-title>
+    <desc lang="es">Cuando el escritor de novelas de misterio Richard Castle se queda sin inspiración, ésta parece volver a llamar a su puerta cuando un presunto asesino en serie imita los asesinatos de sus novelas. Colaborando en este primer caso con la detective Kate Beckett, encuentra en ella la inspiración para un nueva series de libros y decide acompañarla en sus nuevos casos(n)</desc>
+    <credits>
+      <actor>Molly C. Quinn</actor>
+      <actor>Nathan Fillion</actor>
+      <actor>Stana Katic</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160112030000 -0600" stop="20160112040000 -0600" channel="AXN HD">
+    <title lang="es">Unforgettable</title>
+    <sub-title lang="es">You Are Here</sub-title>
+    <desc lang="es">Carrie Wells es capaz de recordar cada cosa, lugar y persona, excepto los detalles que pudieran develar el misterio detrás de la muerte de su hermana. Luego de tomarse un tiempo retoma sus labores como detective y le ofrecen unirse al equipo de su ex-novio Al Burns, en el departamento de policías de Nueva York. Carrie acepta a pesar de las diferencias que tiene con Burns. Su mayor interés es encontrar el asesino de su hermana, pero para eso tiene que empezar a recordar(n)</desc>
+    <credits>
+      <actor>Michael Gaston</actor>
+      <actor>Dylan Walsh</actor>
+      <actor>Poppy Montgomery</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160112040000 -0600" stop="20160112050000 -0600" channel="AXN HD">
+    <title lang="es">The Shield</title>
+    <sub-title lang="es">Haunts</sub-title>
+    <desc lang="es">El detective Vic Mackey, jefe de una unidad especial del distrito de Fargminton, en Los Ángeles, es muy eficaz en su trabajo contra el crimen organizado. Sin embargo, sus métodos y normas de investigación son bastante peculiares, ya que no excluyen procedimientos cuestionables como la extorsión, la tortura o el chantaje(n)</desc>
+    <credits>
+      <actor>Catherine Dent</actor>
+      <actor>Michael Chiklis</actor>
+      <actor>Reed Diamond</actor>
+      <actor>Ryan Shawn</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160112050000 -0600" stop="20160112060000 -0600" channel="AXN HD">
+    <title lang="es">NCIS: Investigación Criminal</title>
+    <sub-title lang="es">Ships in the night</sub-title>
+    <desc lang="es">Los agentes del Servicio de Investigación Criminal Naval (NCIS) tienen la misión de investigar cualquier prueba ligada a crímenes en la marina, sin considerar cargos ni puestos. Al frente del equipo está el agente especial Jethro Gibbs, quien lleva adelante su trabajo de una manera singular(n)</desc>
+    <credits>
+      <actor>Michael Weatherly</actor>
+      <actor>Mark Harmon</actor>
+      <actor>Sean Murray</actor>
+      <actor>David McCallum</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160112060000 -0600" stop="20160112070000 -0600" channel="AXN HD">
+    <title lang="es">Castle</title>
+    <sub-title lang="es">Recoil</sub-title>
+    <desc lang="es">Cuando el escritor de novelas de misterio Richard Castle se queda sin inspiración, ésta parece volver a llamar a su puerta cuando un presunto asesino en serie imita los asesinatos de sus novelas. Colaborando en este primer caso con la detective Kate Beckett, encuentra en ella la inspiración para un nueva series de libros y decide acompañarla en sus nuevos casos(n)</desc>
+    <credits>
+      <actor>Molly C. Quinn</actor>
+      <actor>Nathan Fillion</actor>
+      <actor>Stana Katic</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160112070000 -0600" stop="20160112080000 -0600" channel="AXN HD">
+    <title lang="es">CSI NY</title>
+    <sub-title lang="es">Can You Hear Me Now</sub-title>
+    <desc lang="es">El detective Mac Taylor es el jefe del Departamento de Criminalística en Nueva York. Junto a Stella Bonasera, Don Flack, Danny Messer y un gran equipo de detectives, busca acabar con los maleantes de la Gran Manzana. La experiencia y el instinto son armas poderosas en su lucha por detener la violencia(n)</desc>
+    <credits>
+      <actor>Gary Sinise</actor>
+      <actor>Melina Kanakaredes</actor>
+      <actor>Hill Harper</actor>
+      <actor>Carmine Giovinazzo</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160112080000 -0600" stop="20160112090000 -0600" channel="AXN HD">
+    <title lang="es">Mentes criminales</title>
+    <sub-title lang="es">En la sangre</sub-title>
+    <desc lang="es">La Unidad de Análisis Conductal es un grupo de élite del FBI que analiza las mentes criminales más peligrosas de la nación en un esfuerzo por anticipar posibles crímenes(n)</desc>
+    <credits>
+      <actor>Shemar Moore</actor>
+      <actor>A.J. Cook</actor>
+      <actor>Thomas Gibson</actor>
+      <actor>Matthew Gray Gubler</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160112090000 -0600" stop="20160112100000 -0600" channel="AXN HD">
+    <title lang="es">Unforgettable</title>
+    <sub-title lang="es">Endgame</sub-title>
+    <desc lang="es">Carrie Wells es capaz de recordar cada cosa, lugar y persona, excepto los detalles que pudieran develar el misterio detrás de la muerte de su hermana. Luego de tomarse un tiempo retoma sus labores como detective y le ofrecen unirse al equipo de su ex-novio Al Burns, en el departamento de policías de Nueva York. Carrie acepta a pesar de las diferencias que tiene con Burns. Su mayor interés es encontrar el asesino de su hermana, pero para eso tiene que empezar a recordar(n)</desc>
+    <credits>
+      <actor>Michael Gaston</actor>
+      <actor>Dylan Walsh</actor>
+      <actor>Poppy Montgomery</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160112100000 -0600" stop="20160112110000 -0600" channel="AXN HD">
+    <title lang="es">CSI Miami</title>
+    <sub-title lang="es">And They're Offed</sub-title>
+    <desc lang="es">Un equipo de investigadores forenses resolverán una gran cantidad de crímenes, combinando el uso de métodos científicos con el trabajo típico policial. Este equipo altamente calificado es dirigido por el Teniente Horatio Caine, un detective de homicidios que ahora debe resolver los crímenes de esta ciudad tropical(n)</desc>
+    <credits>
+      <actor>David Caruso</actor>
+      <actor>Emily Procter</actor>
+      <actor>Daniel Attias</actor>
+      <actor>Joe Chappelle</actor>
+      <actor>Scott Brazil</actor>
+      <actor>Adam Rodriguez</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160112110000 -0600" stop="20160112120000 -0600" channel="AXN HD">
+    <title lang="es">NCIS: Investigación Criminal</title>
+    <sub-title lang="es">Recruited</sub-title>
+    <desc lang="es">Los agentes del Servicio de Investigación Criminal Naval (NCIS) tienen la misión de investigar cualquier prueba ligada a crímenes en la marina, sin considerar cargos ni puestos. Al frente del equipo está el agente especial Jethro Gibbs, quien lleva adelante su trabajo de una manera singular(n)</desc>
+    <credits>
+      <actor>Michael Weatherly</actor>
+      <actor>Mark Harmon</actor>
+      <actor>Sean Murray</actor>
+      <actor>David McCallum</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160112120000 -0600" stop="20160112130000 -0600" channel="AXN HD">
+    <title lang="es">CSI Las Vegas</title>
+    <sub-title lang="es">Altered Stakes</sub-title>
+    <desc lang="es">Un equipo de investigadores forenses y criminólogos será el encargado de resolver los misterios que envuelven la ciudad de Las Vegas, recorriendo las escenas del crimen, recogiendo pruebas irrefutables y encontrando las piezas perdidas(n)</desc>
+    <credits>
+      <actor>Marg Helgenberger</actor>
+      <actor>George Eads</actor>
+      <actor>Eric Szmanda</actor>
+      <actor>Paul Guilfoyle</actor>
+      <actor>Robert David Hall</actor>
+      <actor>Jorja Fox</actor>
+      <actor>Wallace Langham</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160112130000 -0600" stop="20160112140000 -0600" channel="AXN HD">
+    <title lang="es">Castle</title>
+    <sub-title lang="es">Recoil</sub-title>
+    <desc lang="es">Cuando el escritor de novelas de misterio Richard Castle se queda sin inspiración, ésta parece volver a llamar a su puerta cuando un presunto asesino en serie imita los asesinatos de sus novelas. Colaborando en este primer caso con la detective Kate Beckett, encuentra en ella la inspiración para un nueva series de libros y decide acompañarla en sus nuevos casos(n)</desc>
+    <credits>
+      <actor>Molly C. Quinn</actor>
+      <actor>Nathan Fillion</actor>
+      <actor>Stana Katic</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160112140000 -0600" stop="20160112150000 -0600" channel="AXN HD">
+    <title lang="es">Unforgettable</title>
+    <sub-title lang="es">Endgame</sub-title>
+    <desc lang="es">Carrie Wells es capaz de recordar cada cosa, lugar y persona, excepto los detalles que pudieran develar el misterio detrás de la muerte de su hermana. Luego de tomarse un tiempo retoma sus labores como detective y le ofrecen unirse al equipo de su ex-novio Al Burns, en el departamento de policías de Nueva York. Carrie acepta a pesar de las diferencias que tiene con Burns. Su mayor interés es encontrar el asesino de su hermana, pero para eso tiene que empezar a recordar(n)</desc>
+    <credits>
+      <actor>Michael Gaston</actor>
+      <actor>Dylan Walsh</actor>
+      <actor>Poppy Montgomery</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160112150000 -0600" stop="20160112160000 -0600" channel="AXN HD">
+    <title lang="es">Mentes criminales</title>
+    <sub-title lang="es">En la sangre</sub-title>
+    <desc lang="es">La Unidad de Análisis Conductal es un grupo de élite del FBI que analiza las mentes criminales más peligrosas de la nación en un esfuerzo por anticipar posibles crímenes(n)</desc>
+    <credits>
+      <actor>Shemar Moore</actor>
+      <actor>A.J. Cook</actor>
+      <actor>Thomas Gibson</actor>
+      <actor>Matthew Gray Gubler</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160112160000 -0600" stop="20160112170000 -0600" channel="AXN HD">
+    <title lang="es">NCIS: Investigación Criminal</title>
+    <sub-title lang="es">Recruited</sub-title>
+    <desc lang="es">Los agentes del Servicio de Investigación Criminal Naval (NCIS) tienen la misión de investigar cualquier prueba ligada a crímenes en la marina, sin considerar cargos ni puestos. Al frente del equipo está el agente especial Jethro Gibbs, quien lleva adelante su trabajo de una manera singular(n)</desc>
+    <credits>
+      <actor>Michael Weatherly</actor>
+      <actor>Mark Harmon</actor>
+      <actor>Sean Murray</actor>
+      <actor>David McCallum</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160112170000 -0600" stop="20160112180000 -0600" channel="AXN HD">
+    <title lang="es">CSI NY</title>
+    <sub-title lang="es">Can You Hear Me Now</sub-title>
+    <desc lang="es">El detective Mac Taylor es el jefe del Departamento de Criminalística en Nueva York. Junto a Stella Bonasera, Don Flack, Danny Messer y un gran equipo de detectives, busca acabar con los maleantes de la Gran Manzana. La experiencia y el instinto son armas poderosas en su lucha por detener la violencia(n)</desc>
+    <credits>
+      <actor>Gary Sinise</actor>
+      <actor>Melina Kanakaredes</actor>
+      <actor>Hill Harper</actor>
+      <actor>Carmine Giovinazzo</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160112180000 -0600" stop="20160112190000 -0600" channel="AXN HD">
+    <title lang="es">CSI Las Vegas</title>
+    <sub-title lang="es">Altered Stakes</sub-title>
+    <desc lang="es">Un equipo de investigadores forenses y criminólogos será el encargado de resolver los misterios que envuelven la ciudad de Las Vegas, recorriendo las escenas del crimen, recogiendo pruebas irrefutables y encontrando las piezas perdidas(n)</desc>
+    <credits>
+      <actor>Marg Helgenberger</actor>
+      <actor>George Eads</actor>
+      <actor>Eric Szmanda</actor>
+      <actor>Paul Guilfoyle</actor>
+      <actor>Robert David Hall</actor>
+      <actor>Jorja Fox</actor>
+      <actor>Wallace Langham</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160112190000 -0600" stop="20160112200000 -0600" channel="AXN HD">
+    <title lang="es">CSI Miami</title>
+    <sub-title lang="es">And They're Offed</sub-title>
+    <desc lang="es">Un equipo de investigadores forenses resolverán una gran cantidad de crímenes, combinando el uso de métodos científicos con el trabajo típico policial. Este equipo altamente calificado es dirigido por el Teniente Horatio Caine, un detective de homicidios que ahora debe resolver los crímenes de esta ciudad tropical(n)</desc>
+    <credits>
+      <actor>David Caruso</actor>
+      <actor>Emily Procter</actor>
+      <actor>Daniel Attias</actor>
+      <actor>Joe Chappelle</actor>
+      <actor>Scott Brazil</actor>
+      <actor>Adam Rodriguez</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160112200000 -0600" stop="20160112210000 -0600" channel="AXN HD">
+    <title lang="es">Mentes criminales</title>
+    <sub-title lang="es">En la sangre</sub-title>
+    <desc lang="es">La Unidad de Análisis Conductal es un grupo de élite del FBI que analiza las mentes criminales más peligrosas de la nación en un esfuerzo por anticipar posibles crímenes(n)</desc>
+    <credits>
+      <actor>Shemar Moore</actor>
+      <actor>A.J. Cook</actor>
+      <actor>Thomas Gibson</actor>
+      <actor>Matthew Gray Gubler</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160112210000 -0600" stop="20160112220000 -0600" channel="AXN HD">
+    <title lang="es">Scorpion</title>
+    <sub-title lang="es">Crazy Train</sub-title>
+    <desc lang="es">Walter O'Brien es un genio excéntrico que, empeñado en detener todas las amenazas del mundo moderno, recluta un equipo de jóvenes brillantes en diferentes aptitudes para dicha labor. Entre ellos se encuentran Happy Quinn, un erudito de la mecánica, Toby Curtis, una persona capaz de descubrir a cualquier persona en base a su comportamiento y, por último, Sylvester Dodd, un experto en estadística(n)</desc>
+    <category lang="es">Series</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160112220000 -0600" stop="20160112230000 -0600" channel="AXN HD">
+    <title lang="es">CSI Cyber</title>
+    <sub-title lang="es">Corrupted memory</sub-title>
+    <desc lang="es">Equipo de Delito Cibernético Los investigadores, encabezados por el agente especial Avery Ryan, del FBI, trabaja para resolver los casos de la red oscura. Avery, agente especial y ciberpsicóloga dirige un equipo que incluye al agente especial Elías Mundo, encargado de resolver asesinatos, ciber-robos, hackeos, infracciones de índole sexual y chantajes(n)</desc>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160112230000 -0600" stop="20160113000000 -0600" channel="AXN HD">
+    <title lang="es">CSI Miami</title>
+    <sub-title lang="es">And They're Offed</sub-title>
+    <desc lang="es">Un equipo de investigadores forenses resolverán una gran cantidad de crímenes, combinando el uso de métodos científicos con el trabajo típico policial. Este equipo altamente calificado es dirigido por el Teniente Horatio Caine, un detective de homicidios que ahora debe resolver los crímenes de esta ciudad tropical(n)</desc>
+    <credits>
+      <actor>David Caruso</actor>
+      <actor>Emily Procter</actor>
+      <actor>Daniel Attias</actor>
+      <actor>Joe Chappelle</actor>
+      <actor>Scott Brazil</actor>
+      <actor>Adam Rodriguez</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160113000000 -0600" stop="20160113010000 -0600" channel="AXN HD">
+    <title lang="es">CSI NY</title>
+    <sub-title lang="es">Can You Hear Me Now</sub-title>
+    <desc lang="es">El detective Mac Taylor es el jefe del Departamento de Criminalística en Nueva York. Junto a Stella Bonasera, Don Flack, Danny Messer y un gran equipo de detectives, busca acabar con los maleantes de la Gran Manzana. La experiencia y el instinto son armas poderosas en su lucha por detener la violencia(n)</desc>
+    <credits>
+      <actor>Gary Sinise</actor>
+      <actor>Melina Kanakaredes</actor>
+      <actor>Hill Harper</actor>
+      <actor>Carmine Giovinazzo</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160113010000 -0600" stop="20160113020000 -0600" channel="AXN HD">
+    <title lang="es">The Shield</title>
+    <sub-title lang="es">Changing Ghosts</sub-title>
+    <desc lang="es">El detective Vic Mackey, jefe de una unidad especial del distrito de Fargminton, en Los Ángeles, es muy eficaz en su trabajo contra el crimen organizado. Sin embargo, sus métodos y normas de investigación son bastante peculiares, ya que no excluyen procedimientos cuestionables como la extorsión, la tortura o el chantaje(n)</desc>
+    <credits>
+      <actor>Catherine Dent</actor>
+      <actor>Michael Chiklis</actor>
+      <actor>Reed Diamond</actor>
+      <actor>Ryan Shawn</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160113020000 -0600" stop="20160113030000 -0600" channel="AXN HD">
+    <title lang="es">Castle</title>
+    <sub-title lang="es">Recoil</sub-title>
+    <desc lang="es">Cuando el escritor de novelas de misterio Richard Castle se queda sin inspiración, ésta parece volver a llamar a su puerta cuando un presunto asesino en serie imita los asesinatos de sus novelas. Colaborando en este primer caso con la detective Kate Beckett, encuentra en ella la inspiración para un nueva series de libros y decide acompañarla en sus nuevos casos(n)</desc>
+    <credits>
+      <actor>Molly C. Quinn</actor>
+      <actor>Nathan Fillion</actor>
+      <actor>Stana Katic</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160113030000 -0600" stop="20160113040000 -0600" channel="AXN HD">
+    <title lang="es">Unforgettable</title>
+    <sub-title lang="es">Endgame</sub-title>
+    <desc lang="es">Carrie Wells es capaz de recordar cada cosa, lugar y persona, excepto los detalles que pudieran develar el misterio detrás de la muerte de su hermana. Luego de tomarse un tiempo retoma sus labores como detective y le ofrecen unirse al equipo de su ex-novio Al Burns, en el departamento de policías de Nueva York. Carrie acepta a pesar de las diferencias que tiene con Burns. Su mayor interés es encontrar el asesino de su hermana, pero para eso tiene que empezar a recordar(n)</desc>
+    <credits>
+      <actor>Michael Gaston</actor>
+      <actor>Dylan Walsh</actor>
+      <actor>Poppy Montgomery</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160113040000 -0600" stop="20160113050000 -0600" channel="AXN HD">
+    <title lang="es">The Shield</title>
+    <sub-title lang="es">Changing Ghosts</sub-title>
+    <desc lang="es">El detective Vic Mackey, jefe de una unidad especial del distrito de Fargminton, en Los Ángeles, es muy eficaz en su trabajo contra el crimen organizado. Sin embargo, sus métodos y normas de investigación son bastante peculiares, ya que no excluyen procedimientos cuestionables como la extorsión, la tortura o el chantaje(n)</desc>
+    <credits>
+      <actor>Catherine Dent</actor>
+      <actor>Michael Chiklis</actor>
+      <actor>Reed Diamond</actor>
+      <actor>Ryan Shawn</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160113050000 -0600" stop="20160113060000 -0600" channel="AXN HD">
+    <title lang="es">NCIS: Investigación Criminal</title>
+    <sub-title lang="es">Recruited</sub-title>
+    <desc lang="es">Los agentes del Servicio de Investigación Criminal Naval (NCIS) tienen la misión de investigar cualquier prueba ligada a crímenes en la marina, sin considerar cargos ni puestos. Al frente del equipo está el agente especial Jethro Gibbs, quien lleva adelante su trabajo de una manera singular(n)</desc>
+    <credits>
+      <actor>Michael Weatherly</actor>
+      <actor>Mark Harmon</actor>
+      <actor>Sean Murray</actor>
+      <actor>David McCallum</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160113060000 -0600" stop="20160113070000 -0600" channel="AXN HD">
+    <title lang="es">Castle</title>
+    <sub-title lang="es">Reality Star Struck</sub-title>
+    <desc lang="es">Cuando el escritor de novelas de misterio Richard Castle se queda sin inspiración, ésta parece volver a llamar a su puerta cuando un presunto asesino en serie imita los asesinatos de sus novelas. Colaborando en este primer caso con la detective Kate Beckett, encuentra en ella la inspiración para un nueva series de libros y decide acompañarla en sus nuevos casos(n)</desc>
+    <credits>
+      <actor>Molly C. Quinn</actor>
+      <actor>Nathan Fillion</actor>
+      <actor>Stana Katic</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160113070000 -0600" stop="20160113080000 -0600" channel="AXN HD">
+    <title lang="es">CSI NY</title>
+    <sub-title lang="es">The Deep</sub-title>
+    <desc lang="es">El detective Mac Taylor es el jefe del Departamento de Criminalística en Nueva York. Junto a Stella Bonasera, Don Flack, Danny Messer y un gran equipo de detectives, busca acabar con los maleantes de la Gran Manzana. La experiencia y el instinto son armas poderosas en su lucha por detener la violencia(n)</desc>
+    <credits>
+      <actor>Gary Sinise</actor>
+      <actor>Melina Kanakaredes</actor>
+      <actor>Hill Harper</actor>
+      <actor>Carmine Giovinazzo</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160113080000 -0600" stop="20160113090000 -0600" channel="AXN HD">
+    <title lang="es">Mentes criminales</title>
+    <sub-title lang="es">Portero</sub-title>
+    <desc lang="es">La Unidad de Análisis Conductal es un grupo de élite del FBI que analiza las mentes criminales más peligrosas de la nación en un esfuerzo por anticipar posibles crímenes(n)</desc>
+    <credits>
+      <actor>Shemar Moore</actor>
+      <actor>A.J. Cook</actor>
+      <actor>Thomas Gibson</actor>
+      <actor>Matthew Gray Gubler</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160113090000 -0600" stop="20160113100000 -0600" channel="AXN HD">
+    <title lang="es">Unforgettable</title>
+    <sub-title lang="es">The Man in the Woods</sub-title>
+    <desc lang="es">Carrie Wells es capaz de recordar cada cosa, lugar y persona, excepto los detalles que pudieran develar el misterio detrás de la muerte de su hermana. Luego de tomarse un tiempo retoma sus labores como detective y le ofrecen unirse al equipo de su ex-novio Al Burns, en el departamento de policías de Nueva York. Carrie acepta a pesar de las diferencias que tiene con Burns. Su mayor interés es encontrar el asesino de su hermana, pero para eso tiene que empezar a recordar(n)</desc>
+    <credits>
+      <actor>Michael Gaston</actor>
+      <actor>Dylan Walsh</actor>
+      <actor>Poppy Montgomery</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160113100000 -0600" stop="20160113110000 -0600" channel="AXN HD">
+    <title lang="es">CSI Miami</title>
+    <sub-title lang="es">Smoke Gets In Your Csi's</sub-title>
+    <desc lang="es">Un equipo de investigadores forenses resolverán una gran cantidad de crímenes, combinando el uso de métodos científicos con el trabajo típico policial. Este equipo altamente calificado es dirigido por el Teniente Horatio Caine, un detective de homicidios que ahora debe resolver los crímenes de esta ciudad tropical(n)</desc>
+    <credits>
+      <actor>David Caruso</actor>
+      <actor>Emily Procter</actor>
+      <actor>Daniel Attias</actor>
+      <actor>Joe Chappelle</actor>
+      <actor>Scott Brazil</actor>
+      <actor>Adam Rodriguez</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160113110000 -0600" stop="20160113120000 -0600" channel="AXN HD">
+    <title lang="es">NCIS: Investigación Criminal</title>
+    <sub-title lang="es">Freedom</sub-title>
+    <desc lang="es">Los agentes del Servicio de Investigación Criminal Naval (NCIS) tienen la misión de investigar cualquier prueba ligada a crímenes en la marina, sin considerar cargos ni puestos. Al frente del equipo está el agente especial Jethro Gibbs, quien lleva adelante su trabajo de una manera singular(n)</desc>
+    <credits>
+      <actor>Michael Weatherly</actor>
+      <actor>Mark Harmon</actor>
+      <actor>Sean Murray</actor>
+      <actor>David McCallum</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160113120000 -0600" stop="20160113130000 -0600" channel="AXN HD">
+    <title lang="es">CSI Las Vegas</title>
+    <sub-title lang="es">Dune and Gloom</sub-title>
+    <desc lang="es">Un equipo de investigadores forenses y criminólogos será el encargado de resolver los misterios que envuelven la ciudad de Las Vegas, recorriendo las escenas del crimen, recogiendo pruebas irrefutables y encontrando las piezas perdidas(n)</desc>
+    <credits>
+      <actor>Marg Helgenberger</actor>
+      <actor>George Eads</actor>
+      <actor>Eric Szmanda</actor>
+      <actor>Paul Guilfoyle</actor>
+      <actor>Robert David Hall</actor>
+      <actor>Jorja Fox</actor>
+      <actor>Wallace Langham</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160113130000 -0600" stop="20160113140000 -0600" channel="AXN HD">
+    <title lang="es">Castle</title>
+    <sub-title lang="es">Reality Star Struck</sub-title>
+    <desc lang="es">Cuando el escritor de novelas de misterio Richard Castle se queda sin inspiración, ésta parece volver a llamar a su puerta cuando un presunto asesino en serie imita los asesinatos de sus novelas. Colaborando en este primer caso con la detective Kate Beckett, encuentra en ella la inspiración para un nueva series de libros y decide acompañarla en sus nuevos casos(n)</desc>
+    <credits>
+      <actor>Molly C. Quinn</actor>
+      <actor>Nathan Fillion</actor>
+      <actor>Stana Katic</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160113140000 -0600" stop="20160113150000 -0600" channel="AXN HD">
+    <title lang="es">Unforgettable</title>
+    <sub-title lang="es">The Man in the Woods</sub-title>
+    <desc lang="es">Carrie Wells es capaz de recordar cada cosa, lugar y persona, excepto los detalles que pudieran develar el misterio detrás de la muerte de su hermana. Luego de tomarse un tiempo retoma sus labores como detective y le ofrecen unirse al equipo de su ex-novio Al Burns, en el departamento de policías de Nueva York. Carrie acepta a pesar de las diferencias que tiene con Burns. Su mayor interés es encontrar el asesino de su hermana, pero para eso tiene que empezar a recordar(n)</desc>
+    <credits>
+      <actor>Michael Gaston</actor>
+      <actor>Dylan Walsh</actor>
+      <actor>Poppy Montgomery</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160113150000 -0600" stop="20160113160000 -0600" channel="AXN HD">
+    <title lang="es">Mentes criminales</title>
+    <sub-title lang="es">Portero</sub-title>
+    <desc lang="es">La Unidad de Análisis Conductal es un grupo de élite del FBI que analiza las mentes criminales más peligrosas de la nación en un esfuerzo por anticipar posibles crímenes(n)</desc>
+    <credits>
+      <actor>Shemar Moore</actor>
+      <actor>A.J. Cook</actor>
+      <actor>Thomas Gibson</actor>
+      <actor>Matthew Gray Gubler</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160113160000 -0600" stop="20160113170000 -0600" channel="AXN HD">
+    <title lang="es">NCIS: Investigación Criminal</title>
+    <sub-title lang="es">Freedom</sub-title>
+    <desc lang="es">Los agentes del Servicio de Investigación Criminal Naval (NCIS) tienen la misión de investigar cualquier prueba ligada a crímenes en la marina, sin considerar cargos ni puestos. Al frente del equipo está el agente especial Jethro Gibbs, quien lleva adelante su trabajo de una manera singular(n)</desc>
+    <credits>
+      <actor>Michael Weatherly</actor>
+      <actor>Mark Harmon</actor>
+      <actor>Sean Murray</actor>
+      <actor>David McCallum</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160113170000 -0600" stop="20160113180000 -0600" channel="AXN HD">
+    <title lang="es">CSI NY</title>
+    <sub-title lang="es">The Deep</sub-title>
+    <desc lang="es">El detective Mac Taylor es el jefe del Departamento de Criminalística en Nueva York. Junto a Stella Bonasera, Don Flack, Danny Messer y un gran equipo de detectives, busca acabar con los maleantes de la Gran Manzana. La experiencia y el instinto son armas poderosas en su lucha por detener la violencia(n)</desc>
+    <credits>
+      <actor>Gary Sinise</actor>
+      <actor>Melina Kanakaredes</actor>
+      <actor>Hill Harper</actor>
+      <actor>Carmine Giovinazzo</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160113180000 -0600" stop="20160113190000 -0600" channel="AXN HD">
+    <title lang="es">CSI Las Vegas</title>
+    <sub-title lang="es">Dune and Gloom</sub-title>
+    <desc lang="es">Un equipo de investigadores forenses y criminólogos será el encargado de resolver los misterios que envuelven la ciudad de Las Vegas, recorriendo las escenas del crimen, recogiendo pruebas irrefutables y encontrando las piezas perdidas(n)</desc>
+    <credits>
+      <actor>Marg Helgenberger</actor>
+      <actor>George Eads</actor>
+      <actor>Eric Szmanda</actor>
+      <actor>Paul Guilfoyle</actor>
+      <actor>Robert David Hall</actor>
+      <actor>Jorja Fox</actor>
+      <actor>Wallace Langham</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160113190000 -0600" stop="20160113200000 -0600" channel="AXN HD">
+    <title lang="es">CSI Miami</title>
+    <sub-title lang="es">Smoke Gets In Your Csi's</sub-title>
+    <desc lang="es">Un equipo de investigadores forenses resolverán una gran cantidad de crímenes, combinando el uso de métodos científicos con el trabajo típico policial. Este equipo altamente calificado es dirigido por el Teniente Horatio Caine, un detective de homicidios que ahora debe resolver los crímenes de esta ciudad tropical(n)</desc>
+    <credits>
+      <actor>David Caruso</actor>
+      <actor>Emily Procter</actor>
+      <actor>Daniel Attias</actor>
+      <actor>Joe Chappelle</actor>
+      <actor>Scott Brazil</actor>
+      <actor>Adam Rodriguez</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160113200000 -0600" stop="20160113210000 -0600" channel="AXN HD">
+    <title lang="es">Mentes criminales</title>
+    <sub-title lang="es">Portero</sub-title>
+    <desc lang="es">La Unidad de Análisis Conductal es un grupo de élite del FBI que analiza las mentes criminales más peligrosas de la nación en un esfuerzo por anticipar posibles crímenes(n)</desc>
+    <credits>
+      <actor>Shemar Moore</actor>
+      <actor>A.J. Cook</actor>
+      <actor>Thomas Gibson</actor>
+      <actor>Matthew Gray Gubler</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160113210000 -0600" stop="20160113220000 -0600" channel="AXN HD">
+    <title lang="es">NCIS: Investigación Criminal</title>
+    <sub-title lang="es">16 años</sub-title>
+    <desc lang="es">Los agentes del Servicio de Investigación Criminal Naval (NCIS) tienen la misión de investigar cualquier prueba ligada a crímenes en la marina, sin considerar cargos ni puestos. Al frente del equipo está el agente especial Jethro Gibbs, quien lleva adelante su trabajo de una manera singular(n)</desc>
+    <credits>
+      <actor>Michael Weatherly</actor>
+      <actor>Mark Harmon</actor>
+      <actor>Sean Murray</actor>
+      <actor>David McCallum</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160113220000 -0600" stop="20160113230000 -0600" channel="AXN HD">
+    <title lang="es">Mentes criminales</title>
+    <sub-title lang="es">Pariahville</sub-title>
+    <desc lang="es">La Unidad de Análisis Conductal es un grupo de élite del FBI que analiza las mentes criminales más peligrosas de la nación en un esfuerzo por anticipar posibles crímenes(n)</desc>
+    <credits>
+      <actor>Shemar Moore</actor>
+      <actor>A.J. Cook</actor>
+      <actor>Thomas Gibson</actor>
+      <actor>Matthew Gray Gubler</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160113230000 -0600" stop="20160114000000 -0600" channel="AXN HD">
+    <title lang="es">CSI Miami</title>
+    <sub-title lang="es">Smoke Gets In Your Csi's</sub-title>
+    <desc lang="es">Un equipo de investigadores forenses resolverán una gran cantidad de crímenes, combinando el uso de métodos científicos con el trabajo típico policial. Este equipo altamente calificado es dirigido por el Teniente Horatio Caine, un detective de homicidios que ahora debe resolver los crímenes de esta ciudad tropical(n)</desc>
+    <credits>
+      <actor>David Caruso</actor>
+      <actor>Emily Procter</actor>
+      <actor>Daniel Attias</actor>
+      <actor>Joe Chappelle</actor>
+      <actor>Scott Brazil</actor>
+      <actor>Adam Rodriguez</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160114000000 -0600" stop="20160114010000 -0600" channel="AXN HD">
+    <title lang="es">CSI NY</title>
+    <sub-title lang="es">The Deep</sub-title>
+    <desc lang="es">El detective Mac Taylor es el jefe del Departamento de Criminalística en Nueva York. Junto a Stella Bonasera, Don Flack, Danny Messer y un gran equipo de detectives, busca acabar con los maleantes de la Gran Manzana. La experiencia y el instinto son armas poderosas en su lucha por detener la violencia(n)</desc>
+    <credits>
+      <actor>Gary Sinise</actor>
+      <actor>Melina Kanakaredes</actor>
+      <actor>Hill Harper</actor>
+      <actor>Carmine Giovinazzo</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160114010000 -0600" stop="20160114020000 -0600" channel="AXN HD">
+    <title lang="es">The Shield</title>
+    <sub-title lang="es">Exiled</sub-title>
+    <desc lang="es">El detective Vic Mackey, jefe de una unidad especial del distrito de Fargminton, en Los Ángeles, es muy eficaz en su trabajo contra el crimen organizado. Sin embargo, sus métodos y normas de investigación son bastante peculiares, ya que no excluyen procedimientos cuestionables como la extorsión, la tortura o el chantaje(n)</desc>
+    <credits>
+      <actor>Catherine Dent</actor>
+      <actor>Michael Chiklis</actor>
+      <actor>Reed Diamond</actor>
+      <actor>Ryan Shawn</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160114020000 -0600" stop="20160114030000 -0600" channel="AXN HD">
+    <title lang="es">Castle</title>
+    <sub-title lang="es">Reality Star Struck</sub-title>
+    <desc lang="es">Cuando el escritor de novelas de misterio Richard Castle se queda sin inspiración, ésta parece volver a llamar a su puerta cuando un presunto asesino en serie imita los asesinatos de sus novelas. Colaborando en este primer caso con la detective Kate Beckett, encuentra en ella la inspiración para un nueva series de libros y decide acompañarla en sus nuevos casos(n)</desc>
+    <credits>
+      <actor>Molly C. Quinn</actor>
+      <actor>Nathan Fillion</actor>
+      <actor>Stana Katic</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160114030000 -0600" stop="20160114040000 -0600" channel="AXN HD">
+    <title lang="es">Unforgettable</title>
+    <sub-title lang="es">The Man in the Woods</sub-title>
+    <desc lang="es">Carrie Wells es capaz de recordar cada cosa, lugar y persona, excepto los detalles que pudieran develar el misterio detrás de la muerte de su hermana. Luego de tomarse un tiempo retoma sus labores como detective y le ofrecen unirse al equipo de su ex-novio Al Burns, en el departamento de policías de Nueva York. Carrie acepta a pesar de las diferencias que tiene con Burns. Su mayor interés es encontrar el asesino de su hermana, pero para eso tiene que empezar a recordar(n)</desc>
+    <credits>
+      <actor>Michael Gaston</actor>
+      <actor>Dylan Walsh</actor>
+      <actor>Poppy Montgomery</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160114040000 -0600" stop="20160114050000 -0600" channel="AXN HD">
+    <title lang="es">The Shield</title>
+    <sub-title lang="es">Exiled</sub-title>
+    <desc lang="es">El detective Vic Mackey, jefe de una unidad especial del distrito de Fargminton, en Los Ángeles, es muy eficaz en su trabajo contra el crimen organizado. Sin embargo, sus métodos y normas de investigación son bastante peculiares, ya que no excluyen procedimientos cuestionables como la extorsión, la tortura o el chantaje(n)</desc>
+    <credits>
+      <actor>Catherine Dent</actor>
+      <actor>Michael Chiklis</actor>
+      <actor>Reed Diamond</actor>
+      <actor>Ryan Shawn</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160114050000 -0600" stop="20160114060000 -0600" channel="AXN HD">
+    <title lang="es">NCIS: Investigación Criminal</title>
+    <sub-title lang="es">Freedom</sub-title>
+    <desc lang="es">Los agentes del Servicio de Investigación Criminal Naval (NCIS) tienen la misión de investigar cualquier prueba ligada a crímenes en la marina, sin considerar cargos ni puestos. Al frente del equipo está el agente especial Jethro Gibbs, quien lleva adelante su trabajo de una manera singular(n)</desc>
+    <credits>
+      <actor>Michael Weatherly</actor>
+      <actor>Mark Harmon</actor>
+      <actor>Sean Murray</actor>
+      <actor>David McCallum</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160114060000 -0600" stop="20160114070000 -0600" channel="AXN HD">
+    <title lang="es">Castle</title>
+    <sub-title lang="es">Target</sub-title>
+    <desc lang="es">Cuando el escritor de novelas de misterio Richard Castle se queda sin inspiración, ésta parece volver a llamar a su puerta cuando un presunto asesino en serie imita los asesinatos de sus novelas. Colaborando en este primer caso con la detective Kate Beckett, encuentra en ella la inspiración para un nueva series de libros y decide acompañarla en sus nuevos casos(n)</desc>
+    <credits>
+      <actor>Molly C. Quinn</actor>
+      <actor>Nathan Fillion</actor>
+      <actor>Stana Katic</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160114070000 -0600" stop="20160114080000 -0600" channel="AXN HD">
+    <title lang="es">CSI NY</title>
+    <sub-title lang="es">You Only Die Once</sub-title>
+    <desc lang="es">El detective Mac Taylor es el jefe del Departamento de Criminalística en Nueva York. Junto a Stella Bonasera, Don Flack, Danny Messer y un gran equipo de detectives, busca acabar con los maleantes de la Gran Manzana. La experiencia y el instinto son armas poderosas en su lucha por detener la violencia(n)</desc>
+    <credits>
+      <actor>Gary Sinise</actor>
+      <actor>Melina Kanakaredes</actor>
+      <actor>Hill Harper</actor>
+      <actor>Carmine Giovinazzo</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160114080000 -0600" stop="20160114090000 -0600" channel="AXN HD">
+    <title lang="es">Mentes criminales</title>
+    <sub-title lang="es">El regreso</sub-title>
+    <desc lang="es">La Unidad de Análisis Conductal es un grupo de élite del FBI que analiza las mentes criminales más peligrosas de la nación en un esfuerzo por anticipar posibles crímenes(n)</desc>
+    <credits>
+      <actor>Shemar Moore</actor>
+      <actor>A.J. Cook</actor>
+      <actor>Thomas Gibson</actor>
+      <actor>Matthew Gray Gubler</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160114090000 -0600" stop="20160114100000 -0600" channel="AXN HD">
+    <title lang="es">Unforgettable</title>
+    <sub-title lang="es">Bigtime</sub-title>
+    <desc lang="es">Carrie Wells es capaz de recordar cada cosa, lugar y persona, excepto los detalles que pudieran develar el misterio detrás de la muerte de su hermana. Luego de tomarse un tiempo retoma sus labores como detective y le ofrecen unirse al equipo de su ex-novio Al Burns, en el departamento de policías de Nueva York. Carrie acepta a pesar de las diferencias que tiene con Burns. Su mayor interés es encontrar el asesino de su hermana, pero para eso tiene que empezar a recordar(n)</desc>
+    <credits>
+      <actor>Michael Gaston</actor>
+      <actor>Dylan Walsh</actor>
+      <actor>Poppy Montgomery</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160114100000 -0600" stop="20160114110000 -0600" channel="AXN HD">
+    <title lang="es">CSI Miami</title>
+    <sub-title lang="es">Presumed Guilty</sub-title>
+    <desc lang="es">Un equipo de investigadores forenses resolverán una gran cantidad de crímenes, combinando el uso de métodos científicos con el trabajo típico policial. Este equipo altamente calificado es dirigido por el Teniente Horatio Caine, un detective de homicidios que ahora debe resolver los crímenes de esta ciudad tropical(n)</desc>
+    <credits>
+      <actor>David Caruso</actor>
+      <actor>Emily Procter</actor>
+      <actor>Daniel Attias</actor>
+      <actor>Joe Chappelle</actor>
+      <actor>Scott Brazil</actor>
+      <actor>Adam Rodriguez</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160114110000 -0600" stop="20160114120000 -0600" channel="AXN HD">
+    <title lang="es">NCIS: Investigación Criminal</title>
+    <sub-title lang="es">A man walks into a bar</sub-title>
+    <desc lang="es">Los agentes del Servicio de Investigación Criminal Naval (NCIS) tienen la misión de investigar cualquier prueba ligada a crímenes en la marina, sin considerar cargos ni puestos. Al frente del equipo está el agente especial Jethro Gibbs, quien lleva adelante su trabajo de una manera singular(n)</desc>
+    <credits>
+      <actor>Michael Weatherly</actor>
+      <actor>Mark Harmon</actor>
+      <actor>Sean Murray</actor>
+      <actor>David McCallum</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160114120000 -0600" stop="20160114130000 -0600" channel="AXN HD">
+    <title lang="es">CSI Las Vegas</title>
+    <sub-title lang="es">Homecoming</sub-title>
+    <desc lang="es">Un equipo de investigadores forenses y criminólogos será el encargado de resolver los misterios que envuelven la ciudad de Las Vegas, recorriendo las escenas del crimen, recogiendo pruebas irrefutables y encontrando las piezas perdidas(n)</desc>
+    <credits>
+      <actor>Marg Helgenberger</actor>
+      <actor>George Eads</actor>
+      <actor>Eric Szmanda</actor>
+      <actor>Paul Guilfoyle</actor>
+      <actor>Robert David Hall</actor>
+      <actor>Jorja Fox</actor>
+      <actor>Wallace Langham</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160114130000 -0600" stop="20160114140000 -0600" channel="AXN HD">
+    <title lang="es">Castle</title>
+    <sub-title lang="es">Target</sub-title>
+    <desc lang="es">Cuando el escritor de novelas de misterio Richard Castle se queda sin inspiración, ésta parece volver a llamar a su puerta cuando un presunto asesino en serie imita los asesinatos de sus novelas. Colaborando en este primer caso con la detective Kate Beckett, encuentra en ella la inspiración para un nueva series de libros y decide acompañarla en sus nuevos casos(n)</desc>
+    <credits>
+      <actor>Molly C. Quinn</actor>
+      <actor>Nathan Fillion</actor>
+      <actor>Stana Katic</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160114140000 -0600" stop="20160114150000 -0600" channel="AXN HD">
+    <title lang="es">Unforgettable</title>
+    <sub-title lang="es">Bigtime</sub-title>
+    <desc lang="es">Carrie Wells es capaz de recordar cada cosa, lugar y persona, excepto los detalles que pudieran develar el misterio detrás de la muerte de su hermana. Luego de tomarse un tiempo retoma sus labores como detective y le ofrecen unirse al equipo de su ex-novio Al Burns, en el departamento de policías de Nueva York. Carrie acepta a pesar de las diferencias que tiene con Burns. Su mayor interés es encontrar el asesino de su hermana, pero para eso tiene que empezar a recordar(n)</desc>
+    <credits>
+      <actor>Michael Gaston</actor>
+      <actor>Dylan Walsh</actor>
+      <actor>Poppy Montgomery</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160114150000 -0600" stop="20160114160000 -0600" channel="AXN HD">
+    <title lang="es">Mentes criminales</title>
+    <sub-title lang="es">El regreso</sub-title>
+    <desc lang="es">La Unidad de Análisis Conductal es un grupo de élite del FBI que analiza las mentes criminales más peligrosas de la nación en un esfuerzo por anticipar posibles crímenes(n)</desc>
+    <credits>
+      <actor>Shemar Moore</actor>
+      <actor>A.J. Cook</actor>
+      <actor>Thomas Gibson</actor>
+      <actor>Matthew Gray Gubler</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160114160000 -0600" stop="20160114170000 -0600" channel="AXN HD">
+    <title lang="es">NCIS: Investigación Criminal</title>
+    <sub-title lang="es">A man walks into a bar</sub-title>
+    <desc lang="es">Los agentes del Servicio de Investigación Criminal Naval (NCIS) tienen la misión de investigar cualquier prueba ligada a crímenes en la marina, sin considerar cargos ni puestos. Al frente del equipo está el agente especial Jethro Gibbs, quien lleva adelante su trabajo de una manera singular(n)</desc>
+    <credits>
+      <actor>Michael Weatherly</actor>
+      <actor>Mark Harmon</actor>
+      <actor>Sean Murray</actor>
+      <actor>David McCallum</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160114170000 -0600" stop="20160114180000 -0600" channel="AXN HD">
+    <title lang="es">CSI NY</title>
+    <sub-title lang="es">You Only Die Once</sub-title>
+    <desc lang="es">El detective Mac Taylor es el jefe del Departamento de Criminalística en Nueva York. Junto a Stella Bonasera, Don Flack, Danny Messer y un gran equipo de detectives, busca acabar con los maleantes de la Gran Manzana. La experiencia y el instinto son armas poderosas en su lucha por detener la violencia(n)</desc>
+    <credits>
+      <actor>Gary Sinise</actor>
+      <actor>Melina Kanakaredes</actor>
+      <actor>Hill Harper</actor>
+      <actor>Carmine Giovinazzo</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160114180000 -0600" stop="20160114190000 -0600" channel="AXN HD">
+    <title lang="es">CSI Las Vegas</title>
+    <sub-title lang="es">Homecoming</sub-title>
+    <desc lang="es">Un equipo de investigadores forenses y criminólogos será el encargado de resolver los misterios que envuelven la ciudad de Las Vegas, recorriendo las escenas del crimen, recogiendo pruebas irrefutables y encontrando las piezas perdidas(n)</desc>
+    <credits>
+      <actor>Marg Helgenberger</actor>
+      <actor>George Eads</actor>
+      <actor>Eric Szmanda</actor>
+      <actor>Paul Guilfoyle</actor>
+      <actor>Robert David Hall</actor>
+      <actor>Jorja Fox</actor>
+      <actor>Wallace Langham</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160114190000 -0600" stop="20160114200000 -0600" channel="AXN HD">
+    <title lang="es">CSI Miami</title>
+    <sub-title lang="es">Presumed Guilty</sub-title>
+    <desc lang="es">Un equipo de investigadores forenses resolverán una gran cantidad de crímenes, combinando el uso de métodos científicos con el trabajo típico policial. Este equipo altamente calificado es dirigido por el Teniente Horatio Caine, un detective de homicidios que ahora debe resolver los crímenes de esta ciudad tropical(n)</desc>
+    <credits>
+      <actor>David Caruso</actor>
+      <actor>Emily Procter</actor>
+      <actor>Daniel Attias</actor>
+      <actor>Joe Chappelle</actor>
+      <actor>Scott Brazil</actor>
+      <actor>Adam Rodriguez</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160114200000 -0600" stop="20160114210000 -0600" channel="AXN HD">
+    <title lang="es">Mentes criminales</title>
+    <sub-title lang="es">El regreso</sub-title>
+    <desc lang="es">La Unidad de Análisis Conductal es un grupo de élite del FBI que analiza las mentes criminales más peligrosas de la nación en un esfuerzo por anticipar posibles crímenes(n)</desc>
+    <credits>
+      <actor>Shemar Moore</actor>
+      <actor>A.J. Cook</actor>
+      <actor>Thomas Gibson</actor>
+      <actor>Matthew Gray Gubler</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160114210000 -0600" stop="20160114220000 -0600" channel="AXN HD">
+    <title lang="es">Crossing Lines</title>
+    <sub-title lang="es">Enemy of the People</sub-title>
+    <desc lang="es">Localizada en las ciudades más emocionantes y exóticas, "Crossing Lines" explora los estatutos de la Corte Penal Internacional, creando un equipo especial encargado de investigar crímenes que trascienden fronteras, para conseguir a los responsables y someterlos ante la justicia, dando inicio a una FBI global(n)</desc>
+    <credits>
+      <actor>Marc Lavoine</actor>
+      <actor>William Fichtner</actor>
+      <actor>Gabriella Pession</actor>
+      <actor>Daniel Percival</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Acción</category>
+  </programme>
+  <programme start="20160114220000 -0600" stop="20160114230000 -0600" channel="AXN HD">
+    <title lang="es">CSI Cyber</title>
+    <sub-title lang="es">Corrupted memory</sub-title>
+    <desc lang="es">Equipo de Delito Cibernético Los investigadores, encabezados por el agente especial Avery Ryan, del FBI, trabaja para resolver los casos de la red oscura. Avery, agente especial y ciberpsicóloga dirige un equipo que incluye al agente especial Elías Mundo, encargado de resolver asesinatos, ciber-robos, hackeos, infracciones de índole sexual y chantajes(n)</desc>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160114230000 -0600" stop="20160115000000 -0600" channel="AXN HD">
+    <title lang="es">CSI Miami</title>
+    <sub-title lang="es">Presumed Guilty</sub-title>
+    <desc lang="es">Un equipo de investigadores forenses resolverán una gran cantidad de crímenes, combinando el uso de métodos científicos con el trabajo típico policial. Este equipo altamente calificado es dirigido por el Teniente Horatio Caine, un detective de homicidios que ahora debe resolver los crímenes de esta ciudad tropical(n)</desc>
+    <credits>
+      <actor>David Caruso</actor>
+      <actor>Emily Procter</actor>
+      <actor>Daniel Attias</actor>
+      <actor>Joe Chappelle</actor>
+      <actor>Scott Brazil</actor>
+      <actor>Adam Rodriguez</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160115000000 -0600" stop="20160115010000 -0600" channel="AXN HD">
+    <title lang="es">CSI NY</title>
+    <sub-title lang="es">You Only Die Once</sub-title>
+    <desc lang="es">El detective Mac Taylor es el jefe del Departamento de Criminalística en Nueva York. Junto a Stella Bonasera, Don Flack, Danny Messer y un gran equipo de detectives, busca acabar con los maleantes de la Gran Manzana. La experiencia y el instinto son armas poderosas en su lucha por detener la violencia(n)</desc>
+    <credits>
+      <actor>Gary Sinise</actor>
+      <actor>Melina Kanakaredes</actor>
+      <actor>Hill Harper</actor>
+      <actor>Carmine Giovinazzo</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160115010000 -0600" stop="20160115020000 -0600" channel="AXN HD">
+    <title lang="es">The Shield</title>
+    <sub-title lang="es">The man of wrath</sub-title>
+    <desc lang="es">El detective Vic Mackey, jefe de una unidad especial del distrito de Fargminton, en Los Ángeles, es muy eficaz en su trabajo contra el crimen organizado. Sin embargo, sus métodos y normas de investigación son bastante peculiares, ya que no excluyen procedimientos cuestionables como la extorsión, la tortura o el chantaje(n)</desc>
+    <credits>
+      <actor>Catherine Dent</actor>
+      <actor>Michael Chiklis</actor>
+      <actor>Reed Diamond</actor>
+      <actor>Ryan Shawn</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160115020000 -0600" stop="20160115030000 -0600" channel="AXN HD">
+    <title lang="es">Castle</title>
+    <sub-title lang="es">Target</sub-title>
+    <desc lang="es">Cuando el escritor de novelas de misterio Richard Castle se queda sin inspiración, ésta parece volver a llamar a su puerta cuando un presunto asesino en serie imita los asesinatos de sus novelas. Colaborando en este primer caso con la detective Kate Beckett, encuentra en ella la inspiración para un nueva series de libros y decide acompañarla en sus nuevos casos(n)</desc>
+    <credits>
+      <actor>Molly C. Quinn</actor>
+      <actor>Nathan Fillion</actor>
+      <actor>Stana Katic</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160115030000 -0600" stop="20160115040000 -0600" channel="AXN HD">
+    <title lang="es">Unforgettable</title>
+    <sub-title lang="es">Bigtime</sub-title>
+    <desc lang="es">Carrie Wells es capaz de recordar cada cosa, lugar y persona, excepto los detalles que pudieran develar el misterio detrás de la muerte de su hermana. Luego de tomarse un tiempo retoma sus labores como detective y le ofrecen unirse al equipo de su ex-novio Al Burns, en el departamento de policías de Nueva York. Carrie acepta a pesar de las diferencias que tiene con Burns. Su mayor interés es encontrar el asesino de su hermana, pero para eso tiene que empezar a recordar(n)</desc>
+    <credits>
+      <actor>Michael Gaston</actor>
+      <actor>Dylan Walsh</actor>
+      <actor>Poppy Montgomery</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160115040000 -0600" stop="20160115050000 -0600" channel="AXN HD">
+    <title lang="es">The Shield</title>
+    <sub-title lang="es">The man of wrath</sub-title>
+    <desc lang="es">El detective Vic Mackey, jefe de una unidad especial del distrito de Fargminton, en Los Ángeles, es muy eficaz en su trabajo contra el crimen organizado. Sin embargo, sus métodos y normas de investigación son bastante peculiares, ya que no excluyen procedimientos cuestionables como la extorsión, la tortura o el chantaje(n)</desc>
+    <credits>
+      <actor>Catherine Dent</actor>
+      <actor>Michael Chiklis</actor>
+      <actor>Reed Diamond</actor>
+      <actor>Ryan Shawn</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160115050000 -0600" stop="20160115060000 -0600" channel="AXN HD">
+    <title lang="es">NCIS: Investigación Criminal</title>
+    <sub-title lang="es">A man walks into a bar</sub-title>
+    <desc lang="es">Los agentes del Servicio de Investigación Criminal Naval (NCIS) tienen la misión de investigar cualquier prueba ligada a crímenes en la marina, sin considerar cargos ni puestos. Al frente del equipo está el agente especial Jethro Gibbs, quien lleva adelante su trabajo de una manera singular(n)</desc>
+    <credits>
+      <actor>Michael Weatherly</actor>
+      <actor>Mark Harmon</actor>
+      <actor>Sean Murray</actor>
+      <actor>David McCallum</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160115060000 -0600" stop="20160115070000 -0600" channel="AXN HD">
+    <title lang="es">Castle</title>
+    <sub-title lang="es">Hunt</sub-title>
+    <desc lang="es">Cuando el escritor de novelas de misterio Richard Castle se queda sin inspiración, ésta parece volver a llamar a su puerta cuando un presunto asesino en serie imita los asesinatos de sus novelas. Colaborando en este primer caso con la detective Kate Beckett, encuentra en ella la inspiración para un nueva series de libros y decide acompañarla en sus nuevos casos(n)</desc>
+    <credits>
+      <actor>Molly C. Quinn</actor>
+      <actor>Nathan Fillion</actor>
+      <actor>Stana Katic</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160115070000 -0600" stop="20160115080000 -0600" channel="AXN HD">
+    <title lang="es">CSI NY</title>
+    <sub-title lang="es">Times Up</sub-title>
+    <desc lang="es">El detective Mac Taylor es el jefe del Departamento de Criminalística en Nueva York. Junto a Stella Bonasera, Don Flack, Danny Messer y un gran equipo de detectives, busca acabar con los maleantes de la Gran Manzana. La experiencia y el instinto son armas poderosas en su lucha por detener la violencia(n)</desc>
+    <credits>
+      <actor>Gary Sinise</actor>
+      <actor>Melina Kanakaredes</actor>
+      <actor>Hill Harper</actor>
+      <actor>Carmine Giovinazzo</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160115080000 -0600" stop="20160115090000 -0600" channel="AXN HD">
+    <title lang="es">Mentes criminales</title>
+    <sub-title lang="es">Strange Fruit</sub-title>
+    <desc lang="es">La Unidad de Análisis Conductal es un grupo de élite del FBI que analiza las mentes criminales más peligrosas de la nación en un esfuerzo por anticipar posibles crímenes(n)</desc>
+    <credits>
+      <actor>Shemar Moore</actor>
+      <actor>A.J. Cook</actor>
+      <actor>Thomas Gibson</actor>
+      <actor>Matthew Gray Gubler</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160115090000 -0600" stop="20160115100000 -0600" channel="AXN HD">
+    <title lang="es">Unforgettable</title>
+    <sub-title lang="es">Incógnito</sub-title>
+    <desc lang="es">Carrie Wells es capaz de recordar cada cosa, lugar y persona, excepto los detalles que pudieran develar el misterio detrás de la muerte de su hermana. Luego de tomarse un tiempo retoma sus labores como detective y le ofrecen unirse al equipo de su ex-novio Al Burns, en el departamento de policías de Nueva York. Carrie acepta a pesar de las diferencias que tiene con Burns. Su mayor interés es encontrar el asesino de su hermana, pero para eso tiene que empezar a recordar(n)</desc>
+    <credits>
+      <actor>Michael Gaston</actor>
+      <actor>Dylan Walsh</actor>
+      <actor>Poppy Montgomery</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160115100000 -0600" stop="20160115110000 -0600" channel="AXN HD">
+    <title lang="es">CSI Miami</title>
+    <sub-title lang="es">Sink or Swin</sub-title>
+    <desc lang="es">Un equipo de investigadores forenses resolverán una gran cantidad de crímenes, combinando el uso de métodos científicos con el trabajo típico policial. Este equipo altamente calificado es dirigido por el Teniente Horatio Caine, un detective de homicidios que ahora debe resolver los crímenes de esta ciudad tropical(n)</desc>
+    <credits>
+      <actor>David Caruso</actor>
+      <actor>Emily Procter</actor>
+      <actor>Daniel Attias</actor>
+      <actor>Joe Chappelle</actor>
+      <actor>Scott Brazil</actor>
+      <actor>Adam Rodriguez</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160115110000 -0600" stop="20160115120000 -0600" channel="AXN HD">
+    <title lang="es">NCIS: Investigación Criminal</title>
+    <sub-title lang="es">Defiance</sub-title>
+    <desc lang="es">Los agentes del Servicio de Investigación Criminal Naval (NCIS) tienen la misión de investigar cualquier prueba ligada a crímenes en la marina, sin considerar cargos ni puestos. Al frente del equipo está el agente especial Jethro Gibbs, quien lleva adelante su trabajo de una manera singular(n)</desc>
+    <credits>
+      <actor>Michael Weatherly</actor>
+      <actor>Mark Harmon</actor>
+      <actor>Sean Murray</actor>
+      <actor>David McCallum</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160115120000 -0600" stop="20160115130000 -0600" channel="AXN HD">
+    <title lang="es">CSI Las Vegas</title>
+    <sub-title lang="es">Karma to Burn</sub-title>
+    <desc lang="es">Un equipo de investigadores forenses y criminólogos será el encargado de resolver los misterios que envuelven la ciudad de Las Vegas, recorriendo las escenas del crimen, recogiendo pruebas irrefutables y encontrando las piezas perdidas(n)</desc>
+    <credits>
+      <actor>Marg Helgenberger</actor>
+      <actor>George Eads</actor>
+      <actor>Eric Szmanda</actor>
+      <actor>Paul Guilfoyle</actor>
+      <actor>Robert David Hall</actor>
+      <actor>Jorja Fox</actor>
+      <actor>Wallace Langham</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160115130000 -0600" stop="20160115140000 -0600" channel="AXN HD">
+    <title lang="es">Castle</title>
+    <sub-title lang="es">Hunt</sub-title>
+    <desc lang="es">Cuando el escritor de novelas de misterio Richard Castle se queda sin inspiración, ésta parece volver a llamar a su puerta cuando un presunto asesino en serie imita los asesinatos de sus novelas. Colaborando en este primer caso con la detective Kate Beckett, encuentra en ella la inspiración para un nueva series de libros y decide acompañarla en sus nuevos casos(n)</desc>
+    <credits>
+      <actor>Molly C. Quinn</actor>
+      <actor>Nathan Fillion</actor>
+      <actor>Stana Katic</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160115140000 -0600" stop="20160115150000 -0600" channel="AXN HD">
+    <title lang="es">Unforgettable</title>
+    <sub-title lang="es">Incógnito</sub-title>
+    <desc lang="es">Carrie Wells es capaz de recordar cada cosa, lugar y persona, excepto los detalles que pudieran develar el misterio detrás de la muerte de su hermana. Luego de tomarse un tiempo retoma sus labores como detective y le ofrecen unirse al equipo de su ex-novio Al Burns, en el departamento de policías de Nueva York. Carrie acepta a pesar de las diferencias que tiene con Burns. Su mayor interés es encontrar el asesino de su hermana, pero para eso tiene que empezar a recordar(n)</desc>
+    <credits>
+      <actor>Michael Gaston</actor>
+      <actor>Dylan Walsh</actor>
+      <actor>Poppy Montgomery</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160115150000 -0600" stop="20160115160000 -0600" channel="AXN HD">
+    <title lang="es">Mentes criminales</title>
+    <sub-title lang="es">Strange Fruit</sub-title>
+    <desc lang="es">La Unidad de Análisis Conductal es un grupo de élite del FBI que analiza las mentes criminales más peligrosas de la nación en un esfuerzo por anticipar posibles crímenes(n)</desc>
+    <credits>
+      <actor>Shemar Moore</actor>
+      <actor>A.J. Cook</actor>
+      <actor>Thomas Gibson</actor>
+      <actor>Matthew Gray Gubler</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160115160000 -0600" stop="20160115170000 -0600" channel="AXN HD">
+    <title lang="es">NCIS: Investigación Criminal</title>
+    <sub-title lang="es">Defiance</sub-title>
+    <desc lang="es">Los agentes del Servicio de Investigación Criminal Naval (NCIS) tienen la misión de investigar cualquier prueba ligada a crímenes en la marina, sin considerar cargos ni puestos. Al frente del equipo está el agente especial Jethro Gibbs, quien lleva adelante su trabajo de una manera singular(n)</desc>
+    <credits>
+      <actor>Michael Weatherly</actor>
+      <actor>Mark Harmon</actor>
+      <actor>Sean Murray</actor>
+      <actor>David McCallum</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160115170000 -0600" stop="20160115180000 -0600" channel="AXN HD">
+    <title lang="es">CSI NY</title>
+    <sub-title lang="es">Times Up</sub-title>
+    <desc lang="es">El detective Mac Taylor es el jefe del Departamento de Criminalística en Nueva York. Junto a Stella Bonasera, Don Flack, Danny Messer y un gran equipo de detectives, busca acabar con los maleantes de la Gran Manzana. La experiencia y el instinto son armas poderosas en su lucha por detener la violencia(n)</desc>
+    <credits>
+      <actor>Gary Sinise</actor>
+      <actor>Melina Kanakaredes</actor>
+      <actor>Hill Harper</actor>
+      <actor>Carmine Giovinazzo</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160115180000 -0600" stop="20160115190000 -0600" channel="AXN HD">
+    <title lang="es">CSI Las Vegas</title>
+    <sub-title lang="es">Karma to Burn</sub-title>
+    <desc lang="es">Un equipo de investigadores forenses y criminólogos será el encargado de resolver los misterios que envuelven la ciudad de Las Vegas, recorriendo las escenas del crimen, recogiendo pruebas irrefutables y encontrando las piezas perdidas(n)</desc>
+    <credits>
+      <actor>Marg Helgenberger</actor>
+      <actor>George Eads</actor>
+      <actor>Eric Szmanda</actor>
+      <actor>Paul Guilfoyle</actor>
+      <actor>Robert David Hall</actor>
+      <actor>Jorja Fox</actor>
+      <actor>Wallace Langham</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160115190000 -0600" stop="20160115200000 -0600" channel="AXN HD">
+    <title lang="es">CSI Miami</title>
+    <sub-title lang="es">Sink or Swin</sub-title>
+    <desc lang="es">Un equipo de investigadores forenses resolverán una gran cantidad de crímenes, combinando el uso de métodos científicos con el trabajo típico policial. Este equipo altamente calificado es dirigido por el Teniente Horatio Caine, un detective de homicidios que ahora debe resolver los crímenes de esta ciudad tropical(n)</desc>
+    <credits>
+      <actor>David Caruso</actor>
+      <actor>Emily Procter</actor>
+      <actor>Daniel Attias</actor>
+      <actor>Joe Chappelle</actor>
+      <actor>Scott Brazil</actor>
+      <actor>Adam Rodriguez</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160115200000 -0600" stop="20160115210000 -0600" channel="AXN HD">
+    <title lang="es">Mentes criminales</title>
+    <sub-title lang="es">Strange Fruit</sub-title>
+    <desc lang="es">La Unidad de Análisis Conductal es un grupo de élite del FBI que analiza las mentes criminales más peligrosas de la nación en un esfuerzo por anticipar posibles crímenes(n)</desc>
+    <credits>
+      <actor>Shemar Moore</actor>
+      <actor>A.J. Cook</actor>
+      <actor>Thomas Gibson</actor>
+      <actor>Matthew Gray Gubler</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160115210000 -0600" stop="20160115230000 -0600" channel="AXN HD">
+    <title lang="es">Inframundo 3: la rebelión de los Lycans</title>
+    <desc lang="es">Una enemistad a muerte de siglos estalla entre dos tribus inmortales en Underworld: La rebelión de los Licántropos. La tercera película de la saga épica de Underworld retrocede en el tiempo y cuenta el origen del conflicto entre los aristocráticos vampiros, conocidos como los "Death Dealers", y los salvajes licántropos, una línea de feroces hombres lobos(n)</desc>
+    <credits>
+      <actor>Michael Sheen</actor>
+      <actor>Rhona Mitra</actor>
+      <actor>Bill Nighy</actor>
+      <actor>Patrick Tatopoulos</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Fantasía</category>
+  </programme>
+  <programme start="20160115230000 -0600" stop="20160116000000 -0600" channel="AXN HD">
+    <title lang="es">CSI Miami</title>
+    <sub-title lang="es">Sink or Swin</sub-title>
+    <desc lang="es">Un equipo de investigadores forenses resolverán una gran cantidad de crímenes, combinando el uso de métodos científicos con el trabajo típico policial. Este equipo altamente calificado es dirigido por el Teniente Horatio Caine, un detective de homicidios que ahora debe resolver los crímenes de esta ciudad tropical(n)</desc>
+    <credits>
+      <actor>David Caruso</actor>
+      <actor>Emily Procter</actor>
+      <actor>Daniel Attias</actor>
+      <actor>Joe Chappelle</actor>
+      <actor>Scott Brazil</actor>
+      <actor>Adam Rodriguez</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160116000000 -0600" stop="20160116010000 -0600" channel="AXN HD">
+    <title lang="es">CSI NY</title>
+    <sub-title lang="es">Times Up</sub-title>
+    <desc lang="es">El detective Mac Taylor es el jefe del Departamento de Criminalística en Nueva York. Junto a Stella Bonasera, Don Flack, Danny Messer y un gran equipo de detectives, busca acabar con los maleantes de la Gran Manzana. La experiencia y el instinto son armas poderosas en su lucha por detener la violencia(n)</desc>
+    <credits>
+      <actor>Gary Sinise</actor>
+      <actor>Melina Kanakaredes</actor>
+      <actor>Hill Harper</actor>
+      <actor>Carmine Giovinazzo</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160116010000 -0600" stop="20160116020000 -0600" channel="AXN HD">
+    <title lang="es">The Shield</title>
+    <sub-title lang="es">Recoil</sub-title>
+    <desc lang="es">El detective Vic Mackey, jefe de una unidad especial del distrito de Fargminton, en Los Ángeles, es muy eficaz en su trabajo contra el crimen organizado. Sin embargo, sus métodos y normas de investigación son bastante peculiares, ya que no excluyen procedimientos cuestionables como la extorsión, la tortura o el chantaje(n)</desc>
+    <credits>
+      <actor>Catherine Dent</actor>
+      <actor>Michael Chiklis</actor>
+      <actor>Reed Diamond</actor>
+      <actor>Ryan Shawn</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160116020000 -0600" stop="20160116030000 -0600" channel="AXN HD">
+    <title lang="es">Castle</title>
+    <sub-title lang="es">Hunt</sub-title>
+    <desc lang="es">Cuando el escritor de novelas de misterio Richard Castle se queda sin inspiración, ésta parece volver a llamar a su puerta cuando un presunto asesino en serie imita los asesinatos de sus novelas. Colaborando en este primer caso con la detective Kate Beckett, encuentra en ella la inspiración para un nueva series de libros y decide acompañarla en sus nuevos casos(n)</desc>
+    <credits>
+      <actor>Molly C. Quinn</actor>
+      <actor>Nathan Fillion</actor>
+      <actor>Stana Katic</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160116030000 -0600" stop="20160116040000 -0600" channel="AXN HD">
+    <title lang="es">Unforgettable</title>
+    <sub-title lang="es">Incógnito</sub-title>
+    <desc lang="es">Carrie Wells es capaz de recordar cada cosa, lugar y persona, excepto los detalles que pudieran develar el misterio detrás de la muerte de su hermana. Luego de tomarse un tiempo retoma sus labores como detective y le ofrecen unirse al equipo de su ex-novio Al Burns, en el departamento de policías de Nueva York. Carrie acepta a pesar de las diferencias que tiene con Burns. Su mayor interés es encontrar el asesino de su hermana, pero para eso tiene que empezar a recordar(n)</desc>
+    <credits>
+      <actor>Michael Gaston</actor>
+      <actor>Dylan Walsh</actor>
+      <actor>Poppy Montgomery</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160116040000 -0600" stop="20160116050000 -0600" channel="AXN HD">
+    <title lang="es">The Shield</title>
+    <sub-title lang="es">Recoil</sub-title>
+    <desc lang="es">El detective Vic Mackey, jefe de una unidad especial del distrito de Fargminton, en Los Ángeles, es muy eficaz en su trabajo contra el crimen organizado. Sin embargo, sus métodos y normas de investigación son bastante peculiares, ya que no excluyen procedimientos cuestionables como la extorsión, la tortura o el chantaje(n)</desc>
+    <credits>
+      <actor>Catherine Dent</actor>
+      <actor>Michael Chiklis</actor>
+      <actor>Reed Diamond</actor>
+      <actor>Ryan Shawn</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160116050000 -0600" stop="20160116060000 -0600" channel="AXN HD">
+    <title lang="es">NCIS: Investigación Criminal</title>
+    <sub-title lang="es">Defiance</sub-title>
+    <desc lang="es">Los agentes del Servicio de Investigación Criminal Naval (NCIS) tienen la misión de investigar cualquier prueba ligada a crímenes en la marina, sin considerar cargos ni puestos. Al frente del equipo está el agente especial Jethro Gibbs, quien lleva adelante su trabajo de una manera singular(n)</desc>
+    <credits>
+      <actor>Michael Weatherly</actor>
+      <actor>Mark Harmon</actor>
+      <actor>Sean Murray</actor>
+      <actor>David McCallum</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160116060000 -0600" stop="20160116070000 -0600" channel="AXN HD">
+    <title lang="es">Castle</title>
+    <sub-title lang="es">Target</sub-title>
+    <desc lang="es">Cuando el escritor de novelas de misterio Richard Castle se queda sin inspiración, ésta parece volver a llamar a su puerta cuando un presunto asesino en serie imita los asesinatos de sus novelas. Colaborando en este primer caso con la detective Kate Beckett, encuentra en ella la inspiración para un nueva series de libros y decide acompañarla en sus nuevos casos(n)</desc>
+    <credits>
+      <actor>Molly C. Quinn</actor>
+      <actor>Nathan Fillion</actor>
+      <actor>Stana Katic</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160116070000 -0600" stop="20160116080000 -0600" channel="AXN HD">
+    <title lang="es">CSI NY</title>
+    <sub-title lang="es">You Only Die Once</sub-title>
+    <desc lang="es">El detective Mac Taylor es el jefe del Departamento de Criminalística en Nueva York. Junto a Stella Bonasera, Don Flack, Danny Messer y un gran equipo de detectives, busca acabar con los maleantes de la Gran Manzana. La experiencia y el instinto son armas poderosas en su lucha por detener la violencia(n)</desc>
+    <credits>
+      <actor>Gary Sinise</actor>
+      <actor>Melina Kanakaredes</actor>
+      <actor>Hill Harper</actor>
+      <actor>Carmine Giovinazzo</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160116080000 -0600" stop="20160116090000 -0600" channel="AXN HD">
+    <title lang="es">Mentes criminales</title>
+    <sub-title lang="es">El regreso</sub-title>
+    <desc lang="es">La Unidad de Análisis Conductal es un grupo de élite del FBI que analiza las mentes criminales más peligrosas de la nación en un esfuerzo por anticipar posibles crímenes(n)</desc>
+    <credits>
+      <actor>Shemar Moore</actor>
+      <actor>A.J. Cook</actor>
+      <actor>Thomas Gibson</actor>
+      <actor>Matthew Gray Gubler</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160116090000 -0600" stop="20160116100000 -0600" channel="AXN HD">
+    <title lang="es">CSI NY</title>
+    <sub-title lang="es">Wasted</sub-title>
+    <desc lang="es">El detective Mac Taylor es el jefe del Departamento de Criminalística en Nueva York. Junto a Stella Bonasera, Don Flack, Danny Messer y un gran equipo de detectives, busca acabar con los maleantes de la Gran Manzana. La experiencia y el instinto son armas poderosas en su lucha por detener la violencia(n)</desc>
+    <credits>
+      <actor>Gary Sinise</actor>
+      <actor>Melina Kanakaredes</actor>
+      <actor>Hill Harper</actor>
+      <actor>Carmine Giovinazzo</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160116100000 -0600" stop="20160116110000 -0600" channel="AXN HD">
+    <title lang="es">CSI NY</title>
+    <sub-title lang="es">Risk</sub-title>
+    <desc lang="es">El detective Mac Taylor es el jefe del Departamento de Criminalística en Nueva York. Junto a Stella Bonasera, Don Flack, Danny Messer y un gran equipo de detectives, busca acabar con los maleantes de la Gran Manzana. La experiencia y el instinto son armas poderosas en su lucha por detener la violencia(n)</desc>
+    <credits>
+      <actor>Gary Sinise</actor>
+      <actor>Melina Kanakaredes</actor>
+      <actor>Hill Harper</actor>
+      <actor>Carmine Giovinazzo</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160116110000 -0600" stop="20160116120000 -0600" channel="AXN HD">
+    <title lang="es">CSI NY</title>
+    <sub-title lang="es">Stuck on You</sub-title>
+    <desc lang="es">El detective Mac Taylor es el jefe del Departamento de Criminalística en Nueva York. Junto a Stella Bonasera, Don Flack, Danny Messer y un gran equipo de detectives, busca acabar con los maleantes de la Gran Manzana. La experiencia y el instinto son armas poderosas en su lucha por detener la violencia(n)</desc>
+    <credits>
+      <actor>Gary Sinise</actor>
+      <actor>Melina Kanakaredes</actor>
+      <actor>Hill Harper</actor>
+      <actor>Carmine Giovinazzo</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160116120000 -0600" stop="20160116130000 -0600" channel="AXN HD">
+    <title lang="es">Castle</title>
+    <sub-title lang="es">In the Belly of the Beast</sub-title>
+    <desc lang="es">Cuando el escritor de novelas de misterio Richard Castle se queda sin inspiración, ésta parece volver a llamar a su puerta cuando un presunto asesino en serie imita los asesinatos de sus novelas. Colaborando en este primer caso con la detective Kate Beckett, encuentra en ella la inspiración para un nueva series de libros y decide acompañarla en sus nuevos casos(n)</desc>
+    <credits>
+      <actor>Molly C. Quinn</actor>
+      <actor>Nathan Fillion</actor>
+      <actor>Stana Katic</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160116130000 -0600" stop="20160116140000 -0600" channel="AXN HD">
+    <title lang="es">Castle</title>
+    <sub-title lang="es">The Way of the Ninja</sub-title>
+    <desc lang="es">Cuando el escritor de novelas de misterio Richard Castle se queda sin inspiración, ésta parece volver a llamar a su puerta cuando un presunto asesino en serie imita los asesinatos de sus novelas. Colaborando en este primer caso con la detective Kate Beckett, encuentra en ella la inspiración para un nueva series de libros y decide acompañarla en sus nuevos casos(n)</desc>
+    <credits>
+      <actor>Molly C. Quinn</actor>
+      <actor>Nathan Fillion</actor>
+      <actor>Stana Katic</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160116140000 -0600" stop="20160116150000 -0600" channel="AXN HD">
+    <title lang="es">Castle</title>
+    <sub-title lang="es">The Greater Good</sub-title>
+    <desc lang="es">Cuando el escritor de novelas de misterio Richard Castle se queda sin inspiración, ésta parece volver a llamar a su puerta cuando un presunto asesino en serie imita los asesinatos de sus novelas. Colaborando en este primer caso con la detective Kate Beckett, encuentra en ella la inspiración para un nueva series de libros y decide acompañarla en sus nuevos casos(n)</desc>
+    <credits>
+      <actor>Molly C. Quinn</actor>
+      <actor>Nathan Fillion</actor>
+      <actor>Stana Katic</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160116150000 -0600" stop="20160116160000 -0600" channel="AXN HD">
+    <title lang="es">CSI Miami</title>
+    <sub-title lang="es">G.O</sub-title>
+    <desc lang="es">Un equipo de investigadores forenses resolverán una gran cantidad de crímenes, combinando el uso de métodos científicos con el trabajo típico policial. Este equipo altamente calificado es dirigido por el Teniente Horatio Caine, un detective de homicidios que ahora debe resolver los crímenes de esta ciudad tropical(n)</desc>
+    <credits>
+      <actor>David Caruso</actor>
+      <actor>Emily Procter</actor>
+      <actor>Daniel Attias</actor>
+      <actor>Joe Chappelle</actor>
+      <actor>Scott Brazil</actor>
+      <actor>Adam Rodriguez</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160116160000 -0600" stop="20160116170000 -0600" channel="AXN HD">
+    <title lang="es">CSI Miami</title>
+    <sub-title lang="es">Mayday</sub-title>
+    <desc lang="es">Un equipo de investigadores forenses resolverán una gran cantidad de crímenes, combinando el uso de métodos científicos con el trabajo típico policial. Este equipo altamente calificado es dirigido por el Teniente Horatio Caine, un detective de homicidios que ahora debe resolver los crímenes de esta ciudad tropical(n)</desc>
+    <credits>
+      <actor>David Caruso</actor>
+      <actor>Emily Procter</actor>
+      <actor>Daniel Attias</actor>
+      <actor>Joe Chappelle</actor>
+      <actor>Scott Brazil</actor>
+      <actor>Adam Rodriguez</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160116170000 -0600" stop="20160116180000 -0600" channel="AXN HD">
+    <title lang="es">CSI Miami</title>
+    <sub-title lang="es">Countermeasures</sub-title>
+    <desc lang="es">Un equipo de investigadores forenses resolverán una gran cantidad de crímenes, combinando el uso de métodos científicos con el trabajo típico policial. Este equipo altamente calificado es dirigido por el Teniente Horatio Caine, un detective de homicidios que ahora debe resolver los crímenes de esta ciudad tropical(n)</desc>
+    <credits>
+      <actor>David Caruso</actor>
+      <actor>Emily Procter</actor>
+      <actor>Daniel Attias</actor>
+      <actor>Joe Chappelle</actor>
+      <actor>Scott Brazil</actor>
+      <actor>Adam Rodriguez</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160116180000 -0600" stop="20160116190000 -0600" channel="AXN HD">
+    <title lang="es">Crossing Lines</title>
+    <sub-title lang="es">Enemy of the People</sub-title>
+    <desc lang="es">Localizada en las ciudades más emocionantes y exóticas, "Crossing Lines" explora los estatutos de la Corte Penal Internacional, creando un equipo especial encargado de investigar crímenes que trascienden fronteras, para conseguir a los responsables y someterlos ante la justicia, dando inicio a una FBI global(n)</desc>
+    <credits>
+      <actor>Marc Lavoine</actor>
+      <actor>William Fichtner</actor>
+      <actor>Gabriella Pession</actor>
+      <actor>Daniel Percival</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Acción</category>
+  </programme>
+  <programme start="20160116190000 -0600" stop="20160116200000 -0600" channel="AXN HD">
+    <title lang="es">Mentes criminales</title>
+    <sub-title lang="es">Pariahville</sub-title>
+    <desc lang="es">La Unidad de Análisis Conductal es un grupo de élite del FBI que analiza las mentes criminales más peligrosas de la nación en un esfuerzo por anticipar posibles crímenes(n)</desc>
+    <credits>
+      <actor>Shemar Moore</actor>
+      <actor>A.J. Cook</actor>
+      <actor>Thomas Gibson</actor>
+      <actor>Matthew Gray Gubler</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160116200000 -0600" stop="20160116230000 -0600" channel="AXN HD">
+    <title lang="es">La caída del halcón negro</title>
+    <desc lang="es">Relato de un grupo de soldados americanos que fue enviado a Somalia, como parte de una operación de paz de las Naciones Unidas, porque tenían la misión de expulsar a dos de los mejores tenientes del caudillo Mohamed Farrah Aidid(n)</desc>
+    <credits>
+      <actor>Ewan McGregor</actor>
+      <actor>Ridley Scott</actor>
+      <actor>Tom Sizemore</actor>
+      <actor>Josh Hartnett</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160116230000 -0600" stop="20160117013000 -0600" channel="AXN HD">
+    <title lang="es">El último asalto</title>
+    <desc lang="es">Un reportero conoce a un vagabundo que afirma ser la leyenda del boxeo Bob Satterfield Intrigado por su historia, el reportero decide plasmarla en un artículo con el que alcanza la fama. Pero el éxito puede volverse en su contra(n)</desc>
+    <credits>
+      <actor>Dakota Goyo</actor>
+      <actor>Josh Hartnett</actor>
+      <actor>Samuel L. Jackson</actor>
+      <actor>Rod Lurie</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160117013000 -0600" stop="20160117043000 -0600" channel="AXN HD">
+    <title lang="es">La caída del halcón negro</title>
+    <desc lang="es">Relato de un grupo de soldados americanos que fue enviado a Somalia, como parte de una operación de paz de las Naciones Unidas, porque tenían la misión de expulsar a dos de los mejores tenientes del caudillo Mohamed Farrah Aidid(n)</desc>
+    <credits>
+      <actor>Ewan McGregor</actor>
+      <actor>Ridley Scott</actor>
+      <actor>Tom Sizemore</actor>
+      <actor>Josh Hartnett</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160117043000 -0600" stop="20160117050000 -0600" channel="AXN HD">
+    <title lang="es">AXN Flix Magazine</title>
+    <desc lang="es">Todo lo que sucede en la pantalla de AXN, estrenos, noticias, y detrás de escenas de las series y películas más taquilleras de Hollywood(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160117050000 -0600" stop="20160117060000 -0600" channel="AXN HD">
+    <title lang="es">NCIS: Investigación Criminal</title>
+    <sub-title lang="es">A man walks into a bar</sub-title>
+    <desc lang="es">Los agentes del Servicio de Investigación Criminal Naval (NCIS) tienen la misión de investigar cualquier prueba ligada a crímenes en la marina, sin considerar cargos ni puestos. Al frente del equipo está el agente especial Jethro Gibbs, quien lleva adelante su trabajo de una manera singular(n)</desc>
+    <credits>
+      <actor>Michael Weatherly</actor>
+      <actor>Mark Harmon</actor>
+      <actor>Sean Murray</actor>
+      <actor>David McCallum</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160117060000 -0600" stop="20160117070000 -0600" channel="AXN HD">
+    <title lang="es">Castle</title>
+    <sub-title lang="es">Hunt</sub-title>
+    <desc lang="es">Cuando el escritor de novelas de misterio Richard Castle se queda sin inspiración, ésta parece volver a llamar a su puerta cuando un presunto asesino en serie imita los asesinatos de sus novelas. Colaborando en este primer caso con la detective Kate Beckett, encuentra en ella la inspiración para un nueva series de libros y decide acompañarla en sus nuevos casos(n)</desc>
+    <credits>
+      <actor>Molly C. Quinn</actor>
+      <actor>Nathan Fillion</actor>
+      <actor>Stana Katic</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160117070000 -0600" stop="20160117080000 -0600" channel="AXN HD">
+    <title lang="es">CSI NY</title>
+    <sub-title lang="es">Times Up</sub-title>
+    <desc lang="es">El detective Mac Taylor es el jefe del Departamento de Criminalística en Nueva York. Junto a Stella Bonasera, Don Flack, Danny Messer y un gran equipo de detectives, busca acabar con los maleantes de la Gran Manzana. La experiencia y el instinto son armas poderosas en su lucha por detener la violencia(n)</desc>
+    <credits>
+      <actor>Gary Sinise</actor>
+      <actor>Melina Kanakaredes</actor>
+      <actor>Hill Harper</actor>
+      <actor>Carmine Giovinazzo</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160117080000 -0600" stop="20160117090000 -0600" channel="AXN HD">
+    <title lang="es">Mentes criminales</title>
+    <sub-title lang="es">Strange Fruit</sub-title>
+    <desc lang="es">La Unidad de Análisis Conductal es un grupo de élite del FBI que analiza las mentes criminales más peligrosas de la nación en un esfuerzo por anticipar posibles crímenes(n)</desc>
+    <credits>
+      <actor>Shemar Moore</actor>
+      <actor>A.J. Cook</actor>
+      <actor>Thomas Gibson</actor>
+      <actor>Matthew Gray Gubler</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160117090000 -0600" stop="20160117100000 -0600" channel="AXN HD">
+    <title lang="es">Castle</title>
+    <sub-title lang="es">In the Belly of the Beast</sub-title>
+    <desc lang="es">Cuando el escritor de novelas de misterio Richard Castle se queda sin inspiración, ésta parece volver a llamar a su puerta cuando un presunto asesino en serie imita los asesinatos de sus novelas. Colaborando en este primer caso con la detective Kate Beckett, encuentra en ella la inspiración para un nueva series de libros y decide acompañarla en sus nuevos casos(n)</desc>
+    <credits>
+      <actor>Molly C. Quinn</actor>
+      <actor>Nathan Fillion</actor>
+      <actor>Stana Katic</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160117100000 -0600" stop="20160117110000 -0600" channel="AXN HD">
+    <title lang="es">Castle</title>
+    <sub-title lang="es">The Way of the Ninja</sub-title>
+    <desc lang="es">Cuando el escritor de novelas de misterio Richard Castle se queda sin inspiración, ésta parece volver a llamar a su puerta cuando un presunto asesino en serie imita los asesinatos de sus novelas. Colaborando en este primer caso con la detective Kate Beckett, encuentra en ella la inspiración para un nueva series de libros y decide acompañarla en sus nuevos casos(n)</desc>
+    <credits>
+      <actor>Molly C. Quinn</actor>
+      <actor>Nathan Fillion</actor>
+      <actor>Stana Katic</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160117110000 -0600" stop="20160117120000 -0600" channel="AXN HD">
+    <title lang="es">Castle</title>
+    <sub-title lang="es">The Greater Good</sub-title>
+    <desc lang="es">Cuando el escritor de novelas de misterio Richard Castle se queda sin inspiración, ésta parece volver a llamar a su puerta cuando un presunto asesino en serie imita los asesinatos de sus novelas. Colaborando en este primer caso con la detective Kate Beckett, encuentra en ella la inspiración para un nueva series de libros y decide acompañarla en sus nuevos casos(n)</desc>
+    <credits>
+      <actor>Molly C. Quinn</actor>
+      <actor>Nathan Fillion</actor>
+      <actor>Stana Katic</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160117120000 -0600" stop="20160117130000 -0600" channel="AXN HD">
+    <title lang="es">CSI Miami</title>
+    <sub-title lang="es">G.O</sub-title>
+    <desc lang="es">Un equipo de investigadores forenses resolverán una gran cantidad de crímenes, combinando el uso de métodos científicos con el trabajo típico policial. Este equipo altamente calificado es dirigido por el Teniente Horatio Caine, un detective de homicidios que ahora debe resolver los crímenes de esta ciudad tropical(n)</desc>
+    <credits>
+      <actor>David Caruso</actor>
+      <actor>Emily Procter</actor>
+      <actor>Daniel Attias</actor>
+      <actor>Joe Chappelle</actor>
+      <actor>Scott Brazil</actor>
+      <actor>Adam Rodriguez</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160117130000 -0600" stop="20160117140000 -0600" channel="AXN HD">
+    <title lang="es">CSI Miami</title>
+    <sub-title lang="es">Mayday</sub-title>
+    <desc lang="es">Un equipo de investigadores forenses resolverán una gran cantidad de crímenes, combinando el uso de métodos científicos con el trabajo típico policial. Este equipo altamente calificado es dirigido por el Teniente Horatio Caine, un detective de homicidios que ahora debe resolver los crímenes de esta ciudad tropical(n)</desc>
+    <credits>
+      <actor>David Caruso</actor>
+      <actor>Emily Procter</actor>
+      <actor>Daniel Attias</actor>
+      <actor>Joe Chappelle</actor>
+      <actor>Scott Brazil</actor>
+      <actor>Adam Rodriguez</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160117140000 -0600" stop="20160117150000 -0600" channel="AXN HD">
+    <title lang="es">CSI Miami</title>
+    <sub-title lang="es">Countermeasures</sub-title>
+    <desc lang="es">Un equipo de investigadores forenses resolverán una gran cantidad de crímenes, combinando el uso de métodos científicos con el trabajo típico policial. Este equipo altamente calificado es dirigido por el Teniente Horatio Caine, un detective de homicidios que ahora debe resolver los crímenes de esta ciudad tropical(n)</desc>
+    <credits>
+      <actor>David Caruso</actor>
+      <actor>Emily Procter</actor>
+      <actor>Daniel Attias</actor>
+      <actor>Joe Chappelle</actor>
+      <actor>Scott Brazil</actor>
+      <actor>Adam Rodriguez</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160117150000 -0600" stop="20160117160000 -0600" channel="AXN HD">
+    <title lang="es">Mentes criminales</title>
+    <sub-title lang="es">Portero</sub-title>
+    <desc lang="es">La Unidad de Análisis Conductal es un grupo de élite del FBI que analiza las mentes criminales más peligrosas de la nación en un esfuerzo por anticipar posibles crímenes(n)</desc>
+    <credits>
+      <actor>Shemar Moore</actor>
+      <actor>A.J. Cook</actor>
+      <actor>Thomas Gibson</actor>
+      <actor>Matthew Gray Gubler</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160117160000 -0600" stop="20160117170000 -0600" channel="AXN HD">
+    <title lang="es">Mentes criminales</title>
+    <sub-title lang="es">El regreso</sub-title>
+    <desc lang="es">La Unidad de Análisis Conductal es un grupo de élite del FBI que analiza las mentes criminales más peligrosas de la nación en un esfuerzo por anticipar posibles crímenes(n)</desc>
+    <credits>
+      <actor>Shemar Moore</actor>
+      <actor>A.J. Cook</actor>
+      <actor>Thomas Gibson</actor>
+      <actor>Matthew Gray Gubler</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160117170000 -0600" stop="20160117180000 -0600" channel="AXN HD">
+    <title lang="es">Mentes criminales</title>
+    <sub-title lang="es">Strange Fruit</sub-title>
+    <desc lang="es">La Unidad de Análisis Conductal es un grupo de élite del FBI que analiza las mentes criminales más peligrosas de la nación en un esfuerzo por anticipar posibles crímenes(n)</desc>
+    <credits>
+      <actor>Shemar Moore</actor>
+      <actor>A.J. Cook</actor>
+      <actor>Thomas Gibson</actor>
+      <actor>Matthew Gray Gubler</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160117180000 -0600" stop="20160117190000 -0600" channel="AXN HD">
+    <title lang="es">NCIS: Investigación Criminal</title>
+    <sub-title lang="es">16 años</sub-title>
+    <desc lang="es">Los agentes del Servicio de Investigación Criminal Naval (NCIS) tienen la misión de investigar cualquier prueba ligada a crímenes en la marina, sin considerar cargos ni puestos. Al frente del equipo está el agente especial Jethro Gibbs, quien lleva adelante su trabajo de una manera singular(n)</desc>
+    <credits>
+      <actor>Michael Weatherly</actor>
+      <actor>Mark Harmon</actor>
+      <actor>Sean Murray</actor>
+      <actor>David McCallum</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160117190000 -0600" stop="20160117200000 -0600" channel="AXN HD">
+    <title lang="es">Scorpion</title>
+    <sub-title lang="es">Crazy Train</sub-title>
+    <desc lang="es">Walter O'Brien es un genio excéntrico que, empeñado en detener todas las amenazas del mundo moderno, recluta un equipo de jóvenes brillantes en diferentes aptitudes para dicha labor. Entre ellos se encuentran Happy Quinn, un erudito de la mecánica, Toby Curtis, una persona capaz de descubrir a cualquier persona en base a su comportamiento y, por último, Sylvester Dodd, un experto en estadística(n)</desc>
+    <category lang="es">Series</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160117200000 -0600" stop="20160117210000 -0600" channel="AXN HD">
+    <title lang="es">CSI Cyber</title>
+    <sub-title lang="es">Corrupted memory</sub-title>
+    <desc lang="es">Equipo de Delito Cibernético Los investigadores, encabezados por el agente especial Avery Ryan, del FBI, trabaja para resolver los casos de la red oscura. Avery, agente especial y ciberpsicóloga dirige un equipo que incluye al agente especial Elías Mundo, encargado de resolver asesinatos, ciber-robos, hackeos, infracciones de índole sexual y chantajes(n)</desc>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160117210000 -0600" stop="20160117233000 -0600" channel="AXN HD">
+    <title lang="es">El rio salvaje, de Curtis Hanson</title>
+    <desc lang="es">Gail, una experta balsista, viaja con su familia río abajo hacia su casa de campo. En el trayecto se encuentran con dos balsistas inexpertos quienes les piden ayuda para que los lleven a encontrarse con sus amigos, pero..(n)</desc>
+    <credits>
+      <actor>David Strathairn</actor>
+      <actor>Meryl Streep</actor>
+      <actor>Kevin Bacon</actor>
+      <actor>Curtis Hanson</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Acción</category>
+  </programme>
+  <programme start="20160117233000 -0600" stop="20160118020000 -0600" channel="AXN HD">
+    <title lang="es">El Hombre sin Sombra</title>
+    <desc lang="es">Un brillante científico se encuentra al frente de un proyecto para descubrir el secreto de la invisibilidad. Decide constatar los efectos en humanos, administrándoselo a si mismo(n)</desc>
+    <credits>
+      <actor>Elisabeth Shue</actor>
+      <actor>Kevin Bacon</actor>
+      <actor>Jimmie F. Skaggs</actor>
+      <actor>Paul Verhoeven</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Thriller</category>
+  </programme>
+  <programme start="20160118020000 -0600" stop="20160118043000 -0600" channel="AXN HD">
+    <title lang="es">El rio salvaje, de Curtis Hanson</title>
+    <desc lang="es">Gail, una experta balsista, viaja con su familia río abajo hacia su casa de campo. En el trayecto se encuentran con dos balsistas inexpertos quienes les piden ayuda para que los lleven a encontrarse con sus amigos, pero..(n)</desc>
+    <credits>
+      <actor>David Strathairn</actor>
+      <actor>Meryl Streep</actor>
+      <actor>Kevin Bacon</actor>
+      <actor>Curtis Hanson</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Acción</category>
+  </programme>
+  <programme start="20160118043000 -0600" stop="20160118050000 -0600" channel="AXN HD">
+    <title lang="es">AXN Flix Magazine</title>
+    <desc lang="es">Todo lo que sucede en la pantalla de AXN, estrenos, noticias, y detrás de escenas de las series y películas más taquilleras de Hollywood(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160118050000 -0600" stop="20160118060000 -0600" channel="AXN HD">
+    <title lang="es">NCIS: Investigación Criminal</title>
+    <sub-title lang="es">Defiance</sub-title>
+    <desc lang="es">Los agentes del Servicio de Investigación Criminal Naval (NCIS) tienen la misión de investigar cualquier prueba ligada a crímenes en la marina, sin considerar cargos ni puestos. Al frente del equipo está el agente especial Jethro Gibbs, quien lleva adelante su trabajo de una manera singular(n)</desc>
+    <credits>
+      <actor>Michael Weatherly</actor>
+      <actor>Mark Harmon</actor>
+      <actor>Sean Murray</actor>
+      <actor>David McCallum</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160118060000 -0600" stop="20160118070000 -0600" channel="AXN HD">
+    <title lang="es">Castle</title>
+    <sub-title lang="es">Scared To Death</sub-title>
+    <desc lang="es">Cuando el escritor de novelas de misterio Richard Castle se queda sin inspiración, ésta parece volver a llamar a su puerta cuando un presunto asesino en serie imita los asesinatos de sus novelas. Colaborando en este primer caso con la detective Kate Beckett, encuentra en ella la inspiración para un nueva series de libros y decide acompañarla en sus nuevos casos(n)</desc>
+    <credits>
+      <actor>Molly C. Quinn</actor>
+      <actor>Nathan Fillion</actor>
+      <actor>Stana Katic</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160118070000 -0600" stop="20160118080000 -0600" channel="AXN HD">
+    <title lang="es">CSI NY</title>
+    <sub-title lang="es">Down The Rabbit Hole</sub-title>
+    <desc lang="es">El detective Mac Taylor es el jefe del Departamento de Criminalística en Nueva York. Junto a Stella Bonasera, Don Flack, Danny Messer y un gran equipo de detectives, busca acabar con los maleantes de la Gran Manzana. La experiencia y el instinto son armas poderosas en su lucha por detener la violencia(n)</desc>
+    <credits>
+      <actor>Gary Sinise</actor>
+      <actor>Melina Kanakaredes</actor>
+      <actor>Hill Harper</actor>
+      <actor>Carmine Giovinazzo</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160118080000 -0600" stop="20160118090000 -0600" channel="AXN HD">
+    <title lang="es">Mentes criminales</title>
+    <sub-title lang="es">El llamante</sub-title>
+    <desc lang="es">La Unidad de Análisis Conductal es un grupo de élite del FBI que analiza las mentes criminales más peligrosas de la nación en un esfuerzo por anticipar posibles crímenes(n)</desc>
+    <credits>
+      <actor>Shemar Moore</actor>
+      <actor>A.J. Cook</actor>
+      <actor>Thomas Gibson</actor>
+      <actor>Matthew Gray Gubler</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160118090000 -0600" stop="20160118100000 -0600" channel="AXN HD">
+    <title lang="es">Unforgettable</title>
+    <sub-title lang="es">Days of the Jackie</sub-title>
+    <desc lang="es">Carrie Wells es capaz de recordar cada cosa, lugar y persona, excepto los detalles que pudieran develar el misterio detrás de la muerte de su hermana. Luego de tomarse un tiempo retoma sus labores como detective y le ofrecen unirse al equipo de su ex-novio Al Burns, en el departamento de policías de Nueva York. Carrie acepta a pesar de las diferencias que tiene con Burns. Su mayor interés es encontrar el asesino de su hermana, pero para eso tiene que empezar a recordar(n)</desc>
+    <credits>
+      <actor>Michael Gaston</actor>
+      <actor>Dylan Walsh</actor>
+      <actor>Poppy Montgomery</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160118100000 -0600" stop="20160118110000 -0600" channel="AXN HD">
+    <title lang="es">CSI Miami</title>
+    <sub-title lang="es">Divorce Party</sub-title>
+    <desc lang="es">Un equipo de investigadores forenses resolverán una gran cantidad de crímenes, combinando el uso de métodos científicos con el trabajo típico policial. Este equipo altamente calificado es dirigido por el Teniente Horatio Caine, un detective de homicidios que ahora debe resolver los crímenes de esta ciudad tropical(n)</desc>
+    <credits>
+      <actor>David Caruso</actor>
+      <actor>Emily Procter</actor>
+      <actor>Daniel Attias</actor>
+      <actor>Joe Chappelle</actor>
+      <actor>Scott Brazil</actor>
+      <actor>Adam Rodriguez</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160118110000 -0600" stop="20160118120000 -0600" channel="AXN HD">
+    <title lang="es">NCIS: Investigación Criminal</title>
+    <sub-title lang="es">Kill screen</sub-title>
+    <desc lang="es">Los agentes del Servicio de Investigación Criminal Naval (NCIS) tienen la misión de investigar cualquier prueba ligada a crímenes en la marina, sin considerar cargos ni puestos. Al frente del equipo está el agente especial Jethro Gibbs, quien lleva adelante su trabajo de una manera singular(n)</desc>
+    <credits>
+      <actor>Michael Weatherly</actor>
+      <actor>Mark Harmon</actor>
+      <actor>Sean Murray</actor>
+      <actor>David McCallum</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160118120000 -0600" stop="20160118130000 -0600" channel="AXN HD">
+    <title lang="es">CSI Las Vegas</title>
+    <sub-title lang="es">Code Blue Plate Special</sub-title>
+    <desc lang="es">Un equipo de investigadores forenses y criminólogos será el encargado de resolver los misterios que envuelven la ciudad de Las Vegas, recorriendo las escenas del crimen, recogiendo pruebas irrefutables y encontrando las piezas perdidas(n)</desc>
+    <credits>
+      <actor>Marg Helgenberger</actor>
+      <actor>George Eads</actor>
+      <actor>Eric Szmanda</actor>
+      <actor>Paul Guilfoyle</actor>
+      <actor>Robert David Hall</actor>
+      <actor>Jorja Fox</actor>
+      <actor>Wallace Langham</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160118130000 -0600" stop="20160118140000 -0600" channel="AXN HD">
+    <title lang="es">Castle</title>
+    <sub-title lang="es">Scared To Death</sub-title>
+    <desc lang="es">Cuando el escritor de novelas de misterio Richard Castle se queda sin inspiración, ésta parece volver a llamar a su puerta cuando un presunto asesino en serie imita los asesinatos de sus novelas. Colaborando en este primer caso con la detective Kate Beckett, encuentra en ella la inspiración para un nueva series de libros y decide acompañarla en sus nuevos casos(n)</desc>
+    <credits>
+      <actor>Molly C. Quinn</actor>
+      <actor>Nathan Fillion</actor>
+      <actor>Stana Katic</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160118140000 -0600" stop="20160118150000 -0600" channel="AXN HD">
+    <title lang="es">Unforgettable</title>
+    <sub-title lang="es">Days of the Jackie</sub-title>
+    <desc lang="es">Carrie Wells es capaz de recordar cada cosa, lugar y persona, excepto los detalles que pudieran develar el misterio detrás de la muerte de su hermana. Luego de tomarse un tiempo retoma sus labores como detective y le ofrecen unirse al equipo de su ex-novio Al Burns, en el departamento de policías de Nueva York. Carrie acepta a pesar de las diferencias que tiene con Burns. Su mayor interés es encontrar el asesino de su hermana, pero para eso tiene que empezar a recordar(n)</desc>
+    <credits>
+      <actor>Michael Gaston</actor>
+      <actor>Dylan Walsh</actor>
+      <actor>Poppy Montgomery</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160118150000 -0600" stop="20160118160000 -0600" channel="AXN HD">
+    <title lang="es">Mentes criminales</title>
+    <sub-title lang="es">El llamante</sub-title>
+    <desc lang="es">La Unidad de Análisis Conductal es un grupo de élite del FBI que analiza las mentes criminales más peligrosas de la nación en un esfuerzo por anticipar posibles crímenes(n)</desc>
+    <credits>
+      <actor>Shemar Moore</actor>
+      <actor>A.J. Cook</actor>
+      <actor>Thomas Gibson</actor>
+      <actor>Matthew Gray Gubler</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160118160000 -0600" stop="20160118170000 -0600" channel="AXN HD">
+    <title lang="es">NCIS: Investigación Criminal</title>
+    <sub-title lang="es">Kill screen</sub-title>
+    <desc lang="es">Los agentes del Servicio de Investigación Criminal Naval (NCIS) tienen la misión de investigar cualquier prueba ligada a crímenes en la marina, sin considerar cargos ni puestos. Al frente del equipo está el agente especial Jethro Gibbs, quien lleva adelante su trabajo de una manera singular(n)</desc>
+    <credits>
+      <actor>Michael Weatherly</actor>
+      <actor>Mark Harmon</actor>
+      <actor>Sean Murray</actor>
+      <actor>David McCallum</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160118170000 -0600" stop="20160118180000 -0600" channel="AXN HD">
+    <title lang="es">CSI NY</title>
+    <sub-title lang="es">Down The Rabbit Hole</sub-title>
+    <desc lang="es">El detective Mac Taylor es el jefe del Departamento de Criminalística en Nueva York. Junto a Stella Bonasera, Don Flack, Danny Messer y un gran equipo de detectives, busca acabar con los maleantes de la Gran Manzana. La experiencia y el instinto son armas poderosas en su lucha por detener la violencia(n)</desc>
+    <credits>
+      <actor>Gary Sinise</actor>
+      <actor>Melina Kanakaredes</actor>
+      <actor>Hill Harper</actor>
+      <actor>Carmine Giovinazzo</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160118180000 -0600" stop="20160118190000 -0600" channel="AXN HD">
+    <title lang="es">CSI Las Vegas</title>
+    <sub-title lang="es">Code Blue Plate Special</sub-title>
+    <desc lang="es">Un equipo de investigadores forenses y criminólogos será el encargado de resolver los misterios que envuelven la ciudad de Las Vegas, recorriendo las escenas del crimen, recogiendo pruebas irrefutables y encontrando las piezas perdidas(n)</desc>
+    <credits>
+      <actor>Marg Helgenberger</actor>
+      <actor>George Eads</actor>
+      <actor>Eric Szmanda</actor>
+      <actor>Paul Guilfoyle</actor>
+      <actor>Robert David Hall</actor>
+      <actor>Jorja Fox</actor>
+      <actor>Wallace Langham</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160118190000 -0600" stop="20160118200000 -0600" channel="AXN HD">
+    <title lang="es">CSI Miami</title>
+    <sub-title lang="es">Divorce Party</sub-title>
+    <desc lang="es">Un equipo de investigadores forenses resolverán una gran cantidad de crímenes, combinando el uso de métodos científicos con el trabajo típico policial. Este equipo altamente calificado es dirigido por el Teniente Horatio Caine, un detective de homicidios que ahora debe resolver los crímenes de esta ciudad tropical(n)</desc>
+    <credits>
+      <actor>David Caruso</actor>
+      <actor>Emily Procter</actor>
+      <actor>Daniel Attias</actor>
+      <actor>Joe Chappelle</actor>
+      <actor>Scott Brazil</actor>
+      <actor>Adam Rodriguez</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160118200000 -0600" stop="20160118210000 -0600" channel="AXN HD">
+    <title lang="es">Mentes criminales</title>
+    <sub-title lang="es">El llamante</sub-title>
+    <desc lang="es">La Unidad de Análisis Conductal es un grupo de élite del FBI que analiza las mentes criminales más peligrosas de la nación en un esfuerzo por anticipar posibles crímenes(n)</desc>
+    <credits>
+      <actor>Shemar Moore</actor>
+      <actor>A.J. Cook</actor>
+      <actor>Thomas Gibson</actor>
+      <actor>Matthew Gray Gubler</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160118210000 -0600" stop="20160118220000 -0600" channel="AXN HD">
+    <title lang="es">Crossing Lines</title>
+    <sub-title lang="es">Penalty</sub-title>
+    <desc lang="es">Localizada en las ciudades más emocionantes y exóticas, "Crossing Lines" explora los estatutos de la Corte Penal Internacional, creando un equipo especial encargado de investigar crímenes que trascienden fronteras, para conseguir a los responsables y someterlos ante la justicia, dando inicio a una FBI global(n)</desc>
+    <credits>
+      <actor>Marc Lavoine</actor>
+      <actor>William Fichtner</actor>
+      <actor>Gabriella Pession</actor>
+      <actor>Daniel Percival</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Acción</category>
+  </programme>
+  <programme start="20160118220000 -0600" stop="20160118230000 -0600" channel="AXN HD">
     <title lang="es">Mentes criminales</title>
     <sub-title lang="es">Target Rich</sub-title>
     <desc lang="es">La Unidad de Análisis Conductal es un grupo de élite del FBI que analiza las mentes criminales más peligrosas de la nación en un esfuerzo por anticipar posibles crímenes(n)</desc>
