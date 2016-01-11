@@ -118,6 +118,7 @@
   </channel>
   <channel id="Canal Capital 21">
     <display-name lang="es">Canal Capital 21</display-name>
+    <icon src="http://x.cdn.entutele.com/media/channels/big/canal-capital-21.gif" />
     <url>http://www.entutele.com</url>
   </channel>
   <channel id="Cartoon Network">
@@ -35831,5 +35832,1683 @@
     </credits>
     <category lang="es">Variedades</category>
     <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20160111063000 -0600" stop="20160111070000 -0600" channel="Canal Capital 21">
+    <title lang="es">Yoga para la libertad</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160111070000 -0600" stop="20160111070500 -0600" channel="Canal Capital 21">
+    <title lang="es">Reporte vial</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Interés General</category>
+  </programme>
+  <programme start="20160111070500 -0600" stop="20160111073000 -0600" channel="Canal Capital 21">
+    <title lang="es">Yoga para la libertad</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160111073000 -0600" stop="20160111090000 -0600" channel="Canal Capital 21">
+    <title lang="es">A tiempo 21 - 7 AM</title>
+    <desc lang="es">Noticieros con la mejor información para los habitantes de la CDMX en tres emisiones: 7:00 AM, 2:30 PM y 9:00 PM(n)</desc>
+    <credits>
+      <actor>Paulina Silva</actor>
+      <actor>Alejandro Broff</actor>
+      <actor>Adria Morales</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160111090000 -0600" stop="20160111110000 -0600" channel="Canal Capital 21">
+    <title lang="es">Tu ciudad es...</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160111110000 -0600" stop="20160111110500 -0600" channel="Canal Capital 21">
+    <title lang="es">Reporte vial</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Interés General</category>
+  </programme>
+  <programme start="20160111110500 -0600" stop="20160111113000 -0600" channel="Canal Capital 21">
+    <title lang="es">Saludarte</title>
+    <desc lang="es">El proyecto consiste en promover los valores entre los menores, además de brindarles una formación en las artes, nutrición y actividad física, para así formar niños más sanos en cuerpo y mente(n)</desc>
+    <category lang="es">Cocina, hogar y salud</category>
+    <category lang="es">Salud</category>
+  </programme>
+  <programme start="20160111113000 -0600" stop="20160111113500 -0600" channel="Canal Capital 21">
+    <title lang="es">Corte informativo</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160111113500 -0600" stop="20160111120000 -0600" channel="Canal Capital 21">
+    <title lang="es">Atrévete a ser turista en tu estado</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Destinos</category>
+  </programme>
+  <programme start="20160111120000 -0600" stop="20160111123000 -0600" channel="Canal Capital 21">
+    <title lang="es">Agro Notícias</title>
+    <desc lang="es">Revista informativa sobre el campo mexicano con el propósito informativo de contribuir al extensionismo agrícola y pesquero. Su objetivo es educativo y formativo(n)</desc>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160111123000 -0600" stop="20160111123500 -0600" channel="Canal Capital 21">
+    <title lang="es">Reporte vial</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Interés General</category>
+  </programme>
+  <programme start="20160111123500 -0600" stop="20160111133000 -0600" channel="Canal Capital 21">
+    <title lang="es">Línea médica</title>
+    <category lang="es">Cocina, hogar y salud</category>
+    <category lang="es">Salud</category>
+  </programme>
+  <programme start="20160111133000 -0600" stop="20160111140000 -0600" channel="Canal Capital 21">
+    <title lang="es">En forma</title>
+    <desc lang="es">En forma es el magacín de salud de Deutsche Welle, un espacio dedicado a lo más interesante del mundo de la medicina y el bienestar. Vida sana y prevención son aquí los temas principales, y se tratan tanto desde el punto de vista de la medicina tradicional como de las terapias alternativas. Presentadores y reconocidos expertos en alimentación, fitness y belleza, aportan consejos para estar en forma(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Salud</category>
+  </programme>
+  <programme start="20160111140000 -0600" stop="20160111140500 -0600" channel="Canal Capital 21">
+    <title lang="es">Corte informativo</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160111140500 -0600" stop="20160111141500 -0600" channel="Canal Capital 21">
+    <title lang="es">Atomun</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160111141500 -0600" stop="20160111142000 -0600" channel="Canal Capital 21">
+    <title lang="es">Reporte vial</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Interés General</category>
+  </programme>
+  <programme start="20160111142000 -0600" stop="20160111143000 -0600" channel="Canal Capital 21">
+    <title lang="es">Atomun</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160111143000 -0600" stop="20160111143500 -0600" channel="Canal Capital 21">
+    <title lang="es">Reporte vial</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Interés General</category>
+  </programme>
+  <programme start="20160111143500 -0600" stop="20160111144500 -0600" channel="Canal Capital 21">
+    <title lang="es">Barrios mágicos</title>
+    <desc lang="es">La Ciudad de México te invita que descubras su magia, nuestra ciudad cuenta con sitios encantadores que seguramente te impactará, espacios históricos que viven dentro de esta metrópoli y que al mezclarse con su modernidad crean contrastes increíbles. Éste, es un buen momento para conocer parte de su historia, convive con la tradición, disfruta de sus hermosas costumbres, a partir de ahora viajarás por los 21 Barrios Mágicos que guarda el Distrito Federal y que son para ti. La ciudad de México te ofrece espacios donde se respira historia, sus calles guardan fielmente la memoria de los que en otros tiempos fueran espacios dedicados a la religión y a las manifestaciones artísticas en sus diferentes géneros, sus habitantes guardan fielmente estas tradiciones y las comparten con los visitantes, conservando intacto su pasado, sus raíces y su profunda historia(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Destinos</category>
+  </programme>
+  <programme start="20160111144500 -0600" stop="20160111150000 -0600" channel="Canal Capital 21">
+    <title lang="es">El Chango y la Chancla</title>
+    <desc lang="es">Serie animada para niños, donde “La Chancla” (una niña entre 9 y 10 años) y “El Chango” (un changuito de entre 6 y 7 años) nos muestran, a través de sus divertidas aventuras, una metáfora de los conflictos que a diario tiene que resolver entre si los hermanos y amigos. El Chango es un ser muy divertido, se toma las cosas a la ligera pero es muy ingenioso para conseguir lo que desea. Lo que más le gusta es comer conchas de chocolate. La Chancla por su parte tiene toda la personalidad de la hermana mayor. Es muy consciente de sí misma y hace todo, según ella, casi perfectamente. La Chancla tiene una pasión en la vida: los libros. Siempre trae un libro bajo el brazo y cada vez que puede se sienta a leer. La serie de televisión está concebida como un proyecto que destaque del resto de las prod(n)</desc>
+    <category lang="es">Infantiles</category>
+    <category lang="es">D.Animados</category>
+  </programme>
+  <programme start="20160111150000 -0600" stop="20160111153000 -0600" channel="Canal Capital 21">
+    <title lang="es">Club de la galaxia</title>
+    <desc lang="es">El Club de la Galaxia es un espacio para que todos los niños se diviertan. El programa tiene las secciones más entretenidas con las que puedes descubrir un universo diferente y lleno de aventuras. Podrás ver los reportajes más interesantes en "Recórcholis y carambolas". Aprende a crear juguetes y manualidades de todo tipo en "De chinches y cachivaches". La importancia de ser niño en "Pasitos derechos". Conocer a nuestras familias en "De parientes y cuates" y entrevistas de todo tipo en "Cotorreando con…" Por solo mencionar una parte de todo lo que tenemos para ti(n)</desc>
+    <credits>
+      <actor>Adriana</actor>
+      <actor>César</actor>
+      <actor>. Nahual</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160111153000 -0600" stop="20160111160000 -0600" channel="Canal Capital 21">
+    <title lang="es">The Planet of the Karushitos</title>
+    <credits>
+      <actor>Víctor Fernández</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160111160000 -0600" stop="20160111163000 -0600" channel="Canal Capital 21">
+    <title lang="es">Fundación Albatros</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160111163000 -0600" stop="20160111170000 -0600" channel="Canal Capital 21">
+    <title lang="es">Fundación Albatros</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160111170000 -0600" stop="20160111173000 -0600" channel="Canal Capital 21">
+    <title lang="es">Journal Noticias DW</title>
+    <desc lang="es">Transmitido en vivo desde Berlín, Alemania, el Journal Deutsche Welle es un noticiero que incluye la información política, económica, cultural y deportiva más relevante de los países miembros de la Comunidad Europea. Journal Noticias DW aborda diariamente, con una cobertura especial, la noticia que se convirtió en tema del día en el mundo entero(n)</desc>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160111173000 -0600" stop="20160111180000 -0600" channel="Canal Capital 21">
+    <title lang="es">México en FA</title>
+    <desc lang="es">Recorre las calles de la Ciudad de México de la mano de México en Fa, programa que transmite de una manera coloquial e histórica los lugares más significativos de nuestra urbe(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Cultural</category>
+  </programme>
+  <programme start="20160111180000 -0600" stop="20160111180500 -0600" channel="Canal Capital 21">
+    <title lang="es">Reporte vial</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Interés General</category>
+  </programme>
+  <programme start="20160111180500 -0600" stop="20160111183000 -0600" channel="Canal Capital 21">
+    <title lang="es">Sin # de serie</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160111183000 -0600" stop="20160111190000 -0600" channel="Canal Capital 21">
+    <title lang="es">Retos y desafíos</title>
+    <desc lang="es">Retos y desafíos es un programa enfocado a resaltar la labor, dedicación, esfuerzo, trascendencia y perspectivas, que organizaciones y asociaciones civiles, así como instituciones públicas, realizan en favor de la sociedad(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160111190000 -0600" stop="20160111190500 -0600" channel="Canal Capital 21">
+    <title lang="es">Avance informativo</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160111190500 -0600" stop="20160111200000 -0600" channel="Canal Capital 21">
+    <title lang="es">Guitarras de otoño</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160111200000 -0600" stop="20160111203000 -0600" channel="Canal Capital 21">
+    <title lang="es">Miradas</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20160111203000 -0600" stop="20160111210000 -0600" channel="Canal Capital 21">
+    <title lang="es">Tesoros del Golfo de California</title>
+    <desc lang="es">Documental producido por la Fundación Albatros Media que trata de vincular la cultura con la conservación donde se conecta la naturaleza con la reflexión de la diversidad de especies vegetales y animales que viven en el Golfo de California. Algunos testimonios de habitantes de la Baja California Sur comparten sus vivencia de las consecuencias del impacto del huracán Odil que cambió el paisaje y la vida en los pueblo de La Paz. Visita a las Fuentes de agua que nacen en las alturas de la Sierra de la Laguna(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160111210000 -0600" stop="20160111213000 -0600" channel="Canal Capital 21">
+    <title lang="es">Noticias 24h</title>
+    <desc lang="es">Información continua, nacional e internacional, 24 horas, los 365 días del año(n)</desc>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160111213000 -0600" stop="20160111220000 -0600" channel="Canal Capital 21">
+    <title lang="es">A tiempo 21 - 21 PM</title>
+    <desc lang="es">Noticieros con la mejor información para los habitantes de la CDMX en tres emisiones: 7:00 AM, 2:30 PM y 9:00 PM(n)</desc>
+    <credits>
+      <actor>Eduardo Blancas</actor>
+      <actor>Ricardo Magallan</actor>
+      <actor>Berenice Trujillo</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160111220000 -0600" stop="20160111221500 -0600" channel="Canal Capital 21">
+    <title lang="es">Historia CDMX</title>
+    <category lang="es">Culturales</category>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160111221500 -0600" stop="20160111230000 -0600" channel="Canal Capital 21">
+    <title lang="es">Europa en concierto</title>
+    <desc lang="es">El formato musical Europa en concierto ofrece las actuaciones más apasionantes de los mejores músicos de pop y rock de Europa. Estrellas consagradas y jóvenes valores en alza(n)</desc>
+    <category lang="es">Musicales</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160111230000 -0600" stop="20160112000000 -0600" channel="Canal Capital 21">
+    <title lang="es">Himno Nacional</title>
+    <category lang="es">Culturales</category>
+    <category lang="es">Cultural</category>
+  </programme>
+  <programme start="20160112000000 -0600" stop="20160112060000 -0600" channel="Canal Capital 21">
+    <title lang="es">Fin de transmisión</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Interés General</category>
+  </programme>
+  <programme start="20160112060000 -0600" stop="20160112063000 -0600" channel="Canal Capital 21">
+    <title lang="es">Himno Nacional</title>
+    <category lang="es">Culturales</category>
+    <category lang="es">Cultural</category>
+  </programme>
+  <programme start="20160112063000 -0600" stop="20160112070000 -0600" channel="Canal Capital 21">
+    <title lang="es">Yoga para la libertad</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160112070000 -0600" stop="20160112070500 -0600" channel="Canal Capital 21">
+    <title lang="es">Reporte vial</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Interés General</category>
+  </programme>
+  <programme start="20160112070500 -0600" stop="20160112073000 -0600" channel="Canal Capital 21">
+    <title lang="es">Yoga para la libertad</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160112073000 -0600" stop="20160112090000 -0600" channel="Canal Capital 21">
+    <title lang="es">A tiempo 21 - 7 AM</title>
+    <desc lang="es">Noticieros con la mejor información para los habitantes de la CDMX en tres emisiones: 7:00 AM, 2:30 PM y 9:00 PM(n)</desc>
+    <credits>
+      <actor>Paulina Silva</actor>
+      <actor>Alejandro Broff</actor>
+      <actor>Adria Morales</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160112090000 -0600" stop="20160112110000 -0600" channel="Canal Capital 21">
+    <title lang="es">Tu ciudad es...</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160112110000 -0600" stop="20160112110500 -0600" channel="Canal Capital 21">
+    <title lang="es">Reporte vial</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Interés General</category>
+  </programme>
+  <programme start="20160112110500 -0600" stop="20160112113000 -0600" channel="Canal Capital 21">
+    <title lang="es">La hora de comer</title>
+    <desc lang="es">La hora de comer lleva hasta tí prácticas y deliciosas recetas sugeridas por los cheff expertos de Aguascalientes(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Cocina</category>
+  </programme>
+  <programme start="20160112113000 -0600" stop="20160112113500 -0600" channel="Canal Capital 21">
+    <title lang="es">Corte informativo</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160112113500 -0600" stop="20160112120000 -0600" channel="Canal Capital 21">
+    <title lang="es">Kiosco</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160112120000 -0600" stop="20160112123000 -0600" channel="Canal Capital 21">
+    <title lang="es">Agro Notícias</title>
+    <desc lang="es">Revista informativa sobre el campo mexicano con el propósito informativo de contribuir al extensionismo agrícola y pesquero. Su objetivo es educativo y formativo(n)</desc>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160112123000 -0600" stop="20160112123500 -0600" channel="Canal Capital 21">
+    <title lang="es">Reporte vial</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Interés General</category>
+  </programme>
+  <programme start="20160112123500 -0600" stop="20160112130000 -0600" channel="Canal Capital 21">
+    <title lang="es">Nómada</title>
+    <desc lang="es">Visitamos lugares disímbolos como: una cafetería, un jardín en azotea, museos, exposiciones fotográficas, una exhibición de lucha libre o muestra de cine, entre otras, con la finalidad de divulgar la cultura urbana(n)</desc>
+    <credits>
+      <actor>Ximbo</actor>
+      <actor>Cañas</actor>
+    </credits>
+    <category lang="es">Culturales</category>
+    <category lang="es">Cultural</category>
+  </programme>
+  <programme start="20160112130000 -0600" stop="20160112133000 -0600" channel="Canal Capital 21">
+    <title lang="es">Sin # de serie</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160112133000 -0600" stop="20160112140000 -0600" channel="Canal Capital 21">
+    <title lang="es">Artesanos</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160112140000 -0600" stop="20160112140500 -0600" channel="Canal Capital 21">
+    <title lang="es">Corte informativo</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160112140500 -0600" stop="20160112141500 -0600" channel="Canal Capital 21">
+    <title lang="es">Hazañas</title>
+    <desc lang="es">Personajes que forman parte de la historia de la literatura, el cine y el teatro, dan testimonio de su vida a través de sus anécdotas y aspectos de las obras que han marcado su trayectoria profesional(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entrevista</category>
+  </programme>
+  <programme start="20160112141500 -0600" stop="20160112142000 -0600" channel="Canal Capital 21">
+    <title lang="es">Reporte vial</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Interés General</category>
+  </programme>
+  <programme start="20160112142000 -0600" stop="20160112143000 -0600" channel="Canal Capital 21">
+    <title lang="es">Hazañas</title>
+    <desc lang="es">Personajes que forman parte de la historia de la literatura, el cine y el teatro, dan testimonio de su vida a través de sus anécdotas y aspectos de las obras que han marcado su trayectoria profesional(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entrevista</category>
+  </programme>
+  <programme start="20160112143000 -0600" stop="20160112143500 -0600" channel="Canal Capital 21">
+    <title lang="es">Reporte vial</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Interés General</category>
+  </programme>
+  <programme start="20160112143500 -0600" stop="20160112144500 -0600" channel="Canal Capital 21">
+    <title lang="es">Tesoros develados</title>
+    <category lang="es">Culturales</category>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160112144500 -0600" stop="20160112150000 -0600" channel="Canal Capital 21">
+    <title lang="es">El Chango y la Chancla</title>
+    <desc lang="es">Serie animada para niños, donde “La Chancla” (una niña entre 9 y 10 años) y “El Chango” (un changuito de entre 6 y 7 años) nos muestran, a través de sus divertidas aventuras, una metáfora de los conflictos que a diario tiene que resolver entre si los hermanos y amigos. El Chango es un ser muy divertido, se toma las cosas a la ligera pero es muy ingenioso para conseguir lo que desea. Lo que más le gusta es comer conchas de chocolate. La Chancla por su parte tiene toda la personalidad de la hermana mayor. Es muy consciente de sí misma y hace todo, según ella, casi perfectamente. La Chancla tiene una pasión en la vida: los libros. Siempre trae un libro bajo el brazo y cada vez que puede se sienta a leer. La serie de televisión está concebida como un proyecto que destaque del resto de las prod(n)</desc>
+    <category lang="es">Infantiles</category>
+    <category lang="es">D.Animados</category>
+  </programme>
+  <programme start="20160112150000 -0600" stop="20160112160000 -0600" channel="Canal Capital 21">
+    <title lang="es">Serpientes y escaleras</title>
+    <desc lang="es">Es un programa de concurso de conocimientos y pruebas físicas dirigido a jóvenes, donde compiten dos equipos. Este programa tiene el fin de fomentar la creatividad, la toma de decisiones y el gusto por el estudio(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Educativo</category>
+  </programme>
+  <programme start="20160112160000 -0600" stop="20160112163000 -0600" channel="Canal Capital 21">
+    <title lang="es">Fundación Albatros</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160112163000 -0600" stop="20160112170000 -0600" channel="Canal Capital 21">
+    <title lang="es">Fundación Albatros</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160112170000 -0600" stop="20160112173000 -0600" channel="Canal Capital 21">
+    <title lang="es">Journal Noticias DW</title>
+    <desc lang="es">Transmitido en vivo desde Berlín, Alemania, el Journal Deutsche Welle es un noticiero que incluye la información política, económica, cultural y deportiva más relevante de los países miembros de la Comunidad Europea. Journal Noticias DW aborda diariamente, con una cobertura especial, la noticia que se convirtió en tema del día en el mundo entero(n)</desc>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160112173000 -0600" stop="20160112180000 -0600" channel="Canal Capital 21">
+    <title lang="es">¡Qué bonito es lo bonito!</title>
+    <desc lang="es">El escritor Armando Ramírez, llevará al público a recorrer la diversidad de la cultura popular mexicana a través de sus tradiciones, costumbres, comida, fiestas y vida cotidiana. Cada tema será tratado de manera particular y especifica según la tradición y costumbre, el lugar donde se desarrolle la historia y los personajes que en ella aparezcan. En cada capítulo, se insertarán espacios con información y datos que ejemplifiquen por qué dicha tradición o costumbre es 100% mexicana(n)</desc>
+    <credits>
+      <actor>Armando Ramírez</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160112180000 -0600" stop="20160112180500 -0600" channel="Canal Capital 21">
+    <title lang="es">Reporte vial</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Interés General</category>
+  </programme>
+  <programme start="20160112180500 -0600" stop="20160112190000 -0600" channel="Canal Capital 21">
+    <title lang="es">Artas plastas</title>
+    <desc lang="es">Artas Plastas es un espacio televisivo para difundir el arte de Morelia hacia el mundo(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160112190000 -0600" stop="20160112190500 -0600" channel="Canal Capital 21">
+    <title lang="es">Avance informativo</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160112190500 -0600" stop="20160112193000 -0600" channel="Canal Capital 21">
+    <title lang="es">Jazz estacionario</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160112193000 -0600" stop="20160112200000 -0600" channel="Canal Capital 21">
+    <title lang="es">El impulso de la creación musical</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160112200000 -0600" stop="20160112203000 -0600" channel="Canal Capital 21">
+    <title lang="es">¡Aquí estoy!</title>
+    <desc lang="es">Programa en el que Pía Castro conversará con hispanohablantes que construyen puentes entre Europa y Latinoamérica. Un equipo de Deutsche Welle sale a las calles a filmar a estas personas en los lugares que más les gustan y hacer de ello encuentros inolvidables. Historias de migración, de integración y de éxito; de arte, de política o de folclor; pero, sobre todo, historias personales(n)</desc>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160112203000 -0600" stop="20160112210000 -0600" channel="Canal Capital 21">
+    <title lang="es">Atomun</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160112210000 -0600" stop="20160112213000 -0600" channel="Canal Capital 21">
+    <title lang="es">Noticias 24h</title>
+    <desc lang="es">Información continua, nacional e internacional, 24 horas, los 365 días del año(n)</desc>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160112213000 -0600" stop="20160112220000 -0600" channel="Canal Capital 21">
+    <title lang="es">A tiempo 21 - 21 PM</title>
+    <desc lang="es">Noticieros con la mejor información para los habitantes de la CDMX en tres emisiones: 7:00 AM, 2:30 PM y 9:00 PM(n)</desc>
+    <credits>
+      <actor>Eduardo Blancas</actor>
+      <actor>Ricardo Magallan</actor>
+      <actor>Berenice Trujillo</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160112220000 -0600" stop="20160112223000 -0600" channel="Canal Capital 21">
+    <title lang="es">Ni muy, muy... ni tan, tan... simplemente tin tan</title>
+    <desc lang="es">El documental hace seguimiento a la compleja trayectoria del talentoso y versátil Germán Valdes "Tin Tan", el Pachuco de Oro. 31 entrevistas realizadas a familiares, compañeros, amigos y estudiosos del reconocido artista mexicano(n)</desc>
+    <credits>
+      <actor>Alfonso Arau</actor>
+      <actor>Rafael Avina</actor>
+      <actor>Alfonso Arnold</actor>
+      <actor>Manuel Márquez</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Película</category>
+  </programme>
+  <programme start="20160112223000 -0600" stop="20160112230000 -0600" channel="Canal Capital 21">
+    <title lang="es">Expreso al arte</title>
+    <desc lang="es">Una serie que presenta la historia y las exposiciones de los museos más importantes de la ciudad de México(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Arte</category>
+  </programme>
+  <programme start="20160112230000 -0600" stop="20160113000000 -0600" channel="Canal Capital 21">
+    <title lang="es">Himno Nacional</title>
+    <category lang="es">Culturales</category>
+    <category lang="es">Cultural</category>
+  </programme>
+  <programme start="20160113000000 -0600" stop="20160113060000 -0600" channel="Canal Capital 21">
+    <title lang="es">Fin de transmisión</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Interés General</category>
+  </programme>
+  <programme start="20160113060000 -0600" stop="20160113063000 -0600" channel="Canal Capital 21">
+    <title lang="es">Himno Nacional</title>
+    <category lang="es">Culturales</category>
+    <category lang="es">Cultural</category>
+  </programme>
+  <programme start="20160113063000 -0600" stop="20160113070000 -0600" channel="Canal Capital 21">
+    <title lang="es">Yoga para la libertad</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160113070000 -0600" stop="20160113070500 -0600" channel="Canal Capital 21">
+    <title lang="es">Reporte vial</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Interés General</category>
+  </programme>
+  <programme start="20160113070500 -0600" stop="20160113073000 -0600" channel="Canal Capital 21">
+    <title lang="es">Yoga para la libertad</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160113073000 -0600" stop="20160113090000 -0600" channel="Canal Capital 21">
+    <title lang="es">A tiempo 21 - 7 AM</title>
+    <desc lang="es">Noticieros con la mejor información para los habitantes de la CDMX en tres emisiones: 7:00 AM, 2:30 PM y 9:00 PM(n)</desc>
+    <credits>
+      <actor>Paulina Silva</actor>
+      <actor>Alejandro Broff</actor>
+      <actor>Adria Morales</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160113090000 -0600" stop="20160113110000 -0600" channel="Canal Capital 21">
+    <title lang="es">Tu ciudad es...</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160113110000 -0600" stop="20160113110500 -0600" channel="Canal Capital 21">
+    <title lang="es">Reporte vial</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Interés General</category>
+  </programme>
+  <programme start="20160113110500 -0600" stop="20160113113000 -0600" channel="Canal Capital 21">
+    <title lang="es">Ciudad de sabores/ Historia CDMX</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Destinos</category>
+  </programme>
+  <programme start="20160113113000 -0600" stop="20160113113500 -0600" channel="Canal Capital 21">
+    <title lang="es">Corte informativo</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160113113500 -0600" stop="20160113120000 -0600" channel="Canal Capital 21">
+    <title lang="es">Turismo CDMX</title>
+    <desc lang="es">Qué hacer, comer y visitar en la CDMX(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Turismo</category>
+  </programme>
+  <programme start="20160113120000 -0600" stop="20160113123000 -0600" channel="Canal Capital 21">
+    <title lang="es">Agro Notícias</title>
+    <desc lang="es">Revista informativa sobre el campo mexicano con el propósito informativo de contribuir al extensionismo agrícola y pesquero. Su objetivo es educativo y formativo(n)</desc>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160113123000 -0600" stop="20160113123500 -0600" channel="Canal Capital 21">
+    <title lang="es">Reporte vial</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Interés General</category>
+  </programme>
+  <programme start="20160113123500 -0600" stop="20160113130000 -0600" channel="Canal Capital 21">
+    <title lang="es">Guía tu cuerpo</title>
+    <desc lang="es">Es un programa informativo de noticias de salud, en el que se abordarán temas de interés colectivo sobre salud física, mental, social, bienestar colectivo y datos de interés para generar conciencia de prevención(n)</desc>
+    <category lang="es">Cocina, hogar y salud</category>
+    <category lang="es">Salud</category>
+  </programme>
+  <programme start="20160113130000 -0600" stop="20160113133000 -0600" channel="Canal Capital 21">
+    <title lang="es">Vidas</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160113133000 -0600" stop="20160113140000 -0600" channel="Canal Capital 21">
+    <title lang="es">Global 3000</title>
+    <desc lang="es">Global 3000 es el magacín de DW dedicado a la globalización. A través de reportajes e informes trata cada semana los retos y las oportunidades de un planeta interconectado, además de ilustrar las consecuencias globales de acciones locales, y viceversa. Global 3000 le da un rostro al mundo globalizado(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20160113140000 -0600" stop="20160113140500 -0600" channel="Canal Capital 21">
+    <title lang="es">Corte informativo</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160113140500 -0600" stop="20160113141500 -0600" channel="Canal Capital 21">
+    <title lang="es">Expreso al arte</title>
+    <desc lang="es">Una serie que presenta la historia y las exposiciones de los museos más importantes de la ciudad de México(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Arte</category>
+  </programme>
+  <programme start="20160113141500 -0600" stop="20160113142000 -0600" channel="Canal Capital 21">
+    <title lang="es">Reporte vial</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Interés General</category>
+  </programme>
+  <programme start="20160113142000 -0600" stop="20160113143000 -0600" channel="Canal Capital 21">
+    <title lang="es">Expreso al arte</title>
+    <desc lang="es">Una serie que presenta la historia y las exposiciones de los museos más importantes de la ciudad de México(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Arte</category>
+  </programme>
+  <programme start="20160113143000 -0600" stop="20160113143500 -0600" channel="Canal Capital 21">
+    <title lang="es">Reporte vial</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Interés General</category>
+  </programme>
+  <programme start="20160113143500 -0600" stop="20160113144500 -0600" channel="Canal Capital 21">
+    <title lang="es">Barrios mágicos</title>
+    <desc lang="es">La Ciudad de México te invita que descubras su magia, nuestra ciudad cuenta con sitios encantadores que seguramente te impactará, espacios históricos que viven dentro de esta metrópoli y que al mezclarse con su modernidad crean contrastes increíbles. Éste, es un buen momento para conocer parte de su historia, convive con la tradición, disfruta de sus hermosas costumbres, a partir de ahora viajarás por los 21 Barrios Mágicos que guarda el Distrito Federal y que son para ti. La ciudad de México te ofrece espacios donde se respira historia, sus calles guardan fielmente la memoria de los que en otros tiempos fueran espacios dedicados a la religión y a las manifestaciones artísticas en sus diferentes géneros, sus habitantes guardan fielmente estas tradiciones y las comparten con los visitantes, conservando intacto su pasado, sus raíces y su profunda historia(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Destinos</category>
+  </programme>
+  <programme start="20160113144500 -0600" stop="20160113150000 -0600" channel="Canal Capital 21">
+    <title lang="es">El Chango y la Chancla</title>
+    <desc lang="es">Serie animada para niños, donde “La Chancla” (una niña entre 9 y 10 años) y “El Chango” (un changuito de entre 6 y 7 años) nos muestran, a través de sus divertidas aventuras, una metáfora de los conflictos que a diario tiene que resolver entre si los hermanos y amigos. El Chango es un ser muy divertido, se toma las cosas a la ligera pero es muy ingenioso para conseguir lo que desea. Lo que más le gusta es comer conchas de chocolate. La Chancla por su parte tiene toda la personalidad de la hermana mayor. Es muy consciente de sí misma y hace todo, según ella, casi perfectamente. La Chancla tiene una pasión en la vida: los libros. Siempre trae un libro bajo el brazo y cada vez que puede se sienta a leer. La serie de televisión está concebida como un proyecto que destaque del resto de las prod(n)</desc>
+    <category lang="es">Infantiles</category>
+    <category lang="es">D.Animados</category>
+  </programme>
+  <programme start="20160113150000 -0600" stop="20160113153000 -0600" channel="Canal Capital 21">
+    <title lang="es">Club de Rony</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160113153000 -0600" stop="20160113160000 -0600" channel="Canal Capital 21">
+    <title lang="es">El laberinto de los cuentos</title>
+    <desc lang="es">El programa se dirige a niños, en él se cuenta una historia o cuento (historias clásicas, modernas, ecológicas, regionales, etc.) Cuenta con un narrador, ilustraciones gráficas animadas y efectos de sonido y música. Tiene el objetivo de fomentar la lectura en los niños(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160113160000 -0600" stop="20160113163000 -0600" channel="Canal Capital 21">
+    <title lang="es">Fundación Albatros</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160113163000 -0600" stop="20160113170000 -0600" channel="Canal Capital 21">
+    <title lang="es">Fundación Albatros</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160113170000 -0600" stop="20160113173000 -0600" channel="Canal Capital 21">
+    <title lang="es">Journal Noticias DW</title>
+    <desc lang="es">Transmitido en vivo desde Berlín, Alemania, el Journal Deutsche Welle es un noticiero que incluye la información política, económica, cultural y deportiva más relevante de los países miembros de la Comunidad Europea. Journal Noticias DW aborda diariamente, con una cobertura especial, la noticia que se convirtió en tema del día en el mundo entero(n)</desc>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160113173000 -0600" stop="20160113180000 -0600" channel="Canal Capital 21">
+    <title lang="es">Nómada</title>
+    <desc lang="es">Visitamos lugares disímbolos como: una cafetería, un jardín en azotea, museos, exposiciones fotográficas, una exhibición de lucha libre o muestra de cine, entre otras, con la finalidad de divulgar la cultura urbana(n)</desc>
+    <credits>
+      <actor>Ximbo</actor>
+      <actor>Cañas</actor>
+    </credits>
+    <category lang="es">Culturales</category>
+    <category lang="es">Cultural</category>
+  </programme>
+  <programme start="20160113180000 -0600" stop="20160113180500 -0600" channel="Canal Capital 21">
+    <title lang="es">Reporte vial</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Interés General</category>
+  </programme>
+  <programme start="20160113180500 -0600" stop="20160113183000 -0600" channel="Canal Capital 21">
+    <title lang="es">¿Quién investiga aquí?</title>
+    <desc lang="es">Un programa que busca conocer las historias de vida de los científicos que laboran en los Centros de Investigación ubicados en Querétaro, México(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160113183000 -0600" stop="20160113190000 -0600" channel="Canal Capital 21">
+    <title lang="es">Cultura.21</title>
+    <desc lang="es">"Cultura.21" presenta a los protagonistas, detecta las ideas nuevas, explica los grandes debates y está presente en los eventos más destacados de la temporada. Un periodismo que examina con atencion el espíritu del momento(n)</desc>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160113190000 -0600" stop="20160113190500 -0600" channel="Canal Capital 21">
+    <title lang="es">Avance informativo</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160113190500 -0600" stop="20160113200000 -0600" channel="Canal Capital 21">
+    <title lang="es">Concierto Musitec</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160113200000 -0600" stop="20160113203000 -0600" channel="Canal Capital 21">
+    <title lang="es">Hip DF</title>
+    <desc lang="es">Serie que muestra las expresiones emergentes de la ciudad a través de sus creadores(n)</desc>
+    <category lang="es">Series</category>
+    <category lang="es">Cultural</category>
+  </programme>
+  <programme start="20160113203000 -0600" stop="20160113210000 -0600" channel="Canal Capital 21">
+    <title lang="es">Global 3000</title>
+    <desc lang="es">Global 3000 es el magacín de DW dedicado a la globalización. A través de reportajes e informes trata cada semana los retos y las oportunidades de un planeta interconectado, además de ilustrar las consecuencias globales de acciones locales, y viceversa. Global 3000 le da un rostro al mundo globalizado(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20160113210000 -0600" stop="20160113213000 -0600" channel="Canal Capital 21">
+    <title lang="es">Noticias 24h</title>
+    <desc lang="es">Información continua, nacional e internacional, 24 horas, los 365 días del año(n)</desc>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160113213000 -0600" stop="20160113220000 -0600" channel="Canal Capital 21">
+    <title lang="es">A tiempo 21 - 21 PM</title>
+    <desc lang="es">Noticieros con la mejor información para los habitantes de la CDMX en tres emisiones: 7:00 AM, 2:30 PM y 9:00 PM(n)</desc>
+    <credits>
+      <actor>Eduardo Blancas</actor>
+      <actor>Ricardo Magallan</actor>
+      <actor>Berenice Trujillo</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160113220000 -0600" stop="20160113223000 -0600" channel="Canal Capital 21">
+    <title lang="es">Diversidad capital</title>
+    <desc lang="es">Programa de revista dirigido a la comunidad LGBTTI(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20160113223000 -0600" stop="20160113230000 -0600" channel="Canal Capital 21">
+    <title lang="es">Escena en corto</title>
+    <category lang="es">Culturales</category>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160113230000 -0600" stop="20160114000000 -0600" channel="Canal Capital 21">
+    <title lang="es">Himno Nacional</title>
+    <category lang="es">Culturales</category>
+    <category lang="es">Cultural</category>
+  </programme>
+  <programme start="20160114000000 -0600" stop="20160114060000 -0600" channel="Canal Capital 21">
+    <title lang="es">Fin de transmisión</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Interés General</category>
+  </programme>
+  <programme start="20160114060000 -0600" stop="20160114063000 -0600" channel="Canal Capital 21">
+    <title lang="es">Himno Nacional</title>
+    <category lang="es">Culturales</category>
+    <category lang="es">Cultural</category>
+  </programme>
+  <programme start="20160114063000 -0600" stop="20160114070000 -0600" channel="Canal Capital 21">
+    <title lang="es">Yoga para la libertad</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160114070000 -0600" stop="20160114070500 -0600" channel="Canal Capital 21">
+    <title lang="es">Reporte vial</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Interés General</category>
+  </programme>
+  <programme start="20160114070500 -0600" stop="20160114073000 -0600" channel="Canal Capital 21">
+    <title lang="es">Yoga para la libertad</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160114073000 -0600" stop="20160114090000 -0600" channel="Canal Capital 21">
+    <title lang="es">A tiempo 21 - 7 AM</title>
+    <desc lang="es">Noticieros con la mejor información para los habitantes de la CDMX en tres emisiones: 7:00 AM, 2:30 PM y 9:00 PM(n)</desc>
+    <credits>
+      <actor>Paulina Silva</actor>
+      <actor>Alejandro Broff</actor>
+      <actor>Adria Morales</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160114090000 -0600" stop="20160114110000 -0600" channel="Canal Capital 21">
+    <title lang="es">Tu ciudad es...</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160114110000 -0600" stop="20160114110500 -0600" channel="Canal Capital 21">
+    <title lang="es">Reporte vial</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Interés General</category>
+  </programme>
+  <programme start="20160114110500 -0600" stop="20160114113000 -0600" channel="Canal Capital 21">
+    <title lang="es">Un sabor me trajo hasta aquí</title>
+    <category lang="es">Cocina, hogar y salud</category>
+    <category lang="es">Cocina</category>
+  </programme>
+  <programme start="20160114113000 -0600" stop="20160114113500 -0600" channel="Canal Capital 21">
+    <title lang="es">Corte informativo</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160114113500 -0600" stop="20160114120000 -0600" channel="Canal Capital 21">
+    <title lang="es">Pasaporte al Sur</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Destinos</category>
+  </programme>
+  <programme start="20160114120000 -0600" stop="20160114123000 -0600" channel="Canal Capital 21">
+    <title lang="es">Agro Notícias</title>
+    <desc lang="es">Revista informativa sobre el campo mexicano con el propósito informativo de contribuir al extensionismo agrícola y pesquero. Su objetivo es educativo y formativo(n)</desc>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160114123000 -0600" stop="20160114123500 -0600" channel="Canal Capital 21">
+    <title lang="es">Reporte vial</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Interés General</category>
+  </programme>
+  <programme start="20160114123500 -0600" stop="20160114130000 -0600" channel="Canal Capital 21">
+    <title lang="es">Nómada</title>
+    <desc lang="es">Visitamos lugares disímbolos como: una cafetería, un jardín en azotea, museos, exposiciones fotográficas, una exhibición de lucha libre o muestra de cine, entre otras, con la finalidad de divulgar la cultura urbana(n)</desc>
+    <credits>
+      <actor>Ximbo</actor>
+      <actor>Cañas</actor>
+    </credits>
+    <category lang="es">Culturales</category>
+    <category lang="es">Cultural</category>
+  </programme>
+  <programme start="20160114130000 -0600" stop="20160114134500 -0600" channel="Canal Capital 21">
+    <title lang="es">Quadriga</title>
+    <desc lang="es">Una ronda de debate. Cuatro periodistas discuten abiertamente sobre el tema internacional más destacado de la semana, ya sea político, económico o cultural(n)</desc>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160114134500 -0600" stop="20160114140000 -0600" channel="Canal Capital 21">
+    <title lang="es">Historia CDMX</title>
+    <category lang="es">Culturales</category>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160114140000 -0600" stop="20160114140500 -0600" channel="Canal Capital 21">
+    <title lang="es">Corte informativo</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160114140500 -0600" stop="20160114141500 -0600" channel="Canal Capital 21">
+    <title lang="es">Cultura.21</title>
+    <desc lang="es">"Cultura.21" presenta a los protagonistas, detecta las ideas nuevas, explica los grandes debates y está presente en los eventos más destacados de la temporada. Un periodismo que examina con atencion el espíritu del momento(n)</desc>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160114141500 -0600" stop="20160114142000 -0600" channel="Canal Capital 21">
+    <title lang="es">Reporte vial</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Interés General</category>
+  </programme>
+  <programme start="20160114142000 -0600" stop="20160114143000 -0600" channel="Canal Capital 21">
+    <title lang="es">Cultura.21</title>
+    <desc lang="es">"Cultura.21" presenta a los protagonistas, detecta las ideas nuevas, explica los grandes debates y está presente en los eventos más destacados de la temporada. Un periodismo que examina con atencion el espíritu del momento(n)</desc>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160114143000 -0600" stop="20160114143500 -0600" channel="Canal Capital 21">
+    <title lang="es">Reporte vial</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Interés General</category>
+  </programme>
+  <programme start="20160114143500 -0600" stop="20160114144500 -0600" channel="Canal Capital 21">
+    <title lang="es">Tesoros develados</title>
+    <category lang="es">Culturales</category>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160114144500 -0600" stop="20160114150000 -0600" channel="Canal Capital 21">
+    <title lang="es">El Chango y la Chancla</title>
+    <desc lang="es">Serie animada para niños, donde “La Chancla” (una niña entre 9 y 10 años) y “El Chango” (un changuito de entre 6 y 7 años) nos muestran, a través de sus divertidas aventuras, una metáfora de los conflictos que a diario tiene que resolver entre si los hermanos y amigos. El Chango es un ser muy divertido, se toma las cosas a la ligera pero es muy ingenioso para conseguir lo que desea. Lo que más le gusta es comer conchas de chocolate. La Chancla por su parte tiene toda la personalidad de la hermana mayor. Es muy consciente de sí misma y hace todo, según ella, casi perfectamente. La Chancla tiene una pasión en la vida: los libros. Siempre trae un libro bajo el brazo y cada vez que puede se sienta a leer. La serie de televisión está concebida como un proyecto que destaque del resto de las prod(n)</desc>
+    <category lang="es">Infantiles</category>
+    <category lang="es">D.Animados</category>
+  </programme>
+  <programme start="20160114150000 -0600" stop="20160114160000 -0600" channel="Canal Capital 21">
+    <title lang="es">Serpientes y escaleras</title>
+    <desc lang="es">Es un programa de concurso de conocimientos y pruebas físicas dirigido a jóvenes, donde compiten dos equipos. Este programa tiene el fin de fomentar la creatividad, la toma de decisiones y el gusto por el estudio(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Educativo</category>
+  </programme>
+  <programme start="20160114160000 -0600" stop="20160114163000 -0600" channel="Canal Capital 21">
+    <title lang="es">Fundación Albatros</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160114163000 -0600" stop="20160114170000 -0600" channel="Canal Capital 21">
+    <title lang="es">Fundación Albatros</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160114170000 -0600" stop="20160114173000 -0600" channel="Canal Capital 21">
+    <title lang="es">Journal Noticias DW</title>
+    <desc lang="es">Transmitido en vivo desde Berlín, Alemania, el Journal Deutsche Welle es un noticiero que incluye la información política, económica, cultural y deportiva más relevante de los países miembros de la Comunidad Europea. Journal Noticias DW aborda diariamente, con una cobertura especial, la noticia que se convirtió en tema del día en el mundo entero(n)</desc>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160114173000 -0600" stop="20160114180000 -0600" channel="Canal Capital 21">
+    <title lang="es">Miradas</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20160114180000 -0600" stop="20160114180500 -0600" channel="Canal Capital 21">
+    <title lang="es">Reporte vial</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Interés General</category>
+  </programme>
+  <programme start="20160114180500 -0600" stop="20160114183000 -0600" channel="Canal Capital 21">
+    <title lang="es">¡Aquí estoy!</title>
+    <desc lang="es">Programa en el que Pía Castro conversará con hispanohablantes que construyen puentes entre Europa y Latinoamérica. Un equipo de Deutsche Welle sale a las calles a filmar a estas personas en los lugares que más les gustan y hacer de ello encuentros inolvidables. Historias de migración, de integración y de éxito; de arte, de política o de folclor; pero, sobre todo, historias personales(n)</desc>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160114183000 -0600" stop="20160114190000 -0600" channel="Canal Capital 21">
+    <title lang="es">Hazañas</title>
+    <desc lang="es">Personajes que forman parte de la historia de la literatura, el cine y el teatro, dan testimonio de su vida a través de sus anécdotas y aspectos de las obras que han marcado su trayectoria profesional(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entrevista</category>
+  </programme>
+  <programme start="20160114190000 -0600" stop="20160114190500 -0600" channel="Canal Capital 21">
+    <title lang="es">Avance informativo</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160114190500 -0600" stop="20160114193000 -0600" channel="Canal Capital 21">
+    <title lang="es">Jazz estacionario</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160114193000 -0600" stop="20160114200000 -0600" channel="Canal Capital 21">
+    <title lang="es">3er Nivel</title>
+    <desc lang="es">Programa musical que presenta a diversos artistas amateurs(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160114200000 -0600" stop="20160114203000 -0600" channel="Canal Capital 21">
+    <title lang="es">Palabras mayores</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160114203000 -0600" stop="20160114210000 -0600" channel="Canal Capital 21">
+    <title lang="es">Ni muy, muy... ni tan, tan... simplemente tin tan</title>
+    <desc lang="es">El documental hace seguimiento a la compleja trayectoria del talentoso y versátil Germán Valdes "Tin Tan", el Pachuco de Oro. 31 entrevistas realizadas a familiares, compañeros, amigos y estudiosos del reconocido artista mexicano(n)</desc>
+    <credits>
+      <actor>Alfonso Arau</actor>
+      <actor>Rafael Avina</actor>
+      <actor>Alfonso Arnold</actor>
+      <actor>Manuel Márquez</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Película</category>
+  </programme>
+  <programme start="20160114210000 -0600" stop="20160114213000 -0600" channel="Canal Capital 21">
+    <title lang="es">Noticias 24h</title>
+    <desc lang="es">Información continua, nacional e internacional, 24 horas, los 365 días del año(n)</desc>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160114213000 -0600" stop="20160114220000 -0600" channel="Canal Capital 21">
+    <title lang="es">A tiempo 21 - 21 PM</title>
+    <desc lang="es">Noticieros con la mejor información para los habitantes de la CDMX en tres emisiones: 7:00 AM, 2:30 PM y 9:00 PM(n)</desc>
+    <credits>
+      <actor>Eduardo Blancas</actor>
+      <actor>Ricardo Magallan</actor>
+      <actor>Berenice Trujillo</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160114220000 -0600" stop="20160114223000 -0600" channel="Canal Capital 21">
+    <title lang="es">Yoga de noche</title>
+    <category lang="es">Cocina, hogar y salud</category>
+    <category lang="es">Salud</category>
+  </programme>
+  <programme start="20160114223000 -0600" stop="20160114230000 -0600" channel="Canal Capital 21">
+    <title lang="es">Gillette World Sport</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20160114230000 -0600" stop="20160115000000 -0600" channel="Canal Capital 21">
+    <title lang="es">Himno Nacional</title>
+    <category lang="es">Culturales</category>
+    <category lang="es">Cultural</category>
+  </programme>
+  <programme start="20160115000000 -0600" stop="20160115060000 -0600" channel="Canal Capital 21">
+    <title lang="es">Fin de transmisión</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Interés General</category>
+  </programme>
+  <programme start="20160115060000 -0600" stop="20160115063000 -0600" channel="Canal Capital 21">
+    <title lang="es">Himno Nacional</title>
+    <category lang="es">Culturales</category>
+    <category lang="es">Cultural</category>
+  </programme>
+  <programme start="20160115063000 -0600" stop="20160115070000 -0600" channel="Canal Capital 21">
+    <title lang="es">Yoga para la libertad</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160115070000 -0600" stop="20160115070500 -0600" channel="Canal Capital 21">
+    <title lang="es">Reporte vial</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Interés General</category>
+  </programme>
+  <programme start="20160115070500 -0600" stop="20160115073000 -0600" channel="Canal Capital 21">
+    <title lang="es">Yoga para la libertad</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160115073000 -0600" stop="20160115090000 -0600" channel="Canal Capital 21">
+    <title lang="es">A tiempo 21 - 7 AM</title>
+    <desc lang="es">Noticieros con la mejor información para los habitantes de la CDMX en tres emisiones: 7:00 AM, 2:30 PM y 9:00 PM(n)</desc>
+    <credits>
+      <actor>Paulina Silva</actor>
+      <actor>Alejandro Broff</actor>
+      <actor>Adria Morales</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160115090000 -0600" stop="20160115110000 -0600" channel="Canal Capital 21">
+    <title lang="es">Tu ciudad es...</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160115110000 -0600" stop="20160115110500 -0600" channel="Canal Capital 21">
+    <title lang="es">Reporte vial</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Interés General</category>
+  </programme>
+  <programme start="20160115110500 -0600" stop="20160115113000 -0600" channel="Canal Capital 21">
+    <title lang="es">La hora de comer</title>
+    <desc lang="es">La hora de comer lleva hasta tí prácticas y deliciosas recetas sugeridas por los cheff expertos de Aguascalientes(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Cocina</category>
+  </programme>
+  <programme start="20160115113000 -0600" stop="20160115113500 -0600" channel="Canal Capital 21">
+    <title lang="es">Corte informativo</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160115113500 -0600" stop="20160115120000 -0600" channel="Canal Capital 21">
+    <title lang="es">Pasaporte raíces de Michoacán</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160115120000 -0600" stop="20160115123000 -0600" channel="Canal Capital 21">
+    <title lang="es">Agro Notícias</title>
+    <desc lang="es">Revista informativa sobre el campo mexicano con el propósito informativo de contribuir al extensionismo agrícola y pesquero. Su objetivo es educativo y formativo(n)</desc>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160115123000 -0600" stop="20160115123500 -0600" channel="Canal Capital 21">
+    <title lang="es">Reporte vial</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Interés General</category>
+  </programme>
+  <programme start="20160115123500 -0600" stop="20160115130000 -0600" channel="Canal Capital 21">
+    <title lang="es">En forma</title>
+    <desc lang="es">En forma es el magacín de salud de Deutsche Welle, un espacio dedicado a lo más interesante del mundo de la medicina y el bienestar. Vida sana y prevención son aquí los temas principales, y se tratan tanto desde el punto de vista de la medicina tradicional como de las terapias alternativas. Presentadores y reconocidos expertos en alimentación, fitness y belleza, aportan consejos para estar en forma(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Salud</category>
+  </programme>
+  <programme start="20160115130000 -0600" stop="20160115133000 -0600" channel="Canal Capital 21">
+    <title lang="es">Tesoros del Golfo de California</title>
+    <desc lang="es">Documental producido por la Fundación Albatros Media que trata de vincular la cultura con la conservación donde se conecta la naturaleza con la reflexión de la diversidad de especies vegetales y animales que viven en el Golfo de California. Algunos testimonios de habitantes de la Baja California Sur comparten sus vivencia de las consecuencias del impacto del huracán Odil que cambió el paisaje y la vida en los pueblo de La Paz. Visita a las Fuentes de agua que nacen en las alturas de la Sierra de la Laguna(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160115133000 -0600" stop="20160115140000 -0600" channel="Canal Capital 21">
+    <title lang="es">¿Sabes cómo se hace?</title>
+    <desc lang="es">Mediante breves y ágiles documentales, se muestra el proceso de elaboración de objetos de uso común creados por el hombre para facilitar distintas actividades relacionadas con su existencia cotidiana(n)</desc>
+    <category lang="es">Series</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160115140000 -0600" stop="20160115140500 -0600" channel="Canal Capital 21">
+    <title lang="es">Corte informativo</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160115140500 -0600" stop="20160115141500 -0600" channel="Canal Capital 21">
+    <title lang="es">¡Aquí estoy!</title>
+    <desc lang="es">Programa en el que Pía Castro conversará con hispanohablantes que construyen puentes entre Europa y Latinoamérica. Un equipo de Deutsche Welle sale a las calles a filmar a estas personas en los lugares que más les gustan y hacer de ello encuentros inolvidables. Historias de migración, de integración y de éxito; de arte, de política o de folclor; pero, sobre todo, historias personales(n)</desc>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160115141500 -0600" stop="20160115142000 -0600" channel="Canal Capital 21">
+    <title lang="es">Reporte vial</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Interés General</category>
+  </programme>
+  <programme start="20160115142000 -0600" stop="20160115143000 -0600" channel="Canal Capital 21">
+    <title lang="es">¡Aquí estoy!</title>
+    <desc lang="es">Programa en el que Pía Castro conversará con hispanohablantes que construyen puentes entre Europa y Latinoamérica. Un equipo de Deutsche Welle sale a las calles a filmar a estas personas en los lugares que más les gustan y hacer de ello encuentros inolvidables. Historias de migración, de integración y de éxito; de arte, de política o de folclor; pero, sobre todo, historias personales(n)</desc>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160115143000 -0600" stop="20160115143500 -0600" channel="Canal Capital 21">
+    <title lang="es">Reporte vial</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Interés General</category>
+  </programme>
+  <programme start="20160115143500 -0600" stop="20160115144500 -0600" channel="Canal Capital 21">
+    <title lang="es">Barrios mágicos</title>
+    <desc lang="es">La Ciudad de México te invita que descubras su magia, nuestra ciudad cuenta con sitios encantadores que seguramente te impactará, espacios históricos que viven dentro de esta metrópoli y que al mezclarse con su modernidad crean contrastes increíbles. Éste, es un buen momento para conocer parte de su historia, convive con la tradición, disfruta de sus hermosas costumbres, a partir de ahora viajarás por los 21 Barrios Mágicos que guarda el Distrito Federal y que son para ti. La ciudad de México te ofrece espacios donde se respira historia, sus calles guardan fielmente la memoria de los que en otros tiempos fueran espacios dedicados a la religión y a las manifestaciones artísticas en sus diferentes géneros, sus habitantes guardan fielmente estas tradiciones y las comparten con los visitantes, conservando intacto su pasado, sus raíces y su profunda historia(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Destinos</category>
+  </programme>
+  <programme start="20160115144500 -0600" stop="20160115150000 -0600" channel="Canal Capital 21">
+    <title lang="es">El Chango y la Chancla</title>
+    <desc lang="es">Serie animada para niños, donde “La Chancla” (una niña entre 9 y 10 años) y “El Chango” (un changuito de entre 6 y 7 años) nos muestran, a través de sus divertidas aventuras, una metáfora de los conflictos que a diario tiene que resolver entre si los hermanos y amigos. El Chango es un ser muy divertido, se toma las cosas a la ligera pero es muy ingenioso para conseguir lo que desea. Lo que más le gusta es comer conchas de chocolate. La Chancla por su parte tiene toda la personalidad de la hermana mayor. Es muy consciente de sí misma y hace todo, según ella, casi perfectamente. La Chancla tiene una pasión en la vida: los libros. Siempre trae un libro bajo el brazo y cada vez que puede se sienta a leer. La serie de televisión está concebida como un proyecto que destaque del resto de las prod(n)</desc>
+    <category lang="es">Infantiles</category>
+    <category lang="es">D.Animados</category>
+  </programme>
+  <programme start="20160115150000 -0600" stop="20160115153000 -0600" channel="Canal Capital 21">
+    <title lang="es">Club de la galaxia</title>
+    <desc lang="es">El Club de la Galaxia es un espacio para que todos los niños se diviertan. El programa tiene las secciones más entretenidas con las que puedes descubrir un universo diferente y lleno de aventuras. Podrás ver los reportajes más interesantes en "Recórcholis y carambolas". Aprende a crear juguetes y manualidades de todo tipo en "De chinches y cachivaches". La importancia de ser niño en "Pasitos derechos". Conocer a nuestras familias en "De parientes y cuates" y entrevistas de todo tipo en "Cotorreando con…" Por solo mencionar una parte de todo lo que tenemos para ti(n)</desc>
+    <credits>
+      <actor>Adriana</actor>
+      <actor>César</actor>
+      <actor>. Nahual</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160115153000 -0600" stop="20160115160000 -0600" channel="Canal Capital 21">
+    <title lang="es">The Planet of the Karushitos</title>
+    <credits>
+      <actor>Víctor Fernández</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160115160000 -0600" stop="20160115163000 -0600" channel="Canal Capital 21">
+    <title lang="es">Fundación Albatros</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160115163000 -0600" stop="20160115170000 -0600" channel="Canal Capital 21">
+    <title lang="es">Fundación Albatros</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160115170000 -0600" stop="20160115173000 -0600" channel="Canal Capital 21">
+    <title lang="es">Journal Noticias DW</title>
+    <desc lang="es">Transmitido en vivo desde Berlín, Alemania, el Journal Deutsche Welle es un noticiero que incluye la información política, económica, cultural y deportiva más relevante de los países miembros de la Comunidad Europea. Journal Noticias DW aborda diariamente, con una cobertura especial, la noticia que se convirtió en tema del día en el mundo entero(n)</desc>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160115173000 -0600" stop="20160115180000 -0600" channel="Canal Capital 21">
+    <title lang="es">Nómada</title>
+    <desc lang="es">Visitamos lugares disímbolos como: una cafetería, un jardín en azotea, museos, exposiciones fotográficas, una exhibición de lucha libre o muestra de cine, entre otras, con la finalidad de divulgar la cultura urbana(n)</desc>
+    <credits>
+      <actor>Ximbo</actor>
+      <actor>Cañas</actor>
+    </credits>
+    <category lang="es">Culturales</category>
+    <category lang="es">Cultural</category>
+  </programme>
+  <programme start="20160115180000 -0600" stop="20160115180500 -0600" channel="Canal Capital 21">
+    <title lang="es">Reporte vial</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Interés General</category>
+  </programme>
+  <programme start="20160115180500 -0600" stop="20160115183000 -0600" channel="Canal Capital 21">
+    <title lang="es">Vidas</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160115183000 -0600" stop="20160115190000 -0600" channel="Canal Capital 21">
+    <title lang="es">Expreso al arte</title>
+    <desc lang="es">Una serie que presenta la historia y las exposiciones de los museos más importantes de la ciudad de México(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Arte</category>
+  </programme>
+  <programme start="20160115190000 -0600" stop="20160115190500 -0600" channel="Canal Capital 21">
+    <title lang="es">Avance informativo</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160115190500 -0600" stop="20160115194500 -0600" channel="Canal Capital 21">
+    <title lang="es">Europa en concierto</title>
+    <desc lang="es">El formato musical Europa en concierto ofrece las actuaciones más apasionantes de los mejores músicos de pop y rock de Europa. Estrellas consagradas y jóvenes valores en alza(n)</desc>
+    <category lang="es">Musicales</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160115194500 -0600" stop="20160115200000 -0600" channel="Canal Capital 21">
+    <title lang="es">Historia CDMX</title>
+    <category lang="es">Culturales</category>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160115200000 -0600" stop="20160115203000 -0600" channel="Canal Capital 21">
+    <title lang="es">Explora DF</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160115203000 -0600" stop="20160115210000 -0600" channel="Canal Capital 21">
+    <title lang="es">Todo gol</title>
+    <category lang="es">Deportes</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20160115210000 -0600" stop="20160115213000 -0600" channel="Canal Capital 21">
+    <title lang="es">Noticias 24h</title>
+    <desc lang="es">Información continua, nacional e internacional, 24 horas, los 365 días del año(n)</desc>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160115213000 -0600" stop="20160115220000 -0600" channel="Canal Capital 21">
+    <title lang="es">A tiempo 21 - 21 PM</title>
+    <desc lang="es">Noticieros con la mejor información para los habitantes de la CDMX en tres emisiones: 7:00 AM, 2:30 PM y 9:00 PM(n)</desc>
+    <credits>
+      <actor>Eduardo Blancas</actor>
+      <actor>Ricardo Magallan</actor>
+      <actor>Berenice Trujillo</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160115220000 -0600" stop="20160115221500 -0600" channel="Canal Capital 21">
+    <title lang="es">Historia CDMX</title>
+    <category lang="es">Culturales</category>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160115221500 -0600" stop="20160115230000 -0600" channel="Canal Capital 21">
+    <title lang="es">Quadriga</title>
+    <desc lang="es">Una ronda de debate. Cuatro periodistas discuten abiertamente sobre el tema internacional más destacado de la semana, ya sea político, económico o cultural(n)</desc>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160115230000 -0600" stop="20160116000000 -0600" channel="Canal Capital 21">
+    <title lang="es">Himno Nacional</title>
+    <category lang="es">Culturales</category>
+    <category lang="es">Cultural</category>
+  </programme>
+  <programme start="20160116000000 -0600" stop="20160116060000 -0600" channel="Canal Capital 21">
+    <title lang="es">Fin de transmisión</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Interés General</category>
+  </programme>
+  <programme start="20160116060000 -0600" stop="20160116063000 -0600" channel="Canal Capital 21">
+    <title lang="es">Himno Nacional</title>
+    <category lang="es">Culturales</category>
+    <category lang="es">Cultural</category>
+  </programme>
+  <programme start="20160116063000 -0600" stop="20160116073000 -0600" channel="Canal Capital 21">
+    <title lang="es">Yoga para la libertad</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160116073000 -0600" stop="20160116080000 -0600" channel="Canal Capital 21">
+    <title lang="es">Bebexplorando</title>
+    <desc lang="es">Bebexplorando una serie dedicada de manera exclusiva a la estimulación temprana de los sentidos visual y auditivo del bebé, utilizando música adecuada e imágenes ilustrativas con gran colorido de acuerdo al tema del programa, como puede ser de aves, animales, plantas, entre otros, así mismo, se dan consejos útiles a las mamás para desarrollar habilidades en el bebé(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Educativo</category>
+  </programme>
+  <programme start="20160116080000 -0600" stop="20160116084500 -0600" channel="Canal Capital 21">
+    <title lang="es">Club de Rony</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160116084500 -0600" stop="20160116091500 -0600" channel="Canal Capital 21">
+    <title lang="es">El laberinto de los cuentos</title>
+    <desc lang="es">El programa se dirige a niños, en él se cuenta una historia o cuento (historias clásicas, modernas, ecológicas, regionales, etc.) Cuenta con un narrador, ilustraciones gráficas animadas y efectos de sonido y música. Tiene el objetivo de fomentar la lectura en los niños(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160116091500 -0600" stop="20160116094500 -0600" channel="Canal Capital 21">
+    <title lang="es">Club de la galaxia</title>
+    <desc lang="es">El Club de la Galaxia es un espacio para que todos los niños se diviertan. El programa tiene las secciones más entretenidas con las que puedes descubrir un universo diferente y lleno de aventuras. Podrás ver los reportajes más interesantes en "Recórcholis y carambolas". Aprende a crear juguetes y manualidades de todo tipo en "De chinches y cachivaches". La importancia de ser niño en "Pasitos derechos". Conocer a nuestras familias en "De parientes y cuates" y entrevistas de todo tipo en "Cotorreando con…" Por solo mencionar una parte de todo lo que tenemos para ti(n)</desc>
+    <credits>
+      <actor>Adriana</actor>
+      <actor>César</actor>
+      <actor>. Nahual</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160116094500 -0600" stop="20160116113500 -0600" channel="Canal Capital 21">
+    <title lang="es">Revista matutina</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20160116113500 -0600" stop="20160116120000 -0600" channel="Canal Capital 21">
+    <title lang="es">Un sabor me trajo hasta aquí</title>
+    <category lang="es">Cocina, hogar y salud</category>
+    <category lang="es">Cocina</category>
+  </programme>
+  <programme start="20160116120000 -0600" stop="20160116123000 -0600" channel="Canal Capital 21">
+    <title lang="es">Artesanos</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160116123000 -0600" stop="20160116130000 -0600" channel="Canal Capital 21">
+    <title lang="es">Pasaporte raíces de Michoacán</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160116130000 -0600" stop="20160116140500 -0600" channel="Canal Capital 21">
+    <title lang="es">Guitarras de otoño</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160116140500 -0600" stop="20160116143000 -0600" channel="Canal Capital 21">
+    <title lang="es">Fundación Albatros</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160116143000 -0600" stop="20160116150000 -0600" channel="Canal Capital 21">
+    <title lang="es">Todo gol</title>
+    <category lang="es">Deportes</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20160116150000 -0600" stop="20160116160000 -0600" channel="Canal Capital 21">
+    <title lang="es">Línea médica</title>
+    <category lang="es">Cocina, hogar y salud</category>
+    <category lang="es">Salud</category>
+  </programme>
+  <programme start="20160116160000 -0600" stop="20160116163000 -0600" channel="Canal Capital 21">
+    <title lang="es">Sin # de serie</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160116163000 -0600" stop="20160116170000 -0600" channel="Canal Capital 21">
+    <title lang="es">Fundación Albatros</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160116170000 -0600" stop="20160116180000 -0600" channel="Canal Capital 21">
+    <title lang="es">Nómada</title>
+    <desc lang="es">Visitamos lugares disímbolos como: una cafetería, un jardín en azotea, museos, exposiciones fotográficas, una exhibición de lucha libre o muestra de cine, entre otras, con la finalidad de divulgar la cultura urbana(n)</desc>
+    <credits>
+      <actor>Ximbo</actor>
+      <actor>Cañas</actor>
+    </credits>
+    <category lang="es">Culturales</category>
+    <category lang="es">Cultural</category>
+  </programme>
+  <programme start="20160116180000 -0600" stop="20160116183000 -0600" channel="Canal Capital 21">
+    <title lang="es">Retos y desafíos</title>
+    <desc lang="es">Retos y desafíos es un programa enfocado a resaltar la labor, dedicación, esfuerzo, trascendencia y perspectivas, que organizaciones y asociaciones civiles, así como instituciones públicas, realizan en favor de la sociedad(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160116183000 -0600" stop="20160116190000 -0600" channel="Canal Capital 21">
+    <title lang="es">Hazañas</title>
+    <desc lang="es">Personajes que forman parte de la historia de la literatura, el cine y el teatro, dan testimonio de su vida a través de sus anécdotas y aspectos de las obras que han marcado su trayectoria profesional(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entrevista</category>
+  </programme>
+  <programme start="20160116190000 -0600" stop="20160116200000 -0600" channel="Canal Capital 21">
+    <title lang="es">Artas plastas</title>
+    <desc lang="es">Artas Plastas es un espacio televisivo para difundir el arte de Morelia hacia el mundo(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160116200000 -0600" stop="20160116204500 -0600" channel="Canal Capital 21">
+    <title lang="es">Europa en concierto</title>
+    <desc lang="es">El formato musical Europa en concierto ofrece las actuaciones más apasionantes de los mejores músicos de pop y rock de Europa. Estrellas consagradas y jóvenes valores en alza(n)</desc>
+    <category lang="es">Musicales</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160116204500 -0600" stop="20160116210000 -0600" channel="Canal Capital 21">
+    <title lang="es">Historia CDMX</title>
+    <category lang="es">Culturales</category>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160116210000 -0600" stop="20160116213000 -0600" channel="Canal Capital 21">
+    <title lang="es">Global 3000</title>
+    <desc lang="es">Global 3000 es el magacín de DW dedicado a la globalización. A través de reportajes e informes trata cada semana los retos y las oportunidades de un planeta interconectado, además de ilustrar las consecuencias globales de acciones locales, y viceversa. Global 3000 le da un rostro al mundo globalizado(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20160116213000 -0600" stop="20160116220000 -0600" channel="Canal Capital 21">
+    <title lang="es">Cultura.21</title>
+    <desc lang="es">"Cultura.21" presenta a los protagonistas, detecta las ideas nuevas, explica los grandes debates y está presente en los eventos más destacados de la temporada. Un periodismo que examina con atencion el espíritu del momento(n)</desc>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160116220000 -0600" stop="20160116223000 -0600" channel="Canal Capital 21">
+    <title lang="es">Gillette World Sport</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20160116223000 -0600" stop="20160116233000 -0600" channel="Canal Capital 21">
+    <title lang="es">Escena en corto</title>
+    <category lang="es">Culturales</category>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160116233000 -0600" stop="20160117060000 -0600" channel="Canal Capital 21">
+    <title lang="es">Fin de transmisión</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Interés General</category>
+  </programme>
+  <programme start="20160117060000 -0600" stop="20160117063000 -0600" channel="Canal Capital 21">
+    <title lang="es">Himno Nacional</title>
+    <category lang="es">Culturales</category>
+    <category lang="es">Cultural</category>
+  </programme>
+  <programme start="20160117063000 -0600" stop="20160117073000 -0600" channel="Canal Capital 21">
+    <title lang="es">Yoga para la libertad</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160117073000 -0600" stop="20160117080000 -0600" channel="Canal Capital 21">
+    <title lang="es">Bebexplorando</title>
+    <desc lang="es">Bebexplorando una serie dedicada de manera exclusiva a la estimulación temprana de los sentidos visual y auditivo del bebé, utilizando música adecuada e imágenes ilustrativas con gran colorido de acuerdo al tema del programa, como puede ser de aves, animales, plantas, entre otros, así mismo, se dan consejos útiles a las mamás para desarrollar habilidades en el bebé(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Educativo</category>
+  </programme>
+  <programme start="20160117080000 -0600" stop="20160117084500 -0600" channel="Canal Capital 21">
+    <title lang="es">The Planet of the Karushitos</title>
+    <credits>
+      <actor>Víctor Fernández</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160117084500 -0600" stop="20160117094500 -0600" channel="Canal Capital 21">
+    <title lang="es">Serpientes y escaleras</title>
+    <desc lang="es">Es un programa de concurso de conocimientos y pruebas físicas dirigido a jóvenes, donde compiten dos equipos. Este programa tiene el fin de fomentar la creatividad, la toma de decisiones y el gusto por el estudio(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Educativo</category>
+  </programme>
+  <programme start="20160117094500 -0600" stop="20160117113500 -0600" channel="Canal Capital 21">
+    <title lang="es">Revista matutina</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20160117113500 -0600" stop="20160117120000 -0600" channel="Canal Capital 21">
+    <title lang="es">Saludarte</title>
+    <desc lang="es">El proyecto consiste en promover los valores entre los menores, además de brindarles una formación en las artes, nutrición y actividad física, para así formar niños más sanos en cuerpo y mente(n)</desc>
+    <category lang="es">Cocina, hogar y salud</category>
+    <category lang="es">Salud</category>
+  </programme>
+  <programme start="20160117120000 -0600" stop="20160117123000 -0600" channel="Canal Capital 21">
+    <title lang="es">Kiosco</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160117123000 -0600" stop="20160117130000 -0600" channel="Canal Capital 21">
+    <title lang="es">Pasaporte al Sur</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Destinos</category>
+  </programme>
+  <programme start="20160117130000 -0600" stop="20160117140500 -0600" channel="Canal Capital 21">
+    <title lang="es">Concierto Musitec</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160117140500 -0600" stop="20160117143000 -0600" channel="Canal Capital 21">
+    <title lang="es">Fundación Albatros</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160117143000 -0600" stop="20160117150000 -0600" channel="Canal Capital 21">
+    <title lang="es">Gillette World Sport</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20160117150000 -0600" stop="20160117153000 -0600" channel="Canal Capital 21">
+    <title lang="es">En forma</title>
+    <desc lang="es">En forma es el magacín de salud de Deutsche Welle, un espacio dedicado a lo más interesante del mundo de la medicina y el bienestar. Vida sana y prevención son aquí los temas principales, y se tratan tanto desde el punto de vista de la medicina tradicional como de las terapias alternativas. Presentadores y reconocidos expertos en alimentación, fitness y belleza, aportan consejos para estar en forma(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Salud</category>
+  </programme>
+  <programme start="20160117153000 -0600" stop="20160117160000 -0600" channel="Canal Capital 21">
+    <title lang="es">¿Quién investiga aquí?</title>
+    <desc lang="es">Un programa que busca conocer las historias de vida de los científicos que laboran en los Centros de Investigación ubicados en Querétaro, México(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160117160000 -0600" stop="20160117163000 -0600" channel="Canal Capital 21">
+    <title lang="es">¿Sabes cómo se hace?</title>
+    <desc lang="es">Mediante breves y ágiles documentales, se muestra el proceso de elaboración de objetos de uso común creados por el hombre para facilitar distintas actividades relacionadas con su existencia cotidiana(n)</desc>
+    <category lang="es">Series</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160117163000 -0600" stop="20160117170000 -0600" channel="Canal Capital 21">
+    <title lang="es">Fundación Albatros</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160117170000 -0600" stop="20160117180000 -0600" channel="Canal Capital 21">
+    <title lang="es">Artas plastas</title>
+    <desc lang="es">Artas Plastas es un espacio televisivo para difundir el arte de Morelia hacia el mundo(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160117180000 -0600" stop="20160117183000 -0600" channel="Canal Capital 21">
+    <title lang="es">Artesanos</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160117183000 -0600" stop="20160117190000 -0600" channel="Canal Capital 21">
+    <title lang="es">El impulso de la creación musical</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160117190000 -0600" stop="20160117193000 -0600" channel="Canal Capital 21">
+    <title lang="es">Palabras mayores</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160117193000 -0600" stop="20160117200000 -0600" channel="Canal Capital 21">
+    <title lang="es">Miradas</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20160117200000 -0600" stop="20160117203000 -0600" channel="Canal Capital 21">
+    <title lang="es">Hip DF</title>
+    <desc lang="es">Serie que muestra las expresiones emergentes de la ciudad a través de sus creadores(n)</desc>
+    <category lang="es">Series</category>
+    <category lang="es">Cultural</category>
+  </programme>
+  <programme start="20160117203000 -0600" stop="20160117210000 -0600" channel="Canal Capital 21">
+    <title lang="es">Explora DF</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160117210000 -0600" stop="20160117213000 -0600" channel="Canal Capital 21">
+    <title lang="es">Ni muy, muy... ni tan, tan... simplemente tin tan</title>
+    <desc lang="es">El documental hace seguimiento a la compleja trayectoria del talentoso y versátil Germán Valdes "Tin Tan", el Pachuco de Oro. 31 entrevistas realizadas a familiares, compañeros, amigos y estudiosos del reconocido artista mexicano(n)</desc>
+    <credits>
+      <actor>Alfonso Arau</actor>
+      <actor>Rafael Avina</actor>
+      <actor>Alfonso Arnold</actor>
+      <actor>Manuel Márquez</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Película</category>
+  </programme>
+  <programme start="20160117213000 -0600" stop="20160117220000 -0600" channel="Canal Capital 21">
+    <title lang="es">Diversidad capital</title>
+    <desc lang="es">Programa de revista dirigido a la comunidad LGBTTI(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20160117220000 -0600" stop="20160117223000 -0600" channel="Canal Capital 21">
+    <title lang="es">Nuestra América deportiva</title>
+    <desc lang="es">Revista diaria, que trata los temas del deporte, con mayor profundidad y detalle. El programa mostrará de forma analítica lo que sucede en nuestra América, sin dejar de lado las noticias deportivas en el resto del mundo(n)</desc>
+    <category lang="es">Noticias</category>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20160117223000 -0600" stop="20160117230000 -0600" channel="Canal Capital 21">
+    <title lang="es">Todo gol</title>
+    <category lang="es">Deportes</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20160117230000 -0600" stop="20160118000000 -0600" channel="Canal Capital 21">
+    <title lang="es">Himno Nacional</title>
+    <category lang="es">Culturales</category>
+    <category lang="es">Cultural</category>
+  </programme>
+  <programme start="20160118000000 -0600" stop="20160118060000 -0600" channel="Canal Capital 21">
+    <title lang="es">Fin de transmisión</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Interés General</category>
+  </programme>
+  <programme start="20160118060000 -0600" stop="20160118063000 -0600" channel="Canal Capital 21">
+    <title lang="es">Himno Nacional</title>
+    <category lang="es">Culturales</category>
+    <category lang="es">Cultural</category>
+  </programme>
+  <programme start="20160118063000 -0600" stop="20160118070000 -0600" channel="Canal Capital 21">
+    <title lang="es">Yoga para la libertad</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160118070000 -0600" stop="20160118070500 -0600" channel="Canal Capital 21">
+    <title lang="es">Reporte vial</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Interés General</category>
+  </programme>
+  <programme start="20160118070500 -0600" stop="20160118073000 -0600" channel="Canal Capital 21">
+    <title lang="es">Yoga para la libertad</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160118073000 -0600" stop="20160118090000 -0600" channel="Canal Capital 21">
+    <title lang="es">A tiempo 21 - 7 AM</title>
+    <desc lang="es">Noticieros con la mejor información para los habitantes de la CDMX en tres emisiones: 7:00 AM, 2:30 PM y 9:00 PM(n)</desc>
+    <credits>
+      <actor>Paulina Silva</actor>
+      <actor>Alejandro Broff</actor>
+      <actor>Adria Morales</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160118090000 -0600" stop="20160118110000 -0600" channel="Canal Capital 21">
+    <title lang="es">Tu ciudad es...</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160118110000 -0600" stop="20160118110500 -0600" channel="Canal Capital 21">
+    <title lang="es">Reporte vial</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Interés General</category>
+  </programme>
+  <programme start="20160118110500 -0600" stop="20160118113000 -0600" channel="Canal Capital 21">
+    <title lang="es">Saludarte</title>
+    <desc lang="es">El proyecto consiste en promover los valores entre los menores, además de brindarles una formación en las artes, nutrición y actividad física, para así formar niños más sanos en cuerpo y mente(n)</desc>
+    <category lang="es">Cocina, hogar y salud</category>
+    <category lang="es">Salud</category>
+  </programme>
+  <programme start="20160118113000 -0600" stop="20160118113500 -0600" channel="Canal Capital 21">
+    <title lang="es">Corte informativo</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160118113500 -0600" stop="20160118120000 -0600" channel="Canal Capital 21">
+    <title lang="es">Atrévete a ser turista en tu estado</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Destinos</category>
+  </programme>
+  <programme start="20160118120000 -0600" stop="20160118123000 -0600" channel="Canal Capital 21">
+    <title lang="es">Agro Notícias</title>
+    <desc lang="es">Revista informativa sobre el campo mexicano con el propósito informativo de contribuir al extensionismo agrícola y pesquero. Su objetivo es educativo y formativo(n)</desc>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160118123000 -0600" stop="20160118123500 -0600" channel="Canal Capital 21">
+    <title lang="es">Reporte vial</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Interés General</category>
+  </programme>
+  <programme start="20160118123500 -0600" stop="20160118133000 -0600" channel="Canal Capital 21">
+    <title lang="es">Línea médica</title>
+    <category lang="es">Cocina, hogar y salud</category>
+    <category lang="es">Salud</category>
+  </programme>
+  <programme start="20160118133000 -0600" stop="20160118140000 -0600" channel="Canal Capital 21">
+    <title lang="es">En forma</title>
+    <desc lang="es">En forma es el magacín de salud de Deutsche Welle, un espacio dedicado a lo más interesante del mundo de la medicina y el bienestar. Vida sana y prevención son aquí los temas principales, y se tratan tanto desde el punto de vista de la medicina tradicional como de las terapias alternativas. Presentadores y reconocidos expertos en alimentación, fitness y belleza, aportan consejos para estar en forma(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Salud</category>
+  </programme>
+  <programme start="20160118140000 -0600" stop="20160118140500 -0600" channel="Canal Capital 21">
+    <title lang="es">Corte informativo</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160118140500 -0600" stop="20160118141500 -0600" channel="Canal Capital 21">
+    <title lang="es">Atomun</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160118141500 -0600" stop="20160118142000 -0600" channel="Canal Capital 21">
+    <title lang="es">Reporte vial</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Interés General</category>
+  </programme>
+  <programme start="20160118142000 -0600" stop="20160118143000 -0600" channel="Canal Capital 21">
+    <title lang="es">Atomun</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160118143000 -0600" stop="20160118143500 -0600" channel="Canal Capital 21">
+    <title lang="es">Reporte vial</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Interés General</category>
+  </programme>
+  <programme start="20160118143500 -0600" stop="20160118144500 -0600" channel="Canal Capital 21">
+    <title lang="es">Barrios mágicos</title>
+    <desc lang="es">La Ciudad de México te invita que descubras su magia, nuestra ciudad cuenta con sitios encantadores que seguramente te impactará, espacios históricos que viven dentro de esta metrópoli y que al mezclarse con su modernidad crean contrastes increíbles. Éste, es un buen momento para conocer parte de su historia, convive con la tradición, disfruta de sus hermosas costumbres, a partir de ahora viajarás por los 21 Barrios Mágicos que guarda el Distrito Federal y que son para ti. La ciudad de México te ofrece espacios donde se respira historia, sus calles guardan fielmente la memoria de los que en otros tiempos fueran espacios dedicados a la religión y a las manifestaciones artísticas en sus diferentes géneros, sus habitantes guardan fielmente estas tradiciones y las comparten con los visitantes, conservando intacto su pasado, sus raíces y su profunda historia(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Destinos</category>
+  </programme>
+  <programme start="20160118144500 -0600" stop="20160118150000 -0600" channel="Canal Capital 21">
+    <title lang="es">El Chango y la Chancla</title>
+    <desc lang="es">Serie animada para niños, donde “La Chancla” (una niña entre 9 y 10 años) y “El Chango” (un changuito de entre 6 y 7 años) nos muestran, a través de sus divertidas aventuras, una metáfora de los conflictos que a diario tiene que resolver entre si los hermanos y amigos. El Chango es un ser muy divertido, se toma las cosas a la ligera pero es muy ingenioso para conseguir lo que desea. Lo que más le gusta es comer conchas de chocolate. La Chancla por su parte tiene toda la personalidad de la hermana mayor. Es muy consciente de sí misma y hace todo, según ella, casi perfectamente. La Chancla tiene una pasión en la vida: los libros. Siempre trae un libro bajo el brazo y cada vez que puede se sienta a leer. La serie de televisión está concebida como un proyecto que destaque del resto de las prod(n)</desc>
+    <category lang="es">Infantiles</category>
+    <category lang="es">D.Animados</category>
+  </programme>
+  <programme start="20160118150000 -0600" stop="20160118153000 -0600" channel="Canal Capital 21">
+    <title lang="es">Club de la galaxia</title>
+    <desc lang="es">El Club de la Galaxia es un espacio para que todos los niños se diviertan. El programa tiene las secciones más entretenidas con las que puedes descubrir un universo diferente y lleno de aventuras. Podrás ver los reportajes más interesantes en "Recórcholis y carambolas". Aprende a crear juguetes y manualidades de todo tipo en "De chinches y cachivaches". La importancia de ser niño en "Pasitos derechos". Conocer a nuestras familias en "De parientes y cuates" y entrevistas de todo tipo en "Cotorreando con…" Por solo mencionar una parte de todo lo que tenemos para ti(n)</desc>
+    <credits>
+      <actor>Adriana</actor>
+      <actor>César</actor>
+      <actor>. Nahual</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160118153000 -0600" stop="20160118160000 -0600" channel="Canal Capital 21">
+    <title lang="es">The Planet of the Karushitos</title>
+    <credits>
+      <actor>Víctor Fernández</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160118160000 -0600" stop="20160118163000 -0600" channel="Canal Capital 21">
+    <title lang="es">Fundación Albatros</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160118163000 -0600" stop="20160118170000 -0600" channel="Canal Capital 21">
+    <title lang="es">Fundación Albatros</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160118170000 -0600" stop="20160118173000 -0600" channel="Canal Capital 21">
+    <title lang="es">Journal Noticias DW</title>
+    <desc lang="es">Transmitido en vivo desde Berlín, Alemania, el Journal Deutsche Welle es un noticiero que incluye la información política, económica, cultural y deportiva más relevante de los países miembros de la Comunidad Europea. Journal Noticias DW aborda diariamente, con una cobertura especial, la noticia que se convirtió en tema del día en el mundo entero(n)</desc>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160118173000 -0600" stop="20160118180000 -0600" channel="Canal Capital 21">
+    <title lang="es">México en FA</title>
+    <desc lang="es">Recorre las calles de la Ciudad de México de la mano de México en Fa, programa que transmite de una manera coloquial e histórica los lugares más significativos de nuestra urbe(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Cultural</category>
+  </programme>
+  <programme start="20160118180000 -0600" stop="20160118180500 -0600" channel="Canal Capital 21">
+    <title lang="es">Reporte vial</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Interés General</category>
+  </programme>
+  <programme start="20160118180500 -0600" stop="20160118183000 -0600" channel="Canal Capital 21">
+    <title lang="es">Sin # de serie</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160118183000 -0600" stop="20160118190000 -0600" channel="Canal Capital 21">
+    <title lang="es">Retos y desafíos</title>
+    <desc lang="es">Retos y desafíos es un programa enfocado a resaltar la labor, dedicación, esfuerzo, trascendencia y perspectivas, que organizaciones y asociaciones civiles, así como instituciones públicas, realizan en favor de la sociedad(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160118190000 -0600" stop="20160118190500 -0600" channel="Canal Capital 21">
+    <title lang="es">Avance informativo</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160118190500 -0600" stop="20160118200000 -0600" channel="Canal Capital 21">
+    <title lang="es">Guitarras de otoño</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160118200000 -0600" stop="20160118203000 -0600" channel="Canal Capital 21">
+    <title lang="es">Miradas</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20160118203000 -0600" stop="20160118210000 -0600" channel="Canal Capital 21">
+    <title lang="es">Tesoros del Golfo de California</title>
+    <desc lang="es">Documental producido por la Fundación Albatros Media que trata de vincular la cultura con la conservación donde se conecta la naturaleza con la reflexión de la diversidad de especies vegetales y animales que viven en el Golfo de California. Algunos testimonios de habitantes de la Baja California Sur comparten sus vivencia de las consecuencias del impacto del huracán Odil que cambió el paisaje y la vida en los pueblo de La Paz. Visita a las Fuentes de agua que nacen en las alturas de la Sierra de la Laguna(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160118210000 -0600" stop="20160118213000 -0600" channel="Canal Capital 21">
+    <title lang="es">Noticias 24h</title>
+    <desc lang="es">Información continua, nacional e internacional, 24 horas, los 365 días del año(n)</desc>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160118213000 -0600" stop="20160118220000 -0600" channel="Canal Capital 21">
+    <title lang="es">A tiempo 21 - 21 PM</title>
+    <desc lang="es">Noticieros con la mejor información para los habitantes de la CDMX en tres emisiones: 7:00 AM, 2:30 PM y 9:00 PM(n)</desc>
+    <credits>
+      <actor>Eduardo Blancas</actor>
+      <actor>Ricardo Magallan</actor>
+      <actor>Berenice Trujillo</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160118220000 -0600" stop="20160118221500 -0600" channel="Canal Capital 21">
+    <title lang="es">Historia CDMX</title>
+    <category lang="es">Culturales</category>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160118221500 -0600" stop="20160118230000 -0600" channel="Canal Capital 21">
+    <title lang="es">Europa en concierto</title>
+    <desc lang="es">El formato musical Europa en concierto ofrece las actuaciones más apasionantes de los mejores músicos de pop y rock de Europa. Estrellas consagradas y jóvenes valores en alza(n)</desc>
+    <category lang="es">Musicales</category>
+    <category lang="es">Musical</category>
   </programme>
 </tv>
