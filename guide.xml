@@ -152,6 +152,7 @@
   </channel>
   <channel id="Cinecanal (W)">
     <display-name lang="es">Cinecanal (W)</display-name>
+    <icon src="http://y.cdn.entutele.com/media/channels/big/cinecanal-w.gif" />
     <url>http://www.entutele.com</url>
   </channel>
   <channel id="Cinemax (O)">
@@ -51559,6 +51560,1190 @@
     <category lang="es">Comedia</category>
   </programme>
   <programme start="20160118210000 -0600" stop="20160118224500 -0600" channel="Cinecanal HD">
+    <title lang="es">Si decido quedarme</title>
+    <desc lang="es">Mia es una joven de 17 años que parece tenerlo todo en la vida: una famila adorable, un novio que la quiere, una amiga incondicional y una prometedora carrera musical, debido a su talento natural para tocar el chelo. Sin embargo, todo eso cambia en una fracción de segundo, cuando ella y su familia sufren un terrible accidente de coche(n)</desc>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160111041000 -0600" stop="20160111053500 -0600" channel="Cinecanal (W)">
+    <title lang="es">Reno 911!: Miami</title>
+    <desc lang="es">Un variopinto equipo de policías de Reno deberá poner orden tras un ataque terrorista que tiene lugar durante una convención nacional de policías en Miami(n)</desc>
+    <credits>
+      <actor>Danny DeVito</actor>
+      <actor>Lennie Loftin</actor>
+      <actor>Robert Ben Garant</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160111053500 -0600" stop="20160111070000 -0600" channel="Cinecanal (W)">
+    <title lang="es">Fred 3: El Campamento de Fred</title>
+    <desc lang="es">Tras el último día de clases, Fred Figglehorn revela sus esperanzas de asistir al Campamento Superior, un campamento de verano que se considera un paraíso. Las esperanzas de Fred se desvanecen cuando se entera de que su madre le envía al campamento Iwannapeepee, un campamento de Fred encuentra horrible(n)</desc>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160111070000 -0600" stop="20160111090000 -0600" channel="Cinecanal (W)">
+    <title lang="es">Programación paga</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160111090000 -0600" stop="20160111091000 -0600" channel="Cinecanal (W)">
+    <title lang="es">Kids Flix</title>
+    <desc lang="es">Kids Flix es una divertida y rápida forma de conocer todo lo más nuevo en el cine y que los niños quieren ver(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160111091000 -0600" stop="20160111110000 -0600" channel="Cinecanal (W)">
+    <title lang="es">Sin rumbo</title>
+    <desc lang="es">Tres amigos se internan en la selva de Oregon en busca de tesoros perdidos, pero la aventura comienza mal y se pondrá peor cuando se enfrenten a un excéntrico viejo que vive en las montañas(n)</desc>
+    <credits>
+      <actor>Andrew Hampton</actor>
+      <actor>Matthew Price</actor>
+      <actor>Jarred Rumbold</actor>
+      <actor>Steven Brill</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Fantasía</category>
+  </programme>
+  <programme start="20160111110000 -0600" stop="20160111110000 -0600" channel="Cinecanal (W)">
+    <title lang="es">Minicampeones 2</title>
+    <desc lang="es">Jereme es demasiado joven, lento y bajo de estatura para poder destacarse en los deportes. Pero se encuentra un par de zapatos deportivos con las iniciales M.J y se convierte en un súper atleta(n)</desc>
+    <credits>
+      <actor>Jascha Washington</actor>
+      <actor>Kel Mitchell</actor>
+      <actor>Brett Kelly</actor>
+      <actor>David Nelson</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160111110000 -0600" stop="20160111124500 -0600" channel="Cinecanal (W)">
+    <title lang="es">Minicampeones 2</title>
+    <desc lang="es">Jereme es demasiado joven, lento y bajo de estatura para poder destacarse en los deportes. Pero se encuentra un par de zapatos deportivos con las iniciales M.J y se convierte en un súper atleta(n)</desc>
+    <credits>
+      <actor>Jascha Washington</actor>
+      <actor>Kel Mitchell</actor>
+      <actor>Brett Kelly</actor>
+      <actor>David Nelson</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160111124500 -0600" stop="20160111144500 -0600" channel="Cinecanal (W)">
+    <title lang="es">Milagro en la calle 34</title>
+    <desc lang="es">Kris Kringle es juzgado para comprobar si realmente es Papá Noel o solamente un loco. Jane Alexander (Brubaker) protagoniza esta moderna versión del clásico relato navideño de 1947(n)</desc>
+    <credits>
+      <actor>Mara Wilson</actor>
+      <actor>Richard Attenborough</actor>
+      <actor>Elizabeth Perkins</actor>
+      <actor>Les Mayfield</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160111144500 -0600" stop="20160111163000 -0600" channel="Cinecanal (W)">
+    <title lang="es">Hada por accidente</title>
+    <desc lang="es">Derek Thompson es un popular jugador de Hockey sobre hielo, cuyo apodo es Tooth Fairy porque en los partidos siempre acaba saltándole los dientes a algún oponente. Un buen día Derek hace añicos las esperanzas de un niño y por ello es condenado a servir como un hada de verdad, con alas incluidas, durante una semana. Lily, una veterana hada madrina de alto rango, es quien tendrá la tarea de supervisarlo(n)</desc>
+    <credits>
+      <actor>Julie Andrews</actor>
+      <actor>Dwayne Johnson</actor>
+      <actor>Ashley Judd</actor>
+      <actor>Michael Lembeck</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160111163000 -0600" stop="20160111182500 -0600" channel="Cinecanal (W)">
+    <title lang="es">Una noche en el museo</title>
+    <desc lang="es">El eterno soñador y corazón de oro Larry Daley (Ben Stiller), a pesar de no contar a menudo con la suerte a su favor, está convencido de estar predestinado a hacer algo grande. Pero nunca pensó en algo tan "grande" cuando acepta lo que parece ser un sencillo trabajo como guarda de seguridad nocturno del museo de ciencias naturales de Nueva York. Durante la vigilancia de Larry empiezan a suceder cosas extraordinarias. Entre todo este caos, la única persona que puede ayudar a Larry es la figura de cera del Presidente Teddy Roosevelt (Robin Williams)(n)</desc>
+    <credits>
+      <actor>Dick Van Dyke</actor>
+      <actor>Ben Stiller</actor>
+      <actor>Robin Williams</actor>
+      <actor>Shawn Levy</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Fantasía</category>
+  </programme>
+  <programme start="20160111182500 -0600" stop="20160111201500 -0600" channel="Cinecanal (W)">
+    <title lang="es">El smoking</title>
+    <desc lang="es">Jimmy Tong (Jackie Chan), un taxista que ahora tiene el oficio de chófer, es contratado por un rico industrial cuyo verdadero trabajo es el de ser un agente secreto de la CSA. Cuando éste queda fuera de circulación le ordena a Tong que se ponga su esmoquin. Jimmy descubre que no es un simple traje, sino más bien un magnífico artefacto que a cualquiera que se lo ponga lo dotará de una fuerza especial. Sin embargo, este extraordinario traje no sólo lo proveerá de estupendas habilidades sino que también lo hará sumergirse en una red de espionaje que le traerá numerosos problemas y lo convertirán en el centro de una conspiración letal(n)</desc>
+    <credits>
+      <actor>Jason Isaacs</actor>
+      <actor>Jennifer Love Hewitt</actor>
+      <actor>Jackie Chan</actor>
+      <actor>Kevin Donovan</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Acción</category>
+  </programme>
+  <programme start="20160111201500 -0600" stop="20160111220000 -0600" channel="Cinecanal (W)">
+    <title lang="es">Hercules</title>
+    <desc lang="es">Hércules, como todos los héroes griegos, es un semidios. Tras realizar los terribles doce trabajos que le fueron impuestos y tras perder a su familia, decide darle la espalda a los dioses y encontrar consuelo en la búsqueda de aventuras. Gracias a sus andanzas, ha encontrado hombres afines que se han unido a él, pues comparten su amor por el combate y no temen la presencia constante de la muerte en sus vidas. El rey de Tracia pretende que estos hombres formen un ejército invencible(n)</desc>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Fantasía</category>
+  </programme>
+  <programme start="20160111220000 -0600" stop="20160112000000 -0600" channel="Cinecanal (W)">
+    <title lang="es">La mujer de mis pesadillas</title>
+    <desc lang="es">Eddie, soltero e indeciso, empieza a salir con la aparentemente fabulosa y sexy Lila. Siguiendo los consejos de su padre y de su mejor amigo, Eddie le pide que se case con él, temeroso de que se escape lo que cree ser su última oportunidad para el amor, el matrimonio y la felicidad. Sin embargo, no tarda en descubrir su error cuando Lila revela su auténtica y horrible personalidad durante la luna de miel en México. Para colmo, Eddie conoce a Miranda y se enamora de ella. Así pues, no le queda más remedio que alejar a su insoportable esposa mientras intenta conquistar a la chica de sus sueños(n)</desc>
+    <credits>
+      <actor>Ben Stiller</actor>
+      <actor>Malin Akerman</actor>
+      <actor>Michelle Monaghan</actor>
+      <actor>Peter Farrelly</actor>
+      <actor>Bobby Farrelly</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160112000000 -0600" stop="20160112014500 -0600" channel="Cinecanal (W)">
+    <title lang="es">El gran hotel Budapest</title>
+    <desc lang="es">Gustave H. (Ralph Fiennes), un legendario conserje de un famoso hotel europeo de entreguerras, entabla amistad con Zero Moustafa (Tony Revolori), un joven empleado al que convierte en su protegido. La historia trata sobre el robo y la recuperación de una pintura renacentista de valor incalculable y sobre la batalla que enfrenta a los miembros de una familia por una inmensa fortuna. Como telón de fondo, los levantamientos que transformaron Europa durante la primera mitad del siglo XX(n)</desc>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160112014500 -0600" stop="20160112035000 -0600" channel="Cinecanal (W)">
+    <title lang="es">Kalifornia</title>
+    <desc lang="es">Brian está fascinado por los asesinos en serie. Los estudia para su tesis universitaria y está convencido de que no son responsables de sus actos, sino que la sociedad los empuja a cometer esos crímenes(n)</desc>
+    <credits>
+      <actor>Brad Pitt</actor>
+      <actor>Michelle Forbes</actor>
+      <actor>Dominic Sena</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Thriller</category>
+  </programme>
+  <programme start="20160112035000 -0600" stop="20160112052500 -0600" channel="Cinecanal (W)">
+    <title lang="es">Lovelace</title>
+    <desc lang="es">Linda Lovelace es conocida principalmente por el notorio éxito de taquilla de la película porno de 1972, 'Garganta Profunda'. Más tarde, cuando dejó el negocio del porno, la actriz se divorció de Chuck Traynor y recuperó su verdadero nombre: Linda Boreman. Además, acusó a su ex marido de haberla obligado a prostituirse y dedicarse a la pornografía, recurriendo a todo tipo de violencia e incluso al hipnotismo(n)</desc>
+    <credits>
+      <actor>Hank Azaria</actor>
+      <actor>Amanda Seyfried</actor>
+      <actor>Peter Sarsgaard</actor>
+      <actor>Rob Epstein</actor>
+      <actor>Jeffrey Friedman</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160112052500 -0600" stop="20160112070000 -0600" channel="Cinecanal (W)">
+    <title lang="es">Clifford</title>
+    <desc lang="es">Clifford, un jovencito de 12 años, precoz, ingenioso y granuja, es enviado por su padre a pasar unos días con su tío. El tío Martín le recibe con los brazos abiertos y pretende demostrar a su prometido su pasión por los niños..(n)</desc>
+    <credits>
+      <actor>Martin Short</actor>
+      <actor>Charles Grodin</actor>
+      <actor>Mary Steenburgen</actor>
+      <actor>Paul Flaherty</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160112070000 -0600" stop="20160112090000 -0600" channel="Cinecanal (W)">
+    <title lang="es">Programación paga</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160112090000 -0600" stop="20160112091000 -0600" channel="Cinecanal (W)">
+    <title lang="es">Star Files</title>
+    <desc lang="es">Conoce detalles y curiosidades sobre la vida de tus estrellas favoritas de la pantalla grande(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160112091000 -0600" stop="20160112111500 -0600" channel="Cinecanal (W)">
+    <title lang="es">The Birdcage</title>
+    <desc lang="es">Dos homosexuales, uno de ellos, padre de un hijo de su matrimonio anterior, debe tratar de ocultar su relación homosexual a los padres de la futura esposa de su hijo(n)</desc>
+    <credits>
+      <actor>Nathan Lane</actor>
+      <actor>Gene Hackman</actor>
+      <actor>Robin Williams</actor>
+      <actor>Mike Nichols</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160112111500 -0600" stop="20160112111500 -0600" channel="Cinecanal (W)">
+    <title lang="es">Vaselina</title>
+    <desc lang="es">Historia de una pandilla de jóvenes estudiantes durante los años 50, donde el amor y la diversión se mezclan con distintas formas de ser y de ver la vida(n)</desc>
+    <credits>
+      <actor>John Travolta</actor>
+      <actor>Stockard Channing</actor>
+      <actor>Olivia Newton-John</actor>
+      <actor>Randal Kleiser</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160112111500 -0600" stop="20160112131500 -0600" channel="Cinecanal (W)">
+    <title lang="es">Vaselina</title>
+    <desc lang="es">Historia de una pandilla de jóvenes estudiantes durante los años 50, donde el amor y la diversión se mezclan con distintas formas de ser y de ver la vida(n)</desc>
+    <credits>
+      <actor>John Travolta</actor>
+      <actor>Stockard Channing</actor>
+      <actor>Olivia Newton-John</actor>
+      <actor>Randal Kleiser</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160112131500 -0600" stop="20160112145000 -0600" channel="Cinecanal (W)">
+    <title lang="es">La boda perfecta</title>
+    <desc lang="es">Forzados a trabajar juntos, Jessica, una organizadora de bodas, y Dan, un organizador de eventos, aprenden que los polos opuestos pueden conseguir los resultados más inesperados(n)</desc>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160112145000 -0600" stop="20160112163000 -0600" channel="Cinecanal (W)">
+    <title lang="es">Cowgirls 'N Angels 2: Dakota's Summer</title>
+    <desc lang="es">Dakota's Summer cuenta la historia del viaje personal de Dakota Rose y el circuito de rodeo después de que ella recibe una noticia sorprendente acerca de su nacimiento hace casi 18 años(n)</desc>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160112163000 -0600" stop="20160112182000 -0600" channel="Cinecanal (W)">
+    <title lang="es">Beauty Shop</title>
+    <desc lang="es">Cansada de su jefe, Gina decide regresar a su antiguo barrio en Chicago y abrir su propio salón de belleza junto con un grupo de divertidos peinadores, una colorida clientela y un vecino muy sexy(n)</desc>
+    <credits>
+      <actor>Andie Macdowell</actor>
+      <actor>Queen Latifah</actor>
+      <actor>Alicia Silverstone</actor>
+      <actor>Bille Woodruff</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160112182000 -0600" stop="20160112200000 -0600" channel="Cinecanal (W)">
+    <title lang="es">Kung Fu Panda</title>
+    <desc lang="es">Entusiasta, grande y patoso, Po es un loco del kung-fu. Cuando el destino quiere que Po sea el escogido para cumplir con una antigua profecía, se presenta la oportunidad de sus sueños. Entrará en el mundo del kung-fu para estudiar con sus ídolos, los legendarios Cinco Furiosos: Tigresa, Grulla, Mantis, Víbora y Mono, bajo el liderazgo de su gurú, el maestro Shifu. Pero el vengativo leopardo de las nieves, Tai Lung, prepara un ataque. Po deberá defender el Valle de la Paz de la terrible amenaza(n)</desc>
+    <credits>
+      <actor>Angelina Jolie</actor>
+      <actor>Dustin Hoffman</actor>
+      <actor>Jack Black</actor>
+      <actor>Mark Osborne</actor>
+      <actor>John Stevenson</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Animación</category>
+  </programme>
+  <programme start="20160112200000 -0600" stop="20160112220000 -0600" channel="Cinecanal (W)">
+    <title lang="es">Una noche en el museo</title>
+    <desc lang="es">El eterno soñador y corazón de oro Larry Daley (Ben Stiller), a pesar de no contar a menudo con la suerte a su favor, está convencido de estar predestinado a hacer algo grande. Pero nunca pensó en algo tan "grande" cuando acepta lo que parece ser un sencillo trabajo como guarda de seguridad nocturno del museo de ciencias naturales de Nueva York. Durante la vigilancia de Larry empiezan a suceder cosas extraordinarias. Entre todo este caos, la única persona que puede ayudar a Larry es la figura de cera del Presidente Teddy Roosevelt (Robin Williams)(n)</desc>
+    <credits>
+      <actor>Dick Van Dyke</actor>
+      <actor>Ben Stiller</actor>
+      <actor>Robin Williams</actor>
+      <actor>Shawn Levy</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Fantasía</category>
+  </programme>
+  <programme start="20160112220000 -0600" stop="20160112235000 -0600" channel="Cinecanal (W)">
+    <title lang="es">Una guerra de película</title>
+    <desc lang="es">Un grupo de actores pretenden rodar la película bélica más cara de la historia. Después de que los excesivos gastos (y los descontrolados egos de los mimados actores) amenacen con acabar con la película, el frustrado director se niega a parar el rodaje y lleva a su reparto a las profundidades de las selvas del sudeste de Asia para 'aumentar el realismo'. Allí se encontrarán por casualidad con unos guerrilleros de verdad y se verán obligados a convertirse en los soldados que interpretan para poder salir de la selva con vida(n)</desc>
+    <credits>
+      <actor>Ben Stiller</actor>
+      <actor>Jack Black</actor>
+      <actor>Robert Downey Jr.</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Acción</category>
+  </programme>
+  <programme start="20160112235000 -0600" stop="20160113013000 -0600" channel="Cinecanal (W)">
+    <title lang="es">Welcome to the Jungle</title>
+    <desc lang="es">Un grupo de oficinistas se encuentran atrapados en una isla desierta, guiados por un marine demente, luego de que un retiro corporativo sale terriblemente mal(n)</desc>
+    <credits>
+      <actor>Rob Huebel</actor>
+      <actor>Adam Brody</actor>
+      <actor>Jean-Claude Van Damme</actor>
+      <actor>Rob Meltzer</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160113013000 -0600" stop="20160113033000 -0600" channel="Cinecanal (W)">
+    <title lang="es">¿Quién quiere ser millonario?</title>
+    <desc lang="es">Jamal Malik está a punto de ganar 20 millones de rupias en la versión india del programa "¿Quién quiere ser millonario?". Ha acertado una respuesta tras otra, despertando las sospechas de la producción del programa. La policía lo arresta y lo interroga, porque no pueden creer que un muchacho de origen humilde como él haya llegado tan lejos y esté a punto de ganar el gran premio que lo convertirá en millonario. Mientras intenta demostrar que el destino lo ha guiado hasta este punto, Jamal nos relatará los sucesos de su infancia que contienen las claves para las respuestas(n)</desc>
+    <credits>
+      <actor>Dev Patel</actor>
+      <actor>Anil Kapoor</actor>
+      <actor>Danny Boyle</actor>
+      <actor>Saurabh Shukla</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160113033000 -0600" stop="20160113052000 -0600" channel="Cinecanal (W)">
+    <title lang="es">El espinazo del diablo</title>
+    <desc lang="es">La leyenda de la escuela Santa Lucía. Carlos descubre las oscuras ataduras que atan a los habitantes de la escuela, incluyendo a Santi, un alumno que fue asesinado y cuyo fantasma vaga por los jardines(n)</desc>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Terror y Suspenso</category>
+  </programme>
+  <programme start="20160113052000 -0600" stop="20160113053500 -0600" channel="Cinecanal (W)">
+    <title lang="es">Kids Flix</title>
+    <desc lang="es">Kids Flix es una divertida y rápida forma de conocer todo lo más nuevo en el cine y que los niños quieren ver(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160113053500 -0600" stop="20160113070000 -0600" channel="Cinecanal (W)">
+    <title lang="es">Fred 3: El Campamento de Fred</title>
+    <desc lang="es">Tras el último día de clases, Fred Figglehorn revela sus esperanzas de asistir al Campamento Superior, un campamento de verano que se considera un paraíso. Las esperanzas de Fred se desvanecen cuando se entera de que su madre le envía al campamento Iwannapeepee, un campamento de Fred encuentra horrible(n)</desc>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160113070000 -0600" stop="20160113090000 -0600" channel="Cinecanal (W)">
+    <title lang="es">Programación paga</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160113090000 -0600" stop="20160113091000 -0600" channel="Cinecanal (W)">
+    <title lang="es">Star Files</title>
+    <desc lang="es">Conoce detalles y curiosidades sobre la vida de tus estrellas favoritas de la pantalla grande(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160113091000 -0600" stop="20160113104500 -0600" channel="Cinecanal (W)">
+    <title lang="es">Cowgirls 'N Angels 2: Dakota's Summer</title>
+    <desc lang="es">Dakota's Summer cuenta la historia del viaje personal de Dakota Rose y el circuito de rodeo después de que ella recibe una noticia sorprendente acerca de su nacimiento hace casi 18 años(n)</desc>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160113104500 -0600" stop="20160113104500 -0600" channel="Cinecanal (W)">
+    <title lang="es">La boda perfecta</title>
+    <desc lang="es">Forzados a trabajar juntos, Jessica, una organizadora de bodas, y Dan, un organizador de eventos, aprenden que los polos opuestos pueden conseguir los resultados más inesperados(n)</desc>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160113104500 -0600" stop="20160113122000 -0600" channel="Cinecanal (W)">
+    <title lang="es">La boda perfecta</title>
+    <desc lang="es">Forzados a trabajar juntos, Jessica, una organizadora de bodas, y Dan, un organizador de eventos, aprenden que los polos opuestos pueden conseguir los resultados más inesperados(n)</desc>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160113122000 -0600" stop="20160113143000 -0600" channel="Cinecanal (W)">
+    <title lang="es">jOBS</title>
+    <desc lang="es">Biografía de Steve Jobs (1955-2011), el emprendedor más importante de los Estados Unidos y cofundador de Apple, que se centra sobre todo en sus primeros años como creador y empresario. Sólo se necesita una persona para empezar una revolución. La película cuenta la épica y turbulenta historia de Jobs mientras abría un camino que cambió la tecnología -y el mundo- para siempre(n)</desc>
+    <credits>
+      <actor>Dermot Mulroney</actor>
+      <actor>Josh Gad</actor>
+      <actor>Ashton Kutcher</actor>
+      <actor>Joshua Michael Stern</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Biográfico</category>
+  </programme>
+  <programme start="20160113143000 -0600" stop="20160113162000 -0600" channel="Cinecanal (W)">
+    <title lang="es">Barbershop 2: Back In Business</title>
+    <desc lang="es">Cuando un nuevo negocio se abre muy cerca de la Barbería, Calvin y sus peluqueros deberán luchar por salvar el suyo de la bancarrota, y a los vecinos de un sombrío proyecto de un centro comercial. Al mismo tiempo que Calvin descubre que la única manera de asegurarse un futuro es manteniéndose fiel a sus raíces(n)</desc>
+    <credits>
+      <actor>Sean Patrick Thomas</actor>
+      <actor>Cedric The Entertainer</actor>
+      <actor>Ice Cube</actor>
+      <actor>Kevin Rodney Sullivan</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160113162000 -0600" stop="20160113180500 -0600" channel="Cinecanal (W)">
+    <title lang="es">Otra despedida de soltero</title>
+    <desc lang="es">En un barrio de Nueva York, y a una semana de contraer matrimonio, un novio decide enfrentarse a lo inevitable al "descubrir" que es tiempo de dejar atrás su adolescencia e iniciar su vida adulta(n)</desc>
+    <credits>
+      <actor>Matthew Lillard</actor>
+      <actor>John Leguizamo</actor>
+      <actor>Edward Burns</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160113180500 -0600" stop="20160113200000 -0600" channel="Cinecanal (W)">
+    <title lang="es">Si decido quedarme</title>
+    <desc lang="es">Mia es una joven de 17 años que parece tenerlo todo en la vida: una famila adorable, un novio que la quiere, una amiga incondicional y una prometedora carrera musical, debido a su talento natural para tocar el chelo. Sin embargo, todo eso cambia en una fracción de segundo, cuando ella y su familia sufren un terrible accidente de coche(n)</desc>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160113200000 -0600" stop="20160113220000 -0600" channel="Cinecanal (W)">
+    <title lang="es">El Diablo viste a la moda</title>
+    <desc lang="es">En el mundo de la moda, Miranda Priestly es una de las mujeres más exitosas. Millones de lectoras siguen sus recomendaciones, sus empleados la adoran, los diseñadores le temen. Todos la veneran menos Andrea, que no se deja engañar por la fachada de frivolidad tras la que se oculta un diablo(n)</desc>
+    <credits>
+      <actor>Meryl Streep</actor>
+      <actor>Stanley Tucci</actor>
+      <actor>Anne Hathaway</actor>
+      <actor>David Frankel</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160113220000 -0600" stop="20160113235500 -0600" channel="Cinecanal (W)">
+    <title lang="es">The Other Woman</title>
+    <desc lang="es">Luego de descubrir que su novio está casado, Carly conoce a la esposa que él ha estado engañando. Y cuando otro romance es descubierto, las tres mujeres se complotan para la venganza(n)</desc>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160113235500 -0600" stop="20160114021000 -0600" channel="Cinecanal (W)">
+    <title lang="es">jOBS</title>
+    <desc lang="es">Biografía de Steve Jobs (1955-2011), el emprendedor más importante de los Estados Unidos y cofundador de Apple, que se centra sobre todo en sus primeros años como creador y empresario. Sólo se necesita una persona para empezar una revolución. La película cuenta la épica y turbulenta historia de Jobs mientras abría un camino que cambió la tecnología -y el mundo- para siempre(n)</desc>
+    <credits>
+      <actor>Dermot Mulroney</actor>
+      <actor>Josh Gad</actor>
+      <actor>Ashton Kutcher</actor>
+      <actor>Joshua Michael Stern</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Biográfico</category>
+  </programme>
+  <programme start="20160114021000 -0600" stop="20160114040000 -0600" channel="Cinecanal (W)">
+    <title lang="es">Una guerra de película</title>
+    <desc lang="es">Un grupo de actores pretenden rodar la película bélica más cara de la historia. Después de que los excesivos gastos (y los descontrolados egos de los mimados actores) amenacen con acabar con la película, el frustrado director se niega a parar el rodaje y lleva a su reparto a las profundidades de las selvas del sudeste de Asia para 'aumentar el realismo'. Allí se encontrarán por casualidad con unos guerrilleros de verdad y se verán obligados a convertirse en los soldados que interpretan para poder salir de la selva con vida(n)</desc>
+    <credits>
+      <actor>Ben Stiller</actor>
+      <actor>Jack Black</actor>
+      <actor>Robert Downey Jr.</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Acción</category>
+  </programme>
+  <programme start="20160114040000 -0600" stop="20160114052000 -0600" channel="Cinecanal (W)">
+    <title lang="es">Valiant</title>
+    <desc lang="es">Durante miles de años, los hombres han recurrido a las palomas para transportar mensajes en tiempos de necesidad. En la segunda guerra mundial, las palomas jugaron un papel crucial para las fuerzas aliadas entregando despachos claves desde detrás de las líneas enemigas. Durante una oscura y tormentosa noche en el Canal de la Mancha, vemos a tres miembros del Servicio Real de Palomas Mensajeras en ruta para entregar sus mensajes. Sin embargo, cuando tienen a la vista los famosos Acantilados Blancos de Dover, una sombra negra cae con estrépito para detenerlas(n)</desc>
+    <credits>
+      <actor>Ewan McGregor</actor>
+      <actor>Jim Broadbent</actor>
+      <actor>Ricky Gervais</actor>
+      <actor>Gary Chapman</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Animación</category>
+  </programme>
+  <programme start="20160114052000 -0600" stop="20160114070000 -0600" channel="Cinecanal (W)">
+    <title lang="es">Minicampeones 2</title>
+    <desc lang="es">Jereme es demasiado joven, lento y bajo de estatura para poder destacarse en los deportes. Pero se encuentra un par de zapatos deportivos con las iniciales M.J y se convierte en un súper atleta(n)</desc>
+    <credits>
+      <actor>Jascha Washington</actor>
+      <actor>Kel Mitchell</actor>
+      <actor>Brett Kelly</actor>
+      <actor>David Nelson</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160114070000 -0600" stop="20160114090000 -0600" channel="Cinecanal (W)">
+    <title lang="es">Programación paga</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160114090000 -0600" stop="20160114091000 -0600" channel="Cinecanal (W)">
+    <title lang="es">Kids Flix</title>
+    <desc lang="es">Kids Flix es una divertida y rápida forma de conocer todo lo más nuevo en el cine y que los niños quieren ver(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160114091000 -0600" stop="20160114110000 -0600" channel="Cinecanal (W)">
+    <title lang="es">Barbershop 2: Back In Business</title>
+    <desc lang="es">Cuando un nuevo negocio se abre muy cerca de la Barbería, Calvin y sus peluqueros deberán luchar por salvar el suyo de la bancarrota, y a los vecinos de un sombrío proyecto de un centro comercial. Al mismo tiempo que Calvin descubre que la única manera de asegurarse un futuro es manteniéndose fiel a sus raíces(n)</desc>
+    <credits>
+      <actor>Sean Patrick Thomas</actor>
+      <actor>Cedric The Entertainer</actor>
+      <actor>Ice Cube</actor>
+      <actor>Kevin Rodney Sullivan</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160114110000 -0600" stop="20160114110000 -0600" channel="Cinecanal (W)">
+    <title lang="es">Peluda venganza</title>
+    <desc lang="es">Fraser da vida a un vendedor inmobiliario cuya empresa le destina a vender unas viviendas en una zona desierta y salvaje de Oregón. Allí tendrá que enfrentarse a unas extrañas criaturas que le llevarán por el camino de la amargura(n)</desc>
+    <credits>
+      <actor>Jim Norton</actor>
+      <actor>Brendan Fraser</actor>
+      <actor>Ricky Garcia</actor>
+      <actor>Roger Kumble</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160114110000 -0600" stop="20160114124000 -0600" channel="Cinecanal (W)">
+    <title lang="es">Peluda venganza</title>
+    <desc lang="es">Fraser da vida a un vendedor inmobiliario cuya empresa le destina a vender unas viviendas en una zona desierta y salvaje de Oregón. Allí tendrá que enfrentarse a unas extrañas criaturas que le llevarán por el camino de la amargura(n)</desc>
+    <credits>
+      <actor>Jim Norton</actor>
+      <actor>Brendan Fraser</actor>
+      <actor>Ricky Garcia</actor>
+      <actor>Roger Kumble</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160114124000 -0600" stop="20160114140000 -0600" channel="Cinecanal (W)">
+    <title lang="es">Otra ridícula película de baile</title>
+    <desc lang="es">Parodia de las películas de bailes de adolescentes en la que un joven bailarín de street dance, Thomas Uncles, con tendencia a ir por el mal camino, y una joven muy hermosa, Megan White, se unen gracias a su pasión hacia el baile y son puestos a prueba en la competición de baile más divertida(n)</desc>
+    <credits>
+      <actor>Essence Atkins</actor>
+      <actor>Damon Wayans Jr.</actor>
+      <actor>Shoshana Bush</actor>
+      <actor>Damien Dante Wayans</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160114140000 -0600" stop="20160114155500 -0600" channel="Cinecanal (W)">
+    <title lang="es">Quisiera ser grande</title>
+    <desc lang="es">Josh tiene doce años y desea ser mayor. Una noche encuentra en una feria una máquina en la que echando una moneda puedes pedir un deseo y, como era de esperar, Josh pide ser mayor. Para su sorpresa su deseo se hará realidad(n)</desc>
+    <credits>
+      <actor>Jon Lovitz</actor>
+      <actor>Elizabeth Perkins</actor>
+      <actor>Tom Hanks</actor>
+      <actor>Penny Marshall</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160114155500 -0600" stop="20160114181500 -0600" channel="Cinecanal (W)">
+    <title lang="es">Juego de honor</title>
+    <desc lang="es">Ken Carter, el entrenador de basketball de un equipo estudiantil que se mantiene invicto con 13 victorias, decide que sus jugadores no se presentarán en los siguientes 2 partidos, y en su lugar estudiarán para los exámenes trimestrales por el bajo nivel académico que tienen, originando un debate sobre la finalidad del deporte amateur en los institutos y las universidades(n)</desc>
+    <credits>
+      <actor>Rick Gonzalez</actor>
+      <actor>Rob Brown</actor>
+      <actor>Samuel L. Jackson</actor>
+      <actor>Thomas Carter</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160114181500 -0600" stop="20160114200000 -0600" channel="Cinecanal (W)">
+    <title lang="es">El gran hotel Budapest</title>
+    <desc lang="es">Gustave H. (Ralph Fiennes), un legendario conserje de un famoso hotel europeo de entreguerras, entabla amistad con Zero Moustafa (Tony Revolori), un joven empleado al que convierte en su protegido. La historia trata sobre el robo y la recuperación de una pintura renacentista de valor incalculable y sobre la batalla que enfrenta a los miembros de una familia por una inmensa fortuna. Como telón de fondo, los levantamientos que transformaron Europa durante la primera mitad del siglo XX(n)</desc>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160114200000 -0600" stop="20160114220000 -0600" channel="Cinecanal (W)">
+    <title lang="es">La mujer de mis pesadillas</title>
+    <desc lang="es">Eddie, soltero e indeciso, empieza a salir con la aparentemente fabulosa y sexy Lila. Siguiendo los consejos de su padre y de su mejor amigo, Eddie le pide que se case con él, temeroso de que se escape lo que cree ser su última oportunidad para el amor, el matrimonio y la felicidad. Sin embargo, no tarda en descubrir su error cuando Lila revela su auténtica y horrible personalidad durante la luna de miel en México. Para colmo, Eddie conoce a Miranda y se enamora de ella. Así pues, no le queda más remedio que alejar a su insoportable esposa mientras intenta conquistar a la chica de sus sueños(n)</desc>
+    <credits>
+      <actor>Ben Stiller</actor>
+      <actor>Malin Akerman</actor>
+      <actor>Michelle Monaghan</actor>
+      <actor>Peter Farrelly</actor>
+      <actor>Bobby Farrelly</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160114220000 -0600" stop="20160115000000 -0600" channel="Cinecanal (W)">
+    <title lang="es">Anchorman 2: The Legend Continues</title>
+    <desc lang="es">Tras perder su trabajo por culpa de su esposa y copresentadora, Ron vuelve a reunir al equipo de noticias y se pone en guardia frente a un nuevo rival. ¿Acabará aplastado el reportero más grande del mundo por el peso de su propio ego (y el de su peinado)? Todo puede ocurrir(n)</desc>
+    <credits>
+      <actor>Steve Carell</actor>
+      <actor>Christina Applegate</actor>
+      <actor>Paul Rudd</actor>
+      <actor>Adam Mckay</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160115000000 -0600" stop="20160115014000 -0600" channel="Cinecanal (W)">
+    <title lang="es">Hitman agente 47</title>
+    <desc lang="es">El agente 47 es contratado por una misteriosa organización conocida como "La Agencia" para matar por dinero. Sin embargo, el hombre se terminará convirtiendo en la presa luego de un cambio de régimen político. Tanto la interpol como el ejército ruso perseguirá al asesino por toda Europa del Este, mientras él intenta descubrir quién le tendió la trampa y por qué(n)</desc>
+    <credits>
+      <actor>Olga Kurylenko</actor>
+      <actor>Dougray Scott</actor>
+      <actor>Timothy Olyphant</actor>
+      <actor>Xavier Gens</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Acción</category>
+  </programme>
+  <programme start="20160115014000 -0600" stop="20160115031500 -0600" channel="Cinecanal (W)">
+    <title lang="es">Welcome to the Jungle</title>
+    <desc lang="es">Un grupo de oficinistas se encuentran atrapados en una isla desierta, guiados por un marine demente, luego de que un retiro corporativo sale terriblemente mal(n)</desc>
+    <credits>
+      <actor>Rob Huebel</actor>
+      <actor>Adam Brody</actor>
+      <actor>Jean-Claude Van Damme</actor>
+      <actor>Rob Meltzer</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160115031500 -0600" stop="20160115045000 -0600" channel="Cinecanal (W)">
+    <title lang="es">The Letter</title>
+    <desc lang="es">Al mismo tiempo que intenta que su nueva obra salga adelante, una autora teatral (Winona Ryder) empieza a tener alucinaciones y a sufrir ataques de paranoia(n)</desc>
+    <credits>
+      <actor>James Franco</actor>
+      <actor>Josh Hamilton</actor>
+      <actor>Winona Ryder</actor>
+      <actor>Jay Anania</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Suspenso</category>
+  </programme>
+  <programme start="20160115045000 -0600" stop="20160115050500 -0600" channel="Cinecanal (W)">
+    <title lang="es">Kids Flix</title>
+    <desc lang="es">Kids Flix es una divertida y rápida forma de conocer todo lo más nuevo en el cine y que los niños quieren ver(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160115050500 -0600" stop="20160115070000 -0600" channel="Cinecanal (W)">
+    <title lang="es">Vaselina</title>
+    <desc lang="es">Historia de una pandilla de jóvenes estudiantes durante los años 50, donde el amor y la diversión se mezclan con distintas formas de ser y de ver la vida(n)</desc>
+    <credits>
+      <actor>John Travolta</actor>
+      <actor>Stockard Channing</actor>
+      <actor>Olivia Newton-John</actor>
+      <actor>Randal Kleiser</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160115070000 -0600" stop="20160115090000 -0600" channel="Cinecanal (W)">
+    <title lang="es">Programación paga</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160115090000 -0600" stop="20160115091000 -0600" channel="Cinecanal (W)">
+    <title lang="es">Star Files</title>
+    <desc lang="es">Conoce detalles y curiosidades sobre la vida de tus estrellas favoritas de la pantalla grande(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160115091000 -0600" stop="20160115110000 -0600" channel="Cinecanal (W)">
+    <title lang="es">Beauty Shop</title>
+    <desc lang="es">Cansada de su jefe, Gina decide regresar a su antiguo barrio en Chicago y abrir su propio salón de belleza junto con un grupo de divertidos peinadores, una colorida clientela y un vecino muy sexy(n)</desc>
+    <credits>
+      <actor>Andie Macdowell</actor>
+      <actor>Queen Latifah</actor>
+      <actor>Alicia Silverstone</actor>
+      <actor>Bille Woodruff</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160115110000 -0600" stop="20160115110000 -0600" channel="Cinecanal (W)">
+    <title lang="es">Juego de honor</title>
+    <desc lang="es">Ken Carter, el entrenador de basketball de un equipo estudiantil que se mantiene invicto con 13 victorias, decide que sus jugadores no se presentarán en los siguientes 2 partidos, y en su lugar estudiarán para los exámenes trimestrales por el bajo nivel académico que tienen, originando un debate sobre la finalidad del deporte amateur en los institutos y las universidades(n)</desc>
+    <credits>
+      <actor>Rick Gonzalez</actor>
+      <actor>Rob Brown</actor>
+      <actor>Samuel L. Jackson</actor>
+      <actor>Thomas Carter</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160115110000 -0600" stop="20160115132000 -0600" channel="Cinecanal (W)">
+    <title lang="es">Juego de honor</title>
+    <desc lang="es">Ken Carter, el entrenador de basketball de un equipo estudiantil que se mantiene invicto con 13 victorias, decide que sus jugadores no se presentarán en los siguientes 2 partidos, y en su lugar estudiarán para los exámenes trimestrales por el bajo nivel académico que tienen, originando un debate sobre la finalidad del deporte amateur en los institutos y las universidades(n)</desc>
+    <credits>
+      <actor>Rick Gonzalez</actor>
+      <actor>Rob Brown</actor>
+      <actor>Samuel L. Jackson</actor>
+      <actor>Thomas Carter</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160115132000 -0600" stop="20160115150500 -0600" channel="Cinecanal (W)">
+    <title lang="es">Otra despedida de soltero</title>
+    <desc lang="es">En un barrio de Nueva York, y a una semana de contraer matrimonio, un novio decide enfrentarse a lo inevitable al "descubrir" que es tiempo de dejar atrás su adolescencia e iniciar su vida adulta(n)</desc>
+    <credits>
+      <actor>Matthew Lillard</actor>
+      <actor>John Leguizamo</actor>
+      <actor>Edward Burns</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160115150500 -0600" stop="20160115164500 -0600" channel="Cinecanal (W)">
+    <title lang="es">La leyenda de Johnny Lingo</title>
+    <desc lang="es">Un chico, único sobreviviente de un naufragio, llega a una isla del Pacífico Sur, donde los habitantes comienzan considerándolo un regalo de sus dioses. Pero el pequeño causa tantos problemas que acaba desterrado junto a la gente mas pobre del lugar. Una serie de aventuras acabarán enseñándole todo lo que necesita aprender sobre la vida, la amistad y los valores(n)</desc>
+    <credits>
+      <actor>George Henare</actor>
+      <actor>Rawiri Paratene</actor>
+      <actor>Joe Folau</actor>
+      <actor>Steven Ramirez</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160115164500 -0600" stop="20160115182000 -0600" channel="Cinecanal (W)">
+    <title lang="es">Kung Fu Panda</title>
+    <desc lang="es">Entusiasta, grande y patoso, Po es un loco del kung-fu. Cuando el destino quiere que Po sea el escogido para cumplir con una antigua profecía, se presenta la oportunidad de sus sueños. Entrará en el mundo del kung-fu para estudiar con sus ídolos, los legendarios Cinco Furiosos: Tigresa, Grulla, Mantis, Víbora y Mono, bajo el liderazgo de su gurú, el maestro Shifu. Pero el vengativo leopardo de las nieves, Tai Lung, prepara un ataque. Po deberá defender el Valle de la Paz de la terrible amenaza(n)</desc>
+    <credits>
+      <actor>Angelina Jolie</actor>
+      <actor>Dustin Hoffman</actor>
+      <actor>Jack Black</actor>
+      <actor>Mark Osborne</actor>
+      <actor>John Stevenson</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Animación</category>
+  </programme>
+  <programme start="20160115182000 -0600" stop="20160115200500 -0600" channel="Cinecanal (W)">
+    <title lang="es">La guarderia de papá</title>
+    <desc lang="es">Dos padres pierden su trabajo en desarrollo de producción en una gran fábrica de productos alimenticios y se ven obligados a quitar a sus hijos de la exclusiva Academia Chapman y a volverse `amos de casa’. Sin propuestas de trabajo, los dos padres abren su propia guardería: `la Guardería de Papá’, y utilizan varios métodos poco convencionales para cuidar de los niños. A medida que `la Guardería de Papá’ comienza a tener éxito, se genera una cómica rivalidad entre ellos y el rudo director de la Academia Chapman, el cual ya logró que sus competidores previos salgan del negocio(n)</desc>
+    <credits>
+      <actor>Anjelica Houston</actor>
+      <actor>Jeff Garlin</actor>
+      <actor>Steve Carr</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160115200500 -0600" stop="20160115220000 -0600" channel="Cinecanal (W)">
+    <title lang="es">The Other Woman</title>
+    <desc lang="es">Luego de descubrir que su novio está casado, Carly conoce a la esposa que él ha estado engañando. Y cuando otro romance es descubierto, las tres mujeres se complotan para la venganza(n)</desc>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160115220000 -0600" stop="20160115233000 -0600" channel="Cinecanal (W)">
+    <title lang="es">El gurú del amor</title>
+    <desc lang="es">Pitka era antes un chico norteamericano corriente, hasta que su familia le dejó en la puerta de un templo hindú para que fuera criado por gurús. Pitka fue iniciado en los profundos secretos de las gestas espirituales junto con su amigo y único rival, Deepak Chopra. Pero ahora, Chopra es inmensamente famoso en Estados Unidos, y Pitka sigue de segundón. Decidido a compartir su infinito conocimiento sobre la naturaleza de la vida y, por si fuera poco, a hacerse famoso, Pitka atiende la ferviente petición de ayuda de Jane Bullard, propietaria del equipo de hockey de Toronto(n)</desc>
+    <credits>
+      <actor>Jessica Alba</actor>
+      <actor>Justin Timberlake</actor>
+      <actor>Mike Myers</actor>
+      <actor>Marco Schnabel</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160115233000 -0600" stop="20160116012000 -0600" channel="Cinecanal (W)">
+    <title lang="es">Pequeña Miss Sunshin</title>
+    <desc lang="es">Ganadora de 2 premios Oscar, incluido el de Mejor actor de reparto para Alan Arkin. Obtuvo dos nominaciones más. Ganadora del César a la Mejor Película Extranjera. La conflictiva familia Hoover emprende un viaje de tres días con la intención de que el deseo más grande de Olive, una niña de 7 años, se haga realidad: participar en un concurso de belleza. Durante la travesía, los Hoover aprenderán a confiar y a apoyarse el uno al otro sin importar los acontecimientos que se presenten(n)</desc>
+    <credits>
+      <actor>Greg Kinnear</actor>
+      <actor>Alan Arkin</actor>
+      <actor>Abigail Breslin</actor>
+      <actor>Jonathan Dayton</actor>
+      <actor>Valerie Faris</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160116012000 -0600" stop="20160116025500 -0600" channel="Cinecanal (W)">
+    <title lang="es">Finders Keepers</title>
+    <desc lang="es">Una madre divorciada será la primera en notar que algo no va bien cuando su hija pequeña se obsesione con una muñeca dejada por los anteriores inquilinos de su nuevo hogar(n)</desc>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Terror y Suspenso</category>
+  </programme>
+  <programme start="20160116025500 -0600" stop="20160116051000 -0600" channel="Cinecanal (W)">
+    <title lang="es">Mud</title>
+    <desc lang="es">En una isla del Mississippi, dos chicos descubren a un fugitivo llamado Mud. Ha matado a un hombre para proteger al amor de su vida, Juniper, y ahora se oculta de los cazadores de recompensas. Los chicos acceden a ayudarle a reunirse con Juniper y preparar su huida juntos, sin saber que la aparición de Mud significará el fin de sus infancias(n)</desc>
+    <credits>
+      <actor>Matthew McConaughey</actor>
+      <actor>Sam Shepard</actor>
+      <actor>Jeff Nichols</actor>
+      <actor>Tye Sheridan</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160116051000 -0600" stop="20160116052000 -0600" channel="Cinecanal (W)">
+    <title lang="es">Kids Flix</title>
+    <desc lang="es">Kids Flix es una divertida y rápida forma de conocer todo lo más nuevo en el cine y que los niños quieren ver(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160116052000 -0600" stop="20160116070000 -0600" channel="Cinecanal (W)">
+    <title lang="es">Next</title>
+    <desc lang="es">Cris Johnson es un mago de Las Vegas bendecido con un don que también es una maldición: cuenta con la sobrenatural capacidad de ver el futuro unos cuantos minutos más allá del momento presente, un talento extrasensorial que, sin duda, le viene muy bien para su trabajo como mago y mentalista en el sórdido club de Las Vegas donde actúa cada noche. Pero cuando un grupo terrorista amenaza con detonar un arma de destrucción masiva en Los Ángeles, la agente antiterrorista Callie Ferris, quiere sacar partido al talento de Cris e impedir el posible ataque(n)</desc>
+    <credits>
+      <actor>Nicolas Cage</actor>
+      <actor>Julianne Moore</actor>
+      <actor>Lee Tamahori</actor>
+      <actor>Jessica Biel</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Acción</category>
+  </programme>
+  <programme start="20160116070000 -0600" stop="20160116090000 -0600" channel="Cinecanal (W)">
+    <title lang="es">Programación paga</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160116090000 -0600" stop="20160116111000 -0600" channel="Cinecanal (W)">
+    <title lang="es">jOBS</title>
+    <desc lang="es">Biografía de Steve Jobs (1955-2011), el emprendedor más importante de los Estados Unidos y cofundador de Apple, que se centra sobre todo en sus primeros años como creador y empresario. Sólo se necesita una persona para empezar una revolución. La película cuenta la épica y turbulenta historia de Jobs mientras abría un camino que cambió la tecnología -y el mundo- para siempre(n)</desc>
+    <credits>
+      <actor>Dermot Mulroney</actor>
+      <actor>Josh Gad</actor>
+      <actor>Ashton Kutcher</actor>
+      <actor>Joshua Michael Stern</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Biográfico</category>
+  </programme>
+  <programme start="20160116111000 -0600" stop="20160116111000 -0600" channel="Cinecanal (W)">
+    <title lang="es">French Kiss</title>
+    <desc lang="es">Tierna comedia de enredos que relata el viaje de una chica canadiense a Francia para confrontar a su novio infiel, pero termina viviendo una insólita aventura romántica en París con un ladrón encantador(n)</desc>
+    <credits>
+      <actor>Jean Reno</actor>
+      <actor>Kevin Kline</actor>
+      <actor>Meg Ryan</actor>
+      <actor>Lawrence Kasdan</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160116111000 -0600" stop="20160116131000 -0600" channel="Cinecanal (W)">
+    <title lang="es">French Kiss</title>
+    <desc lang="es">Tierna comedia de enredos que relata el viaje de una chica canadiense a Francia para confrontar a su novio infiel, pero termina viviendo una insólita aventura romántica en París con un ladrón encantador(n)</desc>
+    <credits>
+      <actor>Jean Reno</actor>
+      <actor>Kevin Kline</actor>
+      <actor>Meg Ryan</actor>
+      <actor>Lawrence Kasdan</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160116131000 -0600" stop="20160116150000 -0600" channel="Cinecanal (W)">
+    <title lang="es">Mi amiga la sirena</title>
+    <desc lang="es">Dos amigas se embarcan en una fabulosa aventura al descubrir a Aquamarine, una sirena, dentro de una piscina. Pero cuando ella se enamora del salvavidas del lugar, les ofrece a las jóvenes concederles un deseo a cambio de su ayuda para ganarse el corazón del chico(n)</desc>
+    <credits>
+      <actor>Emma Roberts</actor>
+      <actor>Sara Paxton</actor>
+      <actor>Joanna Levesque</actor>
+      <actor>Elizabeth Allen</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Fantasía</category>
+  </programme>
+  <programme start="20160116150000 -0600" stop="20160116163000 -0600" channel="Cinecanal (W)">
+    <title lang="es">El regalo prometido</title>
+    <desc lang="es">Howard Langston es un vendedor al que su hijo le hace prometer que le regalará por Navidad el juguete de moda: Turbo man. Llegado el día Howard va a comprar el juguete y descubre que está agotado en todas las tiendas(n)</desc>
+    <credits>
+      <actor>Robert Conrad</actor>
+      <actor>James Belushi</actor>
+      <actor>Arnold Schwarzenegger</actor>
+      <actor>Brian Levant</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160116163000 -0600" stop="20160116181000 -0600" channel="Cinecanal (W)">
+    <title lang="es">La ciudad perdida</title>
+    <desc lang="es">La ciudad de Ember ha sido construida bajo tierra y las únicas luces que la iluminan, doce horas al día, provienen de las farolas. Más allá de la ciudad se encuentran las Regiones Desconocidas, que nadie ha explorado todavía. Los habitantes de Ember han vivido durante doscientos cincuenta años, mientras sus comercios han estado bien abastecidos. Pero llega un día en que las luces empiezan a parpadear. Lina , una niña de trece años, tratará de descubrir junto a su amigo Doon cuál es la clave para solucionar la grave situación en que se encuentra Ember(n)</desc>
+    <credits>
+      <actor>Harry Treadaway</actor>
+      <actor>Tim Robbins</actor>
+      <actor>Saoirse Ronan</actor>
+      <actor>Gil Kenan</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Fantasía</category>
+  </programme>
+  <programme start="20160116181000 -0600" stop="20160116195000 -0600" channel="Cinecanal (W)">
+    <title lang="es">Ice Age: The Meltdown</title>
+    <desc lang="es">Manny, Sid y Diego tienen que informar a los demás animales que una inundación podría acabar con todo el Valle. Su única oportunidad de supervivencia es llegar al otro extremo. Junto a sus nuevos amigos, se embarcan en una peligrosa misión a través de un ambiente que los llenará de inesperadas situaciones(n)</desc>
+    <credits>
+      <actor>Queen Latifah</actor>
+      <actor>Ray Romano</actor>
+      <actor>John Leguizamo</actor>
+      <actor>Carlos Saldanha</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Animación</category>
+  </programme>
+  <programme start="20160116195000 -0600" stop="20160116220000 -0600" channel="Cinecanal (W)">
+    <title lang="es">Iron Man</title>
+    <desc lang="es">Cuando Tony es secuestrado y obligado a construir un arma devastadora, él, en lugar de hacerlo, utiliza su inteligencia y reconocido ingenio para construir un traje especial de alta tecnología, que le ayudará a escapar de su encierro. Al descubrir un peligroso complot con implicaciones de ámbito global, él dona su poderosa armadura y jura hacer lo que fuese necesario para proteger al mundo como IRON MAN(n)</desc>
+    <credits>
+      <actor>Jeff Bridges</actor>
+      <actor>Robert Downey Jr.</actor>
+      <actor>Terrence Howard</actor>
+      <actor>Jon Favreau</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">C.Ficción</category>
+  </programme>
+  <programme start="20160116220000 -0600" stop="20160117001500 -0600" channel="Cinecanal (W)">
+    <title lang="es">X-Men: días del futuro pasado</title>
+    <desc lang="es">Los X-Men luchan por la supervivencia de la especie en una guerra que se desarrolla en épocas diferentes. Los personajes de la trilogía cinematográfica original de "X-Men" unen sus fuerzas a las que ellos mismos poseían en el pasado, cuando eran más jóvenes -tal y como aparecen en "X-Men: Primera generación"-, para cambiar un importante acontecimiento histórico y librar una épica batalla que podría salvar nuestro futuro(n)</desc>
+    <category lang="es">Pelicula</category>
+    <category lang="es">C.Ficción</category>
+  </programme>
+  <programme start="20160117001500 -0600" stop="20160117015500 -0600" channel="Cinecanal (W)">
+    <title lang="es">Code 46</title>
+    <desc lang="es">En un futuro donde los ciudadanos no pueden viajar sin un seguro especial, William, quien investiga una estafa, se enamora de una joven falsificadora, pero su documento para viajar sólo dura 24 horas(n)</desc>
+    <credits>
+      <actor>Togo Igawa</actor>
+      <actor>Tim Robbins</actor>
+      <actor>Michael Winterbottom</actor>
+      <actor>Samantha Morton</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">C.Ficción</category>
+  </programme>
+  <programme start="20160117015500 -0600" stop="20160117033000 -0600" channel="Cinecanal (W)">
+    <title lang="es">Hitman agente 47</title>
+    <desc lang="es">El agente 47 es contratado por una misteriosa organización conocida como "La Agencia" para matar por dinero. Sin embargo, el hombre se terminará convirtiendo en la presa luego de un cambio de régimen político. Tanto la interpol como el ejército ruso perseguirá al asesino por toda Europa del Este, mientras él intenta descubrir quién le tendió la trampa y por qué(n)</desc>
+    <credits>
+      <actor>Olga Kurylenko</actor>
+      <actor>Dougray Scott</actor>
+      <actor>Timothy Olyphant</actor>
+      <actor>Xavier Gens</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Acción</category>
+  </programme>
+  <programme start="20160117033000 -0600" stop="20160117053000 -0600" channel="Cinecanal (W)">
+    <title lang="es">Anchorman 2: The Legend Continues</title>
+    <desc lang="es">Tras perder su trabajo por culpa de su esposa y copresentadora, Ron vuelve a reunir al equipo de noticias y se pone en guardia frente a un nuevo rival. ¿Acabará aplastado el reportero más grande del mundo por el peso de su propio ego (y el de su peinado)? Todo puede ocurrir(n)</desc>
+    <credits>
+      <actor>Steve Carell</actor>
+      <actor>Christina Applegate</actor>
+      <actor>Paul Rudd</actor>
+      <actor>Adam Mckay</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160117053000 -0600" stop="20160117070000 -0600" channel="Cinecanal (W)">
+    <title lang="es">Angels Sing</title>
+    <desc lang="es">En su infancia, Michael deseaba que cada día fuera Navidad hasta que un trágico accidente le aplastó el espíritu de las fiestas. Ahora le tocará hacer las paces con su pasado para que su hijo no pase por lo mismo(n)</desc>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Fantasía</category>
+  </programme>
+  <programme start="20160117070000 -0600" stop="20160117090000 -0600" channel="Cinecanal (W)">
+    <title lang="es">Programación paga</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160117090000 -0600" stop="20160117091000 -0600" channel="Cinecanal (W)">
+    <title lang="es">Star Files</title>
+    <desc lang="es">Conoce detalles y curiosidades sobre la vida de tus estrellas favoritas de la pantalla grande(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160117091000 -0600" stop="20160117104500 -0600" channel="Cinecanal (W)">
+    <title lang="es">Peluda venganza</title>
+    <desc lang="es">Fraser da vida a un vendedor inmobiliario cuya empresa le destina a vender unas viviendas en una zona desierta y salvaje de Oregón. Allí tendrá que enfrentarse a unas extrañas criaturas que le llevarán por el camino de la amargura(n)</desc>
+    <credits>
+      <actor>Jim Norton</actor>
+      <actor>Brendan Fraser</actor>
+      <actor>Ricky Garcia</actor>
+      <actor>Roger Kumble</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160117104500 -0600" stop="20160117104500 -0600" channel="Cinecanal (W)">
+    <title lang="es">Quisiera ser grande</title>
+    <desc lang="es">Josh tiene doce años y desea ser mayor. Una noche encuentra en una feria una máquina en la que echando una moneda puedes pedir un deseo y, como era de esperar, Josh pide ser mayor. Para su sorpresa su deseo se hará realidad(n)</desc>
+    <credits>
+      <actor>Jon Lovitz</actor>
+      <actor>Elizabeth Perkins</actor>
+      <actor>Tom Hanks</actor>
+      <actor>Penny Marshall</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160117104500 -0600" stop="20160117124000 -0600" channel="Cinecanal (W)">
+    <title lang="es">Quisiera ser grande</title>
+    <desc lang="es">Josh tiene doce años y desea ser mayor. Una noche encuentra en una feria una máquina en la que echando una moneda puedes pedir un deseo y, como era de esperar, Josh pide ser mayor. Para su sorpresa su deseo se hará realidad(n)</desc>
+    <credits>
+      <actor>Jon Lovitz</actor>
+      <actor>Elizabeth Perkins</actor>
+      <actor>Tom Hanks</actor>
+      <actor>Penny Marshall</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160117124000 -0600" stop="20160117142000 -0600" channel="Cinecanal (W)">
+    <title lang="es">La guarderia de papá</title>
+    <desc lang="es">Dos padres pierden su trabajo en desarrollo de producción en una gran fábrica de productos alimenticios y se ven obligados a quitar a sus hijos de la exclusiva Academia Chapman y a volverse `amos de casa’. Sin propuestas de trabajo, los dos padres abren su propia guardería: `la Guardería de Papá’, y utilizan varios métodos poco convencionales para cuidar de los niños. A medida que `la Guardería de Papá’ comienza a tener éxito, se genera una cómica rivalidad entre ellos y el rudo director de la Academia Chapman, el cual ya logró que sus competidores previos salgan del negocio(n)</desc>
+    <credits>
+      <actor>Anjelica Houston</actor>
+      <actor>Jeff Garlin</actor>
+      <actor>Steve Carr</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160117142000 -0600" stop="20160117155500 -0600" channel="Cinecanal (W)">
+    <title lang="es">La leyenda de Johnny Lingo</title>
+    <desc lang="es">Un chico, único sobreviviente de un naufragio, llega a una isla del Pacífico Sur, donde los habitantes comienzan considerándolo un regalo de sus dioses. Pero el pequeño causa tantos problemas que acaba desterrado junto a la gente mas pobre del lugar. Una serie de aventuras acabarán enseñándole todo lo que necesita aprender sobre la vida, la amistad y los valores(n)</desc>
+    <credits>
+      <actor>George Henare</actor>
+      <actor>Rawiri Paratene</actor>
+      <actor>Joe Folau</actor>
+      <actor>Steven Ramirez</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160117155500 -0600" stop="20160117173000 -0600" channel="Cinecanal (W)">
+    <title lang="es">Ice Age: The Meltdown</title>
+    <desc lang="es">Manny, Sid y Diego tienen que informar a los demás animales que una inundación podría acabar con todo el Valle. Su única oportunidad de supervivencia es llegar al otro extremo. Junto a sus nuevos amigos, se embarcan en una peligrosa misión a través de un ambiente que los llenará de inesperadas situaciones(n)</desc>
+    <credits>
+      <actor>Queen Latifah</actor>
+      <actor>Ray Romano</actor>
+      <actor>John Leguizamo</actor>
+      <actor>Carlos Saldanha</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Animación</category>
+  </programme>
+  <programme start="20160117173000 -0600" stop="20160117194500 -0600" channel="Cinecanal (W)">
+    <title lang="es">Iron Man</title>
+    <desc lang="es">Cuando Tony es secuestrado y obligado a construir un arma devastadora, él, en lugar de hacerlo, utiliza su inteligencia y reconocido ingenio para construir un traje especial de alta tecnología, que le ayudará a escapar de su encierro. Al descubrir un peligroso complot con implicaciones de ámbito global, él dona su poderosa armadura y jura hacer lo que fuese necesario para proteger al mundo como IRON MAN(n)</desc>
+    <credits>
+      <actor>Jeff Bridges</actor>
+      <actor>Robert Downey Jr.</actor>
+      <actor>Terrence Howard</actor>
+      <actor>Jon Favreau</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">C.Ficción</category>
+  </programme>
+  <programme start="20160117194500 -0600" stop="20160117220000 -0600" channel="Cinecanal (W)">
+    <title lang="es">X-Men: días del futuro pasado</title>
+    <desc lang="es">Los X-Men luchan por la supervivencia de la especie en una guerra que se desarrolla en épocas diferentes. Los personajes de la trilogía cinematográfica original de "X-Men" unen sus fuerzas a las que ellos mismos poseían en el pasado, cuando eran más jóvenes -tal y como aparecen en "X-Men: Primera generación"-, para cambiar un importante acontecimiento histórico y librar una épica batalla que podría salvar nuestro futuro(n)</desc>
+    <category lang="es">Pelicula</category>
+    <category lang="es">C.Ficción</category>
+  </programme>
+  <programme start="20160117220000 -0600" stop="20160118001500 -0600" channel="Cinecanal (W)">
+    <title lang="es">El planeta de los simios: confrontación</title>
+    <desc lang="es">Diez años después de una enfermedad pandémica, simios que han sobrevivido son dirigidos a la batalla con un grupo de sobrevivientes humanos(n)</desc>
+    <category lang="es">Pelicula</category>
+    <category lang="es">C.Ficción</category>
+  </programme>
+  <programme start="20160118001500 -0600" stop="20160118015500 -0600" channel="Cinecanal (W)">
+    <title lang="es">Goon</title>
+    <desc lang="es">Doug, sueña con un trabajo más gratificante y así ganarse el respeto de sus padres. Cuando un encuentro casual con un matón en el hielo conduce a una pelea que Doug gana fácilmente, el entrenador ve potencial en Doug, a pesar de su falta de capacidad en hockey. Se une al equipo, y rápidamente es una estrella en ascenso(n)</desc>
+    <credits>
+      <actor>Jay Baruchel</actor>
+      <actor>Sean William Scott</actor>
+      <actor>Michael Dowse</actor>
+      <actor>Alison Pill</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160118015500 -0600" stop="20160118032500 -0600" channel="Cinecanal (W)">
+    <title lang="es">El gurú del amor</title>
+    <desc lang="es">Pitka era antes un chico norteamericano corriente, hasta que su familia le dejó en la puerta de un templo hindú para que fuera criado por gurús. Pitka fue iniciado en los profundos secretos de las gestas espirituales junto con su amigo y único rival, Deepak Chopra. Pero ahora, Chopra es inmensamente famoso en Estados Unidos, y Pitka sigue de segundón. Decidido a compartir su infinito conocimiento sobre la naturaleza de la vida y, por si fuera poco, a hacerse famoso, Pitka atiende la ferviente petición de ayuda de Jane Bullard, propietaria del equipo de hockey de Toronto(n)</desc>
+    <credits>
+      <actor>Jessica Alba</actor>
+      <actor>Justin Timberlake</actor>
+      <actor>Mike Myers</actor>
+      <actor>Marco Schnabel</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160118032500 -0600" stop="20160118052000 -0600" channel="Cinecanal (W)">
+    <title lang="es">Pequeña Miss Sunshin</title>
+    <desc lang="es">Ganadora de 2 premios Oscar, incluido el de Mejor actor de reparto para Alan Arkin. Obtuvo dos nominaciones más. Ganadora del César a la Mejor Película Extranjera. La conflictiva familia Hoover emprende un viaje de tres días con la intención de que el deseo más grande de Olive, una niña de 7 años, se haga realidad: participar en un concurso de belleza. Durante la travesía, los Hoover aprenderán a confiar y a apoyarse el uno al otro sin importar los acontecimientos que se presenten(n)</desc>
+    <credits>
+      <actor>Greg Kinnear</actor>
+      <actor>Alan Arkin</actor>
+      <actor>Abigail Breslin</actor>
+      <actor>Jonathan Dayton</actor>
+      <actor>Valerie Faris</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160118052000 -0600" stop="20160118053000 -0600" channel="Cinecanal (W)">
+    <title lang="es">Star Files</title>
+    <desc lang="es">Conoce detalles y curiosidades sobre la vida de tus estrellas favoritas de la pantalla grande(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160118053000 -0600" stop="20160118070000 -0600" channel="Cinecanal (W)">
+    <title lang="es">Clifford</title>
+    <desc lang="es">Clifford, un jovencito de 12 años, precoz, ingenioso y granuja, es enviado por su padre a pasar unos días con su tío. El tío Martín le recibe con los brazos abiertos y pretende demostrar a su prometido su pasión por los niños..(n)</desc>
+    <credits>
+      <actor>Martin Short</actor>
+      <actor>Charles Grodin</actor>
+      <actor>Mary Steenburgen</actor>
+      <actor>Paul Flaherty</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160118070000 -0600" stop="20160118090000 -0600" channel="Cinecanal (W)">
+    <title lang="es">Programación paga</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160118090000 -0600" stop="20160118110000 -0600" channel="Cinecanal (W)">
+    <title lang="es">French Kiss</title>
+    <desc lang="es">Tierna comedia de enredos que relata el viaje de una chica canadiense a Francia para confrontar a su novio infiel, pero termina viviendo una insólita aventura romántica en París con un ladrón encantador(n)</desc>
+    <credits>
+      <actor>Jean Reno</actor>
+      <actor>Kevin Kline</actor>
+      <actor>Meg Ryan</actor>
+      <actor>Lawrence Kasdan</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160118110000 -0600" stop="20160118110000 -0600" channel="Cinecanal (W)">
+    <title lang="es">Milagro en la calle 34</title>
+    <desc lang="es">Kris Kringle es juzgado para comprobar si realmente es Papá Noel o solamente un loco. Jane Alexander (Brubaker) protagoniza esta moderna versión del clásico relato navideño de 1947(n)</desc>
+    <credits>
+      <actor>Mara Wilson</actor>
+      <actor>Richard Attenborough</actor>
+      <actor>Elizabeth Perkins</actor>
+      <actor>Les Mayfield</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160118110000 -0600" stop="20160118130000 -0600" channel="Cinecanal (W)">
+    <title lang="es">Milagro en la calle 34</title>
+    <desc lang="es">Kris Kringle es juzgado para comprobar si realmente es Papá Noel o solamente un loco. Jane Alexander (Brubaker) protagoniza esta moderna versión del clásico relato navideño de 1947(n)</desc>
+    <credits>
+      <actor>Mara Wilson</actor>
+      <actor>Richard Attenborough</actor>
+      <actor>Elizabeth Perkins</actor>
+      <actor>Les Mayfield</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160118130000 -0600" stop="20160118142500 -0600" channel="Cinecanal (W)">
+    <title lang="es">Otra ridícula película de baile</title>
+    <desc lang="es">Parodia de las películas de bailes de adolescentes en la que un joven bailarín de street dance, Thomas Uncles, con tendencia a ir por el mal camino, y una joven muy hermosa, Megan White, se unen gracias a su pasión hacia el baile y son puestos a prueba en la competición de baile más divertida(n)</desc>
+    <credits>
+      <actor>Essence Atkins</actor>
+      <actor>Damon Wayans Jr.</actor>
+      <actor>Shoshana Bush</actor>
+      <actor>Damien Dante Wayans</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160118142500 -0600" stop="20160118161000 -0600" channel="Cinecanal (W)">
+    <title lang="es">La ciudad perdida</title>
+    <desc lang="es">La ciudad de Ember ha sido construida bajo tierra y las únicas luces que la iluminan, doce horas al día, provienen de las farolas. Más allá de la ciudad se encuentran las Regiones Desconocidas, que nadie ha explorado todavía. Los habitantes de Ember han vivido durante doscientos cincuenta años, mientras sus comercios han estado bien abastecidos. Pero llega un día en que las luces empiezan a parpadear. Lina , una niña de trece años, tratará de descubrir junto a su amigo Doon cuál es la clave para solucionar la grave situación en que se encuentra Ember(n)</desc>
+    <credits>
+      <actor>Harry Treadaway</actor>
+      <actor>Tim Robbins</actor>
+      <actor>Saoirse Ronan</actor>
+      <actor>Gil Kenan</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Fantasía</category>
+  </programme>
+  <programme start="20160118161000 -0600" stop="20160118180000 -0600" channel="Cinecanal (W)">
+    <title lang="es">Mi amiga la sirena</title>
+    <desc lang="es">Dos amigas se embarcan en una fabulosa aventura al descubrir a Aquamarine, una sirena, dentro de una piscina. Pero cuando ella se enamora del salvavidas del lugar, les ofrece a las jóvenes concederles un deseo a cambio de su ayuda para ganarse el corazón del chico(n)</desc>
+    <credits>
+      <actor>Emma Roberts</actor>
+      <actor>Sara Paxton</actor>
+      <actor>Joanna Levesque</actor>
+      <actor>Elizabeth Allen</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Fantasía</category>
+  </programme>
+  <programme start="20160118180000 -0600" stop="20160118201500 -0600" channel="Cinecanal (W)">
+    <title lang="es">Bajo la misma estrella</title>
+    <desc lang="es">A pesar de que un milagro médico ha conseguido reducir su tumor y darle unos años más de vida, la adolescente Hazel (Shailene Woodley) siempre se ha considerado una enferma terminal. Sin embargo, cuando el joven Gus (Ansel Elgort) entra a formar parte del grupo de ayuda para enfermos de cáncer juvenil, la vida de Hazel se transforma por completo(n)</desc>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160118201500 -0600" stop="20160118220000 -0600" channel="Cinecanal (W)">
+    <title lang="es">La mentira original</title>
+    <desc lang="es">En un mundo donde no existe la mentira, ni siquiera como concepto, todos dicen la verdad, toda la verdad y nada más que la verdad, sin pensar en las consecuencias. Nadie nunca ha dicho una mentira. De pronto, un perdedor nato llamado Mark Bellison desarrolla la capacidad de mentir, y no tarda en descubrir que la falta de sinceridad tiene grandes ventajas. En una sociedad donde cada palabra es una verdad absoluta, Mark no tiene problemas en trepar hacia la fama y la fortuna inventándose historias. Sin embargo, sus mentiras no convencen a la persona que ama(n)</desc>
+    <credits>
+      <actor>Jennifer Garner</actor>
+      <actor>Jonah Hill</actor>
+      <actor>Ricky Gervais</actor>
+      <actor>Matthew Robinson</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160118220000 -0600" stop="20160118235000 -0600" channel="Cinecanal (W)">
     <title lang="es">Si decido quedarme</title>
     <desc lang="es">Mia es una joven de 17 años que parece tenerlo todo en la vida: una famila adorable, un novio que la quiere, una amiga incondicional y una prometedora carrera musical, debido a su talento natural para tocar el chelo. Sin embargo, todo eso cambia en una fracción de segundo, cuando ella y su familia sufren un terrible accidente de coche(n)</desc>
     <category lang="es">Pelicula</category>
