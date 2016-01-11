@@ -103,6 +103,7 @@
   </channel>
   <channel id="Canal 5">
     <display-name lang="es">Canal 5</display-name>
+    <icon src="http://y.cdn.entutele.com/media/channels/big/canal-5.gif" />
     <url>http://www.entutele.com</url>
   </channel>
   <channel id="Canal 5 HD">
@@ -30854,5 +30855,1673 @@
     <title lang="es">Periodismo en plural</title>
     <category lang="es">Noticias</category>
     <category lang="es">Político</category>
+  </programme>
+  <programme start="20160111003000 -0600" stop="20160111010000 -0600" channel="Canal 5">
+    <title lang="es">La Ley y el Orden: Unidad de Víctimas Especiales</title>
+    <desc lang="es">Un grupo de detectives de Departamento de Policia de Nueva York investiga crímenes sexuales no resueltos, con la intención de atrapar a los responsables y limpiar las calles de la Gran Manzana(n)</desc>
+    <credits>
+      <actor>Dann Florek</actor>
+      <actor>Richard Belzer</actor>
+      <actor>Mariska Hargitay</actor>
+      <actor>Lesli Linka Glatter</actor>
+      <actor>David Platt</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160111010000 -0600" stop="20160111040000 -0600" channel="Canal 5">
+    <title lang="es">Infomax</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160111040000 -0600" stop="20160111050000 -0600" channel="Canal 5">
+    <title lang="es">Fanboy y Chum Chum</title>
+    <desc lang="es">En la Guarida de Fanáticos viven dos chicos fanaticos de la ciencia ficción, por ello con su imaginación vivirán locas aventuras disfrazandose de super héroes(n)</desc>
+    <credits>
+      <actor>Jamie Kennedy</actor>
+      <actor>Nika Futterman</actor>
+      <actor>David Hornsby</actor>
+      <actor>Dyana Liu</actor>
+      <actor>Josh Duhamel</actor>
+      <actor>Jeff Glen Bennett</actor>
+    </credits>
+    <category lang="es">Infantiles</category>
+    <category lang="es">Animación</category>
+  </programme>
+  <programme start="20160111050000 -0600" stop="20160111051500 -0600" channel="Canal 5">
+    <title lang="es">Especial de R.T.C.</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Especial</category>
+  </programme>
+  <programme start="20160111051500 -0600" stop="20160111060000 -0600" channel="Canal 5">
+    <title lang="es">Fanboy y Chum Chum</title>
+    <desc lang="es">En la Guarida de Fanáticos viven dos chicos fanaticos de la ciencia ficción, por ello con su imaginación vivirán locas aventuras disfrazandose de super héroes(n)</desc>
+    <credits>
+      <actor>Jamie Kennedy</actor>
+      <actor>Nika Futterman</actor>
+      <actor>David Hornsby</actor>
+      <actor>Dyana Liu</actor>
+      <actor>Josh Duhamel</actor>
+      <actor>Jeff Glen Bennett</actor>
+    </credits>
+    <category lang="es">Infantiles</category>
+    <category lang="es">Animación</category>
+  </programme>
+  <programme start="20160111060000 -0600" stop="20160111063000 -0600" channel="Canal 5">
+    <title lang="es">Ardilla miedosa</title>
+    <desc lang="es">Ardilla miedosa muestra a nuestro héroe, creativo y un poco loco, mientras enfrenta los desafíos diarios que le presenta la vida. De hecho, la vida es un desafío todos los días, ya que todo en la vida de nuestra ardilla debe andar bien(n)</desc>
+    <category lang="es">Infantiles</category>
+    <category lang="es">Animación</category>
+  </programme>
+  <programme start="20160111063000 -0600" stop="20160111070000 -0600" channel="Canal 5">
+    <title lang="es">Dora, La Exploradora</title>
+    <desc lang="es">Dora Márquez, es una niña de siete años que vivirá grandes aventuras y cumplirá misiones junto con su amigo Botas, un monito de cinco años, cuando salgan a explorar(n)</desc>
+    <credits>
+      <actor>Harrison Chad</actor>
+      <actor>Caitlin Sanchez</actor>
+      <actor>Kathleen Herles</actor>
+      <actor>Jake Burbage</actor>
+      <actor>Ashley Fleming</actor>
+    </credits>
+    <category lang="es">Infantiles</category>
+    <category lang="es">Animación</category>
+  </programme>
+  <programme start="20160111070000 -0600" stop="20160111073000 -0600" channel="Canal 5">
+    <title lang="es">Plaza Sésamo</title>
+    <desc lang="es">Diviértete en el colorido barrio la Plaza, y junto con Abelardo, Pancho y Lola vive grandes aventuras llenas de aprendizaje y saciando tu curiosidad(n)</desc>
+    <credits>
+      <actor>Eugenio Bartilotti</actor>
+      <actor>Rocio Lara</actor>
+      <actor>Edgar Vivar</actor>
+      <actor>Sergio Corona</actor>
+      <actor>Beatriz Aguirre</actor>
+      <actor>Mariana Garza</actor>
+      <actor>Alfonso Soto</actor>
+    </credits>
+    <category lang="es">Infantiles</category>
+    <category lang="es">Serie</category>
+  </programme>
+  <programme start="20160111073000 -0600" stop="20160111080000 -0600" channel="Canal 5">
+    <title lang="es">Thomas y sus Amigos</title>
+    <desc lang="es">El simpático tren azul se llama Thomas, él se convertirá amigo de todos los niños pues compartirán juntos aventuras increíbles(n)</desc>
+    <credits>
+      <actor>Olivia Colman</actor>
+      <actor>John Hasler</actor>
+      <actor>David Bedella</actor>
+      <actor>Jonathan Broadbent</actor>
+      <actor>Nathan Clarke</actor>
+      <actor>Jonathan Forbes</actor>
+    </credits>
+    <category lang="es">Infantiles</category>
+    <category lang="es">Animación</category>
+  </programme>
+  <programme start="20160111080000 -0600" stop="20160111090000 -0600" channel="Canal 5">
+    <title lang="es">Los Padrinos Mágicos</title>
+    <desc lang="es">Timmy Turner es un niño incomprendido, nada popular, a quien sus compañeros suelen molestar. Sus padres no le prestan mucha atención y está al cuidado de, Vicky, su niñera malvada. Es allí donde intervienen Cosmo y Wanda, ¡sus padrinos mágicos! seres que se les asignan a los niños que no tienen una vida feliz, para concederles deseos(n)</desc>
+    <credits>
+      <actor>Tara Strong</actor>
+      <actor>Daran Norris</actor>
+      <actor>Susanne Blakeslee</actor>
+      <actor>Grey Delisle</actor>
+    </credits>
+    <category lang="es">Infantiles</category>
+    <category lang="es">Animación</category>
+  </programme>
+  <programme start="20160111090000 -0600" stop="20160111100000 -0600" channel="Canal 5">
+    <title lang="es">Kung Fu Panda: La leyenda de Po</title>
+    <desc lang="es">Po ahora vive en el Palacio de Jade con los Cinco Furiosos y el maestro Shifu. El Guerrero Dragón deberá enfrentarse a viejos adversarios que llegan al Valle de la Paz. Junto a Tigresa, Grulla, Mono, Mantis y Víbora, Po defenderá a su pueblo de los intrusos(n)</desc>
+    <credits>
+      <actor>Mick Wingert</actor>
+      <actor>Fred Tatasciore</actor>
+      <actor>Max Koch</actor>
+      <actor>James Sie</actor>
+      <actor>Kari Wahlgren</actor>
+    </credits>
+    <category lang="es">Infantiles</category>
+    <category lang="es">Animación</category>
+  </programme>
+  <programme start="20160111100000 -0600" stop="20160111110000 -0600" channel="Canal 5">
+    <title lang="es">Los pingüinos de Madagascar</title>
+    <desc lang="es">Sigue las aventuras de cuatro confundidos pingüinos: Skipper, Rico, Kowalski y Cabo, que realizan diversas misiones paramilitares en busca de proteger su hogar en el zoológico de Central Park(n)</desc>
+    <credits>
+      <actor>Tom Mcgrath</actor>
+      <actor>John DiMaggio</actor>
+      <actor>James Patrick Stuart</actor>
+      <actor>Jeff Bennett</actor>
+    </credits>
+    <category lang="es">Infantiles</category>
+    <category lang="es">Animación</category>
+  </programme>
+  <programme start="20160111110000 -0600" stop="20160111110000 -0600" channel="Canal 5">
+    <title lang="es">El Chavo Animado</title>
+    <desc lang="es">El personaje que hace más de 35 años ha conquistado a millones de televidentes en el mundo por su humor blanco, espontáneo y auténtico llega en su versió animada con aventuras completamente nuevas(n)</desc>
+    <credits>
+      <actor>Jesús Guzmán</actor>
+      <actor>Heriberto López De Anda</actor>
+    </credits>
+    <category lang="es">Infantiles</category>
+    <category lang="es">Animación</category>
+  </programme>
+  <programme start="20160111110000 -0600" stop="20160111123000 -0600" channel="Canal 5">
+    <title lang="es">El Chavo Animado</title>
+    <desc lang="es">El personaje que hace más de 35 años ha conquistado a millones de televidentes en el mundo por su humor blanco, espontáneo y auténtico llega en su versió animada con aventuras completamente nuevas(n)</desc>
+    <credits>
+      <actor>Jesús Guzmán</actor>
+      <actor>Heriberto López De Anda</actor>
+    </credits>
+    <category lang="es">Infantiles</category>
+    <category lang="es">Animación</category>
+  </programme>
+  <programme start="20160111123000 -0600" stop="20160111140000 -0600" channel="Canal 5">
+    <title lang="es">Bob Esponja</title>
+    <desc lang="es">En la ciudad de Fondo de Bikini vive Bob Esponja, una esponja marina que vivirá aventuras y se meterá en lios con sus mejores amigos, Patricio Estrella y Arenita Mejillas. Pero su vida y acciones despreocupadas pondrán de nervios a Calamardo Tentáculos, su vecino(n)</desc>
+    <credits>
+      <actor>Tom Kenny</actor>
+      <actor>Bill Fagerbakke</actor>
+      <actor>Rodger Bumpass</actor>
+      <actor>Clancy Brown</actor>
+    </credits>
+    <category lang="es">Infantiles</category>
+    <category lang="es">Animación</category>
+  </programme>
+  <programme start="20160111140000 -0600" stop="20160111153000 -0600" channel="Canal 5">
+    <title lang="es">ICarly</title>
+    <desc lang="es">Carly estelariza un gracioso web-show con sus amigos Sam y Freddie, donde la comedia es lo más importante, ella vive una vida poco común en compañía de su hermano Spencer y sus dos mejores amigos(n)</desc>
+    <credits>
+      <actor>Miranda Cosgrove</actor>
+      <actor>Jenette Mc Curdy</actor>
+      <actor>Nathan Kress</actor>
+      <actor>Jerry Trainor</actor>
+      <actor>Noah Munck</actor>
+    </credits>
+    <category lang="es">Infantiles</category>
+    <category lang="es">Serie</category>
+  </programme>
+  <programme start="20160111153000 -0600" stop="20160111173000 -0600" channel="Canal 5">
+    <title lang="es">La CQ</title>
+    <desc lang="es">Las divertidas aventuras de 8 alumnos de la Secundaria Constantino Quijano son la combinación perfecta para la diversión. El capitán del equipo, la popular, la distraída, el inteligente, el gracioso y el abusivo, harán travesuras y vivirán grandes historias, pero jamás olvidarán el valor de la amistad y de ser un equipo(n)</desc>
+    <credits>
+      <actor>Emiliano Flores</actor>
+      <actor>Harold Azuara</actor>
+      <actor>Ale Muller</actor>
+    </credits>
+    <category lang="es">Infantiles</category>
+    <category lang="es">Serie</category>
+  </programme>
+  <programme start="20160111173000 -0600" stop="20160111193000 -0600" channel="Canal 5">
+    <title lang="es">Malcolm el de en medio</title>
+    <desc lang="es">Narra la historia de una familia trabajadora compuesta por cuatro hermanos y sus padres. Descubriremos que Malcolm, el hijo del medio, parece ser el único sensato o, por lo menos, el único que muestra algo de cordura, mientras sus neuróticos padres y sus hermanos Francis, Reese y Dewey se meten en problemas(n)</desc>
+    <credits>
+      <actor>Frankie Muniz</actor>
+      <actor>Justin Berfield</actor>
+      <actor>Bryan Cranston</actor>
+      <actor>Todd Holland</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160111193000 -0600" stop="20160111210000 -0600" channel="Canal 5">
+    <title lang="es">Dragon ball Z</title>
+    <desc lang="es">La lucha de Vegeta y Gokú por recuperar las siete esferas mágicas del poder antes de que caigan en manos de los seres malvados(n)</desc>
+    <credits>
+      <actor>Daisuke Nishio</actor>
+    </credits>
+    <category lang="es">Infantiles</category>
+    <category lang="es">D.Animados</category>
+  </programme>
+  <programme start="20160111210000 -0600" stop="20160111230000 -0600" channel="Canal 5">
+    <title lang="es">El grito 3</title>
+    <desc lang="es">Si no la detienen, más gente morirá. Tercera entrega de la saga El grito, más feroz que nunca. El espíritu de Kayako se ha apoderado de un edificio en Chicago y una familia intentará sobrevivir a la maldición. La única persona que puede evitar una masacre es la joven Naoko. Ella conoce el secreto para detener al fantasma de su hermana, Kayako. El ciclo de muerte ya ha empezado, uno por uno irán cayendo, y si continúan desoyendo a Naoko, el final será trágico. Terror sobrenatural, El grito 3 no parará hasta acabar con todos(n)</desc>
+    <credits>
+      <actor>Shawnee Smith</actor>
+      <actor>Matthew Knight</actor>
+      <actor>Mike Straub</actor>
+      <actor>Toby Wilkins</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Terror y Suspenso</category>
+  </programme>
+  <programme start="20160111230000 -0600" stop="20160112000000 -0600" channel="Canal 5">
+    <title lang="es">La Ley y el Orden: Unidad de Víctimas Especiales</title>
+    <desc lang="es">Un grupo de detectives de Departamento de Policia de Nueva York investiga crímenes sexuales no resueltos, con la intención de atrapar a los responsables y limpiar las calles de la Gran Manzana(n)</desc>
+    <credits>
+      <actor>Dann Florek</actor>
+      <actor>Richard Belzer</actor>
+      <actor>Mariska Hargitay</actor>
+      <actor>Lesli Linka Glatter</actor>
+      <actor>David Platt</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160112000000 -0600" stop="20160112010000 -0600" channel="Canal 5">
+    <title lang="es">Tiro de gracia</title>
+    <desc lang="es">Salvador Chaparro es un actor de teatro que siempre soñó con llegar a las pantallas de cine, pero nunca lo logró. Sin embargo, la vida le reservaba un buen papel: encarnar al reconocido y poderoso capo de la droga Vicente Vallejo, quien lo contrata para cumplir la misión de burlar a la justicia de su país, al suplantarlo(n)</desc>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160112010000 -0600" stop="20160112013000 -0600" channel="Canal 5">
+    <title lang="es">Infomax</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160112013000 -0600" stop="20160112020000 -0600" channel="Canal 5">
+    <title lang="es">Fanboy y Chum Chum</title>
+    <desc lang="es">En la Guarida de Fanáticos viven dos chicos fanaticos de la ciencia ficción, por ello con su imaginación vivirán locas aventuras disfrazandose de super héroes(n)</desc>
+    <credits>
+      <actor>Jamie Kennedy</actor>
+      <actor>Nika Futterman</actor>
+      <actor>David Hornsby</actor>
+      <actor>Dyana Liu</actor>
+      <actor>Josh Duhamel</actor>
+      <actor>Jeff Glen Bennett</actor>
+    </credits>
+    <category lang="es">Infantiles</category>
+    <category lang="es">Animación</category>
+  </programme>
+  <programme start="20160112020000 -0600" stop="20160112030000 -0600" channel="Canal 5">
+    <title lang="es">La Ley y el Orden: Unidad de Víctimas Especiales</title>
+    <desc lang="es">Un grupo de detectives de Departamento de Policia de Nueva York investiga crímenes sexuales no resueltos, con la intención de atrapar a los responsables y limpiar las calles de la Gran Manzana(n)</desc>
+    <credits>
+      <actor>Dann Florek</actor>
+      <actor>Richard Belzer</actor>
+      <actor>Mariska Hargitay</actor>
+      <actor>Lesli Linka Glatter</actor>
+      <actor>David Platt</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160112030000 -0600" stop="20160112050000 -0600" channel="Canal 5">
+    <title lang="es">Fanboy y Chum Chum</title>
+    <desc lang="es">En la Guarida de Fanáticos viven dos chicos fanaticos de la ciencia ficción, por ello con su imaginación vivirán locas aventuras disfrazandose de super héroes(n)</desc>
+    <credits>
+      <actor>Jamie Kennedy</actor>
+      <actor>Nika Futterman</actor>
+      <actor>David Hornsby</actor>
+      <actor>Dyana Liu</actor>
+      <actor>Josh Duhamel</actor>
+      <actor>Jeff Glen Bennett</actor>
+    </credits>
+    <category lang="es">Infantiles</category>
+    <category lang="es">Animación</category>
+  </programme>
+  <programme start="20160112050000 -0600" stop="20160112051500 -0600" channel="Canal 5">
+    <title lang="es">Especial de R.T.C.</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Especial</category>
+  </programme>
+  <programme start="20160112051500 -0600" stop="20160112060000 -0600" channel="Canal 5">
+    <title lang="es">A confirmar</title>
+    <category lang="es">Series</category>
+    <category lang="es">Telenovela</category>
+  </programme>
+  <programme start="20160112060000 -0600" stop="20160112063000 -0600" channel="Canal 5">
+    <title lang="es">Ardilla miedosa</title>
+    <desc lang="es">Ardilla miedosa muestra a nuestro héroe, creativo y un poco loco, mientras enfrenta los desafíos diarios que le presenta la vida. De hecho, la vida es un desafío todos los días, ya que todo en la vida de nuestra ardilla debe andar bien(n)</desc>
+    <category lang="es">Infantiles</category>
+    <category lang="es">Animación</category>
+  </programme>
+  <programme start="20160112063000 -0600" stop="20160112070000 -0600" channel="Canal 5">
+    <title lang="es">Paw Patrol, patrulla canina</title>
+    <desc lang="es">Caza, Marshall, Rocky, Zuma, Rubble, Skye, y Everest son los cachorros que junto con Ryder resolverán problemas en las misiones de rescate llenas de aventura(n)</desc>
+    <credits>
+      <actor>Devan Cohen</actor>
+      <actor>Gage Munroe</actor>
+      <actor>Owen Mason</actor>
+      <actor>Kallan Holley</actor>
+      <actor>Stuart Ralston</actor>
+      <actor>Tristan Samuel</actor>
+    </credits>
+    <category lang="es">Infantiles</category>
+    <category lang="es">Animación</category>
+  </programme>
+  <programme start="20160112070000 -0600" stop="20160112073000 -0600" channel="Canal 5">
+    <title lang="es">Jelly Jamm</title>
+    <desc lang="es">Bello, Ongo, Rita, Mina y Goomo viven en el planeta donde se originan todos los sonidos y música del Universo, el planeta Jambo. Este grupo de amigos se caracteriza por su pasión a la música y las aventuras(n)</desc>
+    <credits>
+      <actor>Isabella Blake-Thomas</actor>
+      <actor>Javier Ledesma</actor>
+      <actor>Luis Gallego</actor>
+    </credits>
+    <category lang="es">Infantiles</category>
+    <category lang="es">Animación</category>
+  </programme>
+  <programme start="20160112073000 -0600" stop="20160112080000 -0600" channel="Canal 5">
+    <title lang="es">Thomas y sus Amigos</title>
+    <desc lang="es">El simpático tren azul se llama Thomas, él se convertirá amigo de todos los niños pues compartirán juntos aventuras increíbles(n)</desc>
+    <credits>
+      <actor>Olivia Colman</actor>
+      <actor>John Hasler</actor>
+      <actor>David Bedella</actor>
+      <actor>Jonathan Broadbent</actor>
+      <actor>Nathan Clarke</actor>
+      <actor>Jonathan Forbes</actor>
+    </credits>
+    <category lang="es">Infantiles</category>
+    <category lang="es">Animación</category>
+  </programme>
+  <programme start="20160112080000 -0600" stop="20160112090000 -0600" channel="Canal 5">
+    <title lang="es">Los Padrinos Mágicos</title>
+    <desc lang="es">Timmy Turner es un niño incomprendido, nada popular, a quien sus compañeros suelen molestar. Sus padres no le prestan mucha atención y está al cuidado de, Vicky, su niñera malvada. Es allí donde intervienen Cosmo y Wanda, ¡sus padrinos mágicos! seres que se les asignan a los niños que no tienen una vida feliz, para concederles deseos(n)</desc>
+    <credits>
+      <actor>Tara Strong</actor>
+      <actor>Daran Norris</actor>
+      <actor>Susanne Blakeslee</actor>
+      <actor>Grey Delisle</actor>
+    </credits>
+    <category lang="es">Infantiles</category>
+    <category lang="es">Animación</category>
+  </programme>
+  <programme start="20160112090000 -0600" stop="20160112100000 -0600" channel="Canal 5">
+    <title lang="es">Kung Fu Panda: La leyenda de Po</title>
+    <desc lang="es">Po ahora vive en el Palacio de Jade con los Cinco Furiosos y el maestro Shifu. El Guerrero Dragón deberá enfrentarse a viejos adversarios que llegan al Valle de la Paz. Junto a Tigresa, Grulla, Mono, Mantis y Víbora, Po defenderá a su pueblo de los intrusos(n)</desc>
+    <credits>
+      <actor>Mick Wingert</actor>
+      <actor>Fred Tatasciore</actor>
+      <actor>Max Koch</actor>
+      <actor>James Sie</actor>
+      <actor>Kari Wahlgren</actor>
+    </credits>
+    <category lang="es">Infantiles</category>
+    <category lang="es">Animación</category>
+  </programme>
+  <programme start="20160112100000 -0600" stop="20160112110000 -0600" channel="Canal 5">
+    <title lang="es">Los pingüinos de Madagascar</title>
+    <desc lang="es">Sigue las aventuras de cuatro confundidos pingüinos: Skipper, Rico, Kowalski y Cabo, que realizan diversas misiones paramilitares en busca de proteger su hogar en el zoológico de Central Park(n)</desc>
+    <credits>
+      <actor>Tom Mcgrath</actor>
+      <actor>John DiMaggio</actor>
+      <actor>James Patrick Stuart</actor>
+      <actor>Jeff Bennett</actor>
+    </credits>
+    <category lang="es">Infantiles</category>
+    <category lang="es">Animación</category>
+  </programme>
+  <programme start="20160112110000 -0600" stop="20160112110000 -0600" channel="Canal 5">
+    <title lang="es">El Chavo Animado</title>
+    <desc lang="es">El personaje que hace más de 35 años ha conquistado a millones de televidentes en el mundo por su humor blanco, espontáneo y auténtico llega en su versió animada con aventuras completamente nuevas(n)</desc>
+    <credits>
+      <actor>Jesús Guzmán</actor>
+      <actor>Heriberto López De Anda</actor>
+    </credits>
+    <category lang="es">Infantiles</category>
+    <category lang="es">Animación</category>
+  </programme>
+  <programme start="20160112110000 -0600" stop="20160112123000 -0600" channel="Canal 5">
+    <title lang="es">El Chavo Animado</title>
+    <desc lang="es">El personaje que hace más de 35 años ha conquistado a millones de televidentes en el mundo por su humor blanco, espontáneo y auténtico llega en su versió animada con aventuras completamente nuevas(n)</desc>
+    <credits>
+      <actor>Jesús Guzmán</actor>
+      <actor>Heriberto López De Anda</actor>
+    </credits>
+    <category lang="es">Infantiles</category>
+    <category lang="es">Animación</category>
+  </programme>
+  <programme start="20160112123000 -0600" stop="20160112140000 -0600" channel="Canal 5">
+    <title lang="es">Bob Esponja</title>
+    <desc lang="es">En la ciudad de Fondo de Bikini vive Bob Esponja, una esponja marina que vivirá aventuras y se meterá en lios con sus mejores amigos, Patricio Estrella y Arenita Mejillas. Pero su vida y acciones despreocupadas pondrán de nervios a Calamardo Tentáculos, su vecino(n)</desc>
+    <credits>
+      <actor>Tom Kenny</actor>
+      <actor>Bill Fagerbakke</actor>
+      <actor>Rodger Bumpass</actor>
+      <actor>Clancy Brown</actor>
+    </credits>
+    <category lang="es">Infantiles</category>
+    <category lang="es">Animación</category>
+  </programme>
+  <programme start="20160112140000 -0600" stop="20160112153000 -0600" channel="Canal 5">
+    <title lang="es">ICarly</title>
+    <desc lang="es">Carly estelariza un gracioso web-show con sus amigos Sam y Freddie, donde la comedia es lo más importante, ella vive una vida poco común en compañía de su hermano Spencer y sus dos mejores amigos(n)</desc>
+    <credits>
+      <actor>Miranda Cosgrove</actor>
+      <actor>Jenette Mc Curdy</actor>
+      <actor>Nathan Kress</actor>
+      <actor>Jerry Trainor</actor>
+      <actor>Noah Munck</actor>
+    </credits>
+    <category lang="es">Infantiles</category>
+    <category lang="es">Serie</category>
+  </programme>
+  <programme start="20160112153000 -0600" stop="20160112173000 -0600" channel="Canal 5">
+    <title lang="es">La CQ</title>
+    <desc lang="es">Las divertidas aventuras de 8 alumnos de la Secundaria Constantino Quijano son la combinación perfecta para la diversión. El capitán del equipo, la popular, la distraída, el inteligente, el gracioso y el abusivo, harán travesuras y vivirán grandes historias, pero jamás olvidarán el valor de la amistad y de ser un equipo(n)</desc>
+    <credits>
+      <actor>Emiliano Flores</actor>
+      <actor>Harold Azuara</actor>
+      <actor>Ale Muller</actor>
+    </credits>
+    <category lang="es">Infantiles</category>
+    <category lang="es">Serie</category>
+  </programme>
+  <programme start="20160112173000 -0600" stop="20160112193000 -0600" channel="Canal 5">
+    <title lang="es">Malcolm el de en medio</title>
+    <desc lang="es">Narra la historia de una familia trabajadora compuesta por cuatro hermanos y sus padres. Descubriremos que Malcolm, el hijo del medio, parece ser el único sensato o, por lo menos, el único que muestra algo de cordura, mientras sus neuróticos padres y sus hermanos Francis, Reese y Dewey se meten en problemas(n)</desc>
+    <credits>
+      <actor>Frankie Muniz</actor>
+      <actor>Justin Berfield</actor>
+      <actor>Bryan Cranston</actor>
+      <actor>Todd Holland</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160112193000 -0600" stop="20160112210000 -0600" channel="Canal 5">
+    <title lang="es">Dragon ball Z</title>
+    <desc lang="es">La lucha de Vegeta y Gokú por recuperar las siete esferas mágicas del poder antes de que caigan en manos de los seres malvados(n)</desc>
+    <credits>
+      <actor>Daisuke Nishio</actor>
+    </credits>
+    <category lang="es">Infantiles</category>
+    <category lang="es">D.Animados</category>
+  </programme>
+  <programme start="20160112210000 -0600" stop="20160112230000 -0600" channel="Canal 5">
+    <title lang="es">El perfecto asesino</title>
+    <desc lang="es">Mathilda es una niña de doce años que no se lleva nada bien con su familia, excepto con su hermano pequeño. Su padre es contrabandista de droga y hace negocios con el excéntrico Stan, que, ironías de la vida, es un corrupto agente de la D.E.A. (Drug Enforcement Administration - departamento gubernamental contra las drogas). Un día, mientras Mathilda está de compras en un supermercado, Stan mata a su familia. Se refugia entonces en casa de Léon, un solitario y misterioso vecino que resulta ser un asesino a sueldo, pero, como no le queda otra alternativa, hará un pacto con él: ella se encargará de las tareas domésticas y enseñará a leer a Léon, y éste, a cambio, le enseñará a disparar para poder vengarse de quienes mataron a su hermano(n)</desc>
+    <credits>
+      <actor>Jean Reno</actor>
+      <actor>Natalie Portman</actor>
+      <actor>Luc Besson</actor>
+      <actor>Gary Oldman</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Acción</category>
+  </programme>
+  <programme start="20160112230000 -0600" stop="20160113000000 -0600" channel="Canal 5">
+    <title lang="es">La Ley y el Orden: Unidad de Víctimas Especiales</title>
+    <desc lang="es">Un grupo de detectives de Departamento de Policia de Nueva York investiga crímenes sexuales no resueltos, con la intención de atrapar a los responsables y limpiar las calles de la Gran Manzana(n)</desc>
+    <credits>
+      <actor>Dann Florek</actor>
+      <actor>Richard Belzer</actor>
+      <actor>Mariska Hargitay</actor>
+      <actor>Lesli Linka Glatter</actor>
+      <actor>David Platt</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160113000000 -0600" stop="20160113010000 -0600" channel="Canal 5">
+    <title lang="es">Tiro de gracia</title>
+    <desc lang="es">Salvador Chaparro es un actor de teatro que siempre soñó con llegar a las pantallas de cine, pero nunca lo logró. Sin embargo, la vida le reservaba un buen papel: encarnar al reconocido y poderoso capo de la droga Vicente Vallejo, quien lo contrata para cumplir la misión de burlar a la justicia de su país, al suplantarlo(n)</desc>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160113010000 -0600" stop="20160113013000 -0600" channel="Canal 5">
+    <title lang="es">Estatus</title>
+    <desc lang="es">Programa que se centra en las noticias mercadológicas más importantes del momento, incluyendo campañas publicitarias, agencias, casas productoras y todo lo relacionado a los eventos en el medio(n)</desc>
+    <credits>
+      <actor>Alejandro Ramos</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160113013000 -0600" stop="20160113030000 -0600" channel="Canal 5">
+    <title lang="es">A confirmar</title>
+    <category lang="es">Series</category>
+    <category lang="es">Telenovela</category>
+  </programme>
+  <programme start="20160113030000 -0600" stop="20160113050000 -0600" channel="Canal 5">
+    <title lang="es">Serie de madrugada</title>
+    <category lang="es">Ciclo</category>
+    <category lang="es">Terror</category>
+  </programme>
+  <programme start="20160113050000 -0600" stop="20160113051500 -0600" channel="Canal 5">
+    <title lang="es">Especial de R.T.C.</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Especial</category>
+  </programme>
+  <programme start="20160113051500 -0600" stop="20160113060000 -0600" channel="Canal 5">
+    <title lang="es">Serie de madrugada</title>
+    <category lang="es">Ciclo</category>
+    <category lang="es">Terror</category>
+  </programme>
+  <programme start="20160113060000 -0600" stop="20160113063000 -0600" channel="Canal 5">
+    <title lang="es">Ardilla miedosa</title>
+    <desc lang="es">Ardilla miedosa muestra a nuestro héroe, creativo y un poco loco, mientras enfrenta los desafíos diarios que le presenta la vida. De hecho, la vida es un desafío todos los días, ya que todo en la vida de nuestra ardilla debe andar bien(n)</desc>
+    <category lang="es">Infantiles</category>
+    <category lang="es">Animación</category>
+  </programme>
+  <programme start="20160113063000 -0600" stop="20160113070000 -0600" channel="Canal 5">
+    <title lang="es">Dora, La Exploradora</title>
+    <desc lang="es">Dora Márquez, es una niña de siete años que vivirá grandes aventuras y cumplirá misiones junto con su amigo Botas, un monito de cinco años, cuando salgan a explorar(n)</desc>
+    <credits>
+      <actor>Harrison Chad</actor>
+      <actor>Caitlin Sanchez</actor>
+      <actor>Kathleen Herles</actor>
+      <actor>Jake Burbage</actor>
+      <actor>Ashley Fleming</actor>
+    </credits>
+    <category lang="es">Infantiles</category>
+    <category lang="es">Animación</category>
+  </programme>
+  <programme start="20160113070000 -0600" stop="20160113073000 -0600" channel="Canal 5">
+    <title lang="es">Plaza Sésamo</title>
+    <desc lang="es">Diviértete en el colorido barrio la Plaza, y junto con Abelardo, Pancho y Lola vive grandes aventuras llenas de aprendizaje y saciando tu curiosidad(n)</desc>
+    <credits>
+      <actor>Eugenio Bartilotti</actor>
+      <actor>Rocio Lara</actor>
+      <actor>Edgar Vivar</actor>
+      <actor>Sergio Corona</actor>
+      <actor>Beatriz Aguirre</actor>
+      <actor>Mariana Garza</actor>
+      <actor>Alfonso Soto</actor>
+    </credits>
+    <category lang="es">Infantiles</category>
+    <category lang="es">Serie</category>
+  </programme>
+  <programme start="20160113073000 -0600" stop="20160113080000 -0600" channel="Canal 5">
+    <title lang="es">Thomas y sus Amigos</title>
+    <desc lang="es">El simpático tren azul se llama Thomas, él se convertirá amigo de todos los niños pues compartirán juntos aventuras increíbles(n)</desc>
+    <credits>
+      <actor>Olivia Colman</actor>
+      <actor>John Hasler</actor>
+      <actor>David Bedella</actor>
+      <actor>Jonathan Broadbent</actor>
+      <actor>Nathan Clarke</actor>
+      <actor>Jonathan Forbes</actor>
+    </credits>
+    <category lang="es">Infantiles</category>
+    <category lang="es">Animación</category>
+  </programme>
+  <programme start="20160113080000 -0600" stop="20160113090000 -0600" channel="Canal 5">
+    <title lang="es">Los Padrinos Mágicos</title>
+    <desc lang="es">Timmy Turner es un niño incomprendido, nada popular, a quien sus compañeros suelen molestar. Sus padres no le prestan mucha atención y está al cuidado de, Vicky, su niñera malvada. Es allí donde intervienen Cosmo y Wanda, ¡sus padrinos mágicos! seres que se les asignan a los niños que no tienen una vida feliz, para concederles deseos(n)</desc>
+    <credits>
+      <actor>Tara Strong</actor>
+      <actor>Daran Norris</actor>
+      <actor>Susanne Blakeslee</actor>
+      <actor>Grey Delisle</actor>
+    </credits>
+    <category lang="es">Infantiles</category>
+    <category lang="es">Animación</category>
+  </programme>
+  <programme start="20160113090000 -0600" stop="20160113100000 -0600" channel="Canal 5">
+    <title lang="es">Kung Fu Panda: La leyenda de Po</title>
+    <desc lang="es">Po ahora vive en el Palacio de Jade con los Cinco Furiosos y el maestro Shifu. El Guerrero Dragón deberá enfrentarse a viejos adversarios que llegan al Valle de la Paz. Junto a Tigresa, Grulla, Mono, Mantis y Víbora, Po defenderá a su pueblo de los intrusos(n)</desc>
+    <credits>
+      <actor>Mick Wingert</actor>
+      <actor>Fred Tatasciore</actor>
+      <actor>Max Koch</actor>
+      <actor>James Sie</actor>
+      <actor>Kari Wahlgren</actor>
+    </credits>
+    <category lang="es">Infantiles</category>
+    <category lang="es">Animación</category>
+  </programme>
+  <programme start="20160113100000 -0600" stop="20160113110000 -0600" channel="Canal 5">
+    <title lang="es">Los pingüinos de Madagascar</title>
+    <desc lang="es">Sigue las aventuras de cuatro confundidos pingüinos: Skipper, Rico, Kowalski y Cabo, que realizan diversas misiones paramilitares en busca de proteger su hogar en el zoológico de Central Park(n)</desc>
+    <credits>
+      <actor>Tom Mcgrath</actor>
+      <actor>John DiMaggio</actor>
+      <actor>James Patrick Stuart</actor>
+      <actor>Jeff Bennett</actor>
+    </credits>
+    <category lang="es">Infantiles</category>
+    <category lang="es">Animación</category>
+  </programme>
+  <programme start="20160113110000 -0600" stop="20160113110000 -0600" channel="Canal 5">
+    <title lang="es">El Chavo Animado</title>
+    <desc lang="es">El personaje que hace más de 35 años ha conquistado a millones de televidentes en el mundo por su humor blanco, espontáneo y auténtico llega en su versió animada con aventuras completamente nuevas(n)</desc>
+    <credits>
+      <actor>Jesús Guzmán</actor>
+      <actor>Heriberto López De Anda</actor>
+    </credits>
+    <category lang="es">Infantiles</category>
+    <category lang="es">Animación</category>
+  </programme>
+  <programme start="20160113110000 -0600" stop="20160113123000 -0600" channel="Canal 5">
+    <title lang="es">El Chavo Animado</title>
+    <desc lang="es">El personaje que hace más de 35 años ha conquistado a millones de televidentes en el mundo por su humor blanco, espontáneo y auténtico llega en su versió animada con aventuras completamente nuevas(n)</desc>
+    <credits>
+      <actor>Jesús Guzmán</actor>
+      <actor>Heriberto López De Anda</actor>
+    </credits>
+    <category lang="es">Infantiles</category>
+    <category lang="es">Animación</category>
+  </programme>
+  <programme start="20160113123000 -0600" stop="20160113140000 -0600" channel="Canal 5">
+    <title lang="es">Bob Esponja</title>
+    <desc lang="es">En la ciudad de Fondo de Bikini vive Bob Esponja, una esponja marina que vivirá aventuras y se meterá en lios con sus mejores amigos, Patricio Estrella y Arenita Mejillas. Pero su vida y acciones despreocupadas pondrán de nervios a Calamardo Tentáculos, su vecino(n)</desc>
+    <credits>
+      <actor>Tom Kenny</actor>
+      <actor>Bill Fagerbakke</actor>
+      <actor>Rodger Bumpass</actor>
+      <actor>Clancy Brown</actor>
+    </credits>
+    <category lang="es">Infantiles</category>
+    <category lang="es">Animación</category>
+  </programme>
+  <programme start="20160113140000 -0600" stop="20160113153000 -0600" channel="Canal 5">
+    <title lang="es">ICarly</title>
+    <desc lang="es">Carly estelariza un gracioso web-show con sus amigos Sam y Freddie, donde la comedia es lo más importante, ella vive una vida poco común en compañía de su hermano Spencer y sus dos mejores amigos(n)</desc>
+    <credits>
+      <actor>Miranda Cosgrove</actor>
+      <actor>Jenette Mc Curdy</actor>
+      <actor>Nathan Kress</actor>
+      <actor>Jerry Trainor</actor>
+      <actor>Noah Munck</actor>
+    </credits>
+    <category lang="es">Infantiles</category>
+    <category lang="es">Serie</category>
+  </programme>
+  <programme start="20160113153000 -0600" stop="20160113173000 -0600" channel="Canal 5">
+    <title lang="es">La CQ</title>
+    <desc lang="es">Las divertidas aventuras de 8 alumnos de la Secundaria Constantino Quijano son la combinación perfecta para la diversión. El capitán del equipo, la popular, la distraída, el inteligente, el gracioso y el abusivo, harán travesuras y vivirán grandes historias, pero jamás olvidarán el valor de la amistad y de ser un equipo(n)</desc>
+    <credits>
+      <actor>Emiliano Flores</actor>
+      <actor>Harold Azuara</actor>
+      <actor>Ale Muller</actor>
+    </credits>
+    <category lang="es">Infantiles</category>
+    <category lang="es">Serie</category>
+  </programme>
+  <programme start="20160113173000 -0600" stop="20160113193000 -0600" channel="Canal 5">
+    <title lang="es">Malcolm el de en medio</title>
+    <desc lang="es">Narra la historia de una familia trabajadora compuesta por cuatro hermanos y sus padres. Descubriremos que Malcolm, el hijo del medio, parece ser el único sensato o, por lo menos, el único que muestra algo de cordura, mientras sus neuróticos padres y sus hermanos Francis, Reese y Dewey se meten en problemas(n)</desc>
+    <credits>
+      <actor>Frankie Muniz</actor>
+      <actor>Justin Berfield</actor>
+      <actor>Bryan Cranston</actor>
+      <actor>Todd Holland</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160113193000 -0600" stop="20160113210000 -0600" channel="Canal 5">
+    <title lang="es">Dragon ball Z</title>
+    <desc lang="es">La lucha de Vegeta y Gokú por recuperar las siete esferas mágicas del poder antes de que caigan en manos de los seres malvados(n)</desc>
+    <credits>
+      <actor>Daisuke Nishio</actor>
+    </credits>
+    <category lang="es">Infantiles</category>
+    <category lang="es">D.Animados</category>
+  </programme>
+  <programme start="20160113210000 -0600" stop="20160113230000 -0600" channel="Canal 5">
+    <title lang="es">Jóvenes Brujas</title>
+    <desc lang="es">Las jóvenes brujas se reúnen para hacer maleficios y hacerle la vida imposible a sus compañeros de clase. Poco a poco lo que parecía una situación controlada por las 4, se va desmadrando hasta una situación sin punto de retorno(n)</desc>
+    <credits>
+      <actor>Neve Campbell</actor>
+      <actor>Rachel True</actor>
+      <actor>Fairuza Balk</actor>
+      <actor>Andrew Fleming</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Fantasía</category>
+  </programme>
+  <programme start="20160113230000 -0600" stop="20160114000000 -0600" channel="Canal 5">
+    <title lang="es">La Ley y el Orden: Unidad de Víctimas Especiales</title>
+    <desc lang="es">Un grupo de detectives de Departamento de Policia de Nueva York investiga crímenes sexuales no resueltos, con la intención de atrapar a los responsables y limpiar las calles de la Gran Manzana(n)</desc>
+    <credits>
+      <actor>Dann Florek</actor>
+      <actor>Richard Belzer</actor>
+      <actor>Mariska Hargitay</actor>
+      <actor>Lesli Linka Glatter</actor>
+      <actor>David Platt</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160114000000 -0600" stop="20160114001500 -0600" channel="Canal 5">
+    <title lang="es">Vas con todo</title>
+    <desc lang="es">El único programa que combina cámara oculta, improvisación y comedia, con la ayuda de un invitado VIP cada semana, en el que cualquier persona puede participar, lo único que deberá de hacer, es cumplir las instrucciones y caprichos de nuestro conductor e invitado sin que su acompañante lo descubra(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160114001500 -0600" stop="20160114011500 -0600" channel="Canal 5">
+    <title lang="es">La viuda negra</title>
+    <desc lang="es">Narra la vida de Griselda Blanco, también conocida como "la reina de la cocaína", la mujer más peligrosa y poderosa en la historia del narcotráfico. Nacida en Colombia y de origen muy humilde, Griselda creció en las calles de Medellín aprendiendo a usar su encanto y chispa para sobrevivir. Se unió a una pandilla de delincuentes y se enamoró del líder dando sus primeros pasos en el mundo criminal. Pero tras una dolorosa traición, lo mató... con lo que se hizo merecedora del apodo "La Viuda Negra". Griselda luego se dedicó a vender drogas a nivel local, para más tarde convertirse en la pionera del narcotráfico a los Estados Unidos, trasladando sus operaciones a Nueva York y, con el tiempo, a Miami. Allí pasó a ser la consumada "Madrina de la Cocaína". La historia revela que se enamora y cas(n)</desc>
+    <credits>
+      <actor>Ana Serradilla</actor>
+      <actor>Luis Fernando Montoya</actor>
+      <actor>Camilo Wilson</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Telenovela</category>
+  </programme>
+  <programme start="20160114011500 -0600" stop="20160114014500 -0600" channel="Canal 5">
+    <title lang="es">Infomax</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160114014500 -0600" stop="20160114050000 -0600" channel="Canal 5">
+    <title lang="es">Lucky Fred</title>
+    <desc lang="es">Una comedia animada sobre Fred, un chico de 13 años, y un robot que una madrugada cae del espacio y se estrella accidentalmente en su dormitorio(n)</desc>
+    <category lang="es">Infantiles</category>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20160114050000 -0600" stop="20160114051500 -0600" channel="Canal 5">
+    <title lang="es">Especial de R.T.C.</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Especial</category>
+  </programme>
+  <programme start="20160114051500 -0600" stop="20160114063000 -0600" channel="Canal 5">
+    <title lang="es">Lucky Fred</title>
+    <desc lang="es">Una comedia animada sobre Fred, un chico de 13 años, y un robot que una madrugada cae del espacio y se estrella accidentalmente en su dormitorio(n)</desc>
+    <category lang="es">Infantiles</category>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20160114063000 -0600" stop="20160114070000 -0600" channel="Canal 5">
+    <title lang="es">Paw Patrol, patrulla canina</title>
+    <desc lang="es">Caza, Marshall, Rocky, Zuma, Rubble, Skye, y Everest son los cachorros que junto con Ryder resolverán problemas en las misiones de rescate llenas de aventura(n)</desc>
+    <credits>
+      <actor>Devan Cohen</actor>
+      <actor>Gage Munroe</actor>
+      <actor>Owen Mason</actor>
+      <actor>Kallan Holley</actor>
+      <actor>Stuart Ralston</actor>
+      <actor>Tristan Samuel</actor>
+    </credits>
+    <category lang="es">Infantiles</category>
+    <category lang="es">Animación</category>
+  </programme>
+  <programme start="20160114070000 -0600" stop="20160114073000 -0600" channel="Canal 5">
+    <title lang="es">Peppa Pig</title>
+    <desc lang="es">Peppa es una cerdita que vive con su hermanito George, su mamá y su papá. A Peppa le encanta jugar y saltar en los charcos de lodo. ¡Sus aventuras siempre terminan bien y con ronquidos de risa!(n)</desc>
+    <credits>
+      <actor>Neville Astley</actor>
+      <actor>Morwenna Banks</actor>
+    </credits>
+    <category lang="es">Infantiles</category>
+    <category lang="es">Animación</category>
+  </programme>
+  <programme start="20160114073000 -0600" stop="20160114080000 -0600" channel="Canal 5">
+    <title lang="es">Thomas y sus Amigos</title>
+    <desc lang="es">El simpático tren azul se llama Thomas, él se convertirá amigo de todos los niños pues compartirán juntos aventuras increíbles(n)</desc>
+    <credits>
+      <actor>Olivia Colman</actor>
+      <actor>John Hasler</actor>
+      <actor>David Bedella</actor>
+      <actor>Jonathan Broadbent</actor>
+      <actor>Nathan Clarke</actor>
+      <actor>Jonathan Forbes</actor>
+    </credits>
+    <category lang="es">Infantiles</category>
+    <category lang="es">Animación</category>
+  </programme>
+  <programme start="20160114080000 -0600" stop="20160114083000 -0600" channel="Canal 5">
+    <title lang="es">Ositos Cariñositos: bienvenidos a Quiéreme Mucho</title>
+    <desc lang="es">Da un paso hacia Quiéreme Mucho y prepárate para cambiar tu vida. Éste no es un lugar común; es el paradisíaco hogar de las más geniales, alegres, mágicas y juguetonas criaturas: Los Ositos Cariñosos.¿Cómo se llega a Quiéreme Mucho? Sólo hay una manera de llegar a este único mundo multicolor, ubicado en lo alto de las nubes más suaves y acolchonadas. Necesitarás ser uno de los afortunados niños que reciba un amuleto de Care `n Share. Este fantástico tesoro con forma de corazón significa que has sido seleccionado para recibir ayuda ante algún molesto desafío emocional o que los Ositos Cariñosos necesitan de TU ayuda especial con algo que ellos no pueden resolver. En cualquier caso, prepárate para que tus deseos se hagan realidad y para vivir increíbles aventuras. No te olvidarás fácilmente(n)</desc>
+    <credits>
+      <actor>David Lodge</actor>
+      <actor>Patty Mattson</actor>
+      <actor>Michaela Dean</actor>
+    </credits>
+    <category lang="es">Infantiles</category>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20160114083000 -0600" stop="20160114090000 -0600" channel="Canal 5">
+    <title lang="es">My Little Pony: la magia de la amistad</title>
+    <desc lang="es">Twilight Sparkle, una poni unicornio, es enviada a Equestria por su mentora la Princesa Celestia, para estudiar la magia de la amistad. Sin embargo, no todas las criaturas en Equestria son pacíficas, y a veces los ponis deben combatir contra brujas, duendes y otros seres que quisieran destruirlos(n)</desc>
+    <credits>
+      <actor>Ashleigh Ball</actor>
+      <actor>Tara Strong</actor>
+      <actor>Andrea Libman</actor>
+      <actor>Nicole Oliver</actor>
+    </credits>
+    <category lang="es">Infantiles</category>
+    <category lang="es">Animación</category>
+  </programme>
+  <programme start="20160114090000 -0600" stop="20160114100000 -0600" channel="Canal 5">
+    <title lang="es">Las aventuras de Silvestre y Piolín</title>
+    <desc lang="es">Esta serie animada sigue las aventuras de la Abuelita y sus tres mascotas: el canario Piolín, el gato Silvestre y el perro Héctor. Abuelita es una detective de talla internacional que resuelve cada uno de los misterios que se cruzan en su camino. Piolín y Silvestre, dos enemigos por naturaleza, deberán aprender a coexistir para sobrevivir los desafiantes peligros de cada caso criminal. Lamentablemente ello no será suficiente para detener el instinto natural de Silvestre, de devorar a Piolín!(n)</desc>
+    <category lang="es">Infantiles</category>
+    <category lang="es">D.Animados</category>
+  </programme>
+  <programme start="20160114100000 -0600" stop="20160114110000 -0600" channel="Canal 5">
+    <title lang="es">El Chavo Animado</title>
+    <desc lang="es">El personaje que hace más de 35 años ha conquistado a millones de televidentes en el mundo por su humor blanco, espontáneo y auténtico llega en su versió animada con aventuras completamente nuevas(n)</desc>
+    <credits>
+      <actor>Jesús Guzmán</actor>
+      <actor>Heriberto López De Anda</actor>
+    </credits>
+    <category lang="es">Infantiles</category>
+    <category lang="es">Animación</category>
+  </programme>
+  <programme start="20160114110000 -0600" stop="20160114120000 -0600" channel="Canal 5">
+    <title lang="es">Hora de Aventura</title>
+    <desc lang="es">Un chico llamado Finn y su mejor amigo Jake, un perro mágico que habla, se embarcan en una gran aventura en la mágica tierra de "Ooo". Nuestros héroes se encuentran en medio de incidentes estremecedores para salvar princesas, luchar contra el mal y explorar lugares desconocidos(n)</desc>
+    <credits>
+      <actor>Jeremy Shada</actor>
+      <actor>Hynden Walch</actor>
+      <actor>John DiMaggio</actor>
+      <actor>Tom Kenny</actor>
+    </credits>
+    <category lang="es">Infantiles</category>
+    <category lang="es">Animación</category>
+  </programme>
+  <programme start="20160114120000 -0600" stop="20160114133000 -0600" channel="Canal 5">
+    <title lang="es">Bob Esponja</title>
+    <desc lang="es">En la ciudad de Fondo de Bikini vive Bob Esponja, una esponja marina que vivirá aventuras y se meterá en lios con sus mejores amigos, Patricio Estrella y Arenita Mejillas. Pero su vida y acciones despreocupadas pondrán de nervios a Calamardo Tentáculos, su vecino(n)</desc>
+    <credits>
+      <actor>Tom Kenny</actor>
+      <actor>Bill Fagerbakke</actor>
+      <actor>Rodger Bumpass</actor>
+      <actor>Clancy Brown</actor>
+    </credits>
+    <category lang="es">Infantiles</category>
+    <category lang="es">Animación</category>
+  </programme>
+  <programme start="20160114133000 -0600" stop="20160114140000 -0600" channel="Canal 5">
+    <title lang="es">Dragones: Defensores de Berk</title>
+    <desc lang="es">Hipo y Chimuleo continúan sus aventuras junto con sus amigos, "los entrenadores de dragones", demostrando que éstos no son solo feroces bestias. Pero no todo será diversión pues deberán enfrentarse a viejos y nuevos enemigos mientras exploran territorios desconocidos(n)</desc>
+    <credits>
+      <actor>Christopher Mintz-plasse</actor>
+      <actor>America Ferrera</actor>
+      <actor>Jay Baruchel</actor>
+      <actor>Julie Marcus</actor>
+      <actor>Andree Vermeulen</actor>
+    </credits>
+    <category lang="es">Infantiles</category>
+    <category lang="es">Animación</category>
+  </programme>
+  <programme start="20160114140000 -0600" stop="20160114150000 -0600" channel="Canal 5">
+    <title lang="es">El Chavo Animado</title>
+    <desc lang="es">El personaje que hace más de 35 años ha conquistado a millones de televidentes en el mundo por su humor blanco, espontáneo y auténtico llega en su versió animada con aventuras completamente nuevas(n)</desc>
+    <credits>
+      <actor>Jesús Guzmán</actor>
+      <actor>Heriberto López De Anda</actor>
+    </credits>
+    <category lang="es">Infantiles</category>
+    <category lang="es">Animación</category>
+  </programme>
+  <programme start="20160114150000 -0600" stop="20160114153000 -0600" channel="Canal 5">
+    <title lang="es">La CQ</title>
+    <desc lang="es">Las divertidas aventuras de 8 alumnos de la Secundaria Constantino Quijano son la combinación perfecta para la diversión. El capitán del equipo, la popular, la distraída, el inteligente, el gracioso y el abusivo, harán travesuras y vivirán grandes historias, pero jamás olvidarán el valor de la amistad y de ser un equipo(n)</desc>
+    <credits>
+      <actor>Emiliano Flores</actor>
+      <actor>Harold Azuara</actor>
+      <actor>Ale Muller</actor>
+    </credits>
+    <category lang="es">Infantiles</category>
+    <category lang="es">Serie</category>
+  </programme>
+  <programme start="20160114153000 -0600" stop="20160114173000 -0600" channel="Canal 5">
+    <title lang="es">La CQ</title>
+    <desc lang="es">Las divertidas aventuras de 8 alumnos de la Secundaria Constantino Quijano son la combinación perfecta para la diversión. El capitán del equipo, la popular, la distraída, el inteligente, el gracioso y el abusivo, harán travesuras y vivirán grandes historias, pero jamás olvidarán el valor de la amistad y de ser un equipo(n)</desc>
+    <credits>
+      <actor>Emiliano Flores</actor>
+      <actor>Harold Azuara</actor>
+      <actor>Ale Muller</actor>
+    </credits>
+    <category lang="es">Infantiles</category>
+    <category lang="es">Serie</category>
+  </programme>
+  <programme start="20160114173000 -0600" stop="20160114193000 -0600" channel="Canal 5">
+    <title lang="es">Malcolm el de en medio</title>
+    <desc lang="es">Narra la historia de una familia trabajadora compuesta por cuatro hermanos y sus padres. Descubriremos que Malcolm, el hijo del medio, parece ser el único sensato o, por lo menos, el único que muestra algo de cordura, mientras sus neuróticos padres y sus hermanos Francis, Reese y Dewey se meten en problemas(n)</desc>
+    <credits>
+      <actor>Frankie Muniz</actor>
+      <actor>Justin Berfield</actor>
+      <actor>Bryan Cranston</actor>
+      <actor>Todd Holland</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160114193000 -0600" stop="20160114203000 -0600" channel="Canal 5">
+    <title lang="es">Dragon ball Z</title>
+    <desc lang="es">La lucha de Vegeta y Gokú por recuperar las siete esferas mágicas del poder antes de que caigan en manos de los seres malvados(n)</desc>
+    <credits>
+      <actor>Daisuke Nishio</actor>
+    </credits>
+    <category lang="es">Infantiles</category>
+    <category lang="es">D.Animados</category>
+  </programme>
+  <programme start="20160114203000 -0600" stop="20160114213000 -0600" channel="Canal 5">
+    <title lang="es">Karaoke: canta y no te rajes</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160114213000 -0600" stop="20160114233000 -0600" channel="Canal 5">
+    <title lang="es">Big brother</title>
+    <desc lang="es">Este es el máximo reto en el que un grupo de personas que nunca antes se han conocido, vivirán juntas por 13 semanas. Ellos serán observados las 24 horas, y permanecerán sin ningún tipo de contacto con el mundo exterior(n)</desc>
+    <category lang="es">Series</category>
+    <category lang="es">Reality Show</category>
+  </programme>
+  <programme start="20160114233000 -0600" stop="20160115003000 -0600" channel="Canal 5">
+    <title lang="es">Loud</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20160115003000 -0600" stop="20160115013000 -0600" channel="Canal 5">
+    <title lang="es">La viuda negra</title>
+    <desc lang="es">Narra la vida de Griselda Blanco, también conocida como "la reina de la cocaína", la mujer más peligrosa y poderosa en la historia del narcotráfico. Nacida en Colombia y de origen muy humilde, Griselda creció en las calles de Medellín aprendiendo a usar su encanto y chispa para sobrevivir. Se unió a una pandilla de delincuentes y se enamoró del líder dando sus primeros pasos en el mundo criminal. Pero tras una dolorosa traición, lo mató... con lo que se hizo merecedora del apodo "La Viuda Negra". Griselda luego se dedicó a vender drogas a nivel local, para más tarde convertirse en la pionera del narcotráfico a los Estados Unidos, trasladando sus operaciones a Nueva York y, con el tiempo, a Miami. Allí pasó a ser la consumada "Madrina de la Cocaína". La historia revela que se enamora y cas(n)</desc>
+    <credits>
+      <actor>Ana Serradilla</actor>
+      <actor>Luis Fernando Montoya</actor>
+      <actor>Camilo Wilson</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Telenovela</category>
+  </programme>
+  <programme start="20160115013000 -0600" stop="20160115023000 -0600" channel="Canal 5">
+    <title lang="es">Clío Tv</title>
+    <desc lang="es">Programa que relata los más grandes e importantes sucesos que han marcado la historia de México(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160115023000 -0600" stop="20160115040000 -0600" channel="Canal 5">
+    <title lang="es">Lucky Fred</title>
+    <desc lang="es">Una comedia animada sobre Fred, un chico de 13 años, y un robot que una madrugada cae del espacio y se estrella accidentalmente en su dormitorio(n)</desc>
+    <category lang="es">Infantiles</category>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20160115040000 -0600" stop="20160115043000 -0600" channel="Canal 5">
+    <title lang="es">Survivor: África</title>
+    <desc lang="es">Durante 39 días 16 competidores demostrarán sus habilidades para sobrevivir a los constantes desafíos a los que serán expuestos para ganar 100 mil dólares, aunado a ello deberán sobrevivir a la falta de comodidades que la vida moderna nos ofrece, incluso la comida. ¿Quién será el competidor que sobreviva a esta experiencia?(n)</desc>
+    <category lang="es">Series</category>
+    <category lang="es">Reality Show</category>
+  </programme>
+  <programme start="20160115043000 -0600" stop="20160115050000 -0600" channel="Canal 5">
+    <title lang="es">Survivor Brasil</title>
+    <desc lang="es">Brasil demostrará ser uno de los lugares más impresionantes y extremos jamás visitados, así que en un lugar como ese, el único alivio será un oasis conocido como el Rio Novo. Abandonados a su suerte durante 39 días en ese majestuoso escenario natural, los participantes que bien podríamos llamar "náufragos", se enfrentarán a temperaturas ardientes, lluvias torrenciales y fauna sumamente peligrosa. Cada participante hará un gran esfuerzo por ser el más listo, el mejor jugador, y soportar todas las condiciones del juego hasta el final, todo con el fin de ganar el título de "Único Sobreviviente". En esta edición de Survivor, los náufragos se dividirán en dos tribus, y deben comenzar de inmediato su juego sin tener más información sobre sus oponentes. Antes de cualquier presentación formal,(n)</desc>
+    <category lang="es">Reality Show</category>
+  </programme>
+  <programme start="20160115050000 -0600" stop="20160115051500 -0600" channel="Canal 5">
+    <title lang="es">Especial de R.T.C.</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Especial</category>
+  </programme>
+  <programme start="20160115051500 -0600" stop="20160115060000 -0600" channel="Canal 5">
+    <title lang="es">ICarly</title>
+    <desc lang="es">Carly estelariza un gracioso web-show con sus amigos Sam y Freddie, donde la comedia es lo más importante, ella vive una vida poco común en compañía de su hermano Spencer y sus dos mejores amigos(n)</desc>
+    <credits>
+      <actor>Miranda Cosgrove</actor>
+      <actor>Jenette Mc Curdy</actor>
+      <actor>Nathan Kress</actor>
+      <actor>Jerry Trainor</actor>
+      <actor>Noah Munck</actor>
+    </credits>
+    <category lang="es">Infantiles</category>
+    <category lang="es">Serie</category>
+  </programme>
+  <programme start="20160115060000 -0600" stop="20160115063000 -0600" channel="Canal 5">
+    <title lang="es">Lucky Fred</title>
+    <desc lang="es">Una comedia animada sobre Fred, un chico de 13 años, y un robot que una madrugada cae del espacio y se estrella accidentalmente en su dormitorio(n)</desc>
+    <category lang="es">Infantiles</category>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20160115063000 -0600" stop="20160115070000 -0600" channel="Canal 5">
+    <title lang="es">Dora, La Exploradora</title>
+    <desc lang="es">Dora Márquez, es una niña de siete años que vivirá grandes aventuras y cumplirá misiones junto con su amigo Botas, un monito de cinco años, cuando salgan a explorar(n)</desc>
+    <credits>
+      <actor>Harrison Chad</actor>
+      <actor>Caitlin Sanchez</actor>
+      <actor>Kathleen Herles</actor>
+      <actor>Jake Burbage</actor>
+      <actor>Ashley Fleming</actor>
+    </credits>
+    <category lang="es">Infantiles</category>
+    <category lang="es">Animación</category>
+  </programme>
+  <programme start="20160115070000 -0600" stop="20160115073000 -0600" channel="Canal 5">
+    <title lang="es">Plaza Sésamo</title>
+    <desc lang="es">Diviértete en el colorido barrio la Plaza, y junto con Abelardo, Pancho y Lola vive grandes aventuras llenas de aprendizaje y saciando tu curiosidad(n)</desc>
+    <credits>
+      <actor>Eugenio Bartilotti</actor>
+      <actor>Rocio Lara</actor>
+      <actor>Edgar Vivar</actor>
+      <actor>Sergio Corona</actor>
+      <actor>Beatriz Aguirre</actor>
+      <actor>Mariana Garza</actor>
+      <actor>Alfonso Soto</actor>
+    </credits>
+    <category lang="es">Infantiles</category>
+    <category lang="es">Serie</category>
+  </programme>
+  <programme start="20160115073000 -0600" stop="20160115080000 -0600" channel="Canal 5">
+    <title lang="es">Thomas y sus Amigos</title>
+    <desc lang="es">El simpático tren azul se llama Thomas, él se convertirá amigo de todos los niños pues compartirán juntos aventuras increíbles(n)</desc>
+    <credits>
+      <actor>Olivia Colman</actor>
+      <actor>John Hasler</actor>
+      <actor>David Bedella</actor>
+      <actor>Jonathan Broadbent</actor>
+      <actor>Nathan Clarke</actor>
+      <actor>Jonathan Forbes</actor>
+    </credits>
+    <category lang="es">Infantiles</category>
+    <category lang="es">Animación</category>
+  </programme>
+  <programme start="20160115080000 -0600" stop="20160115100000 -0600" channel="Canal 5">
+    <title lang="es">El Chavo Animado</title>
+    <desc lang="es">El personaje que hace más de 35 años ha conquistado a millones de televidentes en el mundo por su humor blanco, espontáneo y auténtico llega en su versió animada con aventuras completamente nuevas(n)</desc>
+    <credits>
+      <actor>Jesús Guzmán</actor>
+      <actor>Heriberto López De Anda</actor>
+    </credits>
+    <category lang="es">Infantiles</category>
+    <category lang="es">Animación</category>
+  </programme>
+  <programme start="20160115100000 -0600" stop="20160115110000 -0600" channel="Canal 5">
+    <title lang="es">Las Tortugas Ninja Adolescentes Mutantes</title>
+    <desc lang="es">Cuatro pequeñas tortugas mutarán por culpa de un extraño lodo verde, el maestro Splinter les dará cobijo y les enseñará todo sobre las Artes Marciales. Cuando sean por fin Ninjas profesionales saldrán a las calles de Nueva York para proteger a la humanidad de cualquier mal(n)</desc>
+    <credits>
+      <actor>Sean Astin</actor>
+      <actor>Jason Biggs</actor>
+      <actor>Greg Cipes</actor>
+      <actor>Seth Green</actor>
+      <actor>Hoon Lee</actor>
+      <actor>Nolan North</actor>
+    </credits>
+    <category lang="es">Infantiles</category>
+    <category lang="es">Animación</category>
+  </programme>
+  <programme start="20160115110000 -0600" stop="20160115120000 -0600" channel="Canal 5">
+    <title lang="es">El Chavo Animado</title>
+    <desc lang="es">El personaje que hace más de 35 años ha conquistado a millones de televidentes en el mundo por su humor blanco, espontáneo y auténtico llega en su versió animada con aventuras completamente nuevas(n)</desc>
+    <credits>
+      <actor>Jesús Guzmán</actor>
+      <actor>Heriberto López De Anda</actor>
+    </credits>
+    <category lang="es">Infantiles</category>
+    <category lang="es">Animación</category>
+  </programme>
+  <programme start="20160115120000 -0600" stop="20160115130000 -0600" channel="Canal 5">
+    <title lang="es">El Chapulín Colorado</title>
+    <desc lang="es">El Chapulín Colorado es un superhéroe poco común que acudirá siempre al llamado de las personas que requieran su ayuda, pero ¿realmente les ayudará a resolver sus problemas o los meterá en más líos?(n)</desc>
+    <credits>
+      <actor>Roberto Gómez Bolaños</actor>
+      <actor>María Antonieta De Las Nieves</actor>
+      <actor>Ramón Valdés</actor>
+      <actor>Edgar Vivar</actor>
+      <actor>Rubén Aguirre</actor>
+      <actor>Carlos Villagrán</actor>
+    </credits>
+    <category lang="es">Infantiles</category>
+    <category lang="es">Animación</category>
+  </programme>
+  <programme start="20160115130000 -0600" stop="20160115133000 -0600" channel="Canal 5">
+    <title lang="es">Transformers: Prime</title>
+    <desc lang="es">Veremos a Optimus Prime, Bumblebee, Arcee, Ratchet, Bulkhead y el resto de los heroicos Autobots en su lucha contra los malvados Decepticons. Ahora que el gran Megatron ha vuelto con un elemento misterioso y peligroso, el equipo de Prime debe prepararse para una batalla épica. Pero eso no es tan fácil cuando tiene que proteger a Jack, Miko y Raf - tres chicos normales que han descubierto por casualidad a los Autobots(n)</desc>
+    <credits>
+      <actor>Peter Cullen</actor>
+      <actor>David Hartman</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">D.Animados</category>
+  </programme>
+  <programme start="20160115133000 -0600" stop="20160115140000 -0600" channel="Canal 5">
+    <title lang="es">Power Rangers: Dino Charge</title>
+    <desc lang="es">Hace 65 millones de años, Keeper, el guardián de las Energems, unos cristales que poseen un gran poder, fue derribado por Sledge, un caza-recompensas intergaláctico empeñado en hacerse con el poder de las gemas y conquistar el universo(n)</desc>
+    <category lang="es">Infantiles</category>
+    <category lang="es">Serie</category>
+  </programme>
+  <programme start="20160115140000 -0600" stop="20160115150000 -0600" channel="Canal 5">
+    <title lang="es">La CQ</title>
+    <desc lang="es">Las divertidas aventuras de 8 alumnos de la Secundaria Constantino Quijano son la combinación perfecta para la diversión. El capitán del equipo, la popular, la distraída, el inteligente, el gracioso y el abusivo, harán travesuras y vivirán grandes historias, pero jamás olvidarán el valor de la amistad y de ser un equipo(n)</desc>
+    <credits>
+      <actor>Emiliano Flores</actor>
+      <actor>Harold Azuara</actor>
+      <actor>Ale Muller</actor>
+    </credits>
+    <category lang="es">Infantiles</category>
+    <category lang="es">Serie</category>
+  </programme>
+  <programme start="20160115150000 -0600" stop="20160115170000 -0600" channel="Canal 5">
+    <title lang="es">La CQ</title>
+    <desc lang="es">Las divertidas aventuras de 8 alumnos de la Secundaria Constantino Quijano son la combinación perfecta para la diversión. El capitán del equipo, la popular, la distraída, el inteligente, el gracioso y el abusivo, harán travesuras y vivirán grandes historias, pero jamás olvidarán el valor de la amistad y de ser un equipo(n)</desc>
+    <credits>
+      <actor>Emiliano Flores</actor>
+      <actor>Harold Azuara</actor>
+      <actor>Ale Muller</actor>
+    </credits>
+    <category lang="es">Infantiles</category>
+    <category lang="es">Serie</category>
+  </programme>
+  <programme start="20160115170000 -0600" stop="20160115180000 -0600" channel="Canal 5">
+    <title lang="es">Ridiculousness</title>
+    <desc lang="es">"Ridículos", conducido por Rob Dyrdek, trae a MTV los videos amateur más divertidos, bizarros y extremos del mundo del internet(n)</desc>
+    <credits>
+      <actor>Rob Dyrdek</actor>
+      <actor>Sterling Brim</actor>
+      <actor>Chelsea Chanel Dudley</actor>
+      <actor>Michael Simon</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160115180000 -0600" stop="20160115190000 -0600" channel="Canal 5">
+    <title lang="es">Malcolm el de en medio</title>
+    <desc lang="es">Narra la historia de una familia trabajadora compuesta por cuatro hermanos y sus padres. Descubriremos que Malcolm, el hijo del medio, parece ser el único sensato o, por lo menos, el único que muestra algo de cordura, mientras sus neuróticos padres y sus hermanos Francis, Reese y Dewey se meten en problemas(n)</desc>
+    <credits>
+      <actor>Frankie Muniz</actor>
+      <actor>Justin Berfield</actor>
+      <actor>Bryan Cranston</actor>
+      <actor>Todd Holland</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160115190000 -0600" stop="20160115193000 -0600" channel="Canal 5">
+    <title lang="es">Dragon ball Z</title>
+    <desc lang="es">La lucha de Vegeta y Gokú por recuperar las siete esferas mágicas del poder antes de que caigan en manos de los seres malvados(n)</desc>
+    <credits>
+      <actor>Daisuke Nishio</actor>
+    </credits>
+    <category lang="es">Infantiles</category>
+    <category lang="es">D.Animados</category>
+  </programme>
+  <programme start="20160115193000 -0600" stop="20160115213000 -0600" channel="Canal 5">
+    <title lang="es">Por la banda</title>
+    <desc lang="es">Programa de entretenimiento en el que se aborda el deporte desde un enfoque totalmente diferente, dinámico, irónico y divertido. Una mirada casual y diferente al mundo del deporte y sus estrellas. Un programa en vivo que nos mostrará a los atletas fuera de su labor deportiva, teniendo como común denominador el humor y el entretenimiento(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Talk Show</category>
+  </programme>
+  <programme start="20160115213000 -0600" stop="20160116001500 -0600" channel="Canal 5">
+    <title lang="es">Viernes de palomitas</title>
+    <category lang="es">Ciclo</category>
+    <category lang="es">Película</category>
+  </programme>
+  <programme start="20160116001500 -0600" stop="20160116003000 -0600" channel="Canal 5">
+    <title lang="es">Mike y Molly</title>
+    <desc lang="es">Mike and Molly es una comedia romántica sobre una pareja de clase media en Chicago que descubre el amor en una reunión de Gordos Anónimos. El Oficial Mike Biggs es un policía bonachón que sólo quiere perder peso. Su compañero, el Oficial Carl McMillan, es su exacto opuesto, que a pesar de las bromas apoya a Mike en su búsqueda. Durante una reunión en Gordos Anónimos, Mike conoce a Molly Flynn, una maestra de escuela con sentido del humor sobre sus curvas(n)</desc>
+    <credits>
+      <actor>Swoosie Kurtz</actor>
+      <actor>Melissa McCarthy</actor>
+      <actor>Billy Gardell</actor>
+      <actor>James Burrows</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160116003000 -0600" stop="20160116010000 -0600" channel="Canal 5">
+    <title lang="es">Mom</title>
+    <desc lang="es">Christy es una madre soltera que se deberá encargar de solucionar y hacer frente a las malas decisiones que ha tomado a lo largo de su vida, pero lo peor para ella será superar sus tentaciones: beber y tener un romance con un hombre soltero, además de tener que educar a su hijos(n)</desc>
+    <credits>
+      <actor>Allison Janney</actor>
+      <actor>Ana Faris</actor>
+      <actor>Sadie Calvano</actor>
+      <actor>Nate Corddry</actor>
+      <actor>Matt L. Jones</actor>
+      <actor>French Stewart</actor>
+      <actor>Spencer Daniels</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160116010000 -0600" stop="20160116013000 -0600" channel="Canal 5">
+    <title lang="es">Infomax</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160116013000 -0600" stop="20160116050000 -0600" channel="Canal 5">
+    <title lang="es">La Ley y el Orden: Unidad de Víctimas Especiales</title>
+    <desc lang="es">Un grupo de detectives de Departamento de Policia de Nueva York investiga crímenes sexuales no resueltos, con la intención de atrapar a los responsables y limpiar las calles de la Gran Manzana(n)</desc>
+    <credits>
+      <actor>Dann Florek</actor>
+      <actor>Richard Belzer</actor>
+      <actor>Mariska Hargitay</actor>
+      <actor>Lesli Linka Glatter</actor>
+      <actor>David Platt</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160116050000 -0600" stop="20160116051500 -0600" channel="Canal 5">
+    <title lang="es">Especial de R.T.C.</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Especial</category>
+  </programme>
+  <programme start="20160116051500 -0600" stop="20160116060000 -0600" channel="Canal 5">
+    <title lang="es">La Ley y el Orden: Unidad de Víctimas Especiales</title>
+    <desc lang="es">Un grupo de detectives de Departamento de Policia de Nueva York investiga crímenes sexuales no resueltos, con la intención de atrapar a los responsables y limpiar las calles de la Gran Manzana(n)</desc>
+    <credits>
+      <actor>Dann Florek</actor>
+      <actor>Richard Belzer</actor>
+      <actor>Mariska Hargitay</actor>
+      <actor>Lesli Linka Glatter</actor>
+      <actor>David Platt</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160116060000 -0600" stop="20160116070000 -0600" channel="Canal 5">
+    <title lang="es">El principito</title>
+    <desc lang="es">En algún sitio del asteroide B-612, el Principito vive en paz con su amada rosa y su amigo leal, el zorro. Pero la rosa se pone celosa del zorro porque este pasa demasiado tiempo con su dulce Principito. Queriendo aprovechar su aflicción, la malvada serpiente planea encantar a la rosa en vano(n)</desc>
+    <credits>
+      <actor>Guillaume Gallienne</actor>
+      <actor>Franck Capillery</actor>
+      <actor>Gabriel Bismuth Bienaimé</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20160116070000 -0600" stop="20160116080000 -0600" channel="Canal 5">
+    <title lang="es">Los Jóvenes Titanes</title>
+    <desc lang="es">El villano Slade busca a su nuevo y joven aprendiz, por ello los "Jóvenes Titanes". Robin, Starfire, Cyborg, Raven, Chico Bestia y Terra deben proteger a la tierra y evitar que Slade logre su objetivo, pues son los expertos en técnicas de detectives y de artes marciales(n)</desc>
+    <credits>
+      <actor>Greg Cipes</actor>
+      <actor>Scott Menville</actor>
+      <actor>Hynden Walch</actor>
+      <actor>Khary Payton</actor>
+      <actor>Tara Strong</actor>
+    </credits>
+    <category lang="es">Infantiles</category>
+    <category lang="es">Animación</category>
+  </programme>
+  <programme start="20160116080000 -0600" stop="20160116090000 -0600" channel="Canal 5">
+    <title lang="es">Monstruos vs. Aliens</title>
+    <desc lang="es">Cuando a Susan le cae encima un meteorito lleno de grasa espacial, y crece hasta los 15 metros de altura, la capturan y la encierran en una zona secreta del gobierno. Allí Susan se ve rodeada de otros monstruos encarcelados(n)</desc>
+    <credits>
+      <actor>Kiefer Sutherland</actor>
+      <actor>Seth Rogen</actor>
+      <actor>Reese Witherspoon</actor>
+      <actor>Rob Letterman</actor>
+      <actor>Conrad Vernon</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Animación</category>
+  </programme>
+  <programme start="20160116090000 -0600" stop="20160116100000 -0600" channel="Canal 5">
+    <title lang="es">Los pingüinos de Madagascar</title>
+    <desc lang="es">Sigue las aventuras de cuatro confundidos pingüinos: Skipper, Rico, Kowalski y Cabo, que realizan diversas misiones paramilitares en busca de proteger su hogar en el zoológico de Central Park(n)</desc>
+    <credits>
+      <actor>Tom Mcgrath</actor>
+      <actor>John DiMaggio</actor>
+      <actor>James Patrick Stuart</actor>
+      <actor>Jeff Bennett</actor>
+    </credits>
+    <category lang="es">Infantiles</category>
+    <category lang="es">Animación</category>
+  </programme>
+  <programme start="20160116100000 -0600" stop="20160116120000 -0600" channel="Canal 5">
+    <title lang="es">Kung Fu Panda: La leyenda de Po</title>
+    <desc lang="es">Po ahora vive en el Palacio de Jade con los Cinco Furiosos y el maestro Shifu. El Guerrero Dragón deberá enfrentarse a viejos adversarios que llegan al Valle de la Paz. Junto a Tigresa, Grulla, Mono, Mantis y Víbora, Po defenderá a su pueblo de los intrusos(n)</desc>
+    <credits>
+      <actor>Mick Wingert</actor>
+      <actor>Fred Tatasciore</actor>
+      <actor>Max Koch</actor>
+      <actor>James Sie</actor>
+      <actor>Kari Wahlgren</actor>
+    </credits>
+    <category lang="es">Infantiles</category>
+    <category lang="es">Animación</category>
+  </programme>
+  <programme start="20160116120000 -0600" stop="20160116140000 -0600" channel="Canal 5">
+    <title lang="es">A confirmar</title>
+    <category lang="es">Series</category>
+    <category lang="es">Telenovela</category>
+  </programme>
+  <programme start="20160116140000 -0600" stop="20160116150000 -0600" channel="Canal 5">
+    <title lang="es">Cinecinco Sabado</title>
+    <desc lang="es">Es el ciclo de cine de Canal 5 donde se presentan las películas más emocionantes y divertidas, de acción y romance, para toda la familia(n)</desc>
+    <category lang="es">Ciclo</category>
+    <category lang="es">Película</category>
+  </programme>
+  <programme start="20160116150000 -0600" stop="20160116223000 -0600" channel="Canal 5">
+    <title lang="es">A confirmar</title>
+    <category lang="es">Series</category>
+    <category lang="es">Telenovela</category>
+  </programme>
+  <programme start="20160116223000 -0600" stop="20160117000000 -0600" channel="Canal 5">
+    <title lang="es">Sábados de box</title>
+    <category lang="es">Deportes</category>
+    <category lang="es">Boxeo</category>
+  </programme>
+  <programme start="20160117000000 -0600" stop="20160117003000 -0600" channel="Canal 5">
+    <title lang="es">Infomax</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160117003000 -0600" stop="20160117010000 -0600" channel="Canal 5">
+    <title lang="es">La Ley y el Orden: Unidad de Víctimas Especiales</title>
+    <desc lang="es">Un grupo de detectives de Departamento de Policia de Nueva York investiga crímenes sexuales no resueltos, con la intención de atrapar a los responsables y limpiar las calles de la Gran Manzana(n)</desc>
+    <credits>
+      <actor>Dann Florek</actor>
+      <actor>Richard Belzer</actor>
+      <actor>Mariska Hargitay</actor>
+      <actor>Lesli Linka Glatter</actor>
+      <actor>David Platt</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160117010000 -0600" stop="20160117013000 -0600" channel="Canal 5">
+    <title lang="es">Infomax</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160117013000 -0600" stop="20160117050000 -0600" channel="Canal 5">
+    <title lang="es">La Ley y el Orden: Unidad de Víctimas Especiales</title>
+    <desc lang="es">Un grupo de detectives de Departamento de Policia de Nueva York investiga crímenes sexuales no resueltos, con la intención de atrapar a los responsables y limpiar las calles de la Gran Manzana(n)</desc>
+    <credits>
+      <actor>Dann Florek</actor>
+      <actor>Richard Belzer</actor>
+      <actor>Mariska Hargitay</actor>
+      <actor>Lesli Linka Glatter</actor>
+      <actor>David Platt</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160117050000 -0600" stop="20160117051500 -0600" channel="Canal 5">
+    <title lang="es">Especial de R.T.C.</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Especial</category>
+  </programme>
+  <programme start="20160117051500 -0600" stop="20160117060000 -0600" channel="Canal 5">
+    <title lang="es">La Ley y el Orden: Unidad de Víctimas Especiales</title>
+    <desc lang="es">Un grupo de detectives de Departamento de Policia de Nueva York investiga crímenes sexuales no resueltos, con la intención de atrapar a los responsables y limpiar las calles de la Gran Manzana(n)</desc>
+    <credits>
+      <actor>Dann Florek</actor>
+      <actor>Richard Belzer</actor>
+      <actor>Mariska Hargitay</actor>
+      <actor>Lesli Linka Glatter</actor>
+      <actor>David Platt</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160117060000 -0600" stop="20160117070000 -0600" channel="Canal 5">
+    <title lang="es">Fanboy y Chum Chum</title>
+    <desc lang="es">En la Guarida de Fanáticos viven dos chicos fanaticos de la ciencia ficción, por ello con su imaginación vivirán locas aventuras disfrazandose de super héroes(n)</desc>
+    <credits>
+      <actor>Jamie Kennedy</actor>
+      <actor>Nika Futterman</actor>
+      <actor>David Hornsby</actor>
+      <actor>Dyana Liu</actor>
+      <actor>Josh Duhamel</actor>
+      <actor>Jeff Glen Bennett</actor>
+    </credits>
+    <category lang="es">Infantiles</category>
+    <category lang="es">Animación</category>
+  </programme>
+  <programme start="20160117070000 -0600" stop="20160117080000 -0600" channel="Canal 5">
+    <title lang="es">Las Tortugas Ninja Adolescentes Mutantes</title>
+    <desc lang="es">Cuatro pequeñas tortugas mutarán por culpa de un extraño lodo verde, el maestro Splinter les dará cobijo y les enseñará todo sobre las Artes Marciales. Cuando sean por fin Ninjas profesionales saldrán a las calles de Nueva York para proteger a la humanidad de cualquier mal(n)</desc>
+    <credits>
+      <actor>Sean Astin</actor>
+      <actor>Jason Biggs</actor>
+      <actor>Greg Cipes</actor>
+      <actor>Seth Green</actor>
+      <actor>Hoon Lee</actor>
+      <actor>Nolan North</actor>
+    </credits>
+    <category lang="es">Infantiles</category>
+    <category lang="es">Animación</category>
+  </programme>
+  <programme start="20160117080000 -0600" stop="20160117100000 -0600" channel="Canal 5">
+    <title lang="es">Bob Esponja</title>
+    <desc lang="es">En la ciudad de Fondo de Bikini vive Bob Esponja, una esponja marina que vivirá aventuras y se meterá en lios con sus mejores amigos, Patricio Estrella y Arenita Mejillas. Pero su vida y acciones despreocupadas pondrán de nervios a Calamardo Tentáculos, su vecino(n)</desc>
+    <credits>
+      <actor>Tom Kenny</actor>
+      <actor>Bill Fagerbakke</actor>
+      <actor>Rodger Bumpass</actor>
+      <actor>Clancy Brown</actor>
+    </credits>
+    <category lang="es">Infantiles</category>
+    <category lang="es">Animación</category>
+  </programme>
+  <programme start="20160117100000 -0600" stop="20160117103000 -0600" channel="Canal 5">
+    <title lang="es">Bob Esponja</title>
+    <desc lang="es">En la ciudad de Fondo de Bikini vive Bob Esponja, una esponja marina que vivirá aventuras y se meterá en lios con sus mejores amigos, Patricio Estrella y Arenita Mejillas. Pero su vida y acciones despreocupadas pondrán de nervios a Calamardo Tentáculos, su vecino(n)</desc>
+    <credits>
+      <actor>Tom Kenny</actor>
+      <actor>Bill Fagerbakke</actor>
+      <actor>Rodger Bumpass</actor>
+      <actor>Clancy Brown</actor>
+    </credits>
+    <category lang="es">Infantiles</category>
+    <category lang="es">Animación</category>
+  </programme>
+  <programme start="20160117103000 -0600" stop="20160117120000 -0600" channel="Canal 5">
+    <title lang="es">A confirmar</title>
+    <category lang="es">Series</category>
+    <category lang="es">Telenovela</category>
+  </programme>
+  <programme start="20160117120000 -0600" stop="20160117154000 -0600" channel="Canal 5">
+    <title lang="es">NFL Football</title>
+    <desc lang="es">La mayor liga de fútbol americano profesional de los Estados Unidos. Se divide en dos conferencias: la NFC y la AFC. A su vez cada conferencia se integra por cuatro divisiones (Norte, Sur, Este y Oeste) y cada una de ellas, por cuatro equipos. Luego de la temporada regular, seis equipos de cada conferencia disputan los playoffs, un sistema de eliminación a un partido que clasificará a los ganadores de cada conferencia para disputar el partido por el campeonato, conocido como Super Bowl(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Football Americano</category>
+  </programme>
+  <programme start="20160117154000 -0600" stop="20160117190000 -0600" channel="Canal 5">
+    <title lang="es">NFL Football</title>
+    <desc lang="es">La mayor liga de fútbol americano profesional de los Estados Unidos. Se divide en dos conferencias: la NFC y la AFC. A su vez cada conferencia se integra por cuatro divisiones (Norte, Sur, Este y Oeste) y cada una de ellas, por cuatro equipos. Luego de la temporada regular, seis equipos de cada conferencia disputan los playoffs, un sistema de eliminación a un partido que clasificará a los ganadores de cada conferencia para disputar el partido por el campeonato, conocido como Super Bowl(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Football Americano</category>
+  </programme>
+  <programme start="20160117190000 -0600" stop="20160117223000 -0600" channel="Canal 5">
+    <title lang="es">A confirmar</title>
+    <category lang="es">Series</category>
+    <category lang="es">Telenovela</category>
+  </programme>
+  <programme start="20160117223000 -0600" stop="20160118000000 -0600" channel="Canal 5">
+    <title lang="es">A confirmar</title>
+    <category lang="es">Series</category>
+    <category lang="es">Telenovela</category>
+  </programme>
+  <programme start="20160118000000 -0600" stop="20160118003000 -0600" channel="Canal 5">
+    <title lang="es">Cuide su salud</title>
+    <desc lang="es">La doctora Diane Pérez te ofrecerá sencillos y valiosos consejos para mantenerte sano, con un buen estado físico y mental, además de ofrecerte una nueva forma de viajar por el mundo de la salud(n)</desc>
+    <credits>
+      <actor>Diane Pérez</actor>
+    </credits>
+    <category lang="es">Cocina, hogar y salud</category>
+    <category lang="es">Salud</category>
+  </programme>
+  <programme start="20160118003000 -0600" stop="20160118010000 -0600" channel="Canal 5">
+    <title lang="es">La Ley y el Orden: Unidad de Víctimas Especiales</title>
+    <desc lang="es">Un grupo de detectives de Departamento de Policia de Nueva York investiga crímenes sexuales no resueltos, con la intención de atrapar a los responsables y limpiar las calles de la Gran Manzana(n)</desc>
+    <credits>
+      <actor>Dann Florek</actor>
+      <actor>Richard Belzer</actor>
+      <actor>Mariska Hargitay</actor>
+      <actor>Lesli Linka Glatter</actor>
+      <actor>David Platt</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160118010000 -0600" stop="20160118013000 -0600" channel="Canal 5">
+    <title lang="es">Infomax</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160118013000 -0600" stop="20160118040000 -0600" channel="Canal 5">
+    <title lang="es">La Ley y el Orden: Unidad de Víctimas Especiales</title>
+    <desc lang="es">Un grupo de detectives de Departamento de Policia de Nueva York investiga crímenes sexuales no resueltos, con la intención de atrapar a los responsables y limpiar las calles de la Gran Manzana(n)</desc>
+    <credits>
+      <actor>Dann Florek</actor>
+      <actor>Richard Belzer</actor>
+      <actor>Mariska Hargitay</actor>
+      <actor>Lesli Linka Glatter</actor>
+      <actor>David Platt</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160118040000 -0600" stop="20160118050000 -0600" channel="Canal 5">
+    <title lang="es">Fanboy y Chum Chum</title>
+    <desc lang="es">En la Guarida de Fanáticos viven dos chicos fanaticos de la ciencia ficción, por ello con su imaginación vivirán locas aventuras disfrazandose de super héroes(n)</desc>
+    <credits>
+      <actor>Jamie Kennedy</actor>
+      <actor>Nika Futterman</actor>
+      <actor>David Hornsby</actor>
+      <actor>Dyana Liu</actor>
+      <actor>Josh Duhamel</actor>
+      <actor>Jeff Glen Bennett</actor>
+    </credits>
+    <category lang="es">Infantiles</category>
+    <category lang="es">Animación</category>
+  </programme>
+  <programme start="20160118050000 -0600" stop="20160118051500 -0600" channel="Canal 5">
+    <title lang="es">Especial de R.T.C.</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Especial</category>
+  </programme>
+  <programme start="20160118051500 -0600" stop="20160118060000 -0600" channel="Canal 5">
+    <title lang="es">Fanboy y Chum Chum</title>
+    <desc lang="es">En la Guarida de Fanáticos viven dos chicos fanaticos de la ciencia ficción, por ello con su imaginación vivirán locas aventuras disfrazandose de super héroes(n)</desc>
+    <credits>
+      <actor>Jamie Kennedy</actor>
+      <actor>Nika Futterman</actor>
+      <actor>David Hornsby</actor>
+      <actor>Dyana Liu</actor>
+      <actor>Josh Duhamel</actor>
+      <actor>Jeff Glen Bennett</actor>
+    </credits>
+    <category lang="es">Infantiles</category>
+    <category lang="es">Animación</category>
+  </programme>
+  <programme start="20160118060000 -0600" stop="20160118063000 -0600" channel="Canal 5">
+    <title lang="es">Ardilla miedosa</title>
+    <desc lang="es">Ardilla miedosa muestra a nuestro héroe, creativo y un poco loco, mientras enfrenta los desafíos diarios que le presenta la vida. De hecho, la vida es un desafío todos los días, ya que todo en la vida de nuestra ardilla debe andar bien(n)</desc>
+    <category lang="es">Infantiles</category>
+    <category lang="es">Animación</category>
+  </programme>
+  <programme start="20160118063000 -0600" stop="20160118070000 -0600" channel="Canal 5">
+    <title lang="es">Dora, La Exploradora</title>
+    <desc lang="es">Dora Márquez, es una niña de siete años que vivirá grandes aventuras y cumplirá misiones junto con su amigo Botas, un monito de cinco años, cuando salgan a explorar(n)</desc>
+    <credits>
+      <actor>Harrison Chad</actor>
+      <actor>Caitlin Sanchez</actor>
+      <actor>Kathleen Herles</actor>
+      <actor>Jake Burbage</actor>
+      <actor>Ashley Fleming</actor>
+    </credits>
+    <category lang="es">Infantiles</category>
+    <category lang="es">Animación</category>
+  </programme>
+  <programme start="20160118070000 -0600" stop="20160118073000 -0600" channel="Canal 5">
+    <title lang="es">Plaza Sésamo</title>
+    <desc lang="es">Diviértete en el colorido barrio la Plaza, y junto con Abelardo, Pancho y Lola vive grandes aventuras llenas de aprendizaje y saciando tu curiosidad(n)</desc>
+    <credits>
+      <actor>Eugenio Bartilotti</actor>
+      <actor>Rocio Lara</actor>
+      <actor>Edgar Vivar</actor>
+      <actor>Sergio Corona</actor>
+      <actor>Beatriz Aguirre</actor>
+      <actor>Mariana Garza</actor>
+      <actor>Alfonso Soto</actor>
+    </credits>
+    <category lang="es">Infantiles</category>
+    <category lang="es">Serie</category>
+  </programme>
+  <programme start="20160118073000 -0600" stop="20160118080000 -0600" channel="Canal 5">
+    <title lang="es">Thomas y sus Amigos</title>
+    <desc lang="es">El simpático tren azul se llama Thomas, él se convertirá amigo de todos los niños pues compartirán juntos aventuras increíbles(n)</desc>
+    <credits>
+      <actor>Olivia Colman</actor>
+      <actor>John Hasler</actor>
+      <actor>David Bedella</actor>
+      <actor>Jonathan Broadbent</actor>
+      <actor>Nathan Clarke</actor>
+      <actor>Jonathan Forbes</actor>
+    </credits>
+    <category lang="es">Infantiles</category>
+    <category lang="es">Animación</category>
+  </programme>
+  <programme start="20160118080000 -0600" stop="20160118090000 -0600" channel="Canal 5">
+    <title lang="es">Los Padrinos Mágicos</title>
+    <desc lang="es">Timmy Turner es un niño incomprendido, nada popular, a quien sus compañeros suelen molestar. Sus padres no le prestan mucha atención y está al cuidado de, Vicky, su niñera malvada. Es allí donde intervienen Cosmo y Wanda, ¡sus padrinos mágicos! seres que se les asignan a los niños que no tienen una vida feliz, para concederles deseos(n)</desc>
+    <credits>
+      <actor>Tara Strong</actor>
+      <actor>Daran Norris</actor>
+      <actor>Susanne Blakeslee</actor>
+      <actor>Grey Delisle</actor>
+    </credits>
+    <category lang="es">Infantiles</category>
+    <category lang="es">Animación</category>
+  </programme>
+  <programme start="20160118090000 -0600" stop="20160118100000 -0600" channel="Canal 5">
+    <title lang="es">Kung Fu Panda: La leyenda de Po</title>
+    <desc lang="es">Po ahora vive en el Palacio de Jade con los Cinco Furiosos y el maestro Shifu. El Guerrero Dragón deberá enfrentarse a viejos adversarios que llegan al Valle de la Paz. Junto a Tigresa, Grulla, Mono, Mantis y Víbora, Po defenderá a su pueblo de los intrusos(n)</desc>
+    <credits>
+      <actor>Mick Wingert</actor>
+      <actor>Fred Tatasciore</actor>
+      <actor>Max Koch</actor>
+      <actor>James Sie</actor>
+      <actor>Kari Wahlgren</actor>
+    </credits>
+    <category lang="es">Infantiles</category>
+    <category lang="es">Animación</category>
+  </programme>
+  <programme start="20160118100000 -0600" stop="20160118110000 -0600" channel="Canal 5">
+    <title lang="es">Los pingüinos de Madagascar</title>
+    <desc lang="es">Sigue las aventuras de cuatro confundidos pingüinos: Skipper, Rico, Kowalski y Cabo, que realizan diversas misiones paramilitares en busca de proteger su hogar en el zoológico de Central Park(n)</desc>
+    <credits>
+      <actor>Tom Mcgrath</actor>
+      <actor>John DiMaggio</actor>
+      <actor>James Patrick Stuart</actor>
+      <actor>Jeff Bennett</actor>
+    </credits>
+    <category lang="es">Infantiles</category>
+    <category lang="es">Animación</category>
+  </programme>
+  <programme start="20160118110000 -0600" stop="20160118110000 -0600" channel="Canal 5">
+    <title lang="es">El Chavo Animado</title>
+    <desc lang="es">El personaje que hace más de 35 años ha conquistado a millones de televidentes en el mundo por su humor blanco, espontáneo y auténtico llega en su versió animada con aventuras completamente nuevas(n)</desc>
+    <credits>
+      <actor>Jesús Guzmán</actor>
+      <actor>Heriberto López De Anda</actor>
+    </credits>
+    <category lang="es">Infantiles</category>
+    <category lang="es">Animación</category>
+  </programme>
+  <programme start="20160118110000 -0600" stop="20160118123000 -0600" channel="Canal 5">
+    <title lang="es">El Chavo Animado</title>
+    <desc lang="es">El personaje que hace más de 35 años ha conquistado a millones de televidentes en el mundo por su humor blanco, espontáneo y auténtico llega en su versió animada con aventuras completamente nuevas(n)</desc>
+    <credits>
+      <actor>Jesús Guzmán</actor>
+      <actor>Heriberto López De Anda</actor>
+    </credits>
+    <category lang="es">Infantiles</category>
+    <category lang="es">Animación</category>
+  </programme>
+  <programme start="20160118123000 -0600" stop="20160118140000 -0600" channel="Canal 5">
+    <title lang="es">Bob Esponja</title>
+    <desc lang="es">En la ciudad de Fondo de Bikini vive Bob Esponja, una esponja marina que vivirá aventuras y se meterá en lios con sus mejores amigos, Patricio Estrella y Arenita Mejillas. Pero su vida y acciones despreocupadas pondrán de nervios a Calamardo Tentáculos, su vecino(n)</desc>
+    <credits>
+      <actor>Tom Kenny</actor>
+      <actor>Bill Fagerbakke</actor>
+      <actor>Rodger Bumpass</actor>
+      <actor>Clancy Brown</actor>
+    </credits>
+    <category lang="es">Infantiles</category>
+    <category lang="es">Animación</category>
+  </programme>
+  <programme start="20160118140000 -0600" stop="20160118153000 -0600" channel="Canal 5">
+    <title lang="es">ICarly</title>
+    <desc lang="es">Carly estelariza un gracioso web-show con sus amigos Sam y Freddie, donde la comedia es lo más importante, ella vive una vida poco común en compañía de su hermano Spencer y sus dos mejores amigos(n)</desc>
+    <credits>
+      <actor>Miranda Cosgrove</actor>
+      <actor>Jenette Mc Curdy</actor>
+      <actor>Nathan Kress</actor>
+      <actor>Jerry Trainor</actor>
+      <actor>Noah Munck</actor>
+    </credits>
+    <category lang="es">Infantiles</category>
+    <category lang="es">Serie</category>
+  </programme>
+  <programme start="20160118153000 -0600" stop="20160118173000 -0600" channel="Canal 5">
+    <title lang="es">La CQ</title>
+    <desc lang="es">Las divertidas aventuras de 8 alumnos de la Secundaria Constantino Quijano son la combinación perfecta para la diversión. El capitán del equipo, la popular, la distraída, el inteligente, el gracioso y el abusivo, harán travesuras y vivirán grandes historias, pero jamás olvidarán el valor de la amistad y de ser un equipo(n)</desc>
+    <credits>
+      <actor>Emiliano Flores</actor>
+      <actor>Harold Azuara</actor>
+      <actor>Ale Muller</actor>
+    </credits>
+    <category lang="es">Infantiles</category>
+    <category lang="es">Serie</category>
+  </programme>
+  <programme start="20160118173000 -0600" stop="20160118193000 -0600" channel="Canal 5">
+    <title lang="es">Malcolm el de en medio</title>
+    <desc lang="es">Narra la historia de una familia trabajadora compuesta por cuatro hermanos y sus padres. Descubriremos que Malcolm, el hijo del medio, parece ser el único sensato o, por lo menos, el único que muestra algo de cordura, mientras sus neuróticos padres y sus hermanos Francis, Reese y Dewey se meten en problemas(n)</desc>
+    <credits>
+      <actor>Frankie Muniz</actor>
+      <actor>Justin Berfield</actor>
+      <actor>Bryan Cranston</actor>
+      <actor>Todd Holland</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160118193000 -0600" stop="20160118210000 -0600" channel="Canal 5">
+    <title lang="es">Dragon ball Z</title>
+    <desc lang="es">La lucha de Vegeta y Gokú por recuperar las siete esferas mágicas del poder antes de que caigan en manos de los seres malvados(n)</desc>
+    <credits>
+      <actor>Daisuke Nishio</actor>
+    </credits>
+    <category lang="es">Infantiles</category>
+    <category lang="es">D.Animados</category>
+  </programme>
+  <programme start="20160118210000 -0600" stop="20160118230000 -0600" channel="Canal 5">
+    <title lang="es">Películas PM</title>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Película</category>
   </programme>
 </tv>
