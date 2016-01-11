@@ -59,6 +59,7 @@
   </channel>
   <channel id="Bandamax">
     <display-name lang="es">Bandamax</display-name>
+    <icon src="http://y.cdn.entutele.com/media/channels/big/bandamax.gif" />
     <url>http://www.entutele.com</url>
   </channel>
   <channel id="BBC Entertainment">
@@ -16145,5 +16146,1944 @@
     </credits>
     <category lang="es">Series</category>
     <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160111003000 -0600" stop="20160111010000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160111010000 -0600" stop="20160111020000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160111020000 -0600" stop="20160111023000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160111023000 -0600" stop="20160111030000 -0600" channel="Bandamax">
+    <title lang="es">Éxitos bandamax</title>
+    <category lang="es">Musicales</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160111030000 -0600" stop="20160111033000 -0600" channel="Bandamax">
+    <title lang="es">Éxitos bandamax</title>
+    <category lang="es">Musicales</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160111033000 -0600" stop="20160111040000 -0600" channel="Bandamax">
+    <title lang="es">Éxitos bandamax</title>
+    <category lang="es">Musicales</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160111040000 -0600" stop="20160111043000 -0600" channel="Bandamax">
+    <title lang="es">Éxitos bandamax</title>
+    <category lang="es">Musicales</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160111043000 -0600" stop="20160111050000 -0600" channel="Bandamax">
+    <title lang="es">Éxitos bandamax</title>
+    <category lang="es">Musicales</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160111050000 -0600" stop="20160111053000 -0600" channel="Bandamax">
+    <title lang="es">Éxitos bandamax</title>
+    <category lang="es">Musicales</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160111053000 -0600" stop="20160111060000 -0600" channel="Bandamax">
+    <title lang="es">Éxitos bandamax</title>
+    <category lang="es">Musicales</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160111060000 -0600" stop="20160111063000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160111063000 -0600" stop="20160111080000 -0600" channel="Bandamax">
+    <title lang="es">Buenos días Bandamax</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20160111080000 -0600" stop="20160111083000 -0600" channel="Bandamax">
+    <title lang="es">Las mas soñadas</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160111083000 -0600" stop="20160111090000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160111090000 -0600" stop="20160111093000 -0600" channel="Bandamax">
+    <title lang="es">Ponte de buenas con...</title>
+    <sub-title lang="es">Los Gfez</sub-title>
+    <credits>
+      <actor>Alicia Villarreal</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160111093000 -0600" stop="20160111100000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160111100000 -0600" stop="20160111103000 -0600" channel="Bandamax">
+    <title lang="es">Un solo artista</title>
+    <credits>
+      <actor>Vanessa Arias</actor>
+    </credits>
+    <category lang="es">Musicales</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160111103000 -0600" stop="20160111110000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160111110000 -0600" stop="20160111113000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160111113000 -0600" stop="20160111120000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160111120000 -0600" stop="20160111123000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160111123000 -0600" stop="20160111130000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160111130000 -0600" stop="20160111133000 -0600" channel="Bandamax">
+    <title lang="es">Las románticas de Bandamax</title>
+    <desc lang="es">Franja musical donde podrás ver las canciones romanticonas del mundo en Español(n)</desc>
+    <category lang="es">Musicales</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160111133000 -0600" stop="20160111140000 -0600" channel="Bandamax">
+    <title lang="es">Las mas soñadas</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160111140000 -0600" stop="20160111143000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160111143000 -0600" stop="20160111150000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160111150000 -0600" stop="20160111160000 -0600" channel="Bandamax">
+    <title lang="es">Comiendo con...</title>
+    <sub-title lang="es">Julión Álvarez</sub-title>
+    <credits>
+      <actor>Alejandro Fernández</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Turismo</category>
+  </programme>
+  <programme start="20160111160000 -0600" stop="20160111163000 -0600" channel="Bandamax">
+    <title lang="es">Kiubo Kien Anda Ay</title>
+    <desc lang="es">Gabriel García conduce este programa diseñado para que el público vote por su video favorito a través de mensajes SMS. Además, Gabriel recibirá las llamadas del público televidente, siempre con su trato ameno y afectuoso(n)</desc>
+    <credits>
+      <actor>Toño Aldeco</actor>
+      <actor>Gabriel García</actor>
+    </credits>
+    <category lang="es">Musicales</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160111163000 -0600" stop="20160111170000 -0600" channel="Bandamax">
+    <title lang="es">Vámonos recio</title>
+    <sub-title lang="es">Nene Torres</sub-title>
+    <desc lang="es">Se presentan todas las noticias que se dan en el mundo grupero. Es el programa donde los grupos nos traen sus videos para estrenarlos en el canal, la información siempre es fresca y actual, hay diversión porque Belinda es una joven que con mucha dinámica y buen humor entrevista a sus invitados para esperar lo inesperado con las respuestas y reacciones de los grupos y solistas que son invitados(n)</desc>
+    <credits>
+      <actor>Belinda Urias</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160111170000 -0600" stop="20160111173000 -0600" channel="Bandamax">
+    <title lang="es">Al compás de tus latidos</title>
+    <desc lang="es">"Al Compás de tus Latidos" es un programa que busca, mediante llamadas en vivo, dar consejos a la audiencia, sobre amor, desamor, ligue, truene y todo aquello referente al corazón. Todo esto bajo la conducción de Jocelyn Juncal(n)</desc>
+    <credits>
+      <actor>Joselyn Juncal</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160111173000 -0600" stop="20160111180000 -0600" channel="Bandamax">
+    <title lang="es">Un solo artista</title>
+    <credits>
+      <actor>Vanessa Arias</actor>
+    </credits>
+    <category lang="es">Musicales</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160111180000 -0600" stop="20160111183000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160111183000 -0600" stop="20160111190000 -0600" channel="Bandamax">
+    <title lang="es">Pídesela a Sergio</title>
+    <desc lang="es">Espacio donde se transmiten los videos que el público solicita a través de las llamadas telefónicas y redes sociales, pero no sólo eso, pues Sergio te hablará del amor, la amistad o situaciones de la vida cotidiana a través del tema de la semana. Además, Sergio realiza una trivia sobre los videos de las bandas, conductores del canal y temas del género grupero y el ganador se llevará un regalo(n)</desc>
+    <credits>
+      <actor>Sergio Machado</actor>
+    </credits>
+    <category lang="es">Musicales</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160111190000 -0600" stop="20160111193000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160111193000 -0600" stop="20160111200000 -0600" channel="Bandamax">
+    <title lang="es">Las mas soñadas</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160111200000 -0600" stop="20160111210000 -0600" channel="Bandamax">
+    <title lang="es">Naucalpan Son Machin</title>
+    <sub-title lang="es">Lo mejor del año - parte 3</sub-title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160111210000 -0600" stop="20160111220000 -0600" channel="Bandamax">
+    <title lang="es">Pa' la banda - Night Show</title>
+    <sub-title lang="es">Banda los recoditos</sub-title>
+    <desc lang="es">Pa` la banda - Night Show nos permite disfrutar de una velada muy entretenida. Cada programa tendrá un contenido de entrevistas, música en vivo y sorpresas para cada invitado especial(n)</desc>
+    <credits>
+      <actor>Cynthia Urias</actor>
+    </credits>
+    <category lang="es">Musicales</category>
+    <category lang="es">Entrevista</category>
+  </programme>
+  <programme start="20160111220000 -0600" stop="20160111223000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160111223000 -0600" stop="20160111230000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160111230000 -0600" stop="20160112000000 -0600" channel="Bandamax">
+    <title lang="es">A dormir con...</title>
+    <sub-title lang="es">Juan Gabriel</sub-title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160112000000 -0600" stop="20160112003000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160112003000 -0600" stop="20160112010000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160112010000 -0600" stop="20160112013000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160112013000 -0600" stop="20160112020000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160112020000 -0600" stop="20160112023000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160112023000 -0600" stop="20160112030000 -0600" channel="Bandamax">
+    <title lang="es">Éxitos bandamax</title>
+    <category lang="es">Musicales</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160112030000 -0600" stop="20160112033000 -0600" channel="Bandamax">
+    <title lang="es">Éxitos bandamax</title>
+    <category lang="es">Musicales</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160112033000 -0600" stop="20160112040000 -0600" channel="Bandamax">
+    <title lang="es">Éxitos bandamax</title>
+    <category lang="es">Musicales</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160112040000 -0600" stop="20160112043000 -0600" channel="Bandamax">
+    <title lang="es">Éxitos bandamax</title>
+    <category lang="es">Musicales</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160112043000 -0600" stop="20160112050000 -0600" channel="Bandamax">
+    <title lang="es">Éxitos bandamax</title>
+    <category lang="es">Musicales</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160112050000 -0600" stop="20160112053000 -0600" channel="Bandamax">
+    <title lang="es">Éxitos bandamax</title>
+    <category lang="es">Musicales</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160112053000 -0600" stop="20160112060000 -0600" channel="Bandamax">
+    <title lang="es">Éxitos bandamax</title>
+    <category lang="es">Musicales</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160112060000 -0600" stop="20160112063000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160112063000 -0600" stop="20160112080000 -0600" channel="Bandamax">
+    <title lang="es">Buenos días Bandamax</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20160112080000 -0600" stop="20160112083000 -0600" channel="Bandamax">
+    <title lang="es">Las mas soñadas</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160112083000 -0600" stop="20160112090000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160112090000 -0600" stop="20160112093000 -0600" channel="Bandamax">
+    <title lang="es">Ponte de buenas con...</title>
+    <sub-title lang="es">Los Gfez</sub-title>
+    <credits>
+      <actor>Alicia Villarreal</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160112093000 -0600" stop="20160112100000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160112100000 -0600" stop="20160112110000 -0600" channel="Bandamax">
+    <title lang="es">La hora de Los tigres del norte</title>
+    <category lang="es">Musicales</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160112110000 -0600" stop="20160112113000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160112113000 -0600" stop="20160112113000 -0600" channel="Bandamax">
+    <title lang="es">La diva de la banda</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160112113000 -0600" stop="20160112123000 -0600" channel="Bandamax">
+    <title lang="es">La diva de la banda</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160112123000 -0600" stop="20160112130000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160112130000 -0600" stop="20160112133000 -0600" channel="Bandamax">
+    <title lang="es">Las románticas de Bandamax</title>
+    <desc lang="es">Franja musical donde podrás ver las canciones romanticonas del mundo en Español(n)</desc>
+    <category lang="es">Musicales</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160112133000 -0600" stop="20160112140000 -0600" channel="Bandamax">
+    <title lang="es">Las mas soñadas</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160112140000 -0600" stop="20160112143000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160112143000 -0600" stop="20160112150000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160112150000 -0600" stop="20160112160000 -0600" channel="Bandamax">
+    <title lang="es">Comiendo con...</title>
+    <sub-title lang="es">Julión Álvarez</sub-title>
+    <credits>
+      <actor>Alejandro Fernández</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Turismo</category>
+  </programme>
+  <programme start="20160112160000 -0600" stop="20160112163000 -0600" channel="Bandamax">
+    <title lang="es">Kiubo Kien Anda Ay</title>
+    <desc lang="es">Gabriel García conduce este programa diseñado para que el público vote por su video favorito a través de mensajes SMS. Además, Gabriel recibirá las llamadas del público televidente, siempre con su trato ameno y afectuoso(n)</desc>
+    <credits>
+      <actor>Toño Aldeco</actor>
+      <actor>Gabriel García</actor>
+    </credits>
+    <category lang="es">Musicales</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160112163000 -0600" stop="20160112170000 -0600" channel="Bandamax">
+    <title lang="es">Vámonos recio</title>
+    <desc lang="es">Se presentan todas las noticias que se dan en el mundo grupero. Es el programa donde los grupos nos traen sus videos para estrenarlos en el canal, la información siempre es fresca y actual, hay diversión porque Belinda es una joven que con mucha dinámica y buen humor entrevista a sus invitados para esperar lo inesperado con las respuestas y reacciones de los grupos y solistas que son invitados(n)</desc>
+    <credits>
+      <actor>Belinda Urias</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160112170000 -0600" stop="20160112173000 -0600" channel="Bandamax">
+    <title lang="es">Con más alma grupera</title>
+    <desc lang="es">Busca convertirse en el puente idóneo para el público de este canal de Música Regional Mexicana y las figuras del futuro en el territorio donde han hecho historia los más grandes artistas(n)</desc>
+    <credits>
+      <actor>Joselyn Juncal</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160112173000 -0600" stop="20160112183000 -0600" channel="Bandamax">
+    <title lang="es">Bridon</title>
+    <desc lang="es">Programa dedicado al caballo y todas sus razas, con entrevistas a personalidades ecuestres, todas las disciplinas deportivas relacionadas a él, así como al toro de reparo, mejor conocido como Jaripeo o Rodeo(n)</desc>
+    <credits>
+      <actor>Toño Aldeco</actor>
+    </credits>
+    <category lang="es">Culturales</category>
+    <category lang="es">Cultural</category>
+  </programme>
+  <programme start="20160112183000 -0600" stop="20160112190000 -0600" channel="Bandamax">
+    <title lang="es">Contra bandeando</title>
+    <sub-title lang="es">La Bandononona Clave Nueva de Max Peraza vs. Banda Rancho Viejo La Bandononona</sub-title>
+    <desc lang="es">En cada emisión, las gemelas Melisa y Melina León realizarán un recorrido de la trayectoria de dos exponentes del género regional mexicano(n)</desc>
+    <credits>
+      <actor>Melissa León Bórquez</actor>
+      <actor>Melinna León Bórquez</actor>
+    </credits>
+    <category lang="es">Musicales</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160112190000 -0600" stop="20160112193000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160112193000 -0600" stop="20160112200000 -0600" channel="Bandamax">
+    <title lang="es">Las mas soñadas</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160112200000 -0600" stop="20160112210000 -0600" channel="Bandamax">
+    <title lang="es">Los 15 que soñé</title>
+    <sub-title lang="es">Daniel Herrera, Tania Piña, Alex El Koko Guzman</sub-title>
+    <desc lang="es">"Los 15 que soñé" es un programa conducido por Belinda Urías y Roberto Carlo, en donde niñas de 14 años vivirán una experiencia inolvidable para poder cumplir un gran sueño, tener su vestido de 15 años. Belinda y Roberto tendrán el honor de presentar a 3 participantes dispuestas a bailar, cantar y sobre todo divertirse al máximo, con las diferentes dinámicas. Hay un jurado que dará sus mejores consejos a las participantes y también les otorgará una calificación, la cual será fundamental para poder elegir a una ganadora que se hará acreedora de un lindo vestido(n)</desc>
+    <credits>
+      <actor>Roberto Carlo</actor>
+      <actor>Belinda Urias</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160112210000 -0600" stop="20160112220000 -0600" channel="Bandamax">
+    <title lang="es">Mas alla de la fama</title>
+    <sub-title lang="es">Joss Favela</sub-title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160112220000 -0600" stop="20160112223000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160112223000 -0600" stop="20160112230000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160112230000 -0600" stop="20160113000000 -0600" channel="Bandamax">
+    <title lang="es">A dormir con...</title>
+    <sub-title lang="es">Juan Gabriel</sub-title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160113000000 -0600" stop="20160113003000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160113003000 -0600" stop="20160113010000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160113010000 -0600" stop="20160113013000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160113013000 -0600" stop="20160113020000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160113020000 -0600" stop="20160113023000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160113023000 -0600" stop="20160113030000 -0600" channel="Bandamax">
+    <title lang="es">Éxitos bandamax</title>
+    <category lang="es">Musicales</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160113030000 -0600" stop="20160113033000 -0600" channel="Bandamax">
+    <title lang="es">Éxitos bandamax</title>
+    <category lang="es">Musicales</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160113033000 -0600" stop="20160113040000 -0600" channel="Bandamax">
+    <title lang="es">Éxitos bandamax</title>
+    <category lang="es">Musicales</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160113040000 -0600" stop="20160113043000 -0600" channel="Bandamax">
+    <title lang="es">Éxitos bandamax</title>
+    <category lang="es">Musicales</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160113043000 -0600" stop="20160113050000 -0600" channel="Bandamax">
+    <title lang="es">Éxitos bandamax</title>
+    <category lang="es">Musicales</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160113050000 -0600" stop="20160113053000 -0600" channel="Bandamax">
+    <title lang="es">Éxitos bandamax</title>
+    <category lang="es">Musicales</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160113053000 -0600" stop="20160113060000 -0600" channel="Bandamax">
+    <title lang="es">Éxitos bandamax</title>
+    <category lang="es">Musicales</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160113060000 -0600" stop="20160113063000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160113063000 -0600" stop="20160113080000 -0600" channel="Bandamax">
+    <title lang="es">Buenos días Bandamax</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20160113080000 -0600" stop="20160113083000 -0600" channel="Bandamax">
+    <title lang="es">Las mas soñadas</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160113083000 -0600" stop="20160113090000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160113090000 -0600" stop="20160113093000 -0600" channel="Bandamax">
+    <title lang="es">Ponte de buenas con...</title>
+    <sub-title lang="es">Los Gfez</sub-title>
+    <credits>
+      <actor>Alicia Villarreal</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160113093000 -0600" stop="20160113100000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160113100000 -0600" stop="20160113103000 -0600" channel="Bandamax">
+    <title lang="es">Un solo artista</title>
+    <credits>
+      <actor>Vanessa Arias</actor>
+    </credits>
+    <category lang="es">Musicales</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160113103000 -0600" stop="20160113110000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160113110000 -0600" stop="20160113113000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160113113000 -0600" stop="20160113120000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160113120000 -0600" stop="20160113123000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160113123000 -0600" stop="20160113130000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160113130000 -0600" stop="20160113133000 -0600" channel="Bandamax">
+    <title lang="es">Las románticas de Bandamax</title>
+    <desc lang="es">Franja musical donde podrás ver las canciones romanticonas del mundo en Español(n)</desc>
+    <category lang="es">Musicales</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160113133000 -0600" stop="20160113140000 -0600" channel="Bandamax">
+    <title lang="es">Las mas soñadas</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160113140000 -0600" stop="20160113143000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160113143000 -0600" stop="20160113150000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160113150000 -0600" stop="20160113160000 -0600" channel="Bandamax">
+    <title lang="es">Comiendo con...</title>
+    <sub-title lang="es">Julión Álvarez</sub-title>
+    <credits>
+      <actor>Alejandro Fernández</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Turismo</category>
+  </programme>
+  <programme start="20160113160000 -0600" stop="20160113163000 -0600" channel="Bandamax">
+    <title lang="es">Kiubo Kien Anda Ay</title>
+    <desc lang="es">Gabriel García conduce este programa diseñado para que el público vote por su video favorito a través de mensajes SMS. Además, Gabriel recibirá las llamadas del público televidente, siempre con su trato ameno y afectuoso(n)</desc>
+    <credits>
+      <actor>Toño Aldeco</actor>
+      <actor>Gabriel García</actor>
+    </credits>
+    <category lang="es">Musicales</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160113163000 -0600" stop="20160113170000 -0600" channel="Bandamax">
+    <title lang="es">Vámonos recio</title>
+    <sub-title lang="es">Los valedores de la sierra</sub-title>
+    <desc lang="es">Se presentan todas las noticias que se dan en el mundo grupero. Es el programa donde los grupos nos traen sus videos para estrenarlos en el canal, la información siempre es fresca y actual, hay diversión porque Belinda es una joven que con mucha dinámica y buen humor entrevista a sus invitados para esperar lo inesperado con las respuestas y reacciones de los grupos y solistas que son invitados(n)</desc>
+    <credits>
+      <actor>Belinda Urias</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160113170000 -0600" stop="20160113173000 -0600" channel="Bandamax">
+    <title lang="es">Al compás de tus latidos</title>
+    <desc lang="es">"Al Compás de tus Latidos" es un programa que busca, mediante llamadas en vivo, dar consejos a la audiencia, sobre amor, desamor, ligue, truene y todo aquello referente al corazón. Todo esto bajo la conducción de Jocelyn Juncal(n)</desc>
+    <credits>
+      <actor>Joselyn Juncal</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160113173000 -0600" stop="20160113180000 -0600" channel="Bandamax">
+    <title lang="es">Un solo artista</title>
+    <credits>
+      <actor>Vanessa Arias</actor>
+    </credits>
+    <category lang="es">Musicales</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160113180000 -0600" stop="20160113183000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160113183000 -0600" stop="20160113190000 -0600" channel="Bandamax">
+    <title lang="es">Pídesela a Sergio</title>
+    <desc lang="es">Espacio donde se transmiten los videos que el público solicita a través de las llamadas telefónicas y redes sociales, pero no sólo eso, pues Sergio te hablará del amor, la amistad o situaciones de la vida cotidiana a través del tema de la semana. Además, Sergio realiza una trivia sobre los videos de las bandas, conductores del canal y temas del género grupero y el ganador se llevará un regalo(n)</desc>
+    <credits>
+      <actor>Sergio Machado</actor>
+    </credits>
+    <category lang="es">Musicales</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160113190000 -0600" stop="20160113193000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160113193000 -0600" stop="20160113200000 -0600" channel="Bandamax">
+    <title lang="es">Las mas soñadas</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160113200000 -0600" stop="20160113210000 -0600" channel="Bandamax">
+    <title lang="es">La cantina del Tunco Maclovich</title>
+    <sub-title lang="es">Kevin Ortiz, Lalo Manzano</sub-title>
+    <desc lang="es">La Cantina del Tunco es un programa con un estilo de humor diferente que le da a Bandamax este toque divertido de ver al mundo grupero(n)</desc>
+    <credits>
+      <actor>Israel Jaitovich</actor>
+      <actor>Miguel Vallejo</actor>
+    </credits>
+    <category lang="es">Musicales</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160113210000 -0600" stop="20160113220000 -0600" channel="Bandamax">
+    <title lang="es">Xe-marilé</title>
+    <sub-title lang="es">Banda Cuisillos, Teodoro Bello, Beto El Boticario Jr., Fernando Lopez El Chinche</sub-title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160113220000 -0600" stop="20160113223000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160113223000 -0600" stop="20160113230000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160113230000 -0600" stop="20160114000000 -0600" channel="Bandamax">
+    <title lang="es">A dormir con...</title>
+    <sub-title lang="es">Juan Gabriel</sub-title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160114000000 -0600" stop="20160114010000 -0600" channel="Bandamax">
+    <title lang="es">Bridon</title>
+    <desc lang="es">Programa dedicado al caballo y todas sus razas, con entrevistas a personalidades ecuestres, todas las disciplinas deportivas relacionadas a él, así como al toro de reparo, mejor conocido como Jaripeo o Rodeo(n)</desc>
+    <credits>
+      <actor>Toño Aldeco</actor>
+    </credits>
+    <category lang="es">Culturales</category>
+    <category lang="es">Cultural</category>
+  </programme>
+  <programme start="20160114010000 -0600" stop="20160114013000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160114013000 -0600" stop="20160114020000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160114020000 -0600" stop="20160114023000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160114023000 -0600" stop="20160114030000 -0600" channel="Bandamax">
+    <title lang="es">Éxitos bandamax</title>
+    <category lang="es">Musicales</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160114030000 -0600" stop="20160114033000 -0600" channel="Bandamax">
+    <title lang="es">Éxitos bandamax</title>
+    <category lang="es">Musicales</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160114033000 -0600" stop="20160114040000 -0600" channel="Bandamax">
+    <title lang="es">Éxitos bandamax</title>
+    <category lang="es">Musicales</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160114040000 -0600" stop="20160114043000 -0600" channel="Bandamax">
+    <title lang="es">Éxitos bandamax</title>
+    <category lang="es">Musicales</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160114043000 -0600" stop="20160114050000 -0600" channel="Bandamax">
+    <title lang="es">Éxitos bandamax</title>
+    <category lang="es">Musicales</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160114050000 -0600" stop="20160114053000 -0600" channel="Bandamax">
+    <title lang="es">Éxitos bandamax</title>
+    <category lang="es">Musicales</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160114053000 -0600" stop="20160114060000 -0600" channel="Bandamax">
+    <title lang="es">Éxitos bandamax</title>
+    <category lang="es">Musicales</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160114060000 -0600" stop="20160114063000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160114063000 -0600" stop="20160114080000 -0600" channel="Bandamax">
+    <title lang="es">Buenos días Bandamax</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20160114080000 -0600" stop="20160114083000 -0600" channel="Bandamax">
+    <title lang="es">Las mas soñadas</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160114083000 -0600" stop="20160114090000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160114090000 -0600" stop="20160114093000 -0600" channel="Bandamax">
+    <title lang="es">Ponte de buenas con...</title>
+    <sub-title lang="es">Los Gfez</sub-title>
+    <credits>
+      <actor>Alicia Villarreal</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160114093000 -0600" stop="20160114100000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160114100000 -0600" stop="20160114103000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160114103000 -0600" stop="20160114110000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160114110000 -0600" stop="20160114113000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160114113000 -0600" stop="20160114113000 -0600" channel="Bandamax">
+    <title lang="es">La diva de la banda</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160114113000 -0600" stop="20160114123000 -0600" channel="Bandamax">
+    <title lang="es">La diva de la banda</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160114123000 -0600" stop="20160114130000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160114130000 -0600" stop="20160114133000 -0600" channel="Bandamax">
+    <title lang="es">Las románticas de Bandamax</title>
+    <desc lang="es">Franja musical donde podrás ver las canciones romanticonas del mundo en Español(n)</desc>
+    <category lang="es">Musicales</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160114133000 -0600" stop="20160114140000 -0600" channel="Bandamax">
+    <title lang="es">Las mas soñadas</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160114140000 -0600" stop="20160114143000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160114143000 -0600" stop="20160114150000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160114150000 -0600" stop="20160114160000 -0600" channel="Bandamax">
+    <title lang="es">Comiendo con...</title>
+    <sub-title lang="es">Julión Álvarez</sub-title>
+    <credits>
+      <actor>Alejandro Fernández</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Turismo</category>
+  </programme>
+  <programme start="20160114160000 -0600" stop="20160114163000 -0600" channel="Bandamax">
+    <title lang="es">Kiubo Kien Anda Ay</title>
+    <desc lang="es">Gabriel García conduce este programa diseñado para que el público vote por su video favorito a través de mensajes SMS. Además, Gabriel recibirá las llamadas del público televidente, siempre con su trato ameno y afectuoso(n)</desc>
+    <credits>
+      <actor>Toño Aldeco</actor>
+      <actor>Gabriel García</actor>
+    </credits>
+    <category lang="es">Musicales</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160114163000 -0600" stop="20160114170000 -0600" channel="Bandamax">
+    <title lang="es">Vámonos recio</title>
+    <sub-title lang="es">Los reales</sub-title>
+    <desc lang="es">Se presentan todas las noticias que se dan en el mundo grupero. Es el programa donde los grupos nos traen sus videos para estrenarlos en el canal, la información siempre es fresca y actual, hay diversión porque Belinda es una joven que con mucha dinámica y buen humor entrevista a sus invitados para esperar lo inesperado con las respuestas y reacciones de los grupos y solistas que son invitados(n)</desc>
+    <credits>
+      <actor>Belinda Urias</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160114170000 -0600" stop="20160114173000 -0600" channel="Bandamax">
+    <title lang="es">Con más alma grupera</title>
+    <desc lang="es">Busca convertirse en el puente idóneo para el público de este canal de Música Regional Mexicana y las figuras del futuro en el territorio donde han hecho historia los más grandes artistas(n)</desc>
+    <credits>
+      <actor>Joselyn Juncal</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160114173000 -0600" stop="20160114180000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160114180000 -0600" stop="20160114183000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160114183000 -0600" stop="20160114190000 -0600" channel="Bandamax">
+    <title lang="es">Contra bandeando</title>
+    <sub-title lang="es">Los Tucanes de Tijuana vs. Los Tigres del Norte</sub-title>
+    <desc lang="es">En cada emisión, las gemelas Melisa y Melina León realizarán un recorrido de la trayectoria de dos exponentes del género regional mexicano(n)</desc>
+    <credits>
+      <actor>Melissa León Bórquez</actor>
+      <actor>Melinna León Bórquez</actor>
+    </credits>
+    <category lang="es">Musicales</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160114190000 -0600" stop="20160114193000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160114193000 -0600" stop="20160114200000 -0600" channel="Bandamax">
+    <title lang="es">Las mas soñadas</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160114200000 -0600" stop="20160114210000 -0600" channel="Bandamax">
+    <title lang="es">Que rollo</title>
+    <sub-title lang="es">Mariano barba / Las indirectas</sub-title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160114210000 -0600" stop="20160114220000 -0600" channel="Bandamax">
+    <title lang="es">La reina del norte</title>
+    <sub-title lang="es">Lo que no ocasiona el tráfico</sub-title>
+    <desc lang="es">Vanessa Arias es la encargada de conducir "La Reina del Norte", un programa en el que se presentan divertidas secciones "El Duelo De La Reina", donde se confrontan a dos artistas que se enfrentan para ganar compitiendo con algún rasgo físico que tengan en común, desde su sonrisa, hasta el color de piel y la estatura "Los Combos De La Reina", aquí Vanessa Arias presenta dos videos continuos, cabe mencionar que esto es algo que únicamente puede encontrarse en este programa "El Tema De La Semana", en el que de una manera divertida "La Reina del Norte" nos platica acerca de situaciones cotidianas de pareja, sexuales y conquista y que al mismo tiempo que informa, entretiene al público(n)</desc>
+    <credits>
+      <actor>Vanessa Arias</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160114220000 -0600" stop="20160114223000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160114223000 -0600" stop="20160114230000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160114230000 -0600" stop="20160115000000 -0600" channel="Bandamax">
+    <title lang="es">A dormir con...</title>
+    <sub-title lang="es">Juan Gabriel</sub-title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160115000000 -0600" stop="20160115003000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160115003000 -0600" stop="20160115010000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160115010000 -0600" stop="20160115013000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160115013000 -0600" stop="20160115020000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160115020000 -0600" stop="20160115023000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160115023000 -0600" stop="20160115030000 -0600" channel="Bandamax">
+    <title lang="es">Éxitos bandamax</title>
+    <category lang="es">Musicales</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160115030000 -0600" stop="20160115033000 -0600" channel="Bandamax">
+    <title lang="es">Éxitos bandamax</title>
+    <category lang="es">Musicales</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160115033000 -0600" stop="20160115040000 -0600" channel="Bandamax">
+    <title lang="es">Éxitos bandamax</title>
+    <category lang="es">Musicales</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160115040000 -0600" stop="20160115043000 -0600" channel="Bandamax">
+    <title lang="es">Éxitos bandamax</title>
+    <category lang="es">Musicales</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160115043000 -0600" stop="20160115050000 -0600" channel="Bandamax">
+    <title lang="es">Éxitos bandamax</title>
+    <category lang="es">Musicales</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160115050000 -0600" stop="20160115053000 -0600" channel="Bandamax">
+    <title lang="es">Éxitos bandamax</title>
+    <category lang="es">Musicales</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160115053000 -0600" stop="20160115060000 -0600" channel="Bandamax">
+    <title lang="es">Éxitos bandamax</title>
+    <category lang="es">Musicales</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160115060000 -0600" stop="20160115063000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160115063000 -0600" stop="20160115080000 -0600" channel="Bandamax">
+    <title lang="es">Buenos días Bandamax</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20160115080000 -0600" stop="20160115083000 -0600" channel="Bandamax">
+    <title lang="es">Las mas soñadas</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160115083000 -0600" stop="20160115090000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160115090000 -0600" stop="20160115093000 -0600" channel="Bandamax">
+    <title lang="es">Ponte de buenas con...</title>
+    <sub-title lang="es">Los Gfez</sub-title>
+    <credits>
+      <actor>Alicia Villarreal</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160115093000 -0600" stop="20160115100000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160115100000 -0600" stop="20160115103000 -0600" channel="Bandamax">
+    <title lang="es">Un solo artista</title>
+    <credits>
+      <actor>Vanessa Arias</actor>
+    </credits>
+    <category lang="es">Musicales</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160115103000 -0600" stop="20160115110000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160115110000 -0600" stop="20160115113000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160115113000 -0600" stop="20160115120000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160115120000 -0600" stop="20160115123000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160115123000 -0600" stop="20160115130000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160115130000 -0600" stop="20160115133000 -0600" channel="Bandamax">
+    <title lang="es">Las románticas de Bandamax</title>
+    <desc lang="es">Franja musical donde podrás ver las canciones romanticonas del mundo en Español(n)</desc>
+    <category lang="es">Musicales</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160115133000 -0600" stop="20160115140000 -0600" channel="Bandamax">
+    <title lang="es">Las mas soñadas</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160115140000 -0600" stop="20160115143000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160115143000 -0600" stop="20160115150000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160115150000 -0600" stop="20160115160000 -0600" channel="Bandamax">
+    <title lang="es">Comiendo con...</title>
+    <sub-title lang="es">Julión Álvarez</sub-title>
+    <credits>
+      <actor>Alejandro Fernández</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Turismo</category>
+  </programme>
+  <programme start="20160115160000 -0600" stop="20160115163000 -0600" channel="Bandamax">
+    <title lang="es">Bandamax TV</title>
+    <sub-title lang="es">Regulo caro, parte 2</sub-title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160115163000 -0600" stop="20160115170000 -0600" channel="Bandamax">
+    <title lang="es">Vámonos recio</title>
+    <desc lang="es">Se presentan todas las noticias que se dan en el mundo grupero. Es el programa donde los grupos nos traen sus videos para estrenarlos en el canal, la información siempre es fresca y actual, hay diversión porque Belinda es una joven que con mucha dinámica y buen humor entrevista a sus invitados para esperar lo inesperado con las respuestas y reacciones de los grupos y solistas que son invitados(n)</desc>
+    <credits>
+      <actor>Belinda Urias</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160115170000 -0600" stop="20160115173000 -0600" channel="Bandamax">
+    <title lang="es">Al compás de tus latidos</title>
+    <desc lang="es">"Al Compás de tus Latidos" es un programa que busca, mediante llamadas en vivo, dar consejos a la audiencia, sobre amor, desamor, ligue, truene y todo aquello referente al corazón. Todo esto bajo la conducción de Jocelyn Juncal(n)</desc>
+    <credits>
+      <actor>Joselyn Juncal</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160115173000 -0600" stop="20160115180000 -0600" channel="Bandamax">
+    <title lang="es">Un solo artista</title>
+    <credits>
+      <actor>Vanessa Arias</actor>
+    </credits>
+    <category lang="es">Musicales</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160115180000 -0600" stop="20160115183000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160115183000 -0600" stop="20160115190000 -0600" channel="Bandamax">
+    <title lang="es">Pídesela a Sergio</title>
+    <desc lang="es">Espacio donde se transmiten los videos que el público solicita a través de las llamadas telefónicas y redes sociales, pero no sólo eso, pues Sergio te hablará del amor, la amistad o situaciones de la vida cotidiana a través del tema de la semana. Además, Sergio realiza una trivia sobre los videos de las bandas, conductores del canal y temas del género grupero y el ganador se llevará un regalo(n)</desc>
+    <credits>
+      <actor>Sergio Machado</actor>
+    </credits>
+    <category lang="es">Musicales</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160115190000 -0600" stop="20160115193000 -0600" channel="Bandamax">
+    <title lang="es">Con más alma grupera</title>
+    <desc lang="es">Busca convertirse en el puente idóneo para el público de este canal de Música Regional Mexicana y las figuras del futuro en el territorio donde han hecho historia los más grandes artistas(n)</desc>
+    <credits>
+      <actor>Joselyn Juncal</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160115193000 -0600" stop="20160115200000 -0600" channel="Bandamax">
+    <title lang="es">Las mas soñadas</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160115200000 -0600" stop="20160115210000 -0600" channel="Bandamax">
+    <title lang="es">Las Más Picudas</title>
+    <desc lang="es">Cynthia Urias es una conductora versátil, es la reina de la noticia grupera. Ella está al frente de nuestro programa Las más Picudas, aquí presentaremos los 10 mejores videos de la semana. Para Cynthia y para el equipo de producción de Bandamax la opinión del público si vale y por eso tú serás quien decida que videos y grupos se presentarán semana a semana a través de nuestro correo electrónico(n)</desc>
+    <credits>
+      <actor>Cynthia Urias</actor>
+    </credits>
+    <category lang="es">Musicales</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160115210000 -0600" stop="20160115213000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160115213000 -0600" stop="20160115220000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160115220000 -0600" stop="20160115223000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160115223000 -0600" stop="20160115230000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160115230000 -0600" stop="20160116000000 -0600" channel="Bandamax">
+    <title lang="es">A dormir con...</title>
+    <sub-title lang="es">Juan Gabriel</sub-title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160116000000 -0600" stop="20160116003000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160116003000 -0600" stop="20160116010000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160116010000 -0600" stop="20160116013000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160116013000 -0600" stop="20160116020000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160116020000 -0600" stop="20160116023000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160116023000 -0600" stop="20160116030000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160116030000 -0600" stop="20160116033000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160116033000 -0600" stop="20160116040000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160116040000 -0600" stop="20160116043000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160116043000 -0600" stop="20160116050000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160116050000 -0600" stop="20160116053000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160116053000 -0600" stop="20160116060000 -0600" channel="Bandamax">
+    <title lang="es">Éxitos bandamax</title>
+    <category lang="es">Musicales</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160116060000 -0600" stop="20160116063000 -0600" channel="Bandamax">
+    <title lang="es">Éxitos bandamax</title>
+    <category lang="es">Musicales</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160116063000 -0600" stop="20160116070000 -0600" channel="Bandamax">
+    <title lang="es">Las románticas de Bandamax</title>
+    <desc lang="es">Franja musical donde podrás ver las canciones romanticonas del mundo en Español(n)</desc>
+    <category lang="es">Musicales</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160116070000 -0600" stop="20160116073000 -0600" channel="Bandamax">
+    <title lang="es">Las románticas de Bandamax</title>
+    <desc lang="es">Franja musical donde podrás ver las canciones romanticonas del mundo en Español(n)</desc>
+    <category lang="es">Musicales</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160116073000 -0600" stop="20160116083000 -0600" channel="Bandamax">
+    <title lang="es">Contacto Paisano</title>
+    <desc lang="es">El propósito de este programa es acercar a la gente con su propia gente, sobretodo con aquellos seres queridos que están lejos, pues en este espacio la gente puede enviar saludos, mensajes o recordatorios, eligiendo sus videos favoritos para entregar ese mensaje, haciendo que estos 60 minutos de videos continuos sean un mosaico singular. Así, pues, el protagonista de Contacto paisano es el público, en una ventana abierta al cariño y los buenos deseos(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Interés General</category>
+  </programme>
+  <programme start="20160116083000 -0600" stop="20160116090000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160116090000 -0600" stop="20160116093000 -0600" channel="Bandamax">
+    <title lang="es">Ponte de buenas con...</title>
+    <sub-title lang="es">Los Gfez</sub-title>
+    <credits>
+      <actor>Alicia Villarreal</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160116093000 -0600" stop="20160116100000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160116100000 -0600" stop="20160116103000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160116103000 -0600" stop="20160116113000 -0600" channel="Bandamax">
+    <title lang="es">Lo mejor de la cantina del Tunco Maclovich</title>
+    <desc lang="es">La Cantina del Tunco es un programa con un estilo de humor diferente que le da a Bandamax este toque divertido de ver al mundo grupero(n)</desc>
+    <credits>
+      <actor>Israel Jaitovich</actor>
+    </credits>
+    <category lang="es">Musicales</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160116113000 -0600" stop="20160116113000 -0600" channel="Bandamax">
+    <title lang="es">Lo mejor de la cantina del Tunco Maclovich</title>
+    <desc lang="es">La Cantina del Tunco es un programa con un estilo de humor diferente que le da a Bandamax este toque divertido de ver al mundo grupero(n)</desc>
+    <credits>
+      <actor>Israel Jaitovich</actor>
+    </credits>
+    <category lang="es">Musicales</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160116113000 -0600" stop="20160116123000 -0600" channel="Bandamax">
+    <title lang="es">Lo mejor de la cantina del Tunco Maclovich</title>
+    <desc lang="es">La Cantina del Tunco es un programa con un estilo de humor diferente que le da a Bandamax este toque divertido de ver al mundo grupero(n)</desc>
+    <credits>
+      <actor>Israel Jaitovich</actor>
+    </credits>
+    <category lang="es">Musicales</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160116123000 -0600" stop="20160116130000 -0600" channel="Bandamax">
+    <title lang="es">Contra bandeando</title>
+    <sub-title lang="es">La Bandononona Clave Nueva de Max Peraza vs. Banda Rancho Viejo La Bandononona</sub-title>
+    <desc lang="es">En cada emisión, las gemelas Melisa y Melina León realizarán un recorrido de la trayectoria de dos exponentes del género regional mexicano(n)</desc>
+    <credits>
+      <actor>Melissa León Bórquez</actor>
+      <actor>Melinna León Bórquez</actor>
+    </credits>
+    <category lang="es">Musicales</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160116130000 -0600" stop="20160116133000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160116133000 -0600" stop="20160116140000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160116140000 -0600" stop="20160116143000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160116143000 -0600" stop="20160116150000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160116150000 -0600" stop="20160116160000 -0600" channel="Bandamax">
+    <title lang="es">Comiendo con...</title>
+    <sub-title lang="es">Julión Álvarez</sub-title>
+    <credits>
+      <actor>Alejandro Fernández</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Turismo</category>
+  </programme>
+  <programme start="20160116160000 -0600" stop="20160116163000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160116163000 -0600" stop="20160116170000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160116170000 -0600" stop="20160116180000 -0600" channel="Bandamax">
+    <title lang="es">El Naucalpan Son Machín</title>
+    <sub-title lang="es">Lo mejor del año, parte 3</sub-title>
+    <desc lang="es">"El Naucalpan Son Machín" es un programa con musicales, con entrevistas y mucho humor en donde se cuenta con la actuación especial de Albertano como el nuevo VJ de Bandamax junto a él su grupo: "El Naucalpan Son Machín". Ellos estarán a cargo de la conducción del show y serán los anfitriones de este espacio en el que verás desfilar a las súper estrellas de la música grupera, así como a grandes personalidades del espectáculo. Además podrás disfrutar de otras secciones como: "Notas de Impacto" y "Desmenuzando videos" a cargo de la maestra Resurrección; que tiene el propósito de divertir y entretener al público de Bandamax(n)</desc>
+    <credits>
+      <actor>. Albertano</actor>
+    </credits>
+    <category lang="es">Musicales</category>
+    <category lang="es">Espectáculo</category>
+  </programme>
+  <programme start="20160116180000 -0600" stop="20160116190000 -0600" channel="Bandamax">
+    <title lang="es">Que quiere la banda</title>
+    <sub-title lang="es">Ezequiel Peña</sub-title>
+    <desc lang="es">Programa musical con un giro netamente de Bandas, creado para aquellos que gustan de este género musical. Todas nuestras transmisiones se realizan en vivo en nuestros estudios donde la gente escucha y disfruta de su banda favorita(n)</desc>
+    <credits>
+      <actor>Adrián Padilla</actor>
+      <actor>Ely Castro</actor>
+    </credits>
+    <category lang="es">Musicales</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160116190000 -0600" stop="20160116193000 -0600" channel="Bandamax">
+    <title lang="es">Con más alma grupera</title>
+    <desc lang="es">Busca convertirse en el puente idóneo para el público de este canal de Música Regional Mexicana y las figuras del futuro en el territorio donde han hecho historia los más grandes artistas(n)</desc>
+    <credits>
+      <actor>Joselyn Juncal</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160116193000 -0600" stop="20160116203000 -0600" channel="Bandamax">
+    <title lang="es">La cantina del Tunco Maclovich</title>
+    <sub-title lang="es">Kevin Ortiz, Lalo Manzano</sub-title>
+    <desc lang="es">La Cantina del Tunco es un programa con un estilo de humor diferente que le da a Bandamax este toque divertido de ver al mundo grupero(n)</desc>
+    <credits>
+      <actor>Israel Jaitovich</actor>
+      <actor>Miguel Vallejo</actor>
+    </credits>
+    <category lang="es">Musicales</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160116203000 -0600" stop="20160116213000 -0600" channel="Bandamax">
+    <title lang="es">Xe-marilé</title>
+    <sub-title lang="es">Banda Cuisillos, Teodoro Bello, Beto El Boticario Jr., Fernando Lopez El Chinche</sub-title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160116213000 -0600" stop="20160116223000 -0600" channel="Bandamax">
+    <title lang="es">Pa' la banda - Night Show</title>
+    <sub-title lang="es">Banda los recoditos</sub-title>
+    <desc lang="es">Pa` la banda - Night Show nos permite disfrutar de una velada muy entretenida. Cada programa tendrá un contenido de entrevistas, música en vivo y sorpresas para cada invitado especial(n)</desc>
+    <credits>
+      <actor>Cynthia Urias</actor>
+    </credits>
+    <category lang="es">Musicales</category>
+    <category lang="es">Entrevista</category>
+  </programme>
+  <programme start="20160116223000 -0600" stop="20160116233000 -0600" channel="Bandamax">
+    <title lang="es">La reina del norte</title>
+    <sub-title lang="es">Lo que no ocasiona el tráfico</sub-title>
+    <desc lang="es">Vanessa Arias es la encargada de conducir "La Reina del Norte", un programa en el que se presentan divertidas secciones "El Duelo De La Reina", donde se confrontan a dos artistas que se enfrentan para ganar compitiendo con algún rasgo físico que tengan en común, desde su sonrisa, hasta el color de piel y la estatura "Los Combos De La Reina", aquí Vanessa Arias presenta dos videos continuos, cabe mencionar que esto es algo que únicamente puede encontrarse en este programa "El Tema De La Semana", en el que de una manera divertida "La Reina del Norte" nos platica acerca de situaciones cotidianas de pareja, sexuales y conquista y que al mismo tiempo que informa, entretiene al público(n)</desc>
+    <credits>
+      <actor>Vanessa Arias</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160116233000 -0600" stop="20160117000000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160117000000 -0600" stop="20160117003000 -0600" channel="Bandamax">
+    <title lang="es">Éxitos bandamax</title>
+    <category lang="es">Musicales</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160117003000 -0600" stop="20160117010000 -0600" channel="Bandamax">
+    <title lang="es">Éxitos bandamax</title>
+    <category lang="es">Musicales</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160117010000 -0600" stop="20160117013000 -0600" channel="Bandamax">
+    <title lang="es">Éxitos bandamax</title>
+    <category lang="es">Musicales</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160117013000 -0600" stop="20160117020000 -0600" channel="Bandamax">
+    <title lang="es">Éxitos bandamax</title>
+    <category lang="es">Musicales</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160117020000 -0600" stop="20160117023000 -0600" channel="Bandamax">
+    <title lang="es">Éxitos bandamax</title>
+    <category lang="es">Musicales</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160117023000 -0600" stop="20160117030000 -0600" channel="Bandamax">
+    <title lang="es">Éxitos bandamax</title>
+    <category lang="es">Musicales</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160117030000 -0600" stop="20160117033000 -0600" channel="Bandamax">
+    <title lang="es">Éxitos bandamax</title>
+    <category lang="es">Musicales</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160117033000 -0600" stop="20160117040000 -0600" channel="Bandamax">
+    <title lang="es">Éxitos bandamax</title>
+    <category lang="es">Musicales</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160117040000 -0600" stop="20160117043000 -0600" channel="Bandamax">
+    <title lang="es">Éxitos bandamax</title>
+    <category lang="es">Musicales</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160117043000 -0600" stop="20160117050000 -0600" channel="Bandamax">
+    <title lang="es">Un solo artista</title>
+    <credits>
+      <actor>Vanessa Arias</actor>
+    </credits>
+    <category lang="es">Musicales</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160117050000 -0600" stop="20160117053000 -0600" channel="Bandamax">
+    <title lang="es">Un solo artista</title>
+    <credits>
+      <actor>Vanessa Arias</actor>
+    </credits>
+    <category lang="es">Musicales</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160117053000 -0600" stop="20160117060000 -0600" channel="Bandamax">
+    <title lang="es">Un solo artista</title>
+    <credits>
+      <actor>Vanessa Arias</actor>
+    </credits>
+    <category lang="es">Musicales</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160117060000 -0600" stop="20160117063000 -0600" channel="Bandamax">
+    <title lang="es">Las románticas de Bandamax</title>
+    <desc lang="es">Franja musical donde podrás ver las canciones romanticonas del mundo en Español(n)</desc>
+    <category lang="es">Musicales</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160117063000 -0600" stop="20160117070000 -0600" channel="Bandamax">
+    <title lang="es">Las románticas de Bandamax</title>
+    <desc lang="es">Franja musical donde podrás ver las canciones romanticonas del mundo en Español(n)</desc>
+    <category lang="es">Musicales</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160117070000 -0600" stop="20160117073000 -0600" channel="Bandamax">
+    <title lang="es">Las románticas de Bandamax</title>
+    <desc lang="es">Franja musical donde podrás ver las canciones romanticonas del mundo en Español(n)</desc>
+    <category lang="es">Musicales</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160117073000 -0600" stop="20160117083000 -0600" channel="Bandamax">
+    <title lang="es">Contacto Paisano</title>
+    <desc lang="es">El propósito de este programa es acercar a la gente con su propia gente, sobretodo con aquellos seres queridos que están lejos, pues en este espacio la gente puede enviar saludos, mensajes o recordatorios, eligiendo sus videos favoritos para entregar ese mensaje, haciendo que estos 60 minutos de videos continuos sean un mosaico singular. Así, pues, el protagonista de Contacto paisano es el público, en una ventana abierta al cariño y los buenos deseos(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Interés General</category>
+  </programme>
+  <programme start="20160117083000 -0600" stop="20160117090000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160117090000 -0600" stop="20160117093000 -0600" channel="Bandamax">
+    <title lang="es">Ponte de buenas con...</title>
+    <sub-title lang="es">Los Gfez</sub-title>
+    <credits>
+      <actor>Alicia Villarreal</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160117093000 -0600" stop="20160117100000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160117100000 -0600" stop="20160117103000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160117103000 -0600" stop="20160117110000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160117110000 -0600" stop="20160117113000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160117113000 -0600" stop="20160117120000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160117120000 -0600" stop="20160117123000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160117123000 -0600" stop="20160117130000 -0600" channel="Bandamax">
+    <title lang="es">Contra bandeando</title>
+    <sub-title lang="es">Los Tucanes de Tijuana vs. Los Tigres del Norte</sub-title>
+    <desc lang="es">En cada emisión, las gemelas Melisa y Melina León realizarán un recorrido de la trayectoria de dos exponentes del género regional mexicano(n)</desc>
+    <credits>
+      <actor>Melissa León Bórquez</actor>
+      <actor>Melinna León Bórquez</actor>
+    </credits>
+    <category lang="es">Musicales</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160117130000 -0600" stop="20160117133000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160117133000 -0600" stop="20160117140000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160117140000 -0600" stop="20160117143000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160117143000 -0600" stop="20160117150000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160117150000 -0600" stop="20160117160000 -0600" channel="Bandamax">
+    <title lang="es">Comiendo con...</title>
+    <sub-title lang="es">Julión Álvarez</sub-title>
+    <credits>
+      <actor>Alejandro Fernández</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Turismo</category>
+  </programme>
+  <programme start="20160117160000 -0600" stop="20160117163000 -0600" channel="Bandamax">
+    <title lang="es">Con más alma grupera</title>
+    <desc lang="es">Busca convertirse en el puente idóneo para el público de este canal de Música Regional Mexicana y las figuras del futuro en el territorio donde han hecho historia los más grandes artistas(n)</desc>
+    <credits>
+      <actor>Joselyn Juncal</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160117163000 -0600" stop="20160117173000 -0600" channel="Bandamax">
+    <title lang="es">Mas alla de la fama</title>
+    <sub-title lang="es">Joss Favela</sub-title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160117173000 -0600" stop="20160117183000 -0600" channel="Bandamax">
+    <title lang="es">Los 15 que soñé</title>
+    <sub-title lang="es">Daniel Herrera, Tania Piña, Alex El Koko Guzman</sub-title>
+    <desc lang="es">"Los 15 que soñé" es un programa conducido por Belinda Urías y Roberto Carlo, en donde niñas de 14 años vivirán una experiencia inolvidable para poder cumplir un gran sueño, tener su vestido de 15 años. Belinda y Roberto tendrán el honor de presentar a 3 participantes dispuestas a bailar, cantar y sobre todo divertirse al máximo, con las diferentes dinámicas. Hay un jurado que dará sus mejores consejos a las participantes y también les otorgará una calificación, la cual será fundamental para poder elegir a una ganadora que se hará acreedora de un lindo vestido(n)</desc>
+    <credits>
+      <actor>Roberto Carlo</actor>
+      <actor>Belinda Urias</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160117183000 -0600" stop="20160117193000 -0600" channel="Bandamax">
+    <title lang="es">Las Más Picudas</title>
+    <desc lang="es">Cynthia Urias es una conductora versátil, es la reina de la noticia grupera. Ella está al frente de nuestro programa Las más Picudas, aquí presentaremos los 10 mejores videos de la semana. Para Cynthia y para el equipo de producción de Bandamax la opinión del público si vale y por eso tú serás quien decida que videos y grupos se presentarán semana a semana a través de nuestro correo electrónico(n)</desc>
+    <credits>
+      <actor>Cynthia Urias</actor>
+    </credits>
+    <category lang="es">Musicales</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160117193000 -0600" stop="20160117200000 -0600" channel="Bandamax">
+    <title lang="es">Bandamax TV</title>
+    <sub-title lang="es">Regulo caro, parte 2</sub-title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160117200000 -0600" stop="20160117210000 -0600" channel="Bandamax">
+    <title lang="es">Que rollo</title>
+    <sub-title lang="es">Mariano barba / Las indirectas</sub-title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160117210000 -0600" stop="20160117220000 -0600" channel="Bandamax">
+    <title lang="es">Que quiere la banda</title>
+    <sub-title lang="es">Ezequiel Peña</sub-title>
+    <desc lang="es">Programa musical con un giro netamente de Bandas, creado para aquellos que gustan de este género musical. Todas nuestras transmisiones se realizan en vivo en nuestros estudios donde la gente escucha y disfruta de su banda favorita(n)</desc>
+    <credits>
+      <actor>Adrián Padilla</actor>
+      <actor>Ely Castro</actor>
+    </credits>
+    <category lang="es">Musicales</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160117220000 -0600" stop="20160117230000 -0600" channel="Bandamax">
+    <title lang="es">Bridon</title>
+    <desc lang="es">Programa dedicado al caballo y todas sus razas, con entrevistas a personalidades ecuestres, todas las disciplinas deportivas relacionadas a él, así como al toro de reparo, mejor conocido como Jaripeo o Rodeo(n)</desc>
+    <credits>
+      <actor>Toño Aldeco</actor>
+    </credits>
+    <category lang="es">Culturales</category>
+    <category lang="es">Cultural</category>
+  </programme>
+  <programme start="20160117230000 -0600" stop="20160118000000 -0600" channel="Bandamax">
+    <title lang="es">A dormir con...</title>
+    <sub-title lang="es">Juan Gabriel</sub-title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160118000000 -0600" stop="20160118003000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160118003000 -0600" stop="20160118010000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160118010000 -0600" stop="20160118013000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160118013000 -0600" stop="20160118020000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160118020000 -0600" stop="20160118023000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160118023000 -0600" stop="20160118030000 -0600" channel="Bandamax">
+    <title lang="es">Éxitos bandamax</title>
+    <category lang="es">Musicales</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160118030000 -0600" stop="20160118033000 -0600" channel="Bandamax">
+    <title lang="es">Éxitos bandamax</title>
+    <category lang="es">Musicales</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160118033000 -0600" stop="20160118040000 -0600" channel="Bandamax">
+    <title lang="es">Éxitos bandamax</title>
+    <category lang="es">Musicales</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160118040000 -0600" stop="20160118043000 -0600" channel="Bandamax">
+    <title lang="es">Éxitos bandamax</title>
+    <category lang="es">Musicales</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160118043000 -0600" stop="20160118050000 -0600" channel="Bandamax">
+    <title lang="es">Éxitos bandamax</title>
+    <category lang="es">Musicales</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160118050000 -0600" stop="20160118053000 -0600" channel="Bandamax">
+    <title lang="es">Éxitos bandamax</title>
+    <category lang="es">Musicales</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160118053000 -0600" stop="20160118060000 -0600" channel="Bandamax">
+    <title lang="es">Éxitos bandamax</title>
+    <category lang="es">Musicales</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160118060000 -0600" stop="20160118063000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160118063000 -0600" stop="20160118080000 -0600" channel="Bandamax">
+    <title lang="es">Buenos días Bandamax</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20160118080000 -0600" stop="20160118083000 -0600" channel="Bandamax">
+    <title lang="es">Las mas soñadas</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160118083000 -0600" stop="20160118090000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160118090000 -0600" stop="20160118093000 -0600" channel="Bandamax">
+    <title lang="es">Ponte de buenas con...</title>
+    <sub-title lang="es">Diego Herrera</sub-title>
+    <credits>
+      <actor>Alicia Villarreal</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160118093000 -0600" stop="20160118100000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160118100000 -0600" stop="20160118103000 -0600" channel="Bandamax">
+    <title lang="es">Un solo artista</title>
+    <credits>
+      <actor>Vanessa Arias</actor>
+    </credits>
+    <category lang="es">Musicales</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160118103000 -0600" stop="20160118110000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160118110000 -0600" stop="20160118113000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160118113000 -0600" stop="20160118120000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160118120000 -0600" stop="20160118123000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160118123000 -0600" stop="20160118130000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160118130000 -0600" stop="20160118133000 -0600" channel="Bandamax">
+    <title lang="es">Las románticas de Bandamax</title>
+    <desc lang="es">Franja musical donde podrás ver las canciones romanticonas del mundo en Español(n)</desc>
+    <category lang="es">Musicales</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160118133000 -0600" stop="20160118140000 -0600" channel="Bandamax">
+    <title lang="es">Las mas soñadas</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160118140000 -0600" stop="20160118150000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160118150000 -0600" stop="20160118160000 -0600" channel="Bandamax">
+    <title lang="es">Comiendo con...</title>
+    <sub-title lang="es">Banda pequeños musical</sub-title>
+    <credits>
+      <actor>Alejandro Fernández</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Turismo</category>
+  </programme>
+  <programme start="20160118160000 -0600" stop="20160118163000 -0600" channel="Bandamax">
+    <title lang="es">Kiubo Kien Anda Ay</title>
+    <desc lang="es">Gabriel García conduce este programa diseñado para que el público vote por su video favorito a través de mensajes SMS. Además, Gabriel recibirá las llamadas del público televidente, siempre con su trato ameno y afectuoso(n)</desc>
+    <credits>
+      <actor>Toño Aldeco</actor>
+      <actor>Gabriel García</actor>
+    </credits>
+    <category lang="es">Musicales</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160118163000 -0600" stop="20160118170000 -0600" channel="Bandamax">
+    <title lang="es">Vámonos recio</title>
+    <desc lang="es">Se presentan todas las noticias que se dan en el mundo grupero. Es el programa donde los grupos nos traen sus videos para estrenarlos en el canal, la información siempre es fresca y actual, hay diversión porque Belinda es una joven que con mucha dinámica y buen humor entrevista a sus invitados para esperar lo inesperado con las respuestas y reacciones de los grupos y solistas que son invitados(n)</desc>
+    <credits>
+      <actor>Belinda Urias</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160118170000 -0600" stop="20160118173000 -0600" channel="Bandamax">
+    <title lang="es">Al compás de tus latidos</title>
+    <desc lang="es">"Al Compás de tus Latidos" es un programa que busca, mediante llamadas en vivo, dar consejos a la audiencia, sobre amor, desamor, ligue, truene y todo aquello referente al corazón. Todo esto bajo la conducción de Jocelyn Juncal(n)</desc>
+    <credits>
+      <actor>Joselyn Juncal</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160118173000 -0600" stop="20160118180000 -0600" channel="Bandamax">
+    <title lang="es">Un solo artista</title>
+    <credits>
+      <actor>Vanessa Arias</actor>
+    </credits>
+    <category lang="es">Musicales</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160118180000 -0600" stop="20160118183000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160118183000 -0600" stop="20160118190000 -0600" channel="Bandamax">
+    <title lang="es">Pídesela a Sergio</title>
+    <desc lang="es">Espacio donde se transmiten los videos que el público solicita a través de las llamadas telefónicas y redes sociales, pero no sólo eso, pues Sergio te hablará del amor, la amistad o situaciones de la vida cotidiana a través del tema de la semana. Además, Sergio realiza una trivia sobre los videos de las bandas, conductores del canal y temas del género grupero y el ganador se llevará un regalo(n)</desc>
+    <credits>
+      <actor>Sergio Machado</actor>
+    </credits>
+    <category lang="es">Musicales</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160118190000 -0600" stop="20160118193000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160118193000 -0600" stop="20160118200000 -0600" channel="Bandamax">
+    <title lang="es">Las mas soñadas</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160118200000 -0600" stop="20160118210000 -0600" channel="Bandamax">
+    <title lang="es">Naucalpan Son Machin</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160118210000 -0600" stop="20160118220000 -0600" channel="Bandamax">
+    <title lang="es">Pa' la banda - Night Show</title>
+    <sub-title lang="es">Los Hermanos Vega Jr</sub-title>
+    <desc lang="es">Pa` la banda - Night Show nos permite disfrutar de una velada muy entretenida. Cada programa tendrá un contenido de entrevistas, música en vivo y sorpresas para cada invitado especial(n)</desc>
+    <credits>
+      <actor>Cynthia Urias</actor>
+    </credits>
+    <category lang="es">Musicales</category>
+    <category lang="es">Entrevista</category>
+  </programme>
+  <programme start="20160118220000 -0600" stop="20160118223000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160118223000 -0600" stop="20160118230000 -0600" channel="Bandamax">
+    <title lang="es">Videos</title>
+    <desc lang="es">Los mejores videos musicales(n)</desc>
+    <category lang="es">Variedades</category>
   </programme>
 </tv>
