@@ -37,6 +37,7 @@
   </channel>
   <channel id="AyM Sports">
     <display-name lang="es">AyM Sports</display-name>
+    <icon src="http://x.cdn.entutele.com/media/channels/big/aym-sports.gif" />
     <url>http://www.entutele.com</url>
   </channel>
   <channel id="Az Mix">
@@ -13597,5 +13598,1006 @@
     </credits>
     <category lang="es">Series</category>
     <category lang="es">Policial</category>
+  </programme>
+  <programme start="20160111030000 -0600" stop="20160111040000 -0600" channel="AyM Sports">
+    <title lang="es">Armonia deportiva</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160111040000 -0600" stop="20160111050000 -0600" channel="AyM Sports">
+    <title lang="es">Body Gym</title>
+    <category lang="es">Deportes</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20160111050000 -0600" stop="20160111060000 -0600" channel="AyM Sports">
+    <title lang="es">Armonia deportiva</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160111060000 -0600" stop="20160111063000 -0600" channel="AyM Sports">
+    <title lang="es">Global Fitness</title>
+    <category lang="es">Deportes</category>
+    <category lang="es">Gimnasia</category>
+  </programme>
+  <programme start="20160111063000 -0600" stop="20160111070000 -0600" channel="AyM Sports">
+    <title lang="es">Hot Fitness</title>
+    <desc lang="es">Promueve y difunde lo más candente del deporte, de una forma intensa, atrevida, versátil; mezclando sensualidad y disciplinas deportivas de manera dinámica, entretenida, mostrando diversos lugares (gimnasios, clubs deportivos, zonas eco turistas y lugares alternativos), y buscando informar y cuidar la salud física, mental y emocional(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160111070000 -0600" stop="20160111073000 -0600" channel="AyM Sports">
+    <title lang="es">Aym Fitness</title>
+    <category lang="es">Deportes</category>
+    <category lang="es">Atletismo</category>
+  </programme>
+  <programme start="20160111073000 -0600" stop="20160111093000 -0600" channel="AyM Sports">
+    <title lang="es">LNBP</title>
+    <sub-title lang="es">Abejas vs. Halcones Rojos</sub-title>
+    <desc lang="es">Es la liga de baloncesto más importante de México, que está conformada por 16 equipos y tiene una duración de cuatro meses, comenzando en agosto y finalizando en noviembre. A mitad de temporada se disputa el Juego de Estrellas de la Liga Nacional de Baloncesto Profesional, en donde se enfrentan los mejores jugadores Nacionales contra los Extranjeros(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Basquet</category>
+  </programme>
+  <programme start="20160111093000 -0600" stop="20160111100000 -0600" channel="AyM Sports">
+    <title lang="es">Red bull</title>
+    <desc lang="es">Es un compilado de especiales realizados y producidos por Redbul, entre los que encontraremos bikers bailando flamenco, break dancers downhill en la ciudad, etc(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160111100000 -0600" stop="20160111110000 -0600" channel="AyM Sports">
+    <title lang="es">Diez por avanzar</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160111110000 -0600" stop="20160111110000 -0600" channel="AyM Sports">
+    <title lang="es">Liga de nuevos talentos</title>
+    <sub-title lang="es">Tapachula vs. correcaminos</sub-title>
+    <desc lang="es">La Liga de Nuevos Talentos es el torneo de cuarto nivel en la Liga Mexicana de Fútbol. El equipo que resulte campeón en la final de ascenso, accede a la Liga Premier de Ascenso, mientras que el equipo que se encuentre en mejor posición en la tabla general al final de la temporada completa, juega un partido de promoción con el penúltimo de la tabla general de la Liga Premier(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20160111110000 -0600" stop="20160111130000 -0600" channel="AyM Sports">
+    <title lang="es">Liga de nuevos talentos</title>
+    <sub-title lang="es">Tapachula vs. correcaminos</sub-title>
+    <desc lang="es">La Liga de Nuevos Talentos es el torneo de cuarto nivel en la Liga Mexicana de Fútbol. El equipo que resulte campeón en la final de ascenso, accede a la Liga Premier de Ascenso, mientras que el equipo que se encuentre en mejor posición en la tabla general al final de la temporada completa, juega un partido de promoción con el penúltimo de la tabla general de la Liga Premier(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20160111130000 -0600" stop="20160111140000 -0600" channel="AyM Sports">
+    <title lang="es">Fútbol sin censura</title>
+    <desc lang="es">Programa de análisis futbolístico donde se busca hacer al nombre(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20160111140000 -0600" stop="20160111150000 -0600" channel="AyM Sports">
+    <title lang="es">Divinas de la lucha</title>
+    <desc lang="es">Cinco mujeres divertidas exponiendo a los luchadores a vivir aventuras ajenas al Ring de pelea. Te divertirás viviendo junto a tus héroes de las luchas, peripecias en las que nunca los hubieras imaginado(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160111150000 -0600" stop="20160111160000 -0600" channel="AyM Sports">
+    <title lang="es">Bla Bla Bla Deportivo</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20160111160000 -0600" stop="20160111170000 -0600" channel="AyM Sports">
+    <title lang="es">Puerta grande</title>
+    <desc lang="es">Aprecie de cerca el deporte arte de los Toros con los excelentes comentarios y entrevistas de nuestros expertos. Un seguimiento de la actividad taurina en México, reseñas, carteles y resultados de corridas en los más distinguidos cosos nacionales, charlas y anécdotas con reconocidos matadores de ayer y de hoy que hacen de Por la Puerta Grande un programa que merece orejas y rabo(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160111170000 -0600" stop="20160111180000 -0600" channel="AyM Sports">
+    <title lang="es">Ultra mx</title>
+    <desc lang="es">No somos un simple programa de Tv que cubre eventos, somos un estilo de vida. Nos gustan los deportes de acción y cubrimos eventos de Surf, Wakeboard, skate, exe y cuatrimotos entre otros. Somos el único programa en la televisión mexicana que lo hace(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">D.Extremos</category>
+  </programme>
+  <programme start="20160111180000 -0600" stop="20160111190000 -0600" channel="AyM Sports">
+    <title lang="es">Alta velocidad</title>
+    <desc lang="es">Programa dedicado a la actividad del deporte motor en México. Entrevistas con los mejores exponentes del automovilismo nacional, cartelera, reseñas y acceso a patrocinadores especializados, además de la veraz y oportuna información sobre el acontecer automovilístico en México y el mundo(n)</desc>
+    <credits>
+      <actor>Rodolfo Sánchez Noya</actor>
+    </credits>
+    <category lang="es">Deportes</category>
+    <category lang="es">Automovilismo</category>
+  </programme>
+  <programme start="20160111190000 -0600" stop="20160111210000 -0600" channel="AyM Sports">
+    <title lang="es">Lucha libre - Zona 21 la nueva generación</title>
+    <desc lang="es">Funciones de lucha libre donde se congregan la juventud y la experiencia, todo en un solo lugar, la Arena Naucalpan, donde sin importar la empresa que se represente los gladiadores se juegan el prestigio entrando en el ring y demostrando en cada episodio, de qué están hechos(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Lucha</category>
+  </programme>
+  <programme start="20160111210000 -0600" stop="20160111220000 -0600" channel="AyM Sports">
+    <title lang="es">Fútbol sin censura</title>
+    <desc lang="es">Programa de análisis futbolístico donde se busca hacer al nombre(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20160111220000 -0600" stop="20160111223000 -0600" channel="AyM Sports">
+    <title lang="es">Resumen Toros</title>
+    <category lang="es">Deportes</category>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160111223000 -0600" stop="20160112003000 -0600" channel="AyM Sports">
+    <title lang="es">Liga de nuevos talentos</title>
+    <sub-title lang="es">R. Zamora vs. Correcaminos</sub-title>
+    <desc lang="es">La Liga de Nuevos Talentos es el torneo de cuarto nivel en la Liga Mexicana de Fútbol. El equipo que resulte campeón en la final de ascenso, accede a la Liga Premier de Ascenso, mientras que el equipo que se encuentre en mejor posición en la tabla general al final de la temporada completa, juega un partido de promoción con el penúltimo de la tabla general de la Liga Premier(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20160112003000 -0600" stop="20160112013000 -0600" channel="AyM Sports">
+    <title lang="es">Diez por avanzar</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160112013000 -0600" stop="20160112030000 -0600" channel="AyM Sports">
+    <title lang="es">Xtreme Combat</title>
+    <desc lang="es">Prepárate para disfrutar de los explosivos combates de Xtreme Kombat, llenos de adrenalina, con los luchadores más rudos y con las tomas más espectaculares de la lucha(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160112030000 -0600" stop="20160112040000 -0600" channel="AyM Sports">
+    <title lang="es">Armonia deportiva</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160112040000 -0600" stop="20160112050000 -0600" channel="AyM Sports">
+    <title lang="es">Body Gym</title>
+    <category lang="es">Deportes</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20160112050000 -0600" stop="20160112060000 -0600" channel="AyM Sports">
+    <title lang="es">Armonia deportiva</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160112060000 -0600" stop="20160112063000 -0600" channel="AyM Sports">
+    <title lang="es">Global Fitness</title>
+    <category lang="es">Deportes</category>
+    <category lang="es">Gimnasia</category>
+  </programme>
+  <programme start="20160112063000 -0600" stop="20160112070000 -0600" channel="AyM Sports">
+    <title lang="es">Hot Fitness</title>
+    <desc lang="es">Promueve y difunde lo más candente del deporte, de una forma intensa, atrevida, versátil; mezclando sensualidad y disciplinas deportivas de manera dinámica, entretenida, mostrando diversos lugares (gimnasios, clubs deportivos, zonas eco turistas y lugares alternativos), y buscando informar y cuidar la salud física, mental y emocional(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160112070000 -0600" stop="20160112073000 -0600" channel="AyM Sports">
+    <title lang="es">Aym Fitness</title>
+    <category lang="es">Deportes</category>
+    <category lang="es">Atletismo</category>
+  </programme>
+  <programme start="20160112073000 -0600" stop="20160112093000 -0600" channel="AyM Sports">
+    <title lang="es">LNBP</title>
+    <sub-title lang="es">Soles vs. Jefes</sub-title>
+    <desc lang="es">Es la liga de baloncesto más importante de México, que está conformada por 16 equipos y tiene una duración de cuatro meses, comenzando en agosto y finalizando en noviembre. A mitad de temporada se disputa el Juego de Estrellas de la Liga Nacional de Baloncesto Profesional, en donde se enfrentan los mejores jugadores Nacionales contra los Extranjeros(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Basquet</category>
+  </programme>
+  <programme start="20160112093000 -0600" stop="20160112100000 -0600" channel="AyM Sports">
+    <title lang="es">Resumen Toros</title>
+    <category lang="es">Deportes</category>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160112100000 -0600" stop="20160112110000 -0600" channel="AyM Sports">
+    <title lang="es">Ultra mx</title>
+    <desc lang="es">No somos un simple programa de Tv que cubre eventos, somos un estilo de vida. Nos gustan los deportes de acción y cubrimos eventos de Surf, Wakeboard, skate, exe y cuatrimotos entre otros. Somos el único programa en la televisión mexicana que lo hace(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">D.Extremos</category>
+  </programme>
+  <programme start="20160112110000 -0600" stop="20160112110000 -0600" channel="AyM Sports">
+    <title lang="es">Soccer Sub 20</title>
+    <sub-title lang="es">Queretaro vs. Santos</sub-title>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20160112110000 -0600" stop="20160112130000 -0600" channel="AyM Sports">
+    <title lang="es">Soccer Sub 20</title>
+    <sub-title lang="es">Queretaro vs. Santos</sub-title>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20160112130000 -0600" stop="20160112140000 -0600" channel="AyM Sports">
+    <title lang="es">Fútbol sin censura</title>
+    <desc lang="es">Programa de análisis futbolístico donde se busca hacer al nombre(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20160112140000 -0600" stop="20160112150000 -0600" channel="AyM Sports">
+    <title lang="es">Alta velocidad</title>
+    <desc lang="es">Programa dedicado a la actividad del deporte motor en México. Entrevistas con los mejores exponentes del automovilismo nacional, cartelera, reseñas y acceso a patrocinadores especializados, además de la veraz y oportuna información sobre el acontecer automovilístico en México y el mundo(n)</desc>
+    <credits>
+      <actor>Rodolfo Sánchez Noya</actor>
+    </credits>
+    <category lang="es">Deportes</category>
+    <category lang="es">Automovilismo</category>
+  </programme>
+  <programme start="20160112150000 -0600" stop="20160112160000 -0600" channel="AyM Sports">
+    <title lang="es">Bla Bla Bla Deportivo</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20160112160000 -0600" stop="20160112163000 -0600" channel="AyM Sports">
+    <title lang="es">Red bull</title>
+    <desc lang="es">Es un compilado de especiales realizados y producidos por Redbul, entre los que encontraremos bikers bailando flamenco, break dancers downhill en la ciudad, etc(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160112163000 -0600" stop="20160112170000 -0600" channel="AyM Sports">
+    <title lang="es">Pesca en directo</title>
+    <desc lang="es">Rafael Malpica nos presenta Pesca en Directo, periodismo de pesca por tv, no te lo pierdas cada semana(n)</desc>
+    <credits>
+      <actor>Rafael Malpica</actor>
+    </credits>
+    <category lang="es">Deportes</category>
+    <category lang="es">Caza y Pesca</category>
+  </programme>
+  <programme start="20160112170000 -0600" stop="20160112180000 -0600" channel="AyM Sports">
+    <title lang="es">Chicas del calendario</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20160112180000 -0600" stop="20160112183000 -0600" channel="AyM Sports">
+    <title lang="es">Regatas</title>
+    <category lang="es">Deportes</category>
+    <category lang="es">Acuáticos</category>
+  </programme>
+  <programme start="20160112183000 -0600" stop="20160112203000 -0600" channel="AyM Sports">
+    <title lang="es">LNBP</title>
+    <sub-title lang="es">Santos vs. Indios</sub-title>
+    <desc lang="es">Es la liga de baloncesto más importante de México, que está conformada por 16 equipos y tiene una duración de cuatro meses, comenzando en agosto y finalizando en noviembre. A mitad de temporada se disputa el Juego de Estrellas de la Liga Nacional de Baloncesto Profesional, en donde se enfrentan los mejores jugadores Nacionales contra los Extranjeros(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Basquet</category>
+  </programme>
+  <programme start="20160112203000 -0600" stop="20160112210000 -0600" channel="AyM Sports">
+    <title lang="es">Resumen Toros</title>
+    <category lang="es">Deportes</category>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160112210000 -0600" stop="20160112220000 -0600" channel="AyM Sports">
+    <title lang="es">Fútbol sin censura</title>
+    <desc lang="es">Programa de análisis futbolístico donde se busca hacer al nombre(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20160112220000 -0600" stop="20160112230000 -0600" channel="AyM Sports">
+    <title lang="es">Chicas del calendario</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20160112230000 -0600" stop="20160113010000 -0600" channel="AyM Sports">
+    <title lang="es">Liga de nuevos talentos</title>
+    <sub-title lang="es">Tapachula vs. correcaminos</sub-title>
+    <desc lang="es">La Liga de Nuevos Talentos es el torneo de cuarto nivel en la Liga Mexicana de Fútbol. El equipo que resulte campeón en la final de ascenso, accede a la Liga Premier de Ascenso, mientras que el equipo que se encuentre en mejor posición en la tabla general al final de la temporada completa, juega un partido de promoción con el penúltimo de la tabla general de la Liga Premier(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20160113010000 -0600" stop="20160113030000 -0600" channel="AyM Sports">
+    <title lang="es">Box</title>
+    <desc lang="es">Si tu pasión es el boxeo, lo podrás disfrutar en este programa que te ofrecerá los mejores análisis técnicos, las mejores peleas y mucho más(n)</desc>
+    <credits>
+      <actor>Juan José Guerra</actor>
+      <actor>Roberto Sosa</actor>
+    </credits>
+    <category lang="es">Deportes</category>
+    <category lang="es">Boxeo</category>
+  </programme>
+  <programme start="20160113030000 -0600" stop="20160113040000 -0600" channel="AyM Sports">
+    <title lang="es">Armonia deportiva</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160113040000 -0600" stop="20160113050000 -0600" channel="AyM Sports">
+    <title lang="es">Body Gym</title>
+    <category lang="es">Deportes</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20160113050000 -0600" stop="20160113060000 -0600" channel="AyM Sports">
+    <title lang="es">Armonia deportiva</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160113060000 -0600" stop="20160113063000 -0600" channel="AyM Sports">
+    <title lang="es">Global Fitness</title>
+    <category lang="es">Deportes</category>
+    <category lang="es">Gimnasia</category>
+  </programme>
+  <programme start="20160113063000 -0600" stop="20160113070000 -0600" channel="AyM Sports">
+    <title lang="es">Hot Fitness</title>
+    <desc lang="es">Promueve y difunde lo más candente del deporte, de una forma intensa, atrevida, versátil; mezclando sensualidad y disciplinas deportivas de manera dinámica, entretenida, mostrando diversos lugares (gimnasios, clubs deportivos, zonas eco turistas y lugares alternativos), y buscando informar y cuidar la salud física, mental y emocional(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160113070000 -0600" stop="20160113073000 -0600" channel="AyM Sports">
+    <title lang="es">Aym Fitness</title>
+    <category lang="es">Deportes</category>
+    <category lang="es">Atletismo</category>
+  </programme>
+  <programme start="20160113073000 -0600" stop="20160113093000 -0600" channel="AyM Sports">
+    <title lang="es">LNBP</title>
+    <sub-title lang="es">Santos vs. Panteras</sub-title>
+    <desc lang="es">Es la liga de baloncesto más importante de México, que está conformada por 16 equipos y tiene una duración de cuatro meses, comenzando en agosto y finalizando en noviembre. A mitad de temporada se disputa el Juego de Estrellas de la Liga Nacional de Baloncesto Profesional, en donde se enfrentan los mejores jugadores Nacionales contra los Extranjeros(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Basquet</category>
+  </programme>
+  <programme start="20160113093000 -0600" stop="20160113100000 -0600" channel="AyM Sports">
+    <title lang="es">Horses club</title>
+    <desc lang="es">Expone al público en general, de una forma clara y sencilla al orbe ecuestre. El estilo que mantiene Horses Club crea un foro informativo que induce a la reflexión por medio de historias que serán narradas por sus propios protagonistas, las cuales nos llevarán a un mundo fascinante y lleno de aventuras en cada uno de sus programas(n)</desc>
+    <category lang="es">Noticias</category>
+    <category lang="es">Periodístico</category>
+  </programme>
+  <programme start="20160113100000 -0600" stop="20160113110000 -0600" channel="AyM Sports">
+    <title lang="es">Puerta grande</title>
+    <desc lang="es">Aprecie de cerca el deporte arte de los Toros con los excelentes comentarios y entrevistas de nuestros expertos. Un seguimiento de la actividad taurina en México, reseñas, carteles y resultados de corridas en los más distinguidos cosos nacionales, charlas y anécdotas con reconocidos matadores de ayer y de hoy que hacen de Por la Puerta Grande un programa que merece orejas y rabo(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160113110000 -0600" stop="20160113110000 -0600" channel="AyM Sports">
+    <title lang="es">Fútbol Soccer Sub 17</title>
+    <sub-title lang="es">Pachuca vs. Atlas</sub-title>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20160113110000 -0600" stop="20160113130000 -0600" channel="AyM Sports">
+    <title lang="es">Fútbol Soccer Sub 17</title>
+    <sub-title lang="es">Pachuca vs. Atlas</sub-title>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20160113130000 -0600" stop="20160113140000 -0600" channel="AyM Sports">
+    <title lang="es">Fútbol sin censura</title>
+    <desc lang="es">Programa de análisis futbolístico donde se busca hacer al nombre(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20160113140000 -0600" stop="20160113150000 -0600" channel="AyM Sports">
+    <title lang="es">Sobre el ring</title>
+    <category lang="es">Deportes</category>
+    <category lang="es">Boxeo</category>
+  </programme>
+  <programme start="20160113150000 -0600" stop="20160113160000 -0600" channel="AyM Sports">
+    <title lang="es">Bla Bla Bla Deportivo</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20160113160000 -0600" stop="20160113180000 -0600" channel="AyM Sports">
+    <title lang="es">Lucha libre</title>
+    <desc lang="es">La World Wrestling Organization presenta a lo mejor de la lucha libre Mexicana. Disfruta de los mejores carteles con los luchadores mas reconocidos dentro de este deporte, tales como Rey Misterio, el Hijo del Santo, Blue Demon, Dr. Wagner, Latin Lover, Súper Muñeco y Canek entre otros(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Lucha</category>
+  </programme>
+  <programme start="20160113180000 -0600" stop="20160113190000 -0600" channel="AyM Sports">
+    <title lang="es">Divinas de la lucha</title>
+    <desc lang="es">Cinco mujeres divertidas exponiendo a los luchadores a vivir aventuras ajenas al Ring de pelea. Te divertirás viviendo junto a tus héroes de las luchas, peripecias en las que nunca los hubieras imaginado(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160113190000 -0600" stop="20160113210000 -0600" channel="AyM Sports">
+    <title lang="es">Max Fights</title>
+    <desc lang="es">Peleas no aptas para cardíacos, donde cada competidor deja todo por consagrarse en la noche(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Lucha</category>
+  </programme>
+  <programme start="20160113210000 -0600" stop="20160113220000 -0600" channel="AyM Sports">
+    <title lang="es">Fútbol sin censura</title>
+    <desc lang="es">Programa de análisis futbolístico donde se busca hacer al nombre(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20160113220000 -0600" stop="20160113230000 -0600" channel="AyM Sports">
+    <title lang="es">Max Fights</title>
+    <desc lang="es">Peleas no aptas para cardíacos, donde cada competidor deja todo por consagrarse en la noche(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Lucha</category>
+  </programme>
+  <programme start="20160113230000 -0600" stop="20160114010000 -0600" channel="AyM Sports">
+    <title lang="es">Liga de nuevos talentos</title>
+    <sub-title lang="es">R. Zamora vs. Correcaminos</sub-title>
+    <desc lang="es">La Liga de Nuevos Talentos es el torneo de cuarto nivel en la Liga Mexicana de Fútbol. El equipo que resulte campeón en la final de ascenso, accede a la Liga Premier de Ascenso, mientras que el equipo que se encuentre en mejor posición en la tabla general al final de la temporada completa, juega un partido de promoción con el penúltimo de la tabla general de la Liga Premier(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20160114010000 -0600" stop="20160114030000 -0600" channel="AyM Sports">
+    <title lang="es">Xtreme Combat</title>
+    <desc lang="es">Prepárate para disfrutar de los explosivos combates de Xtreme Kombat, llenos de adrenalina, con los luchadores más rudos y con las tomas más espectaculares de la lucha(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160114030000 -0600" stop="20160114040000 -0600" channel="AyM Sports">
+    <title lang="es">Armonia deportiva</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160114040000 -0600" stop="20160114050000 -0600" channel="AyM Sports">
+    <title lang="es">Body Gym</title>
+    <category lang="es">Deportes</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20160114050000 -0600" stop="20160114060000 -0600" channel="AyM Sports">
+    <title lang="es">Armonia deportiva</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160114060000 -0600" stop="20160114063000 -0600" channel="AyM Sports">
+    <title lang="es">Global Fitness</title>
+    <category lang="es">Deportes</category>
+    <category lang="es">Gimnasia</category>
+  </programme>
+  <programme start="20160114063000 -0600" stop="20160114070000 -0600" channel="AyM Sports">
+    <title lang="es">Hot Fitness</title>
+    <desc lang="es">Promueve y difunde lo más candente del deporte, de una forma intensa, atrevida, versátil; mezclando sensualidad y disciplinas deportivas de manera dinámica, entretenida, mostrando diversos lugares (gimnasios, clubs deportivos, zonas eco turistas y lugares alternativos), y buscando informar y cuidar la salud física, mental y emocional(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160114070000 -0600" stop="20160114073000 -0600" channel="AyM Sports">
+    <title lang="es">Aym Fitness</title>
+    <category lang="es">Deportes</category>
+    <category lang="es">Atletismo</category>
+  </programme>
+  <programme start="20160114073000 -0600" stop="20160114093000 -0600" channel="AyM Sports">
+    <title lang="es">LNBP</title>
+    <sub-title lang="es">Soles vs. Jefes</sub-title>
+    <desc lang="es">Es la liga de baloncesto más importante de México, que está conformada por 16 equipos y tiene una duración de cuatro meses, comenzando en agosto y finalizando en noviembre. A mitad de temporada se disputa el Juego de Estrellas de la Liga Nacional de Baloncesto Profesional, en donde se enfrentan los mejores jugadores Nacionales contra los Extranjeros(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Basquet</category>
+  </programme>
+  <programme start="20160114093000 -0600" stop="20160114100000 -0600" channel="AyM Sports">
+    <title lang="es">Propulsion</title>
+    <desc lang="es">Pretende dar a conocer aspectos del transporte común, deportivo, comercial y universitario que normalmente pasan por alto al conocimiento de la audiencia; tales como: logística en la organización de carreras, procesos de manufactura, operación, pláticas y entrevistas con personal involucrado, explicación de funcionamiento, datos técnicos e interesantes de los vehículos-herramientas e ingenieros, y aspectos humanos de la industria. Esto mediante un lenguaje sencillo y coloquial haciendo uso también de analogías de temas destacados y apoyo gráfico con superposiciones y animaciones(n)</desc>
+    <category lang="es">Periodístico</category>
+  </programme>
+  <programme start="20160114100000 -0600" stop="20160114110000 -0600" channel="AyM Sports">
+    <title lang="es">Divinas de la lucha</title>
+    <desc lang="es">Cinco mujeres divertidas exponiendo a los luchadores a vivir aventuras ajenas al Ring de pelea. Te divertirás viviendo junto a tus héroes de las luchas, peripecias en las que nunca los hubieras imaginado(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160114110000 -0600" stop="20160114110000 -0600" channel="AyM Sports">
+    <title lang="es">Liga de nuevos talentos</title>
+    <sub-title lang="es">Cruz Azul vs. Loros</sub-title>
+    <desc lang="es">La Liga de Nuevos Talentos es el torneo de cuarto nivel en la Liga Mexicana de Fútbol. El equipo que resulte campeón en la final de ascenso, accede a la Liga Premier de Ascenso, mientras que el equipo que se encuentre en mejor posición en la tabla general al final de la temporada completa, juega un partido de promoción con el penúltimo de la tabla general de la Liga Premier(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20160114110000 -0600" stop="20160114130000 -0600" channel="AyM Sports">
+    <title lang="es">Liga de nuevos talentos</title>
+    <sub-title lang="es">Cruz Azul vs. Loros</sub-title>
+    <desc lang="es">La Liga de Nuevos Talentos es el torneo de cuarto nivel en la Liga Mexicana de Fútbol. El equipo que resulte campeón en la final de ascenso, accede a la Liga Premier de Ascenso, mientras que el equipo que se encuentre en mejor posición en la tabla general al final de la temporada completa, juega un partido de promoción con el penúltimo de la tabla general de la Liga Premier(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20160114130000 -0600" stop="20160114140000 -0600" channel="AyM Sports">
+    <title lang="es">Fútbol sin censura</title>
+    <desc lang="es">Programa de análisis futbolístico donde se busca hacer al nombre(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20160114140000 -0600" stop="20160114150000 -0600" channel="AyM Sports">
+    <title lang="es">Iconos</title>
+    <desc lang="es">Es un programa de información donde se documenta parte de la vida profesional y familiar de personalidades del deporte, mostrando así las adversidades y aventuras a lo largo de su carrera(n)</desc>
+    <category lang="es">Series</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160114150000 -0600" stop="20160114160000 -0600" channel="AyM Sports">
+    <title lang="es">Bla Bla Bla Deportivo</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20160114160000 -0600" stop="20160114163000 -0600" channel="AyM Sports">
+    <title lang="es">Todo vóleibol</title>
+    <category lang="es">Deportes</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20160114163000 -0600" stop="20160114170000 -0600" channel="AyM Sports">
+    <title lang="es">Red bull</title>
+    <desc lang="es">Es un compilado de especiales realizados y producidos por Redbul, entre los que encontraremos bikers bailando flamenco, break dancers downhill en la ciudad, etc(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160114170000 -0600" stop="20160114180000 -0600" channel="AyM Sports">
+    <title lang="es">Chicas del calendario</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20160114180000 -0600" stop="20160114190000 -0600" channel="AyM Sports">
+    <title lang="es">Alta velocidad</title>
+    <desc lang="es">Programa dedicado a la actividad del deporte motor en México. Entrevistas con los mejores exponentes del automovilismo nacional, cartelera, reseñas y acceso a patrocinadores especializados, además de la veraz y oportuna información sobre el acontecer automovilístico en México y el mundo(n)</desc>
+    <credits>
+      <actor>Rodolfo Sánchez Noya</actor>
+    </credits>
+    <category lang="es">Deportes</category>
+    <category lang="es">Automovilismo</category>
+  </programme>
+  <programme start="20160114190000 -0600" stop="20160114210000 -0600" channel="AyM Sports">
+    <title lang="es">Box</title>
+    <desc lang="es">Si tu pasión es el boxeo, lo podrás disfrutar en este programa que te ofrecerá los mejores análisis técnicos, las mejores peleas y mucho más(n)</desc>
+    <credits>
+      <actor>Juan José Guerra</actor>
+      <actor>Roberto Sosa</actor>
+    </credits>
+    <category lang="es">Deportes</category>
+    <category lang="es">Boxeo</category>
+  </programme>
+  <programme start="20160114210000 -0600" stop="20160114220000 -0600" channel="AyM Sports">
+    <title lang="es">Fútbol sin censura</title>
+    <desc lang="es">Programa de análisis futbolístico donde se busca hacer al nombre(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20160114220000 -0600" stop="20160114230000 -0600" channel="AyM Sports">
+    <title lang="es">Chicas del calendario</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20160114230000 -0600" stop="20160115010000 -0600" channel="AyM Sports">
+    <title lang="es">Fútbol Soccer Sub 17</title>
+    <sub-title lang="es">Pachuca vs. Atlas</sub-title>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20160115010000 -0600" stop="20160115030000 -0600" channel="AyM Sports">
+    <title lang="es">Lucha libre</title>
+    <desc lang="es">La World Wrestling Organization presenta a lo mejor de la lucha libre Mexicana. Disfruta de los mejores carteles con los luchadores mas reconocidos dentro de este deporte, tales como Rey Misterio, el Hijo del Santo, Blue Demon, Dr. Wagner, Latin Lover, Súper Muñeco y Canek entre otros(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Lucha</category>
+  </programme>
+  <programme start="20160115030000 -0600" stop="20160115040000 -0600" channel="AyM Sports">
+    <title lang="es">Armonia deportiva</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160115040000 -0600" stop="20160115050000 -0600" channel="AyM Sports">
+    <title lang="es">Body Gym</title>
+    <category lang="es">Deportes</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20160115050000 -0600" stop="20160115060000 -0600" channel="AyM Sports">
+    <title lang="es">Armonia deportiva</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160115060000 -0600" stop="20160115063000 -0600" channel="AyM Sports">
+    <title lang="es">Global Fitness</title>
+    <category lang="es">Deportes</category>
+    <category lang="es">Gimnasia</category>
+  </programme>
+  <programme start="20160115063000 -0600" stop="20160115070000 -0600" channel="AyM Sports">
+    <title lang="es">Hot Fitness</title>
+    <desc lang="es">Promueve y difunde lo más candente del deporte, de una forma intensa, atrevida, versátil; mezclando sensualidad y disciplinas deportivas de manera dinámica, entretenida, mostrando diversos lugares (gimnasios, clubs deportivos, zonas eco turistas y lugares alternativos), y buscando informar y cuidar la salud física, mental y emocional(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160115070000 -0600" stop="20160115073000 -0600" channel="AyM Sports">
+    <title lang="es">Aym Fitness</title>
+    <category lang="es">Deportes</category>
+    <category lang="es">Atletismo</category>
+  </programme>
+  <programme start="20160115073000 -0600" stop="20160115093000 -0600" channel="AyM Sports">
+    <title lang="es">LNBP</title>
+    <sub-title lang="es">Santos vs. Panteras</sub-title>
+    <desc lang="es">Es la liga de baloncesto más importante de México, que está conformada por 16 equipos y tiene una duración de cuatro meses, comenzando en agosto y finalizando en noviembre. A mitad de temporada se disputa el Juego de Estrellas de la Liga Nacional de Baloncesto Profesional, en donde se enfrentan los mejores jugadores Nacionales contra los Extranjeros(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Basquet</category>
+  </programme>
+  <programme start="20160115093000 -0600" stop="20160115100000 -0600" channel="AyM Sports">
+    <title lang="es">Pesca en directo</title>
+    <desc lang="es">Rafael Malpica nos presenta Pesca en Directo, periodismo de pesca por tv, no te lo pierdas cada semana(n)</desc>
+    <credits>
+      <actor>Rafael Malpica</actor>
+    </credits>
+    <category lang="es">Deportes</category>
+    <category lang="es">Caza y Pesca</category>
+  </programme>
+  <programme start="20160115100000 -0600" stop="20160115110000 -0600" channel="AyM Sports">
+    <title lang="es">Alta velocidad</title>
+    <desc lang="es">Programa dedicado a la actividad del deporte motor en México. Entrevistas con los mejores exponentes del automovilismo nacional, cartelera, reseñas y acceso a patrocinadores especializados, además de la veraz y oportuna información sobre el acontecer automovilístico en México y el mundo(n)</desc>
+    <credits>
+      <actor>Rodolfo Sánchez Noya</actor>
+    </credits>
+    <category lang="es">Deportes</category>
+    <category lang="es">Automovilismo</category>
+  </programme>
+  <programme start="20160115110000 -0600" stop="20160115110000 -0600" channel="AyM Sports">
+    <title lang="es">Liga de nuevos talentos</title>
+    <sub-title lang="es">Tapachula vs. correcaminos</sub-title>
+    <desc lang="es">La Liga de Nuevos Talentos es el torneo de cuarto nivel en la Liga Mexicana de Fútbol. El equipo que resulte campeón en la final de ascenso, accede a la Liga Premier de Ascenso, mientras que el equipo que se encuentre en mejor posición en la tabla general al final de la temporada completa, juega un partido de promoción con el penúltimo de la tabla general de la Liga Premier(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20160115110000 -0600" stop="20160115130000 -0600" channel="AyM Sports">
+    <title lang="es">Liga de nuevos talentos</title>
+    <sub-title lang="es">Tapachula vs. correcaminos</sub-title>
+    <desc lang="es">La Liga de Nuevos Talentos es el torneo de cuarto nivel en la Liga Mexicana de Fútbol. El equipo que resulte campeón en la final de ascenso, accede a la Liga Premier de Ascenso, mientras que el equipo que se encuentre en mejor posición en la tabla general al final de la temporada completa, juega un partido de promoción con el penúltimo de la tabla general de la Liga Premier(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20160115130000 -0600" stop="20160115140000 -0600" channel="AyM Sports">
+    <title lang="es">Fútbol sin censura</title>
+    <desc lang="es">Programa de análisis futbolístico donde se busca hacer al nombre(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20160115140000 -0600" stop="20160115150000 -0600" channel="AyM Sports">
+    <title lang="es">Ultra mx</title>
+    <desc lang="es">No somos un simple programa de Tv que cubre eventos, somos un estilo de vida. Nos gustan los deportes de acción y cubrimos eventos de Surf, Wakeboard, skate, exe y cuatrimotos entre otros. Somos el único programa en la televisión mexicana que lo hace(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">D.Extremos</category>
+  </programme>
+  <programme start="20160115150000 -0600" stop="20160115160000 -0600" channel="AyM Sports">
+    <title lang="es">Bla Bla Bla Deportivo</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20160115160000 -0600" stop="20160115163000 -0600" channel="AyM Sports">
+    <title lang="es">Regatas</title>
+    <category lang="es">Deportes</category>
+    <category lang="es">Acuáticos</category>
+  </programme>
+  <programme start="20160115163000 -0600" stop="20160115170000 -0600" channel="AyM Sports">
+    <title lang="es">Comercio deportivo</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20160115170000 -0600" stop="20160115173000 -0600" channel="AyM Sports">
+    <title lang="es">Horses club</title>
+    <desc lang="es">Expone al público en general, de una forma clara y sencilla al orbe ecuestre. El estilo que mantiene Horses Club crea un foro informativo que induce a la reflexión por medio de historias que serán narradas por sus propios protagonistas, las cuales nos llevarán a un mundo fascinante y lleno de aventuras en cada uno de sus programas(n)</desc>
+    <category lang="es">Noticias</category>
+    <category lang="es">Periodístico</category>
+  </programme>
+  <programme start="20160115173000 -0600" stop="20160115183000 -0600" channel="AyM Sports">
+    <title lang="es">Xtreme Combat</title>
+    <desc lang="es">Prepárate para disfrutar de los explosivos combates de Xtreme Kombat, llenos de adrenalina, con los luchadores más rudos y con las tomas más espectaculares de la lucha(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160115183000 -0600" stop="20160115210000 -0600" channel="AyM Sports">
+    <title lang="es">LNBP</title>
+    <sub-title lang="es">Panteras vs. Pioneros</sub-title>
+    <desc lang="es">Es la liga de baloncesto más importante de México, que está conformada por 16 equipos y tiene una duración de cuatro meses, comenzando en agosto y finalizando en noviembre. A mitad de temporada se disputa el Juego de Estrellas de la Liga Nacional de Baloncesto Profesional, en donde se enfrentan los mejores jugadores Nacionales contra los Extranjeros(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Basquet</category>
+  </programme>
+  <programme start="20160115210000 -0600" stop="20160115220000 -0600" channel="AyM Sports">
+    <title lang="es">Fútbol sin censura</title>
+    <desc lang="es">Programa de análisis futbolístico donde se busca hacer al nombre(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20160115220000 -0600" stop="20160115230000 -0600" channel="AyM Sports">
+    <title lang="es">Alta velocidad</title>
+    <desc lang="es">Programa dedicado a la actividad del deporte motor en México. Entrevistas con los mejores exponentes del automovilismo nacional, cartelera, reseñas y acceso a patrocinadores especializados, además de la veraz y oportuna información sobre el acontecer automovilístico en México y el mundo(n)</desc>
+    <credits>
+      <actor>Rodolfo Sánchez Noya</actor>
+    </credits>
+    <category lang="es">Deportes</category>
+    <category lang="es">Automovilismo</category>
+  </programme>
+  <programme start="20160115230000 -0600" stop="20160116010000 -0600" channel="AyM Sports">
+    <title lang="es">Liga de nuevos talentos</title>
+    <sub-title lang="es">Cruz Azul vs. Loros</sub-title>
+    <desc lang="es">La Liga de Nuevos Talentos es el torneo de cuarto nivel en la Liga Mexicana de Fútbol. El equipo que resulte campeón en la final de ascenso, accede a la Liga Premier de Ascenso, mientras que el equipo que se encuentre en mejor posición en la tabla general al final de la temporada completa, juega un partido de promoción con el penúltimo de la tabla general de la Liga Premier(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20160116010000 -0600" stop="20160116030000 -0600" channel="AyM Sports">
+    <title lang="es">Xtreme Combat</title>
+    <desc lang="es">Prepárate para disfrutar de los explosivos combates de Xtreme Kombat, llenos de adrenalina, con los luchadores más rudos y con las tomas más espectaculares de la lucha(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160116030000 -0600" stop="20160116050000 -0600" channel="AyM Sports">
+    <title lang="es">Max Fights</title>
+    <desc lang="es">Peleas no aptas para cardíacos, donde cada competidor deja todo por consagrarse en la noche(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Lucha</category>
+  </programme>
+  <programme start="20160116050000 -0600" stop="20160116060000 -0600" channel="AyM Sports">
+    <title lang="es">Divinas de la lucha</title>
+    <desc lang="es">Cinco mujeres divertidas exponiendo a los luchadores a vivir aventuras ajenas al Ring de pelea. Te divertirás viviendo junto a tus héroes de las luchas, peripecias en las que nunca los hubieras imaginado(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160116060000 -0600" stop="20160116063000 -0600" channel="AyM Sports">
+    <title lang="es">Horses club</title>
+    <desc lang="es">Expone al público en general, de una forma clara y sencilla al orbe ecuestre. El estilo que mantiene Horses Club crea un foro informativo que induce a la reflexión por medio de historias que serán narradas por sus propios protagonistas, las cuales nos llevarán a un mundo fascinante y lleno de aventuras en cada uno de sus programas(n)</desc>
+    <category lang="es">Noticias</category>
+    <category lang="es">Periodístico</category>
+  </programme>
+  <programme start="20160116063000 -0600" stop="20160116070000 -0600" channel="AyM Sports">
+    <title lang="es">Pesca en directo</title>
+    <desc lang="es">Rafael Malpica nos presenta Pesca en Directo, periodismo de pesca por tv, no te lo pierdas cada semana(n)</desc>
+    <credits>
+      <actor>Rafael Malpica</actor>
+    </credits>
+    <category lang="es">Deportes</category>
+    <category lang="es">Caza y Pesca</category>
+  </programme>
+  <programme start="20160116070000 -0600" stop="20160116073000 -0600" channel="AyM Sports">
+    <title lang="es">Propulsion</title>
+    <desc lang="es">Pretende dar a conocer aspectos del transporte común, deportivo, comercial y universitario que normalmente pasan por alto al conocimiento de la audiencia; tales como: logística en la organización de carreras, procesos de manufactura, operación, pláticas y entrevistas con personal involucrado, explicación de funcionamiento, datos técnicos e interesantes de los vehículos-herramientas e ingenieros, y aspectos humanos de la industria. Esto mediante un lenguaje sencillo y coloquial haciendo uso también de analogías de temas destacados y apoyo gráfico con superposiciones y animaciones(n)</desc>
+    <category lang="es">Periodístico</category>
+  </programme>
+  <programme start="20160116073000 -0600" stop="20160116080000 -0600" channel="AyM Sports">
+    <title lang="es">Basketball a fondo</title>
+    <desc lang="es">Programa dedicado a análisis puntual del deporte ráfaga nacional e internacional, con secciones de lo mejor de la semana, Movie Time, así como jugador y partido de la semana en cada una de las ligas, así mismo se da seguimiento a los mexicanos que participan en las ligas del extranjero(n)</desc>
+    <credits>
+      <actor>Mariana Cortes</actor>
+      <actor>Jorge Carreras</actor>
+    </credits>
+    <category lang="es">Deportes</category>
+    <category lang="es">Basquet</category>
+  </programme>
+  <programme start="20160116080000 -0600" stop="20160116090000 -0600" channel="AyM Sports">
+    <title lang="es">Sobre el ring</title>
+    <category lang="es">Deportes</category>
+    <category lang="es">Boxeo</category>
+  </programme>
+  <programme start="20160116090000 -0600" stop="20160116100000 -0600" channel="AyM Sports">
+    <title lang="es">Diez por avanzar</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160116100000 -0600" stop="20160116110000 -0600" channel="AyM Sports">
+    <title lang="es">Copa Mazatlan</title>
+    <sub-title lang="es">Episodio</sub-title>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20160116110000 -0600" stop="20160116110000 -0600" channel="AyM Sports">
+    <title lang="es">Lucha libre - Zona 21 la nueva generación</title>
+    <desc lang="es">Funciones de lucha libre donde se congregan la juventud y la experiencia, todo en un solo lugar, la Arena Naucalpan, donde sin importar la empresa que se represente los gladiadores se juegan el prestigio entrando en el ring y demostrando en cada episodio, de qué están hechos(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Lucha</category>
+  </programme>
+  <programme start="20160116110000 -0600" stop="20160116130000 -0600" channel="AyM Sports">
+    <title lang="es">Lucha libre - Zona 21 la nueva generación</title>
+    <desc lang="es">Funciones de lucha libre donde se congregan la juventud y la experiencia, todo en un solo lugar, la Arena Naucalpan, donde sin importar la empresa que se represente los gladiadores se juegan el prestigio entrando en el ring y demostrando en cada episodio, de qué están hechos(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Lucha</category>
+  </programme>
+  <programme start="20160116130000 -0600" stop="20160116150000 -0600" channel="AyM Sports">
+    <title lang="es">LNBP</title>
+    <sub-title lang="es">Panteras vs. Pioneros</sub-title>
+    <desc lang="es">Es la liga de baloncesto más importante de México, que está conformada por 16 equipos y tiene una duración de cuatro meses, comenzando en agosto y finalizando en noviembre. A mitad de temporada se disputa el Juego de Estrellas de la Liga Nacional de Baloncesto Profesional, en donde se enfrentan los mejores jugadores Nacionales contra los Extranjeros(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Basquet</category>
+  </programme>
+  <programme start="20160116150000 -0600" stop="20160116170000 -0600" channel="AyM Sports">
+    <title lang="es">Box</title>
+    <desc lang="es">Si tu pasión es el boxeo, lo podrás disfrutar en este programa que te ofrecerá los mejores análisis técnicos, las mejores peleas y mucho más(n)</desc>
+    <credits>
+      <actor>Juan José Guerra</actor>
+      <actor>Roberto Sosa</actor>
+    </credits>
+    <category lang="es">Deportes</category>
+    <category lang="es">Boxeo</category>
+  </programme>
+  <programme start="20160116170000 -0600" stop="20160116190000 -0600" channel="AyM Sports">
+    <title lang="es">Liga de nuevos talentos</title>
+    <sub-title lang="es">Tapachula vs. correcaminos</sub-title>
+    <desc lang="es">La Liga de Nuevos Talentos es el torneo de cuarto nivel en la Liga Mexicana de Fútbol. El equipo que resulte campeón en la final de ascenso, accede a la Liga Premier de Ascenso, mientras que el equipo que se encuentre en mejor posición en la tabla general al final de la temporada completa, juega un partido de promoción con el penúltimo de la tabla general de la Liga Premier(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20160116190000 -0600" stop="20160116210000 -0600" channel="AyM Sports">
+    <title lang="es">Xtreme Combat</title>
+    <desc lang="es">Prepárate para disfrutar de los explosivos combates de Xtreme Kombat, llenos de adrenalina, con los luchadores más rudos y con las tomas más espectaculares de la lucha(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160116210000 -0600" stop="20160116220000 -0600" channel="AyM Sports">
+    <title lang="es">Chicas del calendario</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20160116220000 -0600" stop="20160116230000 -0600" channel="AyM Sports">
+    <title lang="es">Chicas del calendario</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20160116230000 -0600" stop="20160117010000 -0600" channel="AyM Sports">
+    <title lang="es">Liga de nuevos talentos</title>
+    <sub-title lang="es">Tapachula vs. correcaminos</sub-title>
+    <desc lang="es">La Liga de Nuevos Talentos es el torneo de cuarto nivel en la Liga Mexicana de Fútbol. El equipo que resulte campeón en la final de ascenso, accede a la Liga Premier de Ascenso, mientras que el equipo que se encuentre en mejor posición en la tabla general al final de la temporada completa, juega un partido de promoción con el penúltimo de la tabla general de la Liga Premier(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20160117010000 -0600" stop="20160117030000 -0600" channel="AyM Sports">
+    <title lang="es">Box</title>
+    <desc lang="es">Si tu pasión es el boxeo, lo podrás disfrutar en este programa que te ofrecerá los mejores análisis técnicos, las mejores peleas y mucho más(n)</desc>
+    <credits>
+      <actor>Juan José Guerra</actor>
+      <actor>Roberto Sosa</actor>
+    </credits>
+    <category lang="es">Deportes</category>
+    <category lang="es">Boxeo</category>
+  </programme>
+  <programme start="20160117030000 -0600" stop="20160117050000 -0600" channel="AyM Sports">
+    <title lang="es">Lucha libre</title>
+    <desc lang="es">La World Wrestling Organization presenta a lo mejor de la lucha libre Mexicana. Disfruta de los mejores carteles con los luchadores mas reconocidos dentro de este deporte, tales como Rey Misterio, el Hijo del Santo, Blue Demon, Dr. Wagner, Latin Lover, Súper Muñeco y Canek entre otros(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Lucha</category>
+  </programme>
+  <programme start="20160117050000 -0600" stop="20160117060000 -0600" channel="AyM Sports">
+    <title lang="es">Sobre el ring</title>
+    <category lang="es">Deportes</category>
+    <category lang="es">Boxeo</category>
+  </programme>
+  <programme start="20160117060000 -0600" stop="20160117070000 -0600" channel="AyM Sports">
+    <title lang="es">Iconos</title>
+    <desc lang="es">Es un programa de información donde se documenta parte de la vida profesional y familiar de personalidades del deporte, mostrando así las adversidades y aventuras a lo largo de su carrera(n)</desc>
+    <category lang="es">Series</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160117070000 -0600" stop="20160117090000 -0600" channel="AyM Sports">
+    <title lang="es">LNBP</title>
+    <sub-title lang="es">Panteras vs. Pioneros</sub-title>
+    <desc lang="es">Es la liga de baloncesto más importante de México, que está conformada por 16 equipos y tiene una duración de cuatro meses, comenzando en agosto y finalizando en noviembre. A mitad de temporada se disputa el Juego de Estrellas de la Liga Nacional de Baloncesto Profesional, en donde se enfrentan los mejores jugadores Nacionales contra los Extranjeros(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Basquet</category>
+  </programme>
+  <programme start="20160117090000 -0600" stop="20160117100000 -0600" channel="AyM Sports">
+    <title lang="es">Alta velocidad</title>
+    <desc lang="es">Programa dedicado a la actividad del deporte motor en México. Entrevistas con los mejores exponentes del automovilismo nacional, cartelera, reseñas y acceso a patrocinadores especializados, además de la veraz y oportuna información sobre el acontecer automovilístico en México y el mundo(n)</desc>
+    <credits>
+      <actor>Rodolfo Sánchez Noya</actor>
+    </credits>
+    <category lang="es">Deportes</category>
+    <category lang="es">Automovilismo</category>
+  </programme>
+  <programme start="20160117100000 -0600" stop="20160117110000 -0600" channel="AyM Sports">
+    <title lang="es">Puerta grande</title>
+    <desc lang="es">Aprecie de cerca el deporte arte de los Toros con los excelentes comentarios y entrevistas de nuestros expertos. Un seguimiento de la actividad taurina en México, reseñas, carteles y resultados de corridas en los más distinguidos cosos nacionales, charlas y anécdotas con reconocidos matadores de ayer y de hoy que hacen de Por la Puerta Grande un programa que merece orejas y rabo(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160117110000 -0600" stop="20160117120000 -0600" channel="AyM Sports">
+    <title lang="es">Ultra mx</title>
+    <desc lang="es">No somos un simple programa de Tv que cubre eventos, somos un estilo de vida. Nos gustan los deportes de acción y cubrimos eventos de Surf, Wakeboard, skate, exe y cuatrimotos entre otros. Somos el único programa en la televisión mexicana que lo hace(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">D.Extremos</category>
+  </programme>
+  <programme start="20160117120000 -0600" stop="20160117140000 -0600" channel="AyM Sports">
+    <title lang="es">Liga de nuevos talentos</title>
+    <sub-title lang="es">Tapachula vs. correcaminos</sub-title>
+    <desc lang="es">La Liga de Nuevos Talentos es el torneo de cuarto nivel en la Liga Mexicana de Fútbol. El equipo que resulte campeón en la final de ascenso, accede a la Liga Premier de Ascenso, mientras que el equipo que se encuentre en mejor posición en la tabla general al final de la temporada completa, juega un partido de promoción con el penúltimo de la tabla general de la Liga Premier(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20160117140000 -0600" stop="20160117160000 -0600" channel="AyM Sports">
+    <title lang="es">Max Fights</title>
+    <desc lang="es">Peleas no aptas para cardíacos, donde cada competidor deja todo por consagrarse en la noche(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Lucha</category>
+  </programme>
+  <programme start="20160117160000 -0600" stop="20160117180000 -0600" channel="AyM Sports">
+    <title lang="es">LNBP</title>
+    <sub-title lang="es">Panteras vs. Pioneros</sub-title>
+    <desc lang="es">Es la liga de baloncesto más importante de México, que está conformada por 16 equipos y tiene una duración de cuatro meses, comenzando en agosto y finalizando en noviembre. A mitad de temporada se disputa el Juego de Estrellas de la Liga Nacional de Baloncesto Profesional, en donde se enfrentan los mejores jugadores Nacionales contra los Extranjeros(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Basquet</category>
+  </programme>
+  <programme start="20160117180000 -0600" stop="20160117190000 -0600" channel="AyM Sports">
+    <title lang="es">Xtreme Combat</title>
+    <desc lang="es">Prepárate para disfrutar de los explosivos combates de Xtreme Kombat, llenos de adrenalina, con los luchadores más rudos y con las tomas más espectaculares de la lucha(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160117190000 -0600" stop="20160117200000 -0600" channel="AyM Sports">
+    <title lang="es">Divinas de la lucha</title>
+    <desc lang="es">Cinco mujeres divertidas exponiendo a los luchadores a vivir aventuras ajenas al Ring de pelea. Te divertirás viviendo junto a tus héroes de las luchas, peripecias en las que nunca los hubieras imaginado(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160117200000 -0600" stop="20160117220000 -0600" channel="AyM Sports">
+    <title lang="es">Chicas del calendario</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20160117220000 -0600" stop="20160118000000 -0600" channel="AyM Sports">
+    <title lang="es">Fútbol mexicano - Segunda división</title>
+    <desc lang="es">Es el torneo de tercer nivel de fútbol profesional dentro del Sistema de ligas de fútbol en México. Los equipos se distribuyen en dos ligas: Liga Premier de Ascenso (LP) y Liga de Nuevos Talentos (LNT). La primera cuenta con 31 equipos divididos en dos grupos. El campeón del torneo Apertura de cada año jugará contra el campeón del respectivo torneo de Clausura, para así poder determinar quien ascenderá a la Liga de Ascenso. El campeón de la segunda, accede a la Liga Premier de Ascenso, mientras que el equipo que se encuentre en mejor posición en la tabla general al final de la temporada completa, juega un partido de promoción con el penúltimo de la tabla general de la Liga Premier(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20160118000000 -0600" stop="20160118010000 -0600" channel="AyM Sports">
+    <title lang="es">Iconos</title>
+    <desc lang="es">Es un programa de información donde se documenta parte de la vida profesional y familiar de personalidades del deporte, mostrando así las adversidades y aventuras a lo largo de su carrera(n)</desc>
+    <category lang="es">Series</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160118010000 -0600" stop="20160118030000 -0600" channel="AyM Sports">
+    <title lang="es">Max Fights</title>
+    <desc lang="es">Peleas no aptas para cardíacos, donde cada competidor deja todo por consagrarse en la noche(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Lucha</category>
+  </programme>
+  <programme start="20160118030000 -0600" stop="20160118040000 -0600" channel="AyM Sports">
+    <title lang="es">Armonia deportiva</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160118040000 -0600" stop="20160118050000 -0600" channel="AyM Sports">
+    <title lang="es">Body Gym</title>
+    <category lang="es">Deportes</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20160118050000 -0600" stop="20160118060000 -0600" channel="AyM Sports">
+    <title lang="es">Armonia deportiva</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160118060000 -0600" stop="20160118063000 -0600" channel="AyM Sports">
+    <title lang="es">Global Fitness</title>
+    <category lang="es">Deportes</category>
+    <category lang="es">Gimnasia</category>
+  </programme>
+  <programme start="20160118063000 -0600" stop="20160118070000 -0600" channel="AyM Sports">
+    <title lang="es">Hot Fitness</title>
+    <desc lang="es">Promueve y difunde lo más candente del deporte, de una forma intensa, atrevida, versátil; mezclando sensualidad y disciplinas deportivas de manera dinámica, entretenida, mostrando diversos lugares (gimnasios, clubs deportivos, zonas eco turistas y lugares alternativos), y buscando informar y cuidar la salud física, mental y emocional(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160118070000 -0600" stop="20160118073000 -0600" channel="AyM Sports">
+    <title lang="es">Aym Fitness</title>
+    <category lang="es">Deportes</category>
+    <category lang="es">Atletismo</category>
+  </programme>
+  <programme start="20160118073000 -0600" stop="20160118093000 -0600" channel="AyM Sports">
+    <title lang="es">Boxeo profesional</title>
+    <desc lang="es">Fox Sports presenta en exclusivo desde la cuna de grandes boxeadores de la talla de Sugar Ray Leonard, Marvin Hagler y tantos otros, peleas a 12 rounds entre los mejores boxeadores de la actualidad(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Boxeo</category>
+  </programme>
+  <programme start="20160118093000 -0600" stop="20160118100000 -0600" channel="AyM Sports">
+    <title lang="es">Red bull</title>
+    <desc lang="es">Es un compilado de especiales realizados y producidos por Redbul, entre los que encontraremos bikers bailando flamenco, break dancers downhill en la ciudad, etc(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160118100000 -0600" stop="20160118110000 -0600" channel="AyM Sports">
+    <title lang="es">Diez por avanzar</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160118110000 -0600" stop="20160118110000 -0600" channel="AyM Sports">
+    <title lang="es">Fútbol mexicano - Segunda división</title>
+    <desc lang="es">Es el torneo de tercer nivel de fútbol profesional dentro del Sistema de ligas de fútbol en México. Los equipos se distribuyen en dos ligas: Liga Premier de Ascenso (LP) y Liga de Nuevos Talentos (LNT). La primera cuenta con 31 equipos divididos en dos grupos. El campeón del torneo Apertura de cada año jugará contra el campeón del respectivo torneo de Clausura, para así poder determinar quien ascenderá a la Liga de Ascenso. El campeón de la segunda, accede a la Liga Premier de Ascenso, mientras que el equipo que se encuentre en mejor posición en la tabla general al final de la temporada completa, juega un partido de promoción con el penúltimo de la tabla general de la Liga Premier(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20160118110000 -0600" stop="20160118130000 -0600" channel="AyM Sports">
+    <title lang="es">Fútbol mexicano - Segunda división</title>
+    <desc lang="es">Es el torneo de tercer nivel de fútbol profesional dentro del Sistema de ligas de fútbol en México. Los equipos se distribuyen en dos ligas: Liga Premier de Ascenso (LP) y Liga de Nuevos Talentos (LNT). La primera cuenta con 31 equipos divididos en dos grupos. El campeón del torneo Apertura de cada año jugará contra el campeón del respectivo torneo de Clausura, para así poder determinar quien ascenderá a la Liga de Ascenso. El campeón de la segunda, accede a la Liga Premier de Ascenso, mientras que el equipo que se encuentre en mejor posición en la tabla general al final de la temporada completa, juega un partido de promoción con el penúltimo de la tabla general de la Liga Premier(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20160118130000 -0600" stop="20160118140000 -0600" channel="AyM Sports">
+    <title lang="es">Fútbol sin censura</title>
+    <desc lang="es">Programa de análisis futbolístico donde se busca hacer al nombre(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20160118140000 -0600" stop="20160118150000 -0600" channel="AyM Sports">
+    <title lang="es">Divinas de la lucha</title>
+    <desc lang="es">Cinco mujeres divertidas exponiendo a los luchadores a vivir aventuras ajenas al Ring de pelea. Te divertirás viviendo junto a tus héroes de las luchas, peripecias en las que nunca los hubieras imaginado(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160118150000 -0600" stop="20160118160000 -0600" channel="AyM Sports">
+    <title lang="es">Bla Bla Bla Deportivo</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20160118160000 -0600" stop="20160118170000 -0600" channel="AyM Sports">
+    <title lang="es">Puerta grande</title>
+    <desc lang="es">Aprecie de cerca el deporte arte de los Toros con los excelentes comentarios y entrevistas de nuestros expertos. Un seguimiento de la actividad taurina en México, reseñas, carteles y resultados de corridas en los más distinguidos cosos nacionales, charlas y anécdotas con reconocidos matadores de ayer y de hoy que hacen de Por la Puerta Grande un programa que merece orejas y rabo(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160118170000 -0600" stop="20160118180000 -0600" channel="AyM Sports">
+    <title lang="es">Ultra mx</title>
+    <desc lang="es">No somos un simple programa de Tv que cubre eventos, somos un estilo de vida. Nos gustan los deportes de acción y cubrimos eventos de Surf, Wakeboard, skate, exe y cuatrimotos entre otros. Somos el único programa en la televisión mexicana que lo hace(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">D.Extremos</category>
+  </programme>
+  <programme start="20160118180000 -0600" stop="20160118190000 -0600" channel="AyM Sports">
+    <title lang="es">Alta velocidad</title>
+    <desc lang="es">Programa dedicado a la actividad del deporte motor en México. Entrevistas con los mejores exponentes del automovilismo nacional, cartelera, reseñas y acceso a patrocinadores especializados, además de la veraz y oportuna información sobre el acontecer automovilístico en México y el mundo(n)</desc>
+    <credits>
+      <actor>Rodolfo Sánchez Noya</actor>
+    </credits>
+    <category lang="es">Deportes</category>
+    <category lang="es">Automovilismo</category>
+  </programme>
+  <programme start="20160118190000 -0600" stop="20160118210000 -0600" channel="AyM Sports">
+    <title lang="es">Lucha libre - Zona 21 la nueva generación</title>
+    <desc lang="es">Funciones de lucha libre donde se congregan la juventud y la experiencia, todo en un solo lugar, la Arena Naucalpan, donde sin importar la empresa que se represente los gladiadores se juegan el prestigio entrando en el ring y demostrando en cada episodio, de qué están hechos(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Lucha</category>
+  </programme>
+  <programme start="20160118210000 -0600" stop="20160118213000 -0600" channel="AyM Sports">
+    <title lang="es">Motor Cuatro</title>
+    <category lang="es">Deportes</category>
+    <category lang="es">Automovilismo</category>
+  </programme>
+  <programme start="20160118213000 -0600" stop="20160118220000 -0600" channel="AyM Sports">
+    <title lang="es">Regatas</title>
+    <category lang="es">Deportes</category>
+    <category lang="es">Acuáticos</category>
+  </programme>
+  <programme start="20160118220000 -0600" stop="20160118223000 -0600" channel="AyM Sports">
+    <title lang="es">Resumen Toros</title>
+    <category lang="es">Deportes</category>
+    <category lang="es">Variedades</category>
   </programme>
 </tv>
