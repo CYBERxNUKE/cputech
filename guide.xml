@@ -88,6 +88,7 @@
   </channel>
   <channel id="Canal 2 HD">
     <display-name lang="es">Canal 2 HD</display-name>
+    <icon src="http://y.cdn.entutele.com/media/channels/big/canal-2-hd.gif" />
     <url>http://www.entutele.com</url>
   </channel>
   <channel id="Canal 22">
@@ -27304,6 +27305,1236 @@
     <category lang="es">Noticiero</category>
   </programme>
   <programme start="20160118231500 -0600" stop="20160118234500 -0600" channel="Canal 2">
+    <title lang="es">Noticiero td</title>
+    <desc lang="es">El Noticiero Televisa Deportes ofrece una dinámica única en la televisión mexicana para el público que gusta y quiere estar enterado momento a momento del deporte(n)</desc>
+    <credits>
+      <actor>Javier Alarcón</actor>
+      <actor>Gerardo Liceága</actor>
+      <actor>Deborah Reissenweber</actor>
+    </credits>
+    <category lang="es">Deportes</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160111010000 -0600" stop="20160111043000 -0600" channel="Canal 2 HD">
+    <title lang="es">Cuide su salud</title>
+    <desc lang="es">La doctora Diane Pérez te ofrecerá sencillos y valiosos consejos para mantenerte sano, con un buen estado físico y mental, además de ofrecerte una nueva forma de viajar por el mundo de la salud(n)</desc>
+    <credits>
+      <actor>Diane Pérez</actor>
+    </credits>
+    <category lang="es">Cocina, hogar y salud</category>
+    <category lang="es">Salud</category>
+  </programme>
+  <programme start="20160111043000 -0600" stop="20160111050000 -0600" channel="Canal 2 HD">
+    <title lang="es">Especial de R.T.C.</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Especial</category>
+  </programme>
+  <programme start="20160111050000 -0600" stop="20160111053000 -0600" channel="Canal 2 HD">
+    <title lang="es">Inova</title>
+    <desc lang="es">Promoción y venta de productos por televisión(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160111053000 -0600" stop="20160111060000 -0600" channel="Canal 2 HD">
+    <title lang="es">Farmacias de similares</title>
+    <desc lang="es">Venta y publicidad de Farmacias Similares(n)</desc>
+    <category lang="es">Venta y Publicidad</category>
+    <category lang="es">Publicidad</category>
+  </programme>
+  <programme start="20160111060000 -0600" stop="20160111090000 -0600" channel="Canal 2 HD">
+    <title lang="es">Primero noticias</title>
+    <desc lang="es">Recibe las noticias con una mirada crítica, ágil y oportuna con Carlos Loret de Mola, su equipo se encargará de presentar reportajes exclusivos, entrevistas y mucho más(n)</desc>
+    <credits>
+      <actor>Carlos Loret De Mola</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160111090000 -0600" stop="20160111120000 -0600" channel="Canal 2 HD">
+    <title lang="es">Hoy</title>
+    <desc lang="es">El programa de revista para las amas de casa que cuenta con secciones de cocina, salud, belleza, sexo, yoga, horóscopos e información del mundo del espectáculo(n)</desc>
+    <credits>
+      <actor>Raúl Araiza Herrera</actor>
+      <actor>Galilea Montijo</actor>
+      <actor>Andrea Legarreta</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20160111120000 -0600" stop="20160111140000 -0600" channel="Canal 2 HD">
+    <title lang="es">Hasta que el dinero nos separe</title>
+    <desc lang="es">Rafael conocerá a Ana por circunstancias de la vida, esto cambiará sus vidas por completo, pues deberán decidir entre el amor y el dinero(n)</desc>
+    <credits>
+      <actor>Pedro Fernandez</actor>
+      <actor>Itatí Cantoral</actor>
+      <actor>Luz Elena González</actor>
+      <actor>Víctor Manuel Fouillioux</actor>
+    </credits>
+    <category lang="es">Telenovela</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160111140000 -0600" stop="20160111150000 -0600" channel="Canal 2 HD">
+    <title lang="es">12 Corazones</title>
+    <desc lang="es">La conductora se encargará todos los días de procurar que de los 12 chicos y chicas, al menos 2 de ellos se vayan con la ilusión del enamoramiento, que se gusten y que vuelvan a creer en el amor(n)</desc>
+    <credits>
+      <actor>Penélope Menchaca</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Talk Show</category>
+  </programme>
+  <programme start="20160111150000 -0600" stop="20160111153000 -0600" channel="Canal 2 HD">
+    <title lang="es">Noticiero con: Lolita Ayala</title>
+    <desc lang="es">Lolita Ayala llevará hasta tu pantalla las noticias más importantes en México, pero su labor también abarcara un servicio social al colaborar de manera altruista con instituciones de la sociedad civil(n)</desc>
+    <credits>
+      <actor>Lolita Ayala</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160111153000 -0600" stop="20160111163000 -0600" channel="Canal 2 HD">
+    <title lang="es">Como dice el dicho</title>
+    <desc lang="es">Los dichos populares son una manera de resumir los aprendizajes y lecciones de la vida que vivirán Isabel, su abuelo y Poncho, día con día, además de los clientes de su cafetería(n)</desc>
+    <credits>
+      <actor>Wendy Gonzalez</actor>
+      <actor>Michael Ronda</actor>
+      <actor>Sergio Corona</actor>
+      <actor>Emmanuel Duprez</actor>
+      <actor>Genoveva Martínez</actor>
+    </credits>
+    <category lang="es">Telenovela</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160111163000 -0600" stop="20160111173000 -0600" channel="Canal 2 HD">
+    <title lang="es">Simplemente María</title>
+    <desc lang="es">“Simplemente María” cuenta la historia de una joven mujer pobre que deja su hogar para ir a una gran ciudad en busca de su sueño de convertirse en una diseñadora de modas(n)</desc>
+    <category lang="es">Telenovela</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160111173000 -0600" stop="20160111183000 -0600" channel="Canal 2 HD">
+    <title lang="es">La rosa de Guadalupe</title>
+    <desc lang="es">Historias de la vida real sobre violencia intrafamiliar, drogadicción, entre otros, se ven mitigadas por los milagros que concede la Virgen de Guadalupe. Basta con aparecer una rosa blanca, para comprender que han sido escuchadas las peticiones de los creyentes(n)</desc>
+    <credits>
+      <actor>José Ángel García</actor>
+      <actor>Marta Luna</actor>
+      <actor>Lorena Maza</actor>
+    </credits>
+    <category lang="es">Telenovela</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160111183000 -0600" stop="20160111193000 -0600" channel="Canal 2 HD">
+    <title lang="es">La vecina</title>
+    <desc lang="es">Sara termina un largo noviazgo con Cheo y es despedida del hotel en el que trabajaba. Ante tal situación, decide irse unos días a San Gaspar con su tío Simón, ingeniero en aeronáutica, dedicado a la agricultura; y con Bruno quien se enamora de Laura, la esposa de Pedro, el líder local de los saqueadores de gasolina(n)</desc>
+    <category lang="es">Telenovela</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160111193000 -0600" stop="20160111203000 -0600" channel="Canal 2 HD">
+    <title lang="es">A que no me dejas</title>
+    <desc lang="es">Una historia de amor a través de las generaciones. Natalia y Rodrigo: contra todo pronóstico y obstáculos de la familia, se las arreglan para tener su amor hasta la eternidad y dárselo a su hija Ximena, quien quedó huérfana a una temprana edad. Ximena se convierte en una mujer hermosa, inteligente y estudiosa que se parece a su madre. Con el tiempo se enamora de Gabriel, a quien por un momento ella consideraba un hermano(n)</desc>
+    <category lang="es">Telenovela</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160111203000 -0600" stop="20160111213000 -0600" channel="Canal 2 HD">
+    <title lang="es">Antes muerta que Lichita</title>
+    <desc lang="es">Lichita ha estado trabajando en Iconika Agencia de publicidad desde hace 8 años, pero se siente infravalorada e invisible. Ella decide hacer un cambio y se transforma a sí misma en la oficina de "chica azotes" en el Alicia poder. Sin embargo, ninguna subida a la cima es siempre fácil, y, a lo largo del camino, ella se enfrenta a situaciones que ponen a prueba su carácter y valores(n)</desc>
+    <category lang="es">Telenovela</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160111213000 -0600" stop="20160111223000 -0600" channel="Canal 2 HD">
+    <title lang="es">Pasión y poder</title>
+    <desc lang="es">Gira en torno a los dramas familiares y poderes empresariales de dos familias rivales. Aquella rivalidad que por años ha perdurado tiene su origen hace muchos años, cuando Arturo Montenegro y Eladio Gómez Luna se disputaban el amor de la bella Ana Laura. Al final Eladio fue quien se casó con ella. Muchos años después Ana Laura es una mujer muy infeliz pues soporta los abusos y la maldad de su marido, teniendo como único consuelo el amor de su hijo Federico, una total antítesis de su padre(n)</desc>
+    <category lang="es">Telenovela</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160111223000 -0600" stop="20160111231500 -0600" channel="Canal 2 HD">
+    <title lang="es">Noticiero con: Joaquín López Doriga</title>
+    <desc lang="es">La trayectoria de Joaquín López Dóriga aderezada con su particular estilo informativo, así como la cobertura amplia y objetivas del acontecer mundial, hacen de este espacio, la mejor manera de terminar el día(n)</desc>
+    <credits>
+      <actor>Joaquin López Dóriga</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160111231500 -0600" stop="20160111234500 -0600" channel="Canal 2 HD">
+    <title lang="es">Noticiero td</title>
+    <desc lang="es">El Noticiero Televisa Deportes ofrece una dinámica única en la televisión mexicana para el público que gusta y quiere estar enterado momento a momento del deporte(n)</desc>
+    <credits>
+      <actor>Javier Alarcón</actor>
+      <actor>Gerardo Liceága</actor>
+      <actor>Deborah Reissenweber</actor>
+    </credits>
+    <category lang="es">Deportes</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160111234500 -0600" stop="20160112003000 -0600" channel="Canal 2 HD">
+    <title lang="es">Alebrijes águila o sol</title>
+    <desc lang="es">En este espacio de opinión y análisis se da a conocer la situación económica de México, desde un punto de vista crítico y sencillo(n)</desc>
+    <credits>
+      <actor>José Yuste</actor>
+      <actor>Marco Antonio Mares</actor>
+      <actor>Carmen Cortés</actor>
+    </credits>
+    <category lang="es">Internacionales</category>
+    <category lang="es">Economía</category>
+  </programme>
+  <programme start="20160112003000 -0600" stop="20160112010000 -0600" channel="Canal 2 HD">
+    <title lang="es">Pare de Sufrir</title>
+    <desc lang="es">Segmento conducido por pastores brasileños y argentinos que muestran testimonios de los adherentes a la Iglesia Universal del Reino de Dios(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Religioso</category>
+  </programme>
+  <programme start="20160112010000 -0600" stop="20160112043000 -0600" channel="Canal 2 HD">
+    <title lang="es">Veredicto final</title>
+    <desc lang="es">Un programa de entretenimiento que buscará soluciones a problemas reales que plantearán los mismos protagonistas de cada caso en el escenario(n)</desc>
+    <credits>
+      <actor>Cristina Pereyra</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Interés General</category>
+  </programme>
+  <programme start="20160112043000 -0600" stop="20160112050000 -0600" channel="Canal 2 HD">
+    <title lang="es">Especial de R.T.C.</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Especial</category>
+  </programme>
+  <programme start="20160112050000 -0600" stop="20160112053000 -0600" channel="Canal 2 HD">
+    <title lang="es">Veredicto final</title>
+    <desc lang="es">Un programa de entretenimiento que buscará soluciones a problemas reales que plantearán los mismos protagonistas de cada caso en el escenario(n)</desc>
+    <credits>
+      <actor>Cristina Pereyra</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Interés General</category>
+  </programme>
+  <programme start="20160112053000 -0600" stop="20160112060000 -0600" channel="Canal 2 HD">
+    <title lang="es">Farmacias de similares</title>
+    <desc lang="es">Venta y publicidad de Farmacias Similares(n)</desc>
+    <category lang="es">Venta y Publicidad</category>
+    <category lang="es">Publicidad</category>
+  </programme>
+  <programme start="20160112060000 -0600" stop="20160112090000 -0600" channel="Canal 2 HD">
+    <title lang="es">Primero noticias</title>
+    <desc lang="es">Recibe las noticias con una mirada crítica, ágil y oportuna con Carlos Loret de Mola, su equipo se encargará de presentar reportajes exclusivos, entrevistas y mucho más(n)</desc>
+    <credits>
+      <actor>Carlos Loret De Mola</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160112090000 -0600" stop="20160112120000 -0600" channel="Canal 2 HD">
+    <title lang="es">Hoy</title>
+    <desc lang="es">El programa de revista para las amas de casa que cuenta con secciones de cocina, salud, belleza, sexo, yoga, horóscopos e información del mundo del espectáculo(n)</desc>
+    <credits>
+      <actor>Raúl Araiza Herrera</actor>
+      <actor>Galilea Montijo</actor>
+      <actor>Andrea Legarreta</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20160112120000 -0600" stop="20160112140000 -0600" channel="Canal 2 HD">
+    <title lang="es">Hasta que el dinero nos separe</title>
+    <desc lang="es">Rafael conocerá a Ana por circunstancias de la vida, esto cambiará sus vidas por completo, pues deberán decidir entre el amor y el dinero(n)</desc>
+    <credits>
+      <actor>Pedro Fernandez</actor>
+      <actor>Itatí Cantoral</actor>
+      <actor>Luz Elena González</actor>
+      <actor>Víctor Manuel Fouillioux</actor>
+    </credits>
+    <category lang="es">Telenovela</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160112140000 -0600" stop="20160112150000 -0600" channel="Canal 2 HD">
+    <title lang="es">12 Corazones</title>
+    <desc lang="es">La conductora se encargará todos los días de procurar que de los 12 chicos y chicas, al menos 2 de ellos se vayan con la ilusión del enamoramiento, que se gusten y que vuelvan a creer en el amor(n)</desc>
+    <credits>
+      <actor>Penélope Menchaca</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Talk Show</category>
+  </programme>
+  <programme start="20160112150000 -0600" stop="20160112153000 -0600" channel="Canal 2 HD">
+    <title lang="es">Noticiero con: Lolita Ayala</title>
+    <desc lang="es">Lolita Ayala llevará hasta tu pantalla las noticias más importantes en México, pero su labor también abarcara un servicio social al colaborar de manera altruista con instituciones de la sociedad civil(n)</desc>
+    <credits>
+      <actor>Lolita Ayala</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160112153000 -0600" stop="20160112163000 -0600" channel="Canal 2 HD">
+    <title lang="es">Como dice el dicho</title>
+    <desc lang="es">Los dichos populares son una manera de resumir los aprendizajes y lecciones de la vida que vivirán Isabel, su abuelo y Poncho, día con día, además de los clientes de su cafetería(n)</desc>
+    <credits>
+      <actor>Wendy Gonzalez</actor>
+      <actor>Michael Ronda</actor>
+      <actor>Sergio Corona</actor>
+      <actor>Emmanuel Duprez</actor>
+      <actor>Genoveva Martínez</actor>
+    </credits>
+    <category lang="es">Telenovela</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160112163000 -0600" stop="20160112173000 -0600" channel="Canal 2 HD">
+    <title lang="es">Simplemente María</title>
+    <desc lang="es">“Simplemente María” cuenta la historia de una joven mujer pobre que deja su hogar para ir a una gran ciudad en busca de su sueño de convertirse en una diseñadora de modas(n)</desc>
+    <category lang="es">Telenovela</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160112173000 -0600" stop="20160112183000 -0600" channel="Canal 2 HD">
+    <title lang="es">La rosa de Guadalupe</title>
+    <desc lang="es">Historias de la vida real sobre violencia intrafamiliar, drogadicción, entre otros, se ven mitigadas por los milagros que concede la Virgen de Guadalupe. Basta con aparecer una rosa blanca, para comprender que han sido escuchadas las peticiones de los creyentes(n)</desc>
+    <credits>
+      <actor>José Ángel García</actor>
+      <actor>Marta Luna</actor>
+      <actor>Lorena Maza</actor>
+    </credits>
+    <category lang="es">Telenovela</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160112183000 -0600" stop="20160112193000 -0600" channel="Canal 2 HD">
+    <title lang="es">La vecina</title>
+    <desc lang="es">Sara termina un largo noviazgo con Cheo y es despedida del hotel en el que trabajaba. Ante tal situación, decide irse unos días a San Gaspar con su tío Simón, ingeniero en aeronáutica, dedicado a la agricultura; y con Bruno quien se enamora de Laura, la esposa de Pedro, el líder local de los saqueadores de gasolina(n)</desc>
+    <category lang="es">Telenovela</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160112193000 -0600" stop="20160112203000 -0600" channel="Canal 2 HD">
+    <title lang="es">A que no me dejas</title>
+    <desc lang="es">Una historia de amor a través de las generaciones. Natalia y Rodrigo: contra todo pronóstico y obstáculos de la familia, se las arreglan para tener su amor hasta la eternidad y dárselo a su hija Ximena, quien quedó huérfana a una temprana edad. Ximena se convierte en una mujer hermosa, inteligente y estudiosa que se parece a su madre. Con el tiempo se enamora de Gabriel, a quien por un momento ella consideraba un hermano(n)</desc>
+    <category lang="es">Telenovela</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160112203000 -0600" stop="20160112213000 -0600" channel="Canal 2 HD">
+    <title lang="es">Antes muerta que Lichita</title>
+    <desc lang="es">Lichita ha estado trabajando en Iconika Agencia de publicidad desde hace 8 años, pero se siente infravalorada e invisible. Ella decide hacer un cambio y se transforma a sí misma en la oficina de "chica azotes" en el Alicia poder. Sin embargo, ninguna subida a la cima es siempre fácil, y, a lo largo del camino, ella se enfrenta a situaciones que ponen a prueba su carácter y valores(n)</desc>
+    <category lang="es">Telenovela</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160112213000 -0600" stop="20160112223000 -0600" channel="Canal 2 HD">
+    <title lang="es">Pasión y poder</title>
+    <desc lang="es">Gira en torno a los dramas familiares y poderes empresariales de dos familias rivales. Aquella rivalidad que por años ha perdurado tiene su origen hace muchos años, cuando Arturo Montenegro y Eladio Gómez Luna se disputaban el amor de la bella Ana Laura. Al final Eladio fue quien se casó con ella. Muchos años después Ana Laura es una mujer muy infeliz pues soporta los abusos y la maldad de su marido, teniendo como único consuelo el amor de su hijo Federico, una total antítesis de su padre(n)</desc>
+    <category lang="es">Telenovela</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160112223000 -0600" stop="20160112231500 -0600" channel="Canal 2 HD">
+    <title lang="es">Noticiero con: Joaquín López Doriga</title>
+    <desc lang="es">La trayectoria de Joaquín López Dóriga aderezada con su particular estilo informativo, así como la cobertura amplia y objetivas del acontecer mundial, hacen de este espacio, la mejor manera de terminar el día(n)</desc>
+    <credits>
+      <actor>Joaquin López Dóriga</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160112231500 -0600" stop="20160112233000 -0600" channel="Canal 2 HD">
+    <title lang="es">Punto de partida</title>
+    <desc lang="es">Programa de opinión y análisis político conducido por Denise Maerker. Presenta entrevistas, reportajes y crónicas que pretenden anticipar los asuntos públicos que formarán parte de la agenda política de la semana(n)</desc>
+    <credits>
+      <actor>Denise Maerker</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160112233000 -0600" stop="20160113003000 -0600" channel="Canal 2 HD">
+    <title lang="es">Noticiero td</title>
+    <desc lang="es">El Noticiero Televisa Deportes ofrece una dinámica única en la televisión mexicana para el público que gusta y quiere estar enterado momento a momento del deporte(n)</desc>
+    <credits>
+      <actor>Javier Alarcón</actor>
+      <actor>Gerardo Liceága</actor>
+      <actor>Deborah Reissenweber</actor>
+    </credits>
+    <category lang="es">Deportes</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160113003000 -0600" stop="20160113010000 -0600" channel="Canal 2 HD">
+    <title lang="es">Pare de Sufrir</title>
+    <desc lang="es">Segmento conducido por pastores brasileños y argentinos que muestran testimonios de los adherentes a la Iglesia Universal del Reino de Dios(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Religioso</category>
+  </programme>
+  <programme start="20160113010000 -0600" stop="20160113043000 -0600" channel="Canal 2 HD">
+    <title lang="es">Veredicto final</title>
+    <desc lang="es">Un programa de entretenimiento que buscará soluciones a problemas reales que plantearán los mismos protagonistas de cada caso en el escenario(n)</desc>
+    <credits>
+      <actor>Cristina Pereyra</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Interés General</category>
+  </programme>
+  <programme start="20160113043000 -0600" stop="20160113050000 -0600" channel="Canal 2 HD">
+    <title lang="es">Especial de R.T.C.</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Especial</category>
+  </programme>
+  <programme start="20160113050000 -0600" stop="20160113053000 -0600" channel="Canal 2 HD">
+    <title lang="es">Inova</title>
+    <desc lang="es">Promoción y venta de productos por televisión(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160113053000 -0600" stop="20160113060000 -0600" channel="Canal 2 HD">
+    <title lang="es">Farmacias de similares</title>
+    <desc lang="es">Venta y publicidad de Farmacias Similares(n)</desc>
+    <category lang="es">Venta y Publicidad</category>
+    <category lang="es">Publicidad</category>
+  </programme>
+  <programme start="20160113060000 -0600" stop="20160113090000 -0600" channel="Canal 2 HD">
+    <title lang="es">Primero noticias</title>
+    <desc lang="es">Recibe las noticias con una mirada crítica, ágil y oportuna con Carlos Loret de Mola, su equipo se encargará de presentar reportajes exclusivos, entrevistas y mucho más(n)</desc>
+    <credits>
+      <actor>Carlos Loret De Mola</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160113090000 -0600" stop="20160113120000 -0600" channel="Canal 2 HD">
+    <title lang="es">Hoy</title>
+    <desc lang="es">El programa de revista para las amas de casa que cuenta con secciones de cocina, salud, belleza, sexo, yoga, horóscopos e información del mundo del espectáculo(n)</desc>
+    <credits>
+      <actor>Raúl Araiza Herrera</actor>
+      <actor>Galilea Montijo</actor>
+      <actor>Andrea Legarreta</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20160113120000 -0600" stop="20160113140000 -0600" channel="Canal 2 HD">
+    <title lang="es">Hasta que el dinero nos separe</title>
+    <desc lang="es">Rafael conocerá a Ana por circunstancias de la vida, esto cambiará sus vidas por completo, pues deberán decidir entre el amor y el dinero(n)</desc>
+    <credits>
+      <actor>Pedro Fernandez</actor>
+      <actor>Itatí Cantoral</actor>
+      <actor>Luz Elena González</actor>
+      <actor>Víctor Manuel Fouillioux</actor>
+    </credits>
+    <category lang="es">Telenovela</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160113140000 -0600" stop="20160113150000 -0600" channel="Canal 2 HD">
+    <title lang="es">12 Corazones</title>
+    <desc lang="es">La conductora se encargará todos los días de procurar que de los 12 chicos y chicas, al menos 2 de ellos se vayan con la ilusión del enamoramiento, que se gusten y que vuelvan a creer en el amor(n)</desc>
+    <credits>
+      <actor>Penélope Menchaca</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Talk Show</category>
+  </programme>
+  <programme start="20160113150000 -0600" stop="20160113153000 -0600" channel="Canal 2 HD">
+    <title lang="es">Noticiero con: Lolita Ayala</title>
+    <desc lang="es">Lolita Ayala llevará hasta tu pantalla las noticias más importantes en México, pero su labor también abarcara un servicio social al colaborar de manera altruista con instituciones de la sociedad civil(n)</desc>
+    <credits>
+      <actor>Lolita Ayala</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160113153000 -0600" stop="20160113163000 -0600" channel="Canal 2 HD">
+    <title lang="es">Como dice el dicho</title>
+    <desc lang="es">Los dichos populares son una manera de resumir los aprendizajes y lecciones de la vida que vivirán Isabel, su abuelo y Poncho, día con día, además de los clientes de su cafetería(n)</desc>
+    <credits>
+      <actor>Wendy Gonzalez</actor>
+      <actor>Michael Ronda</actor>
+      <actor>Sergio Corona</actor>
+      <actor>Emmanuel Duprez</actor>
+      <actor>Genoveva Martínez</actor>
+    </credits>
+    <category lang="es">Telenovela</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160113163000 -0600" stop="20160113173000 -0600" channel="Canal 2 HD">
+    <title lang="es">Simplemente María</title>
+    <desc lang="es">“Simplemente María” cuenta la historia de una joven mujer pobre que deja su hogar para ir a una gran ciudad en busca de su sueño de convertirse en una diseñadora de modas(n)</desc>
+    <category lang="es">Telenovela</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160113173000 -0600" stop="20160113183000 -0600" channel="Canal 2 HD">
+    <title lang="es">La rosa de Guadalupe</title>
+    <desc lang="es">Historias de la vida real sobre violencia intrafamiliar, drogadicción, entre otros, se ven mitigadas por los milagros que concede la Virgen de Guadalupe. Basta con aparecer una rosa blanca, para comprender que han sido escuchadas las peticiones de los creyentes(n)</desc>
+    <credits>
+      <actor>José Ángel García</actor>
+      <actor>Marta Luna</actor>
+      <actor>Lorena Maza</actor>
+    </credits>
+    <category lang="es">Telenovela</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160113183000 -0600" stop="20160113193000 -0600" channel="Canal 2 HD">
+    <title lang="es">La vecina</title>
+    <desc lang="es">Sara termina un largo noviazgo con Cheo y es despedida del hotel en el que trabajaba. Ante tal situación, decide irse unos días a San Gaspar con su tío Simón, ingeniero en aeronáutica, dedicado a la agricultura; y con Bruno quien se enamora de Laura, la esposa de Pedro, el líder local de los saqueadores de gasolina(n)</desc>
+    <category lang="es">Telenovela</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160113193000 -0600" stop="20160113203000 -0600" channel="Canal 2 HD">
+    <title lang="es">A que no me dejas</title>
+    <desc lang="es">Una historia de amor a través de las generaciones. Natalia y Rodrigo: contra todo pronóstico y obstáculos de la familia, se las arreglan para tener su amor hasta la eternidad y dárselo a su hija Ximena, quien quedó huérfana a una temprana edad. Ximena se convierte en una mujer hermosa, inteligente y estudiosa que se parece a su madre. Con el tiempo se enamora de Gabriel, a quien por un momento ella consideraba un hermano(n)</desc>
+    <category lang="es">Telenovela</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160113203000 -0600" stop="20160113213000 -0600" channel="Canal 2 HD">
+    <title lang="es">Antes muerta que Lichita</title>
+    <desc lang="es">Lichita ha estado trabajando en Iconika Agencia de publicidad desde hace 8 años, pero se siente infravalorada e invisible. Ella decide hacer un cambio y se transforma a sí misma en la oficina de "chica azotes" en el Alicia poder. Sin embargo, ninguna subida a la cima es siempre fácil, y, a lo largo del camino, ella se enfrenta a situaciones que ponen a prueba su carácter y valores(n)</desc>
+    <category lang="es">Telenovela</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160113213000 -0600" stop="20160113223000 -0600" channel="Canal 2 HD">
+    <title lang="es">Pasión y poder</title>
+    <desc lang="es">Gira en torno a los dramas familiares y poderes empresariales de dos familias rivales. Aquella rivalidad que por años ha perdurado tiene su origen hace muchos años, cuando Arturo Montenegro y Eladio Gómez Luna se disputaban el amor de la bella Ana Laura. Al final Eladio fue quien se casó con ella. Muchos años después Ana Laura es una mujer muy infeliz pues soporta los abusos y la maldad de su marido, teniendo como único consuelo el amor de su hijo Federico, una total antítesis de su padre(n)</desc>
+    <category lang="es">Telenovela</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160113223000 -0600" stop="20160113231500 -0600" channel="Canal 2 HD">
+    <title lang="es">Noticiero con: Joaquín López Doriga</title>
+    <desc lang="es">La trayectoria de Joaquín López Dóriga aderezada con su particular estilo informativo, así como la cobertura amplia y objetivas del acontecer mundial, hacen de este espacio, la mejor manera de terminar el día(n)</desc>
+    <credits>
+      <actor>Joaquin López Dóriga</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160113231500 -0600" stop="20160113234500 -0600" channel="Canal 2 HD">
+    <title lang="es">Noticiero td</title>
+    <desc lang="es">El Noticiero Televisa Deportes ofrece una dinámica única en la televisión mexicana para el público que gusta y quiere estar enterado momento a momento del deporte(n)</desc>
+    <credits>
+      <actor>Javier Alarcón</actor>
+      <actor>Gerardo Liceága</actor>
+      <actor>Deborah Reissenweber</actor>
+    </credits>
+    <category lang="es">Deportes</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160113234500 -0600" stop="20160114003000 -0600" channel="Canal 2 HD">
+    <title lang="es">Los Reporteros</title>
+    <desc lang="es">El equipo líder de periodismo de Televisa presentará sus mejores investigaciones sobre temas especializados con reportajes(n)</desc>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160114003000 -0600" stop="20160114010000 -0600" channel="Canal 2 HD">
+    <title lang="es">Pare de Sufrir</title>
+    <desc lang="es">Segmento conducido por pastores brasileños y argentinos que muestran testimonios de los adherentes a la Iglesia Universal del Reino de Dios(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Religioso</category>
+  </programme>
+  <programme start="20160114010000 -0600" stop="20160114043000 -0600" channel="Canal 2 HD">
+    <title lang="es">Veredicto final</title>
+    <desc lang="es">Un programa de entretenimiento que buscará soluciones a problemas reales que plantearán los mismos protagonistas de cada caso en el escenario(n)</desc>
+    <credits>
+      <actor>Cristina Pereyra</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Interés General</category>
+  </programme>
+  <programme start="20160114043000 -0600" stop="20160114050000 -0600" channel="Canal 2 HD">
+    <title lang="es">Especial de R.T.C.</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Especial</category>
+  </programme>
+  <programme start="20160114050000 -0600" stop="20160114053000 -0600" channel="Canal 2 HD">
+    <title lang="es">Inova</title>
+    <desc lang="es">Promoción y venta de productos por televisión(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160114053000 -0600" stop="20160114060000 -0600" channel="Canal 2 HD">
+    <title lang="es">Farmacias de similares</title>
+    <desc lang="es">Venta y publicidad de Farmacias Similares(n)</desc>
+    <category lang="es">Venta y Publicidad</category>
+    <category lang="es">Publicidad</category>
+  </programme>
+  <programme start="20160114060000 -0600" stop="20160114090000 -0600" channel="Canal 2 HD">
+    <title lang="es">Primero noticias</title>
+    <desc lang="es">Recibe las noticias con una mirada crítica, ágil y oportuna con Carlos Loret de Mola, su equipo se encargará de presentar reportajes exclusivos, entrevistas y mucho más(n)</desc>
+    <credits>
+      <actor>Carlos Loret De Mola</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160114090000 -0600" stop="20160114120000 -0600" channel="Canal 2 HD">
+    <title lang="es">Hoy</title>
+    <desc lang="es">El programa de revista para las amas de casa que cuenta con secciones de cocina, salud, belleza, sexo, yoga, horóscopos e información del mundo del espectáculo(n)</desc>
+    <credits>
+      <actor>Raúl Araiza Herrera</actor>
+      <actor>Galilea Montijo</actor>
+      <actor>Andrea Legarreta</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20160114120000 -0600" stop="20160114140000 -0600" channel="Canal 2 HD">
+    <title lang="es">Hasta que el dinero nos separe</title>
+    <desc lang="es">Rafael conocerá a Ana por circunstancias de la vida, esto cambiará sus vidas por completo, pues deberán decidir entre el amor y el dinero(n)</desc>
+    <credits>
+      <actor>Pedro Fernandez</actor>
+      <actor>Itatí Cantoral</actor>
+      <actor>Luz Elena González</actor>
+      <actor>Víctor Manuel Fouillioux</actor>
+    </credits>
+    <category lang="es">Telenovela</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160114140000 -0600" stop="20160114150000 -0600" channel="Canal 2 HD">
+    <title lang="es">12 Corazones</title>
+    <desc lang="es">La conductora se encargará todos los días de procurar que de los 12 chicos y chicas, al menos 2 de ellos se vayan con la ilusión del enamoramiento, que se gusten y que vuelvan a creer en el amor(n)</desc>
+    <credits>
+      <actor>Penélope Menchaca</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Talk Show</category>
+  </programme>
+  <programme start="20160114150000 -0600" stop="20160114153000 -0600" channel="Canal 2 HD">
+    <title lang="es">Noticiero con: Lolita Ayala</title>
+    <desc lang="es">Lolita Ayala llevará hasta tu pantalla las noticias más importantes en México, pero su labor también abarcara un servicio social al colaborar de manera altruista con instituciones de la sociedad civil(n)</desc>
+    <credits>
+      <actor>Lolita Ayala</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160114153000 -0600" stop="20160114163000 -0600" channel="Canal 2 HD">
+    <title lang="es">Como dice el dicho</title>
+    <desc lang="es">Los dichos populares son una manera de resumir los aprendizajes y lecciones de la vida que vivirán Isabel, su abuelo y Poncho, día con día, además de los clientes de su cafetería(n)</desc>
+    <credits>
+      <actor>Wendy Gonzalez</actor>
+      <actor>Michael Ronda</actor>
+      <actor>Sergio Corona</actor>
+      <actor>Emmanuel Duprez</actor>
+      <actor>Genoveva Martínez</actor>
+    </credits>
+    <category lang="es">Telenovela</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160114163000 -0600" stop="20160114173000 -0600" channel="Canal 2 HD">
+    <title lang="es">Simplemente María</title>
+    <desc lang="es">“Simplemente María” cuenta la historia de una joven mujer pobre que deja su hogar para ir a una gran ciudad en busca de su sueño de convertirse en una diseñadora de modas(n)</desc>
+    <category lang="es">Telenovela</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160114173000 -0600" stop="20160114183000 -0600" channel="Canal 2 HD">
+    <title lang="es">La rosa de Guadalupe</title>
+    <desc lang="es">Historias de la vida real sobre violencia intrafamiliar, drogadicción, entre otros, se ven mitigadas por los milagros que concede la Virgen de Guadalupe. Basta con aparecer una rosa blanca, para comprender que han sido escuchadas las peticiones de los creyentes(n)</desc>
+    <credits>
+      <actor>José Ángel García</actor>
+      <actor>Marta Luna</actor>
+      <actor>Lorena Maza</actor>
+    </credits>
+    <category lang="es">Telenovela</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160114183000 -0600" stop="20160114193000 -0600" channel="Canal 2 HD">
+    <title lang="es">La vecina</title>
+    <desc lang="es">Sara termina un largo noviazgo con Cheo y es despedida del hotel en el que trabajaba. Ante tal situación, decide irse unos días a San Gaspar con su tío Simón, ingeniero en aeronáutica, dedicado a la agricultura; y con Bruno quien se enamora de Laura, la esposa de Pedro, el líder local de los saqueadores de gasolina(n)</desc>
+    <category lang="es">Telenovela</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160114193000 -0600" stop="20160114203000 -0600" channel="Canal 2 HD">
+    <title lang="es">A que no me dejas</title>
+    <desc lang="es">Una historia de amor a través de las generaciones. Natalia y Rodrigo: contra todo pronóstico y obstáculos de la familia, se las arreglan para tener su amor hasta la eternidad y dárselo a su hija Ximena, quien quedó huérfana a una temprana edad. Ximena se convierte en una mujer hermosa, inteligente y estudiosa que se parece a su madre. Con el tiempo se enamora de Gabriel, a quien por un momento ella consideraba un hermano(n)</desc>
+    <category lang="es">Telenovela</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160114203000 -0600" stop="20160114213000 -0600" channel="Canal 2 HD">
+    <title lang="es">Antes muerta que Lichita</title>
+    <desc lang="es">Lichita ha estado trabajando en Iconika Agencia de publicidad desde hace 8 años, pero se siente infravalorada e invisible. Ella decide hacer un cambio y se transforma a sí misma en la oficina de "chica azotes" en el Alicia poder. Sin embargo, ninguna subida a la cima es siempre fácil, y, a lo largo del camino, ella se enfrenta a situaciones que ponen a prueba su carácter y valores(n)</desc>
+    <category lang="es">Telenovela</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160114213000 -0600" stop="20160114223000 -0600" channel="Canal 2 HD">
+    <title lang="es">Pasión y poder</title>
+    <desc lang="es">Gira en torno a los dramas familiares y poderes empresariales de dos familias rivales. Aquella rivalidad que por años ha perdurado tiene su origen hace muchos años, cuando Arturo Montenegro y Eladio Gómez Luna se disputaban el amor de la bella Ana Laura. Al final Eladio fue quien se casó con ella. Muchos años después Ana Laura es una mujer muy infeliz pues soporta los abusos y la maldad de su marido, teniendo como único consuelo el amor de su hijo Federico, una total antítesis de su padre(n)</desc>
+    <category lang="es">Telenovela</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160114223000 -0600" stop="20160114231500 -0600" channel="Canal 2 HD">
+    <title lang="es">Noticiero con: Joaquín López Doriga</title>
+    <desc lang="es">La trayectoria de Joaquín López Dóriga aderezada con su particular estilo informativo, así como la cobertura amplia y objetivas del acontecer mundial, hacen de este espacio, la mejor manera de terminar el día(n)</desc>
+    <credits>
+      <actor>Joaquin López Dóriga</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160114231500 -0600" stop="20160114233000 -0600" channel="Canal 2 HD">
+    <title lang="es">Punto de partida</title>
+    <desc lang="es">Programa de opinión y análisis político conducido por Denise Maerker. Presenta entrevistas, reportajes y crónicas que pretenden anticipar los asuntos públicos que formarán parte de la agenda política de la semana(n)</desc>
+    <credits>
+      <actor>Denise Maerker</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160114233000 -0600" stop="20160115000000 -0600" channel="Canal 2 HD">
+    <title lang="es">Noticiero td</title>
+    <desc lang="es">El Noticiero Televisa Deportes ofrece una dinámica única en la televisión mexicana para el público que gusta y quiere estar enterado momento a momento del deporte(n)</desc>
+    <credits>
+      <actor>Javier Alarcón</actor>
+      <actor>Gerardo Liceága</actor>
+      <actor>Deborah Reissenweber</actor>
+    </credits>
+    <category lang="es">Deportes</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160115000000 -0600" stop="20160115003000 -0600" channel="Canal 2 HD">
+    <title lang="es">La entrevista por Adela</title>
+    <desc lang="es">Adela Micha entrevista a las personalidades que marcan la agenda en México y el mundo(n)</desc>
+    <credits>
+      <actor>Adela Micha</actor>
+    </credits>
+    <category lang="es">Periodístico</category>
+    <category lang="es">Entrevista</category>
+  </programme>
+  <programme start="20160115003000 -0600" stop="20160115010000 -0600" channel="Canal 2 HD">
+    <title lang="es">Pare de Sufrir</title>
+    <desc lang="es">Segmento conducido por pastores brasileños y argentinos que muestran testimonios de los adherentes a la Iglesia Universal del Reino de Dios(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Religioso</category>
+  </programme>
+  <programme start="20160115010000 -0600" stop="20160115043000 -0600" channel="Canal 2 HD">
+    <title lang="es">Veredicto final</title>
+    <desc lang="es">Un programa de entretenimiento que buscará soluciones a problemas reales que plantearán los mismos protagonistas de cada caso en el escenario(n)</desc>
+    <credits>
+      <actor>Cristina Pereyra</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Interés General</category>
+  </programme>
+  <programme start="20160115043000 -0600" stop="20160115050000 -0600" channel="Canal 2 HD">
+    <title lang="es">Especial de R.T.C.</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Especial</category>
+  </programme>
+  <programme start="20160115050000 -0600" stop="20160115053000 -0600" channel="Canal 2 HD">
+    <title lang="es">Inova</title>
+    <desc lang="es">Promoción y venta de productos por televisión(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160115053000 -0600" stop="20160115060000 -0600" channel="Canal 2 HD">
+    <title lang="es">Farmacias de similares</title>
+    <desc lang="es">Venta y publicidad de Farmacias Similares(n)</desc>
+    <category lang="es">Venta y Publicidad</category>
+    <category lang="es">Publicidad</category>
+  </programme>
+  <programme start="20160115060000 -0600" stop="20160115090000 -0600" channel="Canal 2 HD">
+    <title lang="es">Primero noticias</title>
+    <desc lang="es">Recibe las noticias con una mirada crítica, ágil y oportuna con Carlos Loret de Mola, su equipo se encargará de presentar reportajes exclusivos, entrevistas y mucho más(n)</desc>
+    <credits>
+      <actor>Carlos Loret De Mola</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160115090000 -0600" stop="20160115120000 -0600" channel="Canal 2 HD">
+    <title lang="es">Hoy</title>
+    <desc lang="es">El programa de revista para las amas de casa que cuenta con secciones de cocina, salud, belleza, sexo, yoga, horóscopos e información del mundo del espectáculo(n)</desc>
+    <credits>
+      <actor>Raúl Araiza Herrera</actor>
+      <actor>Galilea Montijo</actor>
+      <actor>Andrea Legarreta</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20160115120000 -0600" stop="20160115140000 -0600" channel="Canal 2 HD">
+    <title lang="es">Hasta que el dinero nos separe</title>
+    <desc lang="es">Rafael conocerá a Ana por circunstancias de la vida, esto cambiará sus vidas por completo, pues deberán decidir entre el amor y el dinero(n)</desc>
+    <credits>
+      <actor>Pedro Fernandez</actor>
+      <actor>Itatí Cantoral</actor>
+      <actor>Luz Elena González</actor>
+      <actor>Víctor Manuel Fouillioux</actor>
+    </credits>
+    <category lang="es">Telenovela</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160115140000 -0600" stop="20160115150000 -0600" channel="Canal 2 HD">
+    <title lang="es">12 Corazones</title>
+    <desc lang="es">La conductora se encargará todos los días de procurar que de los 12 chicos y chicas, al menos 2 de ellos se vayan con la ilusión del enamoramiento, que se gusten y que vuelvan a creer en el amor(n)</desc>
+    <credits>
+      <actor>Penélope Menchaca</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Talk Show</category>
+  </programme>
+  <programme start="20160115150000 -0600" stop="20160115153000 -0600" channel="Canal 2 HD">
+    <title lang="es">Noticiero con: Lolita Ayala</title>
+    <desc lang="es">Lolita Ayala llevará hasta tu pantalla las noticias más importantes en México, pero su labor también abarcara un servicio social al colaborar de manera altruista con instituciones de la sociedad civil(n)</desc>
+    <credits>
+      <actor>Lolita Ayala</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160115153000 -0600" stop="20160115163000 -0600" channel="Canal 2 HD">
+    <title lang="es">Como dice el dicho</title>
+    <desc lang="es">Los dichos populares son una manera de resumir los aprendizajes y lecciones de la vida que vivirán Isabel, su abuelo y Poncho, día con día, además de los clientes de su cafetería(n)</desc>
+    <credits>
+      <actor>Wendy Gonzalez</actor>
+      <actor>Michael Ronda</actor>
+      <actor>Sergio Corona</actor>
+      <actor>Emmanuel Duprez</actor>
+      <actor>Genoveva Martínez</actor>
+    </credits>
+    <category lang="es">Telenovela</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160115163000 -0600" stop="20160115173000 -0600" channel="Canal 2 HD">
+    <title lang="es">Simplemente María</title>
+    <desc lang="es">“Simplemente María” cuenta la historia de una joven mujer pobre que deja su hogar para ir a una gran ciudad en busca de su sueño de convertirse en una diseñadora de modas(n)</desc>
+    <category lang="es">Telenovela</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160115173000 -0600" stop="20160115183000 -0600" channel="Canal 2 HD">
+    <title lang="es">La rosa de Guadalupe</title>
+    <desc lang="es">Historias de la vida real sobre violencia intrafamiliar, drogadicción, entre otros, se ven mitigadas por los milagros que concede la Virgen de Guadalupe. Basta con aparecer una rosa blanca, para comprender que han sido escuchadas las peticiones de los creyentes(n)</desc>
+    <credits>
+      <actor>José Ángel García</actor>
+      <actor>Marta Luna</actor>
+      <actor>Lorena Maza</actor>
+    </credits>
+    <category lang="es">Telenovela</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160115183000 -0600" stop="20160115193000 -0600" channel="Canal 2 HD">
+    <title lang="es">La vecina</title>
+    <desc lang="es">Sara termina un largo noviazgo con Cheo y es despedida del hotel en el que trabajaba. Ante tal situación, decide irse unos días a San Gaspar con su tío Simón, ingeniero en aeronáutica, dedicado a la agricultura; y con Bruno quien se enamora de Laura, la esposa de Pedro, el líder local de los saqueadores de gasolina(n)</desc>
+    <category lang="es">Telenovela</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160115193000 -0600" stop="20160115203000 -0600" channel="Canal 2 HD">
+    <title lang="es">A que no me dejas</title>
+    <desc lang="es">Una historia de amor a través de las generaciones. Natalia y Rodrigo: contra todo pronóstico y obstáculos de la familia, se las arreglan para tener su amor hasta la eternidad y dárselo a su hija Ximena, quien quedó huérfana a una temprana edad. Ximena se convierte en una mujer hermosa, inteligente y estudiosa que se parece a su madre. Con el tiempo se enamora de Gabriel, a quien por un momento ella consideraba un hermano(n)</desc>
+    <category lang="es">Telenovela</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160115203000 -0600" stop="20160115213000 -0600" channel="Canal 2 HD">
+    <title lang="es">Antes muerta que Lichita</title>
+    <desc lang="es">Lichita ha estado trabajando en Iconika Agencia de publicidad desde hace 8 años, pero se siente infravalorada e invisible. Ella decide hacer un cambio y se transforma a sí misma en la oficina de "chica azotes" en el Alicia poder. Sin embargo, ninguna subida a la cima es siempre fácil, y, a lo largo del camino, ella se enfrenta a situaciones que ponen a prueba su carácter y valores(n)</desc>
+    <category lang="es">Telenovela</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160115213000 -0600" stop="20160115223000 -0600" channel="Canal 2 HD">
+    <title lang="es">Pasión y poder</title>
+    <desc lang="es">Gira en torno a los dramas familiares y poderes empresariales de dos familias rivales. Aquella rivalidad que por años ha perdurado tiene su origen hace muchos años, cuando Arturo Montenegro y Eladio Gómez Luna se disputaban el amor de la bella Ana Laura. Al final Eladio fue quien se casó con ella. Muchos años después Ana Laura es una mujer muy infeliz pues soporta los abusos y la maldad de su marido, teniendo como único consuelo el amor de su hijo Federico, una total antítesis de su padre(n)</desc>
+    <category lang="es">Telenovela</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160115223000 -0600" stop="20160115231500 -0600" channel="Canal 2 HD">
+    <title lang="es">Noticiero con: Joaquín López Doriga</title>
+    <desc lang="es">La trayectoria de Joaquín López Dóriga aderezada con su particular estilo informativo, así como la cobertura amplia y objetivas del acontecer mundial, hacen de este espacio, la mejor manera de terminar el día(n)</desc>
+    <credits>
+      <actor>Joaquin López Dóriga</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160115231500 -0600" stop="20160116003000 -0600" channel="Canal 2 HD">
+    <title lang="es">Noticiero td</title>
+    <desc lang="es">El Noticiero Televisa Deportes ofrece una dinámica única en la televisión mexicana para el público que gusta y quiere estar enterado momento a momento del deporte(n)</desc>
+    <credits>
+      <actor>Javier Alarcón</actor>
+      <actor>Gerardo Liceága</actor>
+      <actor>Deborah Reissenweber</actor>
+    </credits>
+    <category lang="es">Deportes</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160116003000 -0600" stop="20160116010000 -0600" channel="Canal 2 HD">
+    <title lang="es">Pare de Sufrir</title>
+    <desc lang="es">Segmento conducido por pastores brasileños y argentinos que muestran testimonios de los adherentes a la Iglesia Universal del Reino de Dios(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Religioso</category>
+  </programme>
+  <programme start="20160116010000 -0600" stop="20160116013000 -0600" channel="Canal 2 HD">
+    <title lang="es">Infomax</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160116013000 -0600" stop="20160116043000 -0600" channel="Canal 2 HD">
+    <title lang="es">Veredicto final</title>
+    <desc lang="es">Un programa de entretenimiento que buscará soluciones a problemas reales que plantearán los mismos protagonistas de cada caso en el escenario(n)</desc>
+    <credits>
+      <actor>Cristina Pereyra</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Interés General</category>
+  </programme>
+  <programme start="20160116043000 -0600" stop="20160116050000 -0600" channel="Canal 2 HD">
+    <title lang="es">Especial de R.T.C.</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Especial</category>
+  </programme>
+  <programme start="20160116050000 -0600" stop="20160116060000 -0600" channel="Canal 2 HD">
+    <title lang="es">Inova</title>
+    <desc lang="es">Promoción y venta de productos por televisión(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160116060000 -0600" stop="20160116070000 -0600" channel="Canal 2 HD">
+    <title lang="es">Papá soltero</title>
+    <desc lang="es">César Costa interpreta a César, un padre soltero que tiene que guiar por el buen camino a sus tres hijos: Alejandra, Miguel Costa, el hijo mayor, y Cesarín, el hijo menor. La trama se desarrolla en la Ciudad de México en los años 80s y finaliza a mediados de los 90s. En el edificio donde habita esta familia también coexisten con "Pocholo" el conserje y con "Don Juan" el vecino que tenía fama de mujeriego y que siempre metía a la familia en problemas. Además, tenían una relación estrecha con el ama de llaves, "Gumara"(n)</desc>
+    <credits>
+      <actor>Edith Márquez</actor>
+      <actor>César Costa</actor>
+      <actor>Luis Mario Quiroz Acosta</actor>
+      <actor>Luis De Llano Macedo</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Serie</category>
+  </programme>
+  <programme start="20160116070000 -0600" stop="20160116090000 -0600" channel="Canal 2 HD">
+    <title lang="es">Cine familiar</title>
+    <category lang="es">Ciclo</category>
+    <category lang="es">Película</category>
+  </programme>
+  <programme start="20160116090000 -0600" stop="20160116110000 -0600" channel="Canal 2 HD">
+    <title lang="es">Cine familiar</title>
+    <category lang="es">Ciclo</category>
+    <category lang="es">Película</category>
+  </programme>
+  <programme start="20160116110000 -0600" stop="20160116110000 -0600" channel="Canal 2 HD">
+    <title lang="es">100 latinos dijeron</title>
+    <desc lang="es">Dos familias competirán y deberán ofrecer las respuestas más populares a las preguntas que Marco Antonio Regil les haga, el equipo que tenga la mayor suma de puntos ganará 100 mil dólares.ofrecerá muchas risas, diversión y entretenimiento para toda la familia(n)</desc>
+    <credits>
+      <actor>Marco Antonio Regil</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160116110000 -0600" stop="20160116123000 -0600" channel="Canal 2 HD">
+    <title lang="es">100 latinos dijeron</title>
+    <desc lang="es">Dos familias competirán y deberán ofrecer las respuestas más populares a las preguntas que Marco Antonio Regil les haga, el equipo que tenga la mayor suma de puntos ganará 100 mil dólares.ofrecerá muchas risas, diversión y entretenimiento para toda la familia(n)</desc>
+    <credits>
+      <actor>Marco Antonio Regil</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160116123000 -0600" stop="20160116140000 -0600" channel="Canal 2 HD">
+    <title lang="es">Minuto para ganar</title>
+    <desc lang="es">Los desafíos más fáciles del mundo serán el impedimento para que los competidores ganen, pues deberán superar diversas y divertidas pruebas en máximo un minuto siendo guiados por Marco Antonio Regil(n)</desc>
+    <credits>
+      <actor>Marco Antonio Regil</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160116140000 -0600" stop="20160116153000 -0600" channel="Canal 2 HD">
+    <title lang="es">12 Corazones</title>
+    <desc lang="es">La conductora se encargará todos los días de procurar que de los 12 chicos y chicas, al menos 2 de ellos se vayan con la ilusión del enamoramiento, que se gusten y que vuelvan a creer en el amor(n)</desc>
+    <credits>
+      <actor>Penélope Menchaca</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Talk Show</category>
+  </programme>
+  <programme start="20160116153000 -0600" stop="20160116164500 -0600" channel="Canal 2 HD">
+    <title lang="es">La casa de la risa</title>
+    <desc lang="es">La casa de la risa no tiene ladrillos, ni cimientos, ni muros, ni tuberías, ni fosa séptica, ni dirección conocida. No la encuentras en ninguna calle, pero habitas dentro de ella. En la casa de la risa encontramos el humor en cada esquina, en cada calle, en cada ciudad, en cada país, en cada rostro, en cada historia personal(n)</desc>
+    <credits>
+      <actor>Erika Bleher</actor>
+      <actor>Jorge Falcón</actor>
+      <actor>Liliana Arriaga</actor>
+      <actor>Jorge Ortíz De Pinedo</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Humorístico</category>
+  </programme>
+  <programme start="20160116164500 -0600" stop="20160116190000 -0600" channel="Canal 2 HD">
+    <title lang="es">Liga MX</title>
+    <desc lang="es">La Liga MX es el torneo de fútbol profesional más importante de México y el más dominante del área de la Concacaf. En ella compiten 18 equipos acumulando puntos a lo largo de 17 jornadas para clasificar a la "Liguilla". Los ocho clubes con mejor puntuación en la tabla son los que lo logran(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20160116190000 -0600" stop="20160116223000 -0600" channel="Canal 2 HD">
+    <title lang="es">Sabadazo</title>
+    <desc lang="es">Diviértete en grande con la mejor comedia, invitados de lujo y el Top 10 de la música Latina. Además ríete a carcajadas con las ocurrencias de Yahairo, La Lic. Pamela, Doña Chú, el Benyamin, Petronais y Rosa Aurora(n)</desc>
+    <credits>
+      <actor>Laura G</actor>
+      <actor>Cecilia Galliano</actor>
+      <actor>Omar Chaparro</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Interés General</category>
+  </programme>
+  <programme start="20160116223000 -0600" stop="20160117003000 -0600" channel="Canal 2 HD">
+    <title lang="es">Nuevo cine mexicano</title>
+    <category lang="es">Ciclo</category>
+    <category lang="es">Película</category>
+  </programme>
+  <programme start="20160117003000 -0600" stop="20160117010000 -0600" channel="Canal 2 HD">
+    <title lang="es">Estrella2</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160117010000 -0600" stop="20160117013000 -0600" channel="Canal 2 HD">
+    <title lang="es">CV Directo</title>
+    <desc lang="es">Espacio publicitario de la empresa que, nacida en 1987, ha marcado la pauta en el mercado de consumo masivo de productos para el hogar, el bienestar y el cuidado personal(n)</desc>
+    <category lang="es">Venta y Publicidad</category>
+    <category lang="es">Publicidad</category>
+  </programme>
+  <programme start="20160117013000 -0600" stop="20160117020000 -0600" channel="Canal 2 HD">
+    <title lang="es">Inova</title>
+    <desc lang="es">Promoción y venta de productos por televisión(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160117020000 -0600" stop="20160117043000 -0600" channel="Canal 2 HD">
+    <title lang="es">Veredicto final</title>
+    <desc lang="es">Un programa de entretenimiento que buscará soluciones a problemas reales que plantearán los mismos protagonistas de cada caso en el escenario(n)</desc>
+    <credits>
+      <actor>Cristina Pereyra</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Interés General</category>
+  </programme>
+  <programme start="20160117043000 -0600" stop="20160117050000 -0600" channel="Canal 2 HD">
+    <title lang="es">Especial de R.T.C.</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Especial</category>
+  </programme>
+  <programme start="20160117050000 -0600" stop="20160117060000 -0600" channel="Canal 2 HD">
+    <title lang="es">Inova</title>
+    <desc lang="es">Promoción y venta de productos por televisión(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160117060000 -0600" stop="20160117070000 -0600" channel="Canal 2 HD">
+    <title lang="es">Papá soltero</title>
+    <desc lang="es">César Costa interpreta a César, un padre soltero que tiene que guiar por el buen camino a sus tres hijos: Alejandra, Miguel Costa, el hijo mayor, y Cesarín, el hijo menor. La trama se desarrolla en la Ciudad de México en los años 80s y finaliza a mediados de los 90s. En el edificio donde habita esta familia también coexisten con "Pocholo" el conserje y con "Don Juan" el vecino que tenía fama de mujeriego y que siempre metía a la familia en problemas. Además, tenían una relación estrecha con el ama de llaves, "Gumara"(n)</desc>
+    <credits>
+      <actor>Edith Márquez</actor>
+      <actor>César Costa</actor>
+      <actor>Luis Mario Quiroz Acosta</actor>
+      <actor>Luis De Llano Macedo</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Serie</category>
+  </programme>
+  <programme start="20160117070000 -0600" stop="20160117090000 -0600" channel="Canal 2 HD">
+    <title lang="es">Película especial</title>
+    <category lang="es">Ciclo</category>
+    <category lang="es">Película</category>
+  </programme>
+  <programme start="20160117090000 -0600" stop="20160117110000 -0600" channel="Canal 2 HD">
+    <title lang="es">Película especial</title>
+    <category lang="es">Ciclo</category>
+    <category lang="es">Película</category>
+  </programme>
+  <programme start="20160117110000 -0600" stop="20160117114500 -0600" channel="Canal 2 HD">
+    <title lang="es">Más deporte</title>
+    <desc lang="es">El programa donde encontras la información mas completa del automovilismo en la banda oriental. Un repaso de todas las categorías uruguayas del deporte motor. Conduce Antonio D' Amado(n)</desc>
+    <credits>
+      <actor>Antonio D'Amado</actor>
+    </credits>
+    <category lang="es">Deportes</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20160117114500 -0600" stop="20160117114500 -0600" channel="Canal 2 HD">
+    <title lang="es">Liga MX</title>
+    <desc lang="es">La Liga MX es el torneo de fútbol profesional más importante de México y el más dominante del área de la Concacaf. En ella compiten 18 equipos acumulando puntos a lo largo de 17 jornadas para clasificar a la "Liguilla". Los ocho clubes con mejor puntuación en la tabla son los que lo logran(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20160117114500 -0600" stop="20160117140000 -0600" channel="Canal 2 HD">
+    <title lang="es">Liga MX</title>
+    <desc lang="es">La Liga MX es el torneo de fútbol profesional más importante de México y el más dominante del área de la Concacaf. En ella compiten 18 equipos acumulando puntos a lo largo de 17 jornadas para clasificar a la "Liguilla". Los ocho clubes con mejor puntuación en la tabla son los que lo logran(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20160117140000 -0600" stop="20160117160000 -0600" channel="Canal 2 HD">
+    <title lang="es">Cine de las estrellas</title>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160117160000 -0600" stop="20160117164500 -0600" channel="Canal 2 HD">
+    <title lang="es">Acción</title>
+    <desc lang="es">No hay mejor palabra para describir la emoción deportiva. En este programa podrá usted ver el mejor resumen televisivo acerca de este ámbito. Poseedor de un gran dinamismo, Acción a su vez incluye todos los resultados de lo sucedido durante la semana, las mejores jugadas y los momentos clave de todos los deportes(n)</desc>
+    <credits>
+      <actor>Jorge Pietrasanta</actor>
+      <actor>Antonio De Valdés</actor>
+    </credits>
+    <category lang="es">Deportes</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20160117164500 -0600" stop="20160117190000 -0600" channel="Canal 2 HD">
+    <title lang="es">Liga MX</title>
+    <desc lang="es">La Liga MX es el torneo de fútbol profesional más importante de México y el más dominante del área de la Concacaf. En ella compiten 18 equipos acumulando puntos a lo largo de 17 jornadas para clasificar a la "Liguilla". Los ocho clubes con mejor puntuación en la tabla son los que lo logran(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Fútbol</category>
+  </programme>
+  <programme start="20160117190000 -0600" stop="20160117193000 -0600" channel="Canal 2 HD">
+    <title lang="es">María de todos los ángeles</title>
+    <desc lang="es">María de todos los Ángeles es la historia de una muchacha que sueña con encontrar al amor de su vida. Desilusionada del amor, invoca a todos los ángeles de la corte celestial para encontrar al ser amado, estos se le revelan en sueños dándole señales para encontrarlo, pero siempre interpreta las señales de manera equivocada, hasta que un día conoce a su vecino 'Albertano Santacruz', un chico romántico que pretende ser cantante de la onda grupera(n)</desc>
+    <credits>
+      <actor>Alma Cero</actor>
+      <actor>Ariel Miramontes</actor>
+      <actor>Montserrat Marañón</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Telenovela</category>
+  </programme>
+  <programme start="20160117193000 -0600" stop="20160117203000 -0600" channel="Canal 2 HD">
+    <title lang="es">Recuerda y gana</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160117203000 -0600" stop="20160117223000 -0600" channel="Canal 2 HD">
+    <title lang="es">Nuevo cine mexicano</title>
+    <category lang="es">Ciclo</category>
+    <category lang="es">Película</category>
+  </programme>
+  <programme start="20160117223000 -0600" stop="20160118000000 -0600" channel="Canal 2 HD">
+    <title lang="es">La jugada</title>
+    <desc lang="es">Si por algún motivo especial no tuviste la oportunidad de ver a tu equipo favorito o enterarte de todo lo ocurrido en el fin de semana, qué mejor que poder disfrutar de un resumen deportivo donde un equipo de profesionales desglosa a detalle los momentos más importantes de cada uno de los partidos de la jornada(n)</desc>
+    <credits>
+      <actor>Javier Alarcón</actor>
+      <actor>Toño De Valdéz</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20160118000000 -0600" stop="20160118010000 -0600" channel="Canal 2 HD">
+    <title lang="es">Clío Tv</title>
+    <desc lang="es">Programa que relata los más grandes e importantes sucesos que han marcado la historia de México(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160118010000 -0600" stop="20160118013000 -0600" channel="Canal 2 HD">
+    <title lang="es">Cuide su salud</title>
+    <desc lang="es">La doctora Diane Pérez te ofrecerá sencillos y valiosos consejos para mantenerte sano, con un buen estado físico y mental, además de ofrecerte una nueva forma de viajar por el mundo de la salud(n)</desc>
+    <credits>
+      <actor>Diane Pérez</actor>
+    </credits>
+    <category lang="es">Cocina, hogar y salud</category>
+    <category lang="es">Salud</category>
+  </programme>
+  <programme start="20160118013000 -0600" stop="20160118043000 -0600" channel="Canal 2 HD">
+    <title lang="es">Veredicto final</title>
+    <desc lang="es">Un programa de entretenimiento que buscará soluciones a problemas reales que plantearán los mismos protagonistas de cada caso en el escenario(n)</desc>
+    <credits>
+      <actor>Cristina Pereyra</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Interés General</category>
+  </programme>
+  <programme start="20160118043000 -0600" stop="20160118050000 -0600" channel="Canal 2 HD">
+    <title lang="es">Especial de R.T.C.</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Especial</category>
+  </programme>
+  <programme start="20160118050000 -0600" stop="20160118053000 -0600" channel="Canal 2 HD">
+    <title lang="es">Inova</title>
+    <desc lang="es">Promoción y venta de productos por televisión(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160118053000 -0600" stop="20160118060000 -0600" channel="Canal 2 HD">
+    <title lang="es">Farmacias de similares</title>
+    <desc lang="es">Venta y publicidad de Farmacias Similares(n)</desc>
+    <category lang="es">Venta y Publicidad</category>
+    <category lang="es">Publicidad</category>
+  </programme>
+  <programme start="20160118060000 -0600" stop="20160118090000 -0600" channel="Canal 2 HD">
+    <title lang="es">Primero noticias</title>
+    <desc lang="es">Recibe las noticias con una mirada crítica, ágil y oportuna con Carlos Loret de Mola, su equipo se encargará de presentar reportajes exclusivos, entrevistas y mucho más(n)</desc>
+    <credits>
+      <actor>Carlos Loret De Mola</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160118090000 -0600" stop="20160118120000 -0600" channel="Canal 2 HD">
+    <title lang="es">Hoy</title>
+    <desc lang="es">El programa de revista para las amas de casa que cuenta con secciones de cocina, salud, belleza, sexo, yoga, horóscopos e información del mundo del espectáculo(n)</desc>
+    <credits>
+      <actor>Raúl Araiza Herrera</actor>
+      <actor>Galilea Montijo</actor>
+      <actor>Andrea Legarreta</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20160118120000 -0600" stop="20160118140000 -0600" channel="Canal 2 HD">
+    <title lang="es">Hasta que el dinero nos separe</title>
+    <desc lang="es">Rafael conocerá a Ana por circunstancias de la vida, esto cambiará sus vidas por completo, pues deberán decidir entre el amor y el dinero(n)</desc>
+    <credits>
+      <actor>Pedro Fernandez</actor>
+      <actor>Itatí Cantoral</actor>
+      <actor>Luz Elena González</actor>
+      <actor>Víctor Manuel Fouillioux</actor>
+    </credits>
+    <category lang="es">Telenovela</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160118140000 -0600" stop="20160118150000 -0600" channel="Canal 2 HD">
+    <title lang="es">12 Corazones</title>
+    <desc lang="es">La conductora se encargará todos los días de procurar que de los 12 chicos y chicas, al menos 2 de ellos se vayan con la ilusión del enamoramiento, que se gusten y que vuelvan a creer en el amor(n)</desc>
+    <credits>
+      <actor>Penélope Menchaca</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Talk Show</category>
+  </programme>
+  <programme start="20160118150000 -0600" stop="20160118153000 -0600" channel="Canal 2 HD">
+    <title lang="es">Noticiero con: Lolita Ayala</title>
+    <desc lang="es">Lolita Ayala llevará hasta tu pantalla las noticias más importantes en México, pero su labor también abarcara un servicio social al colaborar de manera altruista con instituciones de la sociedad civil(n)</desc>
+    <credits>
+      <actor>Lolita Ayala</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160118153000 -0600" stop="20160118163000 -0600" channel="Canal 2 HD">
+    <title lang="es">Como dice el dicho</title>
+    <desc lang="es">Los dichos populares son una manera de resumir los aprendizajes y lecciones de la vida que vivirán Isabel, su abuelo y Poncho, día con día, además de los clientes de su cafetería(n)</desc>
+    <credits>
+      <actor>Wendy Gonzalez</actor>
+      <actor>Michael Ronda</actor>
+      <actor>Sergio Corona</actor>
+      <actor>Emmanuel Duprez</actor>
+      <actor>Genoveva Martínez</actor>
+    </credits>
+    <category lang="es">Telenovela</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160118163000 -0600" stop="20160118173000 -0600" channel="Canal 2 HD">
+    <title lang="es">Simplemente María</title>
+    <desc lang="es">“Simplemente María” cuenta la historia de una joven mujer pobre que deja su hogar para ir a una gran ciudad en busca de su sueño de convertirse en una diseñadora de modas(n)</desc>
+    <category lang="es">Telenovela</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160118173000 -0600" stop="20160118183000 -0600" channel="Canal 2 HD">
+    <title lang="es">La rosa de Guadalupe</title>
+    <desc lang="es">Historias de la vida real sobre violencia intrafamiliar, drogadicción, entre otros, se ven mitigadas por los milagros que concede la Virgen de Guadalupe. Basta con aparecer una rosa blanca, para comprender que han sido escuchadas las peticiones de los creyentes(n)</desc>
+    <credits>
+      <actor>José Ángel García</actor>
+      <actor>Marta Luna</actor>
+      <actor>Lorena Maza</actor>
+    </credits>
+    <category lang="es">Telenovela</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160118183000 -0600" stop="20160118193000 -0600" channel="Canal 2 HD">
+    <title lang="es">La vecina</title>
+    <desc lang="es">Sara termina un largo noviazgo con Cheo y es despedida del hotel en el que trabajaba. Ante tal situación, decide irse unos días a San Gaspar con su tío Simón, ingeniero en aeronáutica, dedicado a la agricultura; y con Bruno quien se enamora de Laura, la esposa de Pedro, el líder local de los saqueadores de gasolina(n)</desc>
+    <category lang="es">Telenovela</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160118193000 -0600" stop="20160118203000 -0600" channel="Canal 2 HD">
+    <title lang="es">A que no me dejas</title>
+    <desc lang="es">Una historia de amor a través de las generaciones. Natalia y Rodrigo: contra todo pronóstico y obstáculos de la familia, se las arreglan para tener su amor hasta la eternidad y dárselo a su hija Ximena, quien quedó huérfana a una temprana edad. Ximena se convierte en una mujer hermosa, inteligente y estudiosa que se parece a su madre. Con el tiempo se enamora de Gabriel, a quien por un momento ella consideraba un hermano(n)</desc>
+    <category lang="es">Telenovela</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160118203000 -0600" stop="20160118213000 -0600" channel="Canal 2 HD">
+    <title lang="es">Antes muerta que Lichita</title>
+    <desc lang="es">Lichita ha estado trabajando en Iconika Agencia de publicidad desde hace 8 años, pero se siente infravalorada e invisible. Ella decide hacer un cambio y se transforma a sí misma en la oficina de "chica azotes" en el Alicia poder. Sin embargo, ninguna subida a la cima es siempre fácil, y, a lo largo del camino, ella se enfrenta a situaciones que ponen a prueba su carácter y valores(n)</desc>
+    <category lang="es">Telenovela</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160118213000 -0600" stop="20160118223000 -0600" channel="Canal 2 HD">
+    <title lang="es">Pasión y poder</title>
+    <desc lang="es">Gira en torno a los dramas familiares y poderes empresariales de dos familias rivales. Aquella rivalidad que por años ha perdurado tiene su origen hace muchos años, cuando Arturo Montenegro y Eladio Gómez Luna se disputaban el amor de la bella Ana Laura. Al final Eladio fue quien se casó con ella. Muchos años después Ana Laura es una mujer muy infeliz pues soporta los abusos y la maldad de su marido, teniendo como único consuelo el amor de su hijo Federico, una total antítesis de su padre(n)</desc>
+    <category lang="es">Telenovela</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160118223000 -0600" stop="20160118231500 -0600" channel="Canal 2 HD">
+    <title lang="es">Noticiero con: Joaquín López Doriga</title>
+    <desc lang="es">La trayectoria de Joaquín López Dóriga aderezada con su particular estilo informativo, así como la cobertura amplia y objetivas del acontecer mundial, hacen de este espacio, la mejor manera de terminar el día(n)</desc>
+    <credits>
+      <actor>Joaquin López Dóriga</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160118231500 -0600" stop="20160118234500 -0600" channel="Canal 2 HD">
     <title lang="es">Noticiero td</title>
     <desc lang="es">El Noticiero Televisa Deportes ofrece una dinámica única en la televisión mexicana para el público que gusta y quiere estar enterado momento a momento del deporte(n)</desc>
     <credits>
