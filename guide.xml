@@ -93,6 +93,7 @@
   </channel>
   <channel id="Canal 22">
     <display-name lang="es">Canal 22</display-name>
+    <icon src="http://z.cdn.entutele.com/media/channels/big/canal-22.gif" />
     <url>http://www.entutele.com</url>
   </channel>
   <channel id="Canal 4 Guadalajara">
@@ -28544,5 +28545,993 @@
     </credits>
     <category lang="es">Deportes</category>
     <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160111063000 -0600" stop="20160111080000 -0600" channel="Canal 22">
+    <title lang="es">Noticias / méxico al día</title>
+    <desc lang="es">México al día es un noticiario que brinda información oportuna, clara y veraz de los sucesos y acontecimientos que están transformando a nuestro país. Su compromiso es ofrecer al auditorio un recuento diario de los avances y logros de México y su gente, presentando secciones de información internacional, deportes, cultura y espectáculos, entre otros(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160111080000 -0600" stop="20160111083000 -0600" channel="Canal 22">
+    <title lang="es">N.C.I. Noticias</title>
+    <desc lang="es">Las noticias culturales iberoamericanas dan a conocer los diferentes actores culturales de Iberoamérica, haciendo énfasis en aspectos creativos y en la agenda cultural. el informativo abarca temas tan diversos como música, cine, ciencia, etc(n)</desc>
+    <category lang="es">Noticias</category>
+    <category lang="es">Interés General</category>
+  </programme>
+  <programme start="20160111083000 -0600" stop="20160111090000 -0600" channel="Canal 22">
+    <title lang="es">Talleres y oficios de México</title>
+    <desc lang="es">Serie en la que se dan a conocer el quehacer, la historia y obra, de algunos artesanos de México(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Cultural</category>
+  </programme>
+  <programme start="20160111090000 -0600" stop="20160111100000 -0600" channel="Canal 22">
+    <title lang="es">Por confirmar</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160111100000 -0600" stop="20160111110000 -0600" channel="Canal 22">
+    <title lang="es">La dichosa palabra</title>
+    <desc lang="es">A través de una conversación sencilla y amable, los conductores de este programa retoman temas muy variados y solicitados por el público sobre el origen y uso de algunas palabras(n)</desc>
+    <credits>
+      <actor>Laura García Arroyo</actor>
+      <actor>Eduardo Casar González</actor>
+      <actor>Germán Ortega Chávez</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160111110000 -0600" stop="20160111113000 -0600" channel="Canal 22">
+    <title lang="es">La mezcladora</title>
+    <desc lang="es">Serie documental dedicada a las artes visuales y el diseño contemporáneo que difunde los esfuerzos y las obras de artistas mexicanos(n)</desc>
+    <category lang="es">Series</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160111113000 -0600" stop="20160111120000 -0600" channel="Canal 22">
+    <title lang="es">Restaurando México</title>
+    <desc lang="es">La identidad cultural de los pueblos y de las personas se va conformando de imágenes, texturas, sabores, sonidos y objetos. Son aquella memoria más allá del recuerdo personal. Son las voces que nos hablan desde lugares remotos, las raíces que se hunden en el pasado. Esta serie de documentales mostrará los procesos de restauración de diversos objetos, algunos con más de tres siglos de antigüedad, teniendo como principal objetivo reconocer su el valor histórico de dichos elementos, más allá del valor económico y comercial que suele dárseles(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Cultural</category>
+  </programme>
+  <programme start="20160111120000 -0600" stop="20160111140000 -0600" channel="Canal 22">
+    <title lang="es">Caballo a caballo</title>
+    <desc lang="es">Un hombre roba un automóvil y se hace pasar por el mayordomo de un anciano millonario para robar una fortuna(n)</desc>
+    <credits>
+      <actor>Enrique Herrera</actor>
+      <actor>Crox Alvarado</actor>
+      <actor>Juan Bustillo Oro</actor>
+      <actor>Luis G. Barreiro</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160111140000 -0600" stop="20160111170000 -0600" channel="Canal 22">
+    <title lang="es">Clic clac!</title>
+    <desc lang="es">Los contenidos de "Clic-Clac!" proponen un equilibrio entre la educación y el entretenimiento para niños, abarcando temas importantes como lo son la ciencia, la literatura, la naturaleza, el arte y las tradiciones e historia mexicana. Siempre presentado de una forma muy creativa, tiene como principal objetivo generar confianza en los más chicos para que adquieran sus propios puntos de vista ante el mundo(n)</desc>
+    <category lang="es">Infantiles</category>
+    <category lang="es">D.Animados</category>
+  </programme>
+  <programme start="20160111170000 -0600" stop="20160111180000 -0600" channel="Canal 22">
+    <title lang="es">Por confirmar</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160111180000 -0600" stop="20160111190000 -0600" channel="Canal 22">
+    <title lang="es">Ecuador más que un punto</title>
+    <desc lang="es">Este programa nos llevará a descubrir un país donde la arquitectura moderna convive con la naturaleza, donde el agua marca el ciclo de vida de sus habitantes(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Turismo</category>
+  </programme>
+  <programme start="20160111190000 -0600" stop="20160111200000 -0600" channel="Canal 22">
+    <title lang="es">Noticias 22</title>
+    <desc lang="es">Reconocido como el noticiario cultural de México, Noticias 22 cubre de manera periodística información que va desde las artes plásticas a las populares, sin dejar de lado los temas deportivos, políticos, económicos, científicos, tecnológicos y otros de interés nacional(n)</desc>
+    <credits>
+      <actor>Laura Barrera</actor>
+      <actor>Alejandra Flores</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160111200000 -0600" stop="20160111210000 -0600" channel="Canal 22">
+    <title lang="es">Un mundo de Gabo</title>
+    <desc lang="es">Serie documental sobre Gabriel García Márquez que muestra conversaciones con ilustres amigos del escritor desde París, Barcelona, México, La Habana, Cartagena, Bogotá y Zipaquirá que revelan momentos y anécdotas de su vida. Además, se conocerán algunos ángulos inéditos de Gabriel García Márquez a través de archivos documentales privados, lugares de creación, entrevistas desconocidas hasta el momento(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Serie</category>
+  </programme>
+  <programme start="20160111210000 -0600" stop="20160111220000 -0600" channel="Canal 22">
+    <title lang="es">Dostoyevski</title>
+    <desc lang="es">En 1849 Fedor Dostoievski es detenido por pertenecer al Círculo Petrashevski, al que se acusa de conspirar contra el zar Nicolás I. en el último momento la sentencia de muerte es conmutada por cinco años de trabajos forzados en Siberia y otros tantos como militar en Kazajistán. Las condiciones infrahumanas del encierro en su perspectiva moral que afectará a su producción litería posterior. Una labor que puede retomar casi diez años después cuando el zar Alejandro II decreta una amnistía que le permite continuar publicando su obra(n)</desc>
+    <category lang="es">Series</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160111220000 -0600" stop="20160111233000 -0600" channel="Canal 22">
+    <title lang="es">Por confirmar</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160111233000 -0600" stop="20160112003000 -0600" channel="Canal 22">
+    <title lang="es">Noticias 22</title>
+    <desc lang="es">Reconocido como el noticiario cultural de México, Noticias 22 cubre de manera periodística información que va desde las artes plásticas a las populares, sin dejar de lado los temas deportivos, políticos, económicos, científicos, tecnológicos y otros de interés nacional(n)</desc>
+    <credits>
+      <actor>Laura Barrera</actor>
+      <actor>Alejandra Flores</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160112003000 -0600" stop="20160112010000 -0600" channel="Canal 22">
+    <title lang="es">Pantalla de cristal</title>
+    <desc lang="es">Este programa realiza un recorrido por el mundo del video, presentando los más variados estilos, géneros, formatos y tendencias de la producción audiovisual de nuestro país(n)</desc>
+    <credits>
+      <actor>José Antonio Fernández</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160112010000 -0600" stop="20160112020000 -0600" channel="Canal 22">
+    <title lang="es">Triángulo de letras</title>
+    <desc lang="es">La Librería Rosario Castellanos del Fondo de Cultura Económica es el escenario perfecto para que escritores de todo género hablen sobre sus más recientes obras, sus anécdotas, los pormenores de la redacción, sus temas e investigación. Triángulo de letras, un programa que fomenta la lectura(n)</desc>
+    <credits>
+      <actor>Eduardo Limón</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160112020000 -0600" stop="20160112063000 -0600" channel="Canal 22">
+    <title lang="es">Fin de transmisión</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Interés General</category>
+  </programme>
+  <programme start="20160112063000 -0600" stop="20160112080000 -0600" channel="Canal 22">
+    <title lang="es">Noticias / méxico al día</title>
+    <desc lang="es">México al día es un noticiario que brinda información oportuna, clara y veraz de los sucesos y acontecimientos que están transformando a nuestro país. Su compromiso es ofrecer al auditorio un recuento diario de los avances y logros de México y su gente, presentando secciones de información internacional, deportes, cultura y espectáculos, entre otros(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160112080000 -0600" stop="20160112083000 -0600" channel="Canal 22">
+    <title lang="es">Premio nacional de ciencias y artes</title>
+    <desc lang="es">Un acercamiento a los perfiles y a la trayectoria de prestigiosos artistas e investigadores mexicanos que, con su trabajo han establecido un parte aguas en la escena cultural y científica del país. Labor que les ha valido ser dignos de recibir el Premio Nacional de Ciencias y Artes otorgado por el Gobierno Federal desde 1945(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Arte</category>
+  </programme>
+  <programme start="20160112083000 -0600" stop="20160112090000 -0600" channel="Canal 22">
+    <title lang="es">Talleres y oficios de México</title>
+    <desc lang="es">Serie en la que se dan a conocer el quehacer, la historia y obra, de algunos artesanos de México(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Cultural</category>
+  </programme>
+  <programme start="20160112090000 -0600" stop="20160112100000 -0600" channel="Canal 22">
+    <title lang="es">Huellas del tiempo</title>
+    <desc lang="es">Esta serie documental ofrece un recorrido por los últimos pueblos nómadas de los cinco continentes, apreciando las culturas de los khambas, golok, buriatos, tsata, darckhad, tuareg, pigmeos, sánema, entre otros(n)</desc>
+    <category lang="es">Series</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160112100000 -0600" stop="20160112103000 -0600" channel="Canal 22">
+    <title lang="es">La raíz doble</title>
+    <credits>
+      <actor>Mardonio Carballo</actor>
+    </credits>
+    <category lang="es">Culturales</category>
+    <category lang="es">Cultural</category>
+  </programme>
+  <programme start="20160112103000 -0600" stop="20160112110000 -0600" channel="Canal 22">
+    <title lang="es">Pantalla de cristal</title>
+    <desc lang="es">Este programa realiza un recorrido por el mundo del video, presentando los más variados estilos, géneros, formatos y tendencias de la producción audiovisual de nuestro país(n)</desc>
+    <credits>
+      <actor>José Antonio Fernández</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160112110000 -0600" stop="20160112113000 -0600" channel="Canal 22">
+    <title lang="es">Cine secuencias</title>
+    <desc lang="es">Programa dedicado a la difusión de la actividad cinematográfica de nuestro país(n)</desc>
+    <credits>
+      <actor>Gabriela Zubludovsky</actor>
+      <actor>Gerardo Morán</actor>
+    </credits>
+    <category lang="es">Culturales</category>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160112113000 -0600" stop="20160112120000 -0600" channel="Canal 22">
+    <title lang="es">Con sabor a México</title>
+    <desc lang="es">Disfruta de un recorrido con sabor, a través de los diferentes estados de la República Mexicana. Descubren la inmensa gama de sabores que existen en la comida y aprendan a preparar los platillos más típicos de cada región(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Cocina</category>
+  </programme>
+  <programme start="20160112120000 -0600" stop="20160112140000 -0600" channel="Canal 22">
+    <title lang="es">A confirmar</title>
+    <category lang="es">Series</category>
+    <category lang="es">Telenovela</category>
+  </programme>
+  <programme start="20160112140000 -0600" stop="20160112170000 -0600" channel="Canal 22">
+    <title lang="es">Clic clac!</title>
+    <desc lang="es">Los contenidos de "Clic-Clac!" proponen un equilibrio entre la educación y el entretenimiento para niños, abarcando temas importantes como lo son la ciencia, la literatura, la naturaleza, el arte y las tradiciones e historia mexicana. Siempre presentado de una forma muy creativa, tiene como principal objetivo generar confianza en los más chicos para que adquieran sus propios puntos de vista ante el mundo(n)</desc>
+    <category lang="es">Infantiles</category>
+    <category lang="es">D.Animados</category>
+  </programme>
+  <programme start="20160112170000 -0600" stop="20160112180000 -0600" channel="Canal 22">
+    <title lang="es">Huellas del tiempo</title>
+    <desc lang="es">Esta serie documental ofrece un recorrido por los últimos pueblos nómadas de los cinco continentes, apreciando las culturas de los khambas, golok, buriatos, tsata, darckhad, tuareg, pigmeos, sánema, entre otros(n)</desc>
+    <category lang="es">Series</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160112180000 -0600" stop="20160112190000 -0600" channel="Canal 22">
+    <title lang="es">A confirmar</title>
+    <category lang="es">Series</category>
+    <category lang="es">Telenovela</category>
+  </programme>
+  <programme start="20160112190000 -0600" stop="20160112200000 -0600" channel="Canal 22">
+    <title lang="es">Noticias 22</title>
+    <desc lang="es">Reconocido como el noticiario cultural de México, Noticias 22 cubre de manera periodística información que va desde las artes plásticas a las populares, sin dejar de lado los temas deportivos, políticos, económicos, científicos, tecnológicos y otros de interés nacional(n)</desc>
+    <credits>
+      <actor>Laura Barrera</actor>
+      <actor>Alejandra Flores</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160112200000 -0600" stop="20160112210000 -0600" channel="Canal 22">
+    <title lang="es">A confirmar</title>
+    <category lang="es">Series</category>
+    <category lang="es">Telenovela</category>
+  </programme>
+  <programme start="20160112210000 -0600" stop="20160112213000 -0600" channel="Canal 22">
+    <title lang="es">Orígenes y herencias</title>
+    <category lang="es">Culturales</category>
+    <category lang="es">Serie</category>
+  </programme>
+  <programme start="20160112213000 -0600" stop="20160112220000 -0600" channel="Canal 22">
+    <title lang="es">La oveja eléctrica</title>
+    <desc lang="es">Aventura de ciencia y tecnología con base en el ejercicio de la imaginación, descubrir la belleza de la inteligencia aunada a la fantasía. Los grandes temas de la ciencia en la actualidad con entrevistas a las grandes personalidades del mundo científico y de la tecnología se presentan en "La oveja eléctrica"(n)</desc>
+    <credits>
+      <actor>Kelly Aro</actor>
+      <actor>José Gordon</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160112220000 -0600" stop="20160112230000 -0600" channel="Canal 22">
+    <title lang="es">Isabel</title>
+    <desc lang="es">Veremos la vida de Isabel de Castilla desde su formación, siendo apenas una niña, hasta su coronación con apenas 23 años, un período clave para entender la personalidad de la que luego fue llamada Isabel la Católica. Ésta es la historia de una mujer que decidió ser la dueña de su propio destino sin saber los muchos sacrificios que eso iba a significar. Vio destrozada su infancia al ser arrebatada de su madre enferma y fue obligada a ir a vivir a la Corte por su hermanastro el rey Enrique IV. Sufrió la pérdida de su hermano Alfonso, por delante suyo en la línea sucesoria, y tomó, con apenas 16 años, decisiones claves tras una cruenta guerra civil. Rechazó hasta poner en peligro su vida aceptar ninguna imposición de boda, defendiendo su derecho a elegir esposo. Soportó, tras su boda con Fer(n)</desc>
+    <credits>
+      <actor>Rodolfo Sancho</actor>
+      <actor>Michelle Jenner</actor>
+      <actor>Bárbara Lennie</actor>
+      <actor>Jordi Frades</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160112230000 -0600" stop="20160113010000 -0600" channel="Canal 22">
+    <title lang="es">Visión periférica</title>
+    <desc lang="es">Espacio en el que cada semana se transmiten películas y documentales. El concepto del programa se refiere a la posibilidad de mirar un hecho bajo un enfoque amplio y global, potenciado por una profunda investigación. Se busca ir más allá del hecho y de los datos duros que lo identifican(n)</desc>
+    <credits>
+      <actor>Jacarandá Correa</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160113010000 -0600" stop="20160113020000 -0600" channel="Canal 22">
+    <title lang="es">A confirmar</title>
+    <category lang="es">Series</category>
+    <category lang="es">Telenovela</category>
+  </programme>
+  <programme start="20160113020000 -0600" stop="20160113063000 -0600" channel="Canal 22">
+    <title lang="es">Fin de transmisión</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Interés General</category>
+  </programme>
+  <programme start="20160113063000 -0600" stop="20160113080000 -0600" channel="Canal 22">
+    <title lang="es">Noticias / méxico al día</title>
+    <desc lang="es">México al día es un noticiario que brinda información oportuna, clara y veraz de los sucesos y acontecimientos que están transformando a nuestro país. Su compromiso es ofrecer al auditorio un recuento diario de los avances y logros de México y su gente, presentando secciones de información internacional, deportes, cultura y espectáculos, entre otros(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160113080000 -0600" stop="20160113083000 -0600" channel="Canal 22">
+    <title lang="es">Inah</title>
+    <category lang="es">Culturales</category>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160113083000 -0600" stop="20160113090000 -0600" channel="Canal 22">
+    <title lang="es">Talleres y oficios de México</title>
+    <desc lang="es">Serie en la que se dan a conocer el quehacer, la historia y obra, de algunos artesanos de México(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Cultural</category>
+  </programme>
+  <programme start="20160113090000 -0600" stop="20160113100000 -0600" channel="Canal 22">
+    <title lang="es">Huellas del tiempo</title>
+    <desc lang="es">Esta serie documental ofrece un recorrido por los últimos pueblos nómadas de los cinco continentes, apreciando las culturas de los khambas, golok, buriatos, tsata, darckhad, tuareg, pigmeos, sánema, entre otros(n)</desc>
+    <category lang="es">Series</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160113100000 -0600" stop="20160113103000 -0600" channel="Canal 22">
+    <title lang="es">Orígenes y herencias</title>
+    <category lang="es">Culturales</category>
+    <category lang="es">Serie</category>
+  </programme>
+  <programme start="20160113103000 -0600" stop="20160113110000 -0600" channel="Canal 22">
+    <title lang="es">Crónicas de México</title>
+    <desc lang="es">Cronistas, investigadores, académicos y especialistas comentan y describen el contexto político-cultural de hechos, biografías y fenómenos sociales que han definido nuestro presente(n)</desc>
+    <category lang="es">Series</category>
+    <category lang="es">Serie</category>
+  </programme>
+  <programme start="20160113110000 -0600" stop="20160113113000 -0600" channel="Canal 22">
+    <title lang="es">La oveja eléctrica</title>
+    <desc lang="es">Aventura de ciencia y tecnología con base en el ejercicio de la imaginación, descubrir la belleza de la inteligencia aunada a la fantasía. Los grandes temas de la ciencia en la actualidad con entrevistas a las grandes personalidades del mundo científico y de la tecnología se presentan en "La oveja eléctrica"(n)</desc>
+    <credits>
+      <actor>Kelly Aro</actor>
+      <actor>José Gordon</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160113113000 -0600" stop="20160113120000 -0600" channel="Canal 22">
+    <title lang="es">Con sabor a México</title>
+    <desc lang="es">Disfruta de un recorrido con sabor, a través de los diferentes estados de la República Mexicana. Descubren la inmensa gama de sabores que existen en la comida y aprendan a preparar los platillos más típicos de cada región(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Cocina</category>
+  </programme>
+  <programme start="20160113120000 -0600" stop="20160113140000 -0600" channel="Canal 22">
+    <title lang="es">A confirmar</title>
+    <category lang="es">Series</category>
+    <category lang="es">Telenovela</category>
+  </programme>
+  <programme start="20160113140000 -0600" stop="20160113170000 -0600" channel="Canal 22">
+    <title lang="es">Clic clac!</title>
+    <desc lang="es">Los contenidos de "Clic-Clac!" proponen un equilibrio entre la educación y el entretenimiento para niños, abarcando temas importantes como lo son la ciencia, la literatura, la naturaleza, el arte y las tradiciones e historia mexicana. Siempre presentado de una forma muy creativa, tiene como principal objetivo generar confianza en los más chicos para que adquieran sus propios puntos de vista ante el mundo(n)</desc>
+    <category lang="es">Infantiles</category>
+    <category lang="es">D.Animados</category>
+  </programme>
+  <programme start="20160113170000 -0600" stop="20160113180000 -0600" channel="Canal 22">
+    <title lang="es">Huellas del tiempo</title>
+    <desc lang="es">Esta serie documental ofrece un recorrido por los últimos pueblos nómadas de los cinco continentes, apreciando las culturas de los khambas, golok, buriatos, tsata, darckhad, tuareg, pigmeos, sánema, entre otros(n)</desc>
+    <category lang="es">Series</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160113180000 -0600" stop="20160113190000 -0600" channel="Canal 22">
+    <title lang="es">A confirmar</title>
+    <category lang="es">Series</category>
+    <category lang="es">Telenovela</category>
+  </programme>
+  <programme start="20160113190000 -0600" stop="20160113200000 -0600" channel="Canal 22">
+    <title lang="es">Noticias 22</title>
+    <desc lang="es">Reconocido como el noticiario cultural de México, Noticias 22 cubre de manera periodística información que va desde las artes plásticas a las populares, sin dejar de lado los temas deportivos, políticos, económicos, científicos, tecnológicos y otros de interés nacional(n)</desc>
+    <credits>
+      <actor>Laura Barrera</actor>
+      <actor>Alejandra Flores</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160113200000 -0600" stop="20160113203000 -0600" channel="Canal 22">
+    <title lang="es">México vivo</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160113203000 -0600" stop="20160113210000 -0600" channel="Canal 22">
+    <title lang="es">Tratos y retratos</title>
+    <desc lang="es">Programa de entrevistas que representa el punto de encuentro ineludible entre el público y los artistas, políticos, pensadores y otras personalidades que tienen una gran relevancia en la actualidad(n)</desc>
+    <credits>
+      <actor>Silvia Lemus</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160113210000 -0600" stop="20160113213000 -0600" channel="Canal 22">
+    <title lang="es">Instinto animal</title>
+    <desc lang="es">Explorar la relación entre seres humanos y animales desde diversos planos: histórico, social, artístico, científico, medio ambiental, económico, de consumo, ético y de salud(n)</desc>
+    <category lang="es">Documentales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160113213000 -0600" stop="20160113220000 -0600" channel="Canal 22">
+    <title lang="es">Primer acto</title>
+    <desc lang="es">El mundo del teatro, la crítica en torno a él y sus procesos de creación son presentados de manera amena en el programa Primer acto, donde la escritora y crítica de teatro Estela Leñero será colaboradora permanente de esta producción(n)</desc>
+    <credits>
+      <actor>Julio Bracho</actor>
+      <actor>Zapata Maya</actor>
+    </credits>
+    <category lang="es">Culturales</category>
+    <category lang="es">Cultural</category>
+  </programme>
+  <programme start="20160113220000 -0600" stop="20160114000000 -0600" channel="Canal 22">
+    <title lang="es">A confirmar</title>
+    <category lang="es">Series</category>
+    <category lang="es">Telenovela</category>
+  </programme>
+  <programme start="20160114000000 -0600" stop="20160114010000 -0600" channel="Canal 22">
+    <title lang="es">Noticias 22</title>
+    <desc lang="es">Reconocido como el noticiario cultural de México, Noticias 22 cubre de manera periodística información que va desde las artes plásticas a las populares, sin dejar de lado los temas deportivos, políticos, económicos, científicos, tecnológicos y otros de interés nacional(n)</desc>
+    <credits>
+      <actor>Laura Barrera</actor>
+      <actor>Alejandra Flores</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160114010000 -0600" stop="20160114063000 -0600" channel="Canal 22">
+    <title lang="es">A confirmar</title>
+    <category lang="es">Series</category>
+    <category lang="es">Telenovela</category>
+  </programme>
+  <programme start="20160114063000 -0600" stop="20160114080000 -0600" channel="Canal 22">
+    <title lang="es">Noticias / méxico al día</title>
+    <desc lang="es">México al día es un noticiario que brinda información oportuna, clara y veraz de los sucesos y acontecimientos que están transformando a nuestro país. Su compromiso es ofrecer al auditorio un recuento diario de los avances y logros de México y su gente, presentando secciones de información internacional, deportes, cultura y espectáculos, entre otros(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160114080000 -0600" stop="20160114083000 -0600" channel="Canal 22">
+    <title lang="es">El corazón de mi tierra</title>
+    <desc lang="es">Conoce la gastronomía, bailes, textiles y atractivos turísticos de las diversas poblaciones oaxaqueñas, que se caracterizan por el semblante alegre y bravío de sus habitantes. Es aquí donde se baila, se juega y se entonan pícaros versos que hacen alarde de la vida, amor y desamor(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Cultural</category>
+  </programme>
+  <programme start="20160114083000 -0600" stop="20160114090000 -0600" channel="Canal 22">
+    <title lang="es">Talleres y oficios de México</title>
+    <desc lang="es">Serie en la que se dan a conocer el quehacer, la historia y obra, de algunos artesanos de México(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Cultural</category>
+  </programme>
+  <programme start="20160114090000 -0600" stop="20160114100000 -0600" channel="Canal 22">
+    <title lang="es">Huellas del tiempo</title>
+    <desc lang="es">Esta serie documental ofrece un recorrido por los últimos pueblos nómadas de los cinco continentes, apreciando las culturas de los khambas, golok, buriatos, tsata, darckhad, tuareg, pigmeos, sánema, entre otros(n)</desc>
+    <category lang="es">Series</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160114100000 -0600" stop="20160114103000 -0600" channel="Canal 22">
+    <title lang="es">Tratos y retratos</title>
+    <desc lang="es">Programa de entrevistas que representa el punto de encuentro ineludible entre el público y los artistas, políticos, pensadores y otras personalidades que tienen una gran relevancia en la actualidad(n)</desc>
+    <credits>
+      <actor>Silvia Lemus</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160114103000 -0600" stop="20160114110000 -0600" channel="Canal 22">
+    <title lang="es">Senderos</title>
+    <desc lang="es">Programa en el que cinco jóvenes realizan un recorrido por el sureste del país para disfrutar del turismo de aventura y conocer las comunidades originarias de la zona(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Cultural</category>
+  </programme>
+  <programme start="20160114110000 -0600" stop="20160114113000 -0600" channel="Canal 22">
+    <title lang="es">Triángulo de letras</title>
+    <desc lang="es">La Librería Rosario Castellanos del Fondo de Cultura Económica es el escenario perfecto para que escritores de todo género hablen sobre sus más recientes obras, sus anécdotas, los pormenores de la redacción, sus temas e investigación. Triángulo de letras, un programa que fomenta la lectura(n)</desc>
+    <credits>
+      <actor>Eduardo Limón</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160114113000 -0600" stop="20160114120000 -0600" channel="Canal 22">
+    <title lang="es">Con sabor a México</title>
+    <desc lang="es">Disfruta de un recorrido con sabor, a través de los diferentes estados de la República Mexicana. Descubren la inmensa gama de sabores que existen en la comida y aprendan a preparar los platillos más típicos de cada región(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Cocina</category>
+  </programme>
+  <programme start="20160114120000 -0600" stop="20160114140000 -0600" channel="Canal 22">
+    <title lang="es">Cineteca de oro 22</title>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160114140000 -0600" stop="20160114170000 -0600" channel="Canal 22">
+    <title lang="es">Clic clac!</title>
+    <desc lang="es">Los contenidos de "Clic-Clac!" proponen un equilibrio entre la educación y el entretenimiento para niños, abarcando temas importantes como lo son la ciencia, la literatura, la naturaleza, el arte y las tradiciones e historia mexicana. Siempre presentado de una forma muy creativa, tiene como principal objetivo generar confianza en los más chicos para que adquieran sus propios puntos de vista ante el mundo(n)</desc>
+    <category lang="es">Infantiles</category>
+    <category lang="es">D.Animados</category>
+  </programme>
+  <programme start="20160114170000 -0600" stop="20160114180000 -0600" channel="Canal 22">
+    <title lang="es">Huellas del tiempo</title>
+    <desc lang="es">Esta serie documental ofrece un recorrido por los últimos pueblos nómadas de los cinco continentes, apreciando las culturas de los khambas, golok, buriatos, tsata, darckhad, tuareg, pigmeos, sánema, entre otros(n)</desc>
+    <category lang="es">Series</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160114180000 -0600" stop="20160114190000 -0600" channel="Canal 22">
+    <title lang="es">A confirmar</title>
+    <category lang="es">Series</category>
+    <category lang="es">Telenovela</category>
+  </programme>
+  <programme start="20160114190000 -0600" stop="20160114200000 -0600" channel="Canal 22">
+    <title lang="es">Noticias 22</title>
+    <desc lang="es">Reconocido como el noticiario cultural de México, Noticias 22 cubre de manera periodística información que va desde las artes plásticas a las populares, sin dejar de lado los temas deportivos, políticos, económicos, científicos, tecnológicos y otros de interés nacional(n)</desc>
+    <credits>
+      <actor>Laura Barrera</actor>
+      <actor>Alejandra Flores</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160114200000 -0600" stop="20160114210000 -0600" channel="Canal 22">
+    <title lang="es">A confirmar</title>
+    <category lang="es">Series</category>
+    <category lang="es">Telenovela</category>
+  </programme>
+  <programme start="20160114210000 -0600" stop="20160114213000 -0600" channel="Canal 22">
+    <title lang="es">Pantalla de cristal</title>
+    <desc lang="es">Este programa realiza un recorrido por el mundo del video, presentando los más variados estilos, géneros, formatos y tendencias de la producción audiovisual de nuestro país(n)</desc>
+    <credits>
+      <actor>José Antonio Fernández</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160114213000 -0600" stop="20160114220000 -0600" channel="Canal 22">
+    <title lang="es">Cine secuencias</title>
+    <desc lang="es">Programa dedicado a la difusión de la actividad cinematográfica de nuestro país(n)</desc>
+    <credits>
+      <actor>Gabriela Zubludovsky</actor>
+      <actor>Gerardo Morán</actor>
+    </credits>
+    <category lang="es">Culturales</category>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160114220000 -0600" stop="20160114233000 -0600" channel="Canal 22">
+    <title lang="es">Cinema 22 mexicano</title>
+    <category lang="es">Ciclo</category>
+    <category lang="es">Película</category>
+  </programme>
+  <programme start="20160114233000 -0600" stop="20160115003000 -0600" channel="Canal 22">
+    <title lang="es">Noticias 22</title>
+    <desc lang="es">Reconocido como el noticiario cultural de México, Noticias 22 cubre de manera periodística información que va desde las artes plásticas a las populares, sin dejar de lado los temas deportivos, políticos, económicos, científicos, tecnológicos y otros de interés nacional(n)</desc>
+    <credits>
+      <actor>Laura Barrera</actor>
+      <actor>Alejandra Flores</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160115003000 -0600" stop="20160115010000 -0600" channel="Canal 22">
+    <title lang="es">BIOS: Naturaleza y sociedad</title>
+    <category lang="es">Culturales</category>
+    <category lang="es">Serie</category>
+  </programme>
+  <programme start="20160115010000 -0600" stop="20160115020000 -0600" channel="Canal 22">
+    <title lang="es">Primer acto</title>
+    <desc lang="es">El mundo del teatro, la crítica en torno a él y sus procesos de creación son presentados de manera amena en el programa Primer acto, donde la escritora y crítica de teatro Estela Leñero será colaboradora permanente de esta producción(n)</desc>
+    <credits>
+      <actor>Julio Bracho</actor>
+      <actor>Zapata Maya</actor>
+    </credits>
+    <category lang="es">Culturales</category>
+    <category lang="es">Cultural</category>
+  </programme>
+  <programme start="20160115020000 -0600" stop="20160115063000 -0600" channel="Canal 22">
+    <title lang="es">Fin de transmisión</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Interés General</category>
+  </programme>
+  <programme start="20160115063000 -0600" stop="20160115080000 -0600" channel="Canal 22">
+    <title lang="es">Noticias / méxico al día</title>
+    <desc lang="es">México al día es un noticiario que brinda información oportuna, clara y veraz de los sucesos y acontecimientos que están transformando a nuestro país. Su compromiso es ofrecer al auditorio un recuento diario de los avances y logros de México y su gente, presentando secciones de información internacional, deportes, cultura y espectáculos, entre otros(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160115080000 -0600" stop="20160115083000 -0600" channel="Canal 22">
+    <title lang="es">Ciudad de dioses</title>
+    <desc lang="es">Ciudad de Dioses es un viaje, un recorrido por las voces, los recuerdos y las historias que han sobrevivido a más de cinco siglos de silencio impuestos por la conquista. A través de charlas amenas doctores e investigadores hablan sobre los orígenes mexicas, cómo era su infraestructura, cuáles eran las funciones que desempeñaban y los vestigios que hasta el momento se han encontrado(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160115083000 -0600" stop="20160115090000 -0600" channel="Canal 22">
+    <title lang="es">Talleres y oficios de México</title>
+    <desc lang="es">Serie en la que se dan a conocer el quehacer, la historia y obra, de algunos artesanos de México(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Cultural</category>
+  </programme>
+  <programme start="20160115090000 -0600" stop="20160115100000 -0600" channel="Canal 22">
+    <title lang="es">Huellas del tiempo</title>
+    <desc lang="es">Esta serie documental ofrece un recorrido por los últimos pueblos nómadas de los cinco continentes, apreciando las culturas de los khambas, golok, buriatos, tsata, darckhad, tuareg, pigmeos, sánema, entre otros(n)</desc>
+    <category lang="es">Series</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160115100000 -0600" stop="20160115110000 -0600" channel="Canal 22">
+    <title lang="es">Piedras que hablan</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160115110000 -0600" stop="20160115113000 -0600" channel="Canal 22">
+    <title lang="es">BIOS: Naturaleza y sociedad</title>
+    <category lang="es">Culturales</category>
+    <category lang="es">Serie</category>
+  </programme>
+  <programme start="20160115113000 -0600" stop="20160115120000 -0600" channel="Canal 22">
+    <title lang="es">Con sabor a México</title>
+    <desc lang="es">Disfruta de un recorrido con sabor, a través de los diferentes estados de la República Mexicana. Descubren la inmensa gama de sabores que existen en la comida y aprendan a preparar los platillos más típicos de cada región(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Cocina</category>
+  </programme>
+  <programme start="20160115120000 -0600" stop="20160115130000 -0600" channel="Canal 22">
+    <title lang="es">Cineteca de oro 22</title>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160115130000 -0600" stop="20160115133000 -0600" channel="Canal 22">
+    <title lang="es">A confirmar</title>
+    <category lang="es">Series</category>
+    <category lang="es">Telenovela</category>
+  </programme>
+  <programme start="20160115133000 -0600" stop="20160115140000 -0600" channel="Canal 22">
+    <title lang="es">La paradoja de Cronos</title>
+    <desc lang="es">La paradoja de Cronos realiza un viaje prospectivo a partir de los avances científicos actuales. En cada emisión presenta las características de los aparatos tecnológicos, así como los objetivos de sus creaciones, pero sobre todo la forma en que modifican el comportamiento del ser humano o ayudan a mejorar su calidad de vida(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160115140000 -0600" stop="20160115170000 -0600" channel="Canal 22">
+    <title lang="es">Clic clac!</title>
+    <desc lang="es">Los contenidos de "Clic-Clac!" proponen un equilibrio entre la educación y el entretenimiento para niños, abarcando temas importantes como lo son la ciencia, la literatura, la naturaleza, el arte y las tradiciones e historia mexicana. Siempre presentado de una forma muy creativa, tiene como principal objetivo generar confianza en los más chicos para que adquieran sus propios puntos de vista ante el mundo(n)</desc>
+    <category lang="es">Infantiles</category>
+    <category lang="es">D.Animados</category>
+  </programme>
+  <programme start="20160115170000 -0600" stop="20160115180000 -0600" channel="Canal 22">
+    <title lang="es">Huellas del tiempo</title>
+    <desc lang="es">Esta serie documental ofrece un recorrido por los últimos pueblos nómadas de los cinco continentes, apreciando las culturas de los khambas, golok, buriatos, tsata, darckhad, tuareg, pigmeos, sánema, entre otros(n)</desc>
+    <category lang="es">Series</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160115180000 -0600" stop="20160115190000 -0600" channel="Canal 22">
+    <title lang="es">A confirmar</title>
+    <category lang="es">Series</category>
+    <category lang="es">Telenovela</category>
+  </programme>
+  <programme start="20160115190000 -0600" stop="20160115200000 -0600" channel="Canal 22">
+    <title lang="es">Noticias 22</title>
+    <desc lang="es">Reconocido como el noticiario cultural de México, Noticias 22 cubre de manera periodística información que va desde las artes plásticas a las populares, sin dejar de lado los temas deportivos, políticos, económicos, científicos, tecnológicos y otros de interés nacional(n)</desc>
+    <credits>
+      <actor>Laura Barrera</actor>
+      <actor>Alejandra Flores</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160115200000 -0600" stop="20160115203000 -0600" channel="Canal 22">
+    <title lang="es">Gregoria la cucaracha</title>
+    <desc lang="es">Gregoria es una mujer muy trabajadora subestimada por su jefe y su familia. Un día, encuentra un libro llamado "La Metamorfosis" y literalmente lo devora. El texto la convertirá en una cucaracha gigante que le causará grandes cambios internos. Así, comenzará a preguntarse el por qué de muchas cosas referidas a ella misma y su entorno. A través de los cambios que le produce el libro, adopta una conciencia personal y social, la cual la convierte en una mujer curiosa e inteligente que se preocupa por el planeta en el que vive(n)</desc>
+    <credits>
+      <actor>Irineo Alvarez</actor>
+      <actor>Angélica Aragón</actor>
+      <actor>Adrián Aguirre</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160115203000 -0600" stop="20160115213000 -0600" channel="Canal 22">
+    <title lang="es">Con cierto sentido</title>
+    <category lang="es">Musicales</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160115213000 -0600" stop="20160115220000 -0600" channel="Canal 22">
+    <title lang="es">La mezcladora</title>
+    <desc lang="es">Serie documental dedicada a las artes visuales y el diseño contemporáneo que difunde los esfuerzos y las obras de artistas mexicanos(n)</desc>
+    <category lang="es">Series</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160115220000 -0600" stop="20160116000000 -0600" channel="Canal 22">
+    <title lang="es">Cinema 22</title>
+    <desc lang="es">De Charles Chaplin a Wong Kar Wai. De Emilio "El indio" Fernández a Carlos Reygadas. Todas las historias, todas las miradas y todos los directores los encontrarás en Cinema 22(n)</desc>
+    <category lang="es">Ciclo</category>
+    <category lang="es">Película</category>
+  </programme>
+  <programme start="20160116000000 -0600" stop="20160116010000 -0600" channel="Canal 22">
+    <title lang="es">Noticias 22</title>
+    <desc lang="es">Reconocido como el noticiario cultural de México, Noticias 22 cubre de manera periodística información que va desde las artes plásticas a las populares, sin dejar de lado los temas deportivos, políticos, económicos, científicos, tecnológicos y otros de interés nacional(n)</desc>
+    <credits>
+      <actor>Laura Barrera</actor>
+      <actor>Alejandra Flores</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160116010000 -0600" stop="20160116013000 -0600" channel="Canal 22">
+    <title lang="es">Cine secuencias</title>
+    <desc lang="es">Programa dedicado a la difusión de la actividad cinematográfica de nuestro país(n)</desc>
+    <credits>
+      <actor>Gabriela Zubludovsky</actor>
+      <actor>Gerardo Morán</actor>
+    </credits>
+    <category lang="es">Culturales</category>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160116013000 -0600" stop="20160116023000 -0600" channel="Canal 22">
+    <title lang="es">La raíz doble</title>
+    <credits>
+      <actor>Mardonio Carballo</actor>
+    </credits>
+    <category lang="es">Culturales</category>
+    <category lang="es">Cultural</category>
+  </programme>
+  <programme start="20160116023000 -0600" stop="20160116070000 -0600" channel="Canal 22">
+    <title lang="es">Fin de transmisión</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Interés General</category>
+  </programme>
+  <programme start="20160116070000 -0600" stop="20160116090000 -0600" channel="Canal 22">
+    <title lang="es">Clic clac!</title>
+    <desc lang="es">Los contenidos de "Clic-Clac!" proponen un equilibrio entre la educación y el entretenimiento para niños, abarcando temas importantes como lo son la ciencia, la literatura, la naturaleza, el arte y las tradiciones e historia mexicana. Siempre presentado de una forma muy creativa, tiene como principal objetivo generar confianza en los más chicos para que adquieran sus propios puntos de vista ante el mundo(n)</desc>
+    <category lang="es">Infantiles</category>
+    <category lang="es">D.Animados</category>
+  </programme>
+  <programme start="20160116090000 -0600" stop="20160116093000 -0600" channel="Canal 22">
+    <title lang="es">Danza viva de Oaxaca</title>
+    <category lang="es">Culturales</category>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160116093000 -0600" stop="20160116100000 -0600" channel="Canal 22">
+    <title lang="es">Chiapanecos por el mundo</title>
+    <desc lang="es">Las historias de mexicanos del sur del país que son exitosos en sus profesiones y que radican en ciudades de Europa y Estados Unidos, revelando cómo han logrado destacarse(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160116100000 -0600" stop="20160116103000 -0600" channel="Canal 22">
+    <title lang="es">Michoacán tu si tienes de que presumir</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160116103000 -0600" stop="20160116110000 -0600" channel="Canal 22">
+    <title lang="es">Pintémos méxico</title>
+    <category lang="es">Cocina, hogar y salud</category>
+    <category lang="es">Decoración</category>
+  </programme>
+  <programme start="20160116110000 -0600" stop="20160116113000 -0600" channel="Canal 22">
+    <title lang="es">Poblanísimo</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160116113000 -0600" stop="20160116120000 -0600" channel="Canal 22">
+    <title lang="es">Inventario</title>
+    <desc lang="es">Revista semanal de las actividades más importantes de la agenda cultural y científica de la UNAM(n)</desc>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160116120000 -0600" stop="20160116130000 -0600" channel="Canal 22">
+    <title lang="es">Especial Musicales</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160116130000 -0600" stop="20160116133000 -0600" channel="Canal 22">
+    <title lang="es">Instinto animal</title>
+    <desc lang="es">Explorar la relación entre seres humanos y animales desde diversos planos: histórico, social, artístico, científico, medio ambiental, económico, de consumo, ético y de salud(n)</desc>
+    <category lang="es">Documentales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160116133000 -0600" stop="20160116140000 -0600" channel="Canal 22">
+    <title lang="es">Primer acto</title>
+    <desc lang="es">El mundo del teatro, la crítica en torno a él y sus procesos de creación son presentados de manera amena en el programa Primer acto, donde la escritora y crítica de teatro Estela Leñero será colaboradora permanente de esta producción(n)</desc>
+    <credits>
+      <actor>Julio Bracho</actor>
+      <actor>Zapata Maya</actor>
+    </credits>
+    <category lang="es">Culturales</category>
+    <category lang="es">Cultural</category>
+  </programme>
+  <programme start="20160116140000 -0600" stop="20160116160000 -0600" channel="Canal 22">
+    <title lang="es">Clic clac!</title>
+    <desc lang="es">Los contenidos de "Clic-Clac!" proponen un equilibrio entre la educación y el entretenimiento para niños, abarcando temas importantes como lo son la ciencia, la literatura, la naturaleza, el arte y las tradiciones e historia mexicana. Siempre presentado de una forma muy creativa, tiene como principal objetivo generar confianza en los más chicos para que adquieran sus propios puntos de vista ante el mundo(n)</desc>
+    <category lang="es">Infantiles</category>
+    <category lang="es">D.Animados</category>
+  </programme>
+  <programme start="20160116160000 -0600" stop="20160116190000 -0600" channel="Canal 22">
+    <title lang="es">Escenarios</title>
+    <desc lang="es">Presenta las producciones nacionales y extranjeras de la más alta calidad de la ópera, música de concierto, teatro, ballet y danza contemporánea, sin dejar de lado los festivales de las artes escénicas de México(n)</desc>
+    <credits>
+      <actor>Gerardo Kleinburg</actor>
+      <actor>José Areán</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160116190000 -0600" stop="20160116193000 -0600" channel="Canal 22">
+    <title lang="es">Triángulo de letras</title>
+    <desc lang="es">La Librería Rosario Castellanos del Fondo de Cultura Económica es el escenario perfecto para que escritores de todo género hablen sobre sus más recientes obras, sus anécdotas, los pormenores de la redacción, sus temas e investigación. Triángulo de letras, un programa que fomenta la lectura(n)</desc>
+    <credits>
+      <actor>Eduardo Limón</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160116193000 -0600" stop="20160116200000 -0600" channel="Canal 22">
+    <title lang="es">A confirmar</title>
+    <category lang="es">Series</category>
+    <category lang="es">Telenovela</category>
+  </programme>
+  <programme start="20160116200000 -0600" stop="20160116210000 -0600" channel="Canal 22">
+    <title lang="es">La dichosa palabra</title>
+    <desc lang="es">A través de una conversación sencilla y amable, los conductores de este programa retoman temas muy variados y solicitados por el público sobre el origen y uso de algunas palabras(n)</desc>
+    <credits>
+      <actor>Laura García Arroyo</actor>
+      <actor>Eduardo Casar González</actor>
+      <actor>Germán Ortega Chávez</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160116210000 -0600" stop="20160116220000 -0600" channel="Canal 22">
+    <title lang="es">Bandolera</title>
+    <desc lang="es">Historia de amor ambientada en la España de finales del siglo XIX. Sara, estudiante y soñadora, llega a Andalucía en busca de aventuras. En su camino sólo encuentra problemas y el amor de un teniente que intentará salvarla de un grupo de bandoleros(n)</desc>
+    <credits>
+      <actor>Pastora Vega</actor>
+      <actor>Carles Francino</actor>
+      <actor>Manuel Bandera</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Aventura</category>
+  </programme>
+  <programme start="20160116220000 -0600" stop="20160117000000 -0600" channel="Canal 22">
+    <title lang="es">A confirmar</title>
+    <category lang="es">Series</category>
+    <category lang="es">Telenovela</category>
+  </programme>
+  <programme start="20160117000000 -0600" stop="20160117010000 -0600" channel="Canal 22">
+    <title lang="es">La dichosa palabra</title>
+    <desc lang="es">A través de una conversación sencilla y amable, los conductores de este programa retoman temas muy variados y solicitados por el público sobre el origen y uso de algunas palabras(n)</desc>
+    <credits>
+      <actor>Laura García Arroyo</actor>
+      <actor>Eduardo Casar González</actor>
+      <actor>Germán Ortega Chávez</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160117010000 -0600" stop="20160117013000 -0600" channel="Canal 22">
+    <title lang="es">La mezcladora</title>
+    <desc lang="es">Serie documental dedicada a las artes visuales y el diseño contemporáneo que difunde los esfuerzos y las obras de artistas mexicanos(n)</desc>
+    <category lang="es">Series</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160117013000 -0600" stop="20160117020000 -0600" channel="Canal 22">
+    <title lang="es">Senderos</title>
+    <desc lang="es">Programa en el que cinco jóvenes realizan un recorrido por el sureste del país para disfrutar del turismo de aventura y conocer las comunidades originarias de la zona(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Cultural</category>
+  </programme>
+  <programme start="20160117020000 -0600" stop="20160117070000 -0600" channel="Canal 22">
+    <title lang="es">Fin de transmisión</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Interés General</category>
+  </programme>
+  <programme start="20160117070000 -0600" stop="20160117100000 -0600" channel="Canal 22">
+    <title lang="es">Clic clac!</title>
+    <desc lang="es">Los contenidos de "Clic-Clac!" proponen un equilibrio entre la educación y el entretenimiento para niños, abarcando temas importantes como lo son la ciencia, la literatura, la naturaleza, el arte y las tradiciones e historia mexicana. Siempre presentado de una forma muy creativa, tiene como principal objetivo generar confianza en los más chicos para que adquieran sus propios puntos de vista ante el mundo(n)</desc>
+    <category lang="es">Infantiles</category>
+    <category lang="es">D.Animados</category>
+  </programme>
+  <programme start="20160117100000 -0600" stop="20160117110000 -0600" channel="Canal 22">
+    <title lang="es">Mercados de comida, En las entrañas de la ciudad</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Destinos</category>
+  </programme>
+  <programme start="20160117110000 -0600" stop="20160117113000 -0600" channel="Canal 22">
+    <title lang="es">Gillette World Sport</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20160117113000 -0600" stop="20160117120000 -0600" channel="Canal 22">
+    <title lang="es">Tecnologías del deporte</title>
+    <category lang="es">Culturales</category>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160117120000 -0600" stop="20160117143000 -0600" channel="Canal 22">
+    <title lang="es">Ofunam</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160117143000 -0600" stop="20160117150000 -0600" channel="Canal 22">
+    <title lang="es">Gregoria la cucaracha</title>
+    <desc lang="es">Gregoria es una mujer muy trabajadora subestimada por su jefe y su familia. Un día, encuentra un libro llamado "La Metamorfosis" y literalmente lo devora. El texto la convertirá en una cucaracha gigante que le causará grandes cambios internos. Así, comenzará a preguntarse el por qué de muchas cosas referidas a ella misma y su entorno. A través de los cambios que le produce el libro, adopta una conciencia personal y social, la cual la convierte en una mujer curiosa e inteligente que se preocupa por el planeta en el que vive(n)</desc>
+    <credits>
+      <actor>Irineo Alvarez</actor>
+      <actor>Angélica Aragón</actor>
+      <actor>Adrián Aguirre</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160117150000 -0600" stop="20160117170000 -0600" channel="Canal 22">
+    <title lang="es">Cineteca de oro 22</title>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160117170000 -0600" stop="20160117180000 -0600" channel="Canal 22">
+    <title lang="es">Mercados de comida, En las entrañas de la ciudad</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Destinos</category>
+  </programme>
+  <programme start="20160117180000 -0600" stop="20160117183000 -0600" channel="Canal 22">
+    <title lang="es">Gillette World Sport</title>
+    <category lang="es">Noticias</category>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20160117183000 -0600" stop="20160117190000 -0600" channel="Canal 22">
+    <title lang="es">Mobil 1, The Grid</title>
+    <desc lang="es">Los pormenores del mundo del 'Motorsports' es llevado para ti con este programa de 30 minutos que te entregará las últimas noticias y entrevistas exclusivas con las estrellas de los principales seriales del mundo como la American LeMans Series (ALMS), la Mobil 1 Porsche SuperCup, la Indy Racing League (IRL), la NASCAR y la Formula 1(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Automovilismo</category>
+  </programme>
+  <programme start="20160117190000 -0600" stop="20160117200000 -0600" channel="Canal 22">
+    <title lang="es">El poder del arte</title>
+    <desc lang="es">Esta serie nos lleva en un gran viaje a sitios que nunca habíamos soñado. Una combinación de reconstrucción dramática y fotografía espectacular transporta al espectador en el tiempo hacia los momentos en que ocho grandes obras de arte fueron originadas y concebidas. Las ocho obras de arte incluidas en la serie son: El David y Goliat, de Caravaggio; El Éxtasis de Santa Teresa, de Bernini; La Conspiración de Claudius Civilus, de Rembrandt; La muerte de Marat, de David; El barco de esclavos, de Turner; Autorretrato, de Van Gogh; El Guernica, de Picasso y Los Murales de Seagram, de Rothko(n)</desc>
+    <credits>
+      <actor>Simon Schama</actor>
+    </credits>
+    <category lang="es">Culturales</category>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160117200000 -0600" stop="20160117210000 -0600" channel="Canal 22">
+    <title lang="es">Con cierto sentido</title>
+    <category lang="es">Musicales</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160117210000 -0600" stop="20160117223000 -0600" channel="Canal 22">
+    <title lang="es">Bailando al límite</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160117223000 -0600" stop="20160118063000 -0600" channel="Canal 22">
+    <title lang="es">A confirmar</title>
+    <category lang="es">Series</category>
+    <category lang="es">Telenovela</category>
+  </programme>
+  <programme start="20160118063000 -0600" stop="20160118080000 -0600" channel="Canal 22">
+    <title lang="es">Noticias / méxico al día</title>
+    <desc lang="es">México al día es un noticiario que brinda información oportuna, clara y veraz de los sucesos y acontecimientos que están transformando a nuestro país. Su compromiso es ofrecer al auditorio un recuento diario de los avances y logros de México y su gente, presentando secciones de información internacional, deportes, cultura y espectáculos, entre otros(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160118080000 -0600" stop="20160118083000 -0600" channel="Canal 22">
+    <title lang="es">N.C.I. Noticias</title>
+    <desc lang="es">Las noticias culturales iberoamericanas dan a conocer los diferentes actores culturales de Iberoamérica, haciendo énfasis en aspectos creativos y en la agenda cultural. el informativo abarca temas tan diversos como música, cine, ciencia, etc(n)</desc>
+    <category lang="es">Noticias</category>
+    <category lang="es">Interés General</category>
+  </programme>
+  <programme start="20160118083000 -0600" stop="20160118090000 -0600" channel="Canal 22">
+    <title lang="es">Talleres y oficios de México</title>
+    <desc lang="es">Serie en la que se dan a conocer el quehacer, la historia y obra, de algunos artesanos de México(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Cultural</category>
+  </programme>
+  <programme start="20160118090000 -0600" stop="20160118100000 -0600" channel="Canal 22">
+    <title lang="es">Huellas del tiempo</title>
+    <desc lang="es">Esta serie documental ofrece un recorrido por los últimos pueblos nómadas de los cinco continentes, apreciando las culturas de los khambas, golok, buriatos, tsata, darckhad, tuareg, pigmeos, sánema, entre otros(n)</desc>
+    <category lang="es">Series</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160118100000 -0600" stop="20160118110000 -0600" channel="Canal 22">
+    <title lang="es">La dichosa palabra</title>
+    <desc lang="es">A través de una conversación sencilla y amable, los conductores de este programa retoman temas muy variados y solicitados por el público sobre el origen y uso de algunas palabras(n)</desc>
+    <credits>
+      <actor>Laura García Arroyo</actor>
+      <actor>Eduardo Casar González</actor>
+      <actor>Germán Ortega Chávez</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160118110000 -0600" stop="20160118113000 -0600" channel="Canal 22">
+    <title lang="es">La mezcladora</title>
+    <desc lang="es">Serie documental dedicada a las artes visuales y el diseño contemporáneo que difunde los esfuerzos y las obras de artistas mexicanos(n)</desc>
+    <category lang="es">Series</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160118113000 -0600" stop="20160118120000 -0600" channel="Canal 22">
+    <title lang="es">Con sabor a México</title>
+    <desc lang="es">Disfruta de un recorrido con sabor, a través de los diferentes estados de la República Mexicana. Descubren la inmensa gama de sabores que existen en la comida y aprendan a preparar los platillos más típicos de cada región(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Cocina</category>
+  </programme>
+  <programme start="20160118120000 -0600" stop="20160118140000 -0600" channel="Canal 22">
+    <title lang="es">Cineteca de oro 22</title>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160118140000 -0600" stop="20160118170000 -0600" channel="Canal 22">
+    <title lang="es">Clic clac!</title>
+    <desc lang="es">Los contenidos de "Clic-Clac!" proponen un equilibrio entre la educación y el entretenimiento para niños, abarcando temas importantes como lo son la ciencia, la literatura, la naturaleza, el arte y las tradiciones e historia mexicana. Siempre presentado de una forma muy creativa, tiene como principal objetivo generar confianza en los más chicos para que adquieran sus propios puntos de vista ante el mundo(n)</desc>
+    <category lang="es">Infantiles</category>
+    <category lang="es">D.Animados</category>
+  </programme>
+  <programme start="20160118170000 -0600" stop="20160118180000 -0600" channel="Canal 22">
+    <title lang="es">Huellas del tiempo</title>
+    <desc lang="es">Esta serie documental ofrece un recorrido por los últimos pueblos nómadas de los cinco continentes, apreciando las culturas de los khambas, golok, buriatos, tsata, darckhad, tuareg, pigmeos, sánema, entre otros(n)</desc>
+    <category lang="es">Series</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160118180000 -0600" stop="20160118190000 -0600" channel="Canal 22">
+    <title lang="es">A confirmar</title>
+    <category lang="es">Series</category>
+    <category lang="es">Telenovela</category>
+  </programme>
+  <programme start="20160118190000 -0600" stop="20160118200000 -0600" channel="Canal 22">
+    <title lang="es">Noticias 22</title>
+    <desc lang="es">Reconocido como el noticiario cultural de México, Noticias 22 cubre de manera periodística información que va desde las artes plásticas a las populares, sin dejar de lado los temas deportivos, políticos, económicos, científicos, tecnológicos y otros de interés nacional(n)</desc>
+    <credits>
+      <actor>Laura Barrera</actor>
+      <actor>Alejandra Flores</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160118200000 -0600" stop="20160118210000 -0600" channel="Canal 22">
+    <title lang="es">A confirmar</title>
+    <category lang="es">Series</category>
+    <category lang="es">Telenovela</category>
+  </programme>
+  <programme start="20160118210000 -0600" stop="20160118220000 -0600" channel="Canal 22">
+    <title lang="es">Dostoyevski</title>
+    <desc lang="es">En 1849 Fedor Dostoievski es detenido por pertenecer al Círculo Petrashevski, al que se acusa de conspirar contra el zar Nicolás I. en el último momento la sentencia de muerte es conmutada por cinco años de trabajos forzados en Siberia y otros tantos como militar en Kazajistán. Las condiciones infrahumanas del encierro en su perspectiva moral que afectará a su producción litería posterior. Una labor que puede retomar casi diez años después cuando el zar Alejandro II decreta una amnistía que le permite continuar publicando su obra(n)</desc>
+    <category lang="es">Series</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160118220000 -0600" stop="20160118233000 -0600" channel="Canal 22">
+    <title lang="es">Cinema 22</title>
+    <desc lang="es">De Charles Chaplin a Wong Kar Wai. De Emilio "El indio" Fernández a Carlos Reygadas. Todas las historias, todas las miradas y todos los directores los encontrarás en Cinema 22(n)</desc>
+    <category lang="es">Ciclo</category>
+    <category lang="es">Película</category>
   </programme>
 </tv>
