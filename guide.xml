@@ -162,6 +162,7 @@
   </channel>
   <channel id="Cinemax (W)">
     <display-name lang="es">Cinemax (W)</display-name>
+    <icon src="http://x.cdn.entutele.com/media/channels/big/cinemax-w.gif" />
     <url>http://www.entutele.com</url>
   </channel>
   <channel id="ClaroSports">
@@ -53762,6 +53763,1059 @@
   <programme start="20160118230000 -0600" stop="20160118233500 -0600" channel="Cinemax (O)">
     <title lang="es">House of Lies</title>
     <sub-title lang="es">Restos</sub-title>
+    <desc lang="es">Marty Kaan es un experto, exitoso y agresivo asesor empresarial que trabaja para las compañías más grandes del mundo, y que es capaz de hacer cualquier cosa con tal de conseguir la información demandada por sus clientes. Por su parte, cuenta con la ayuda de su asistente Jeannie, una joven recién graduada que utiliza sus seductores encantos para obtener lo que desea(n)</desc>
+    <credits>
+      <actor>Don Cheadle</actor>
+      <actor>Kristen Bell</actor>
+      <actor>Ben Schwartz</actor>
+      <actor>Stephen Hopkins</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160111021300 -0600" stop="20160111040700 -0600" channel="Cinemax (W)">
+    <title lang="es">THX 1138</title>
+    <desc lang="es">En un deshumanizado mundo del futuro la humanidad ha sido degradada por el abuso de las drogas. El gobierno manipula con enervantes a la gente, pero una pareja que se conoció por computadora, descubre el amor y el afecto(n)</desc>
+    <credits>
+      <actor>Donald Pleasence</actor>
+      <actor>Ian Wolfe</actor>
+      <actor>Robert Duvall</actor>
+      <actor>George Lucas</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">C.Ficción</category>
+  </programme>
+  <programme start="20160111040700 -0600" stop="20160111055000 -0600" channel="Cinemax (W)">
+    <title lang="es">9 (Nine)</title>
+    <desc lang="es">Cuando 9 llega a la vida, se encuentra en un mundo pos- apocalíptico donde los humanos han desaparecido, y solo por causalidad es que descubre una pequeña comunidad de otros como él(n)</desc>
+    <credits>
+      <actor>Martin Landau</actor>
+      <actor>Christopher Plummer</actor>
+      <actor>Elijah Wood</actor>
+      <actor>Shane Acker</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Animación</category>
+  </programme>
+  <programme start="20160111055000 -0600" stop="20160111062000 -0600" channel="Cinemax (W)">
+    <title lang="es">The Hollywood News Report</title>
+    <desc lang="es">Tus estrellas estarán más cerca de ti que nunca, pues el mundo del espectáculo de Hollywood no podrá ocultar los secretos y detalles importantes sobre sus vidas(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20160111062000 -0600" stop="20160111102500 -0600" channel="Cinemax (W)">
+    <title lang="es">King Kong</title>
+    <desc lang="es">Ann Darrow es una actriz de vodevil que se queda sin trabajo durante la Gran Depresión en Nueva York (1933). Su suerte cambia cuando conoce a Carl Denham, un empresario, cuentista, aventurero y cineasta que lucha para abrirse camino en el mundo del espectáculo. Jack Driscoll es un autor de teatro neoyorquino convertido en el héroe improbable de una aventura romántica en la que deberá demostrar su valor y bondad. Todos se embarcan en una expedición que los llevará a una remota isla para el rodaje de la película que Denham va a dirigir. Allí descubren a un ser increíble, un gorila gigante conocido como King Kong, que habita en una frondosa selva donde criaturas prehistóricas han vivido protegidas y ocultas durante millones de años. Denham, con un apetito insaciable de grandeza, enseguida ve(n)</desc>
+    <credits>
+      <actor>Adrien Brody</actor>
+      <actor>Jack Black</actor>
+      <actor>Naomi Watts</actor>
+      <actor>Peter Jackson</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Acción</category>
+  </programme>
+  <programme start="20160111102500 -0600" stop="20160111102500 -0600" channel="Cinemax (W)">
+    <title lang="es">Invasión</title>
+    <desc lang="es">En un futuro lejano, donde ha triunfado el totalitarismo como forma de gobierno, un joven se alista en el ejército poco antes de que estalle la guerra contra una raza alienígena de insectos que se librará lejos de la Tierra(n)</desc>
+    <credits>
+      <actor>Casper Van Dien</actor>
+      <actor>Michael Ironside</actor>
+      <actor>Marshall Bell</actor>
+      <actor>Paul Verhoeven</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">C.Ficción</category>
+  </programme>
+  <programme start="20160111102500 -0600" stop="20160111131000 -0600" channel="Cinemax (W)">
+    <title lang="es">Invasión</title>
+    <desc lang="es">En un futuro lejano, donde ha triunfado el totalitarismo como forma de gobierno, un joven se alista en el ejército poco antes de que estalle la guerra contra una raza alienígena de insectos que se librará lejos de la Tierra(n)</desc>
+    <credits>
+      <actor>Casper Van Dien</actor>
+      <actor>Michael Ironside</actor>
+      <actor>Marshall Bell</actor>
+      <actor>Paul Verhoeven</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">C.Ficción</category>
+  </programme>
+  <programme start="20160111131000 -0600" stop="20160111155500 -0600" channel="Cinemax (W)">
+    <title lang="es">El quinto elemento</title>
+    <desc lang="es">La vida es amenazada por la llegada del diablo en forma de amenaza extraterrestre. Sólo el 'quinto elemento' puede hace que el mal no extinga la vida en la Tierra, algo que intenta cada mil años(n)</desc>
+    <credits>
+      <actor>Milla Jovovich</actor>
+      <actor>Bruce Willis</actor>
+      <actor>Luc Besson</actor>
+      <actor>Gary Oldman</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">C.Ficción</category>
+  </programme>
+  <programme start="20160111155500 -0600" stop="20160111200000 -0600" channel="Cinemax (W)">
+    <title lang="es">King Kong</title>
+    <desc lang="es">Ann Darrow es una actriz de vodevil que se queda sin trabajo durante la Gran Depresión en Nueva York (1933). Su suerte cambia cuando conoce a Carl Denham, un empresario, cuentista, aventurero y cineasta que lucha para abrirse camino en el mundo del espectáculo. Jack Driscoll es un autor de teatro neoyorquino convertido en el héroe improbable de una aventura romántica en la que deberá demostrar su valor y bondad. Todos se embarcan en una expedición que los llevará a una remota isla para el rodaje de la película que Denham va a dirigir. Allí descubren a un ser increíble, un gorila gigante conocido como King Kong, que habita en una frondosa selva donde criaturas prehistóricas han vivido protegidas y ocultas durante millones de años. Denham, con un apetito insaciable de grandeza, enseguida ve(n)</desc>
+    <credits>
+      <actor>Adrien Brody</actor>
+      <actor>Jack Black</actor>
+      <actor>Naomi Watts</actor>
+      <actor>Peter Jackson</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Acción</category>
+  </programme>
+  <programme start="20160111200000 -0600" stop="20160111225500 -0600" channel="Cinemax (W)">
+    <title lang="es">Cazadores de sombras - Ciudad de Hueso</title>
+    <desc lang="es">Película dirigida por Harald Zwart y basada en la novela del mismo nombre de la escritora norteamericana Cassandra Clare. La historia se centra en Clary Fray, una chica que vive en Brooklyn y que una noche ve como un extraño personaje lleno de tatuajes hace desaparecer un cuerpo. Descubrirá que se trata de Jace, un cazador de sombras, un ser mitad ángel, mitad humano que tiene el objetivo de aniquilar a todos los demonios para proteger a la humanidad(n)</desc>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Fantasía</category>
+  </programme>
+  <programme start="20160111225500 -0600" stop="20160112020000 -0600" channel="Cinemax (W)">
+    <title lang="es">Ángeles y demonios</title>
+    <desc lang="es">El profesor de simbología religiosa Robert Langdon se ve pronto sumido en la búsqueda de secretos de una antigua secta satánica denominada Illuminati y por la búsqueda del arma más mortífera de la humanidad (antimateria) que estos han puesto en el Vaticano. Con unas pocas horas para evitar el desastre, unos misteriosos ambigramas y con un asesino que siempre lleva la delantera, Langdon y una científica italiana se ponen en una carrera contra el reloj(n)</desc>
+    <credits>
+      <actor>Ewan McGregor</actor>
+      <actor>Ron Howard</actor>
+      <actor>Ayelet Zurer</actor>
+      <actor>Tom Hanks</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Acción</category>
+  </programme>
+  <programme start="20160112020000 -0600" stop="20160112043500 -0600" channel="Cinemax (W)">
+    <title lang="es">Frenesí</title>
+    <desc lang="es">En el Támesis ha aparecido una mujer estrangulada con síntomas de violación. Días más tarde aparece el cadáver de la Sra. Blaney, estrangulada también, dueña de una agencia matrimonial que contacta parejas con fines matrimoniales(n)</desc>
+    <credits>
+      <actor>Jon Finch</actor>
+      <actor>Alec McCowen</actor>
+      <actor>Anna Massey</actor>
+      <actor>Alfred Hitchcock</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Terror y Suspenso</category>
+  </programme>
+  <programme start="20160112043500 -0600" stop="20160112050500 -0600" channel="Cinemax (W)">
+    <title lang="es">The Hollywood News Report</title>
+    <desc lang="es">Tus estrellas estarán más cerca de ti que nunca, pues el mundo del espectáculo de Hollywood no podrá ocultar los secretos y detalles importantes sobre sus vidas(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20160112050500 -0600" stop="20160112052000 -0600" channel="Cinemax (W)">
+    <title lang="es">Sembradores de optimismo</title>
+    <sub-title lang="es">El Arca</sub-title>
+    <desc lang="es">HBO presenta Sembradores de Optimismo, una iniciativa dedicada a difundir la obra de organizaciones que tienen éxito en sus luchas contra los problemas sociales en sus países(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160112052000 -0600" stop="20160112072500 -0600" channel="Cinemax (W)">
+    <title lang="es">Redline</title>
+    <desc lang="es">Una bella mujer, líder de una banda de música que aún no tiene manager, se ve envuelta en una competencia ilegal de carreras de coches que se llevan a cabo para entretener a millonarios aburridos(n)</desc>
+    <credits>
+      <actor>Nadia Bjorlin</actor>
+      <actor>Angus Macfadyen</actor>
+      <actor>Nathan Phillips</actor>
+      <actor>Andy Cheng</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Acción</category>
+  </programme>
+  <programme start="20160112072500 -0600" stop="20160112094500 -0600" channel="Cinemax (W)">
+    <title lang="es">Tiro al blanco</title>
+    <desc lang="es">Martin es un tipo frío y calculador que un día optó por trabajar como asesino para ganarse la vida. Pero ahora ha comenzado a replantearse su carrera profesional. Por ello, regresa a su ciudad natal(n)</desc>
+    <credits>
+      <actor>John Cusack</actor>
+      <actor>Alan Arkin</actor>
+      <actor>Dan Aykroyd</actor>
+      <actor>George Armitage</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160112094500 -0600" stop="20160112101800 -0600" channel="Cinemax (W)">
+    <title lang="es">The Hollywood News Report</title>
+    <desc lang="es">Tus estrellas estarán más cerca de ti que nunca, pues el mundo del espectáculo de Hollywood no podrá ocultar los secretos y detalles importantes sobre sus vidas(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20160112101800 -0600" stop="20160112101800 -0600" channel="Cinemax (W)">
+    <title lang="es">Una loca competencia</title>
+    <desc lang="es">Un antiguo campeón de ping pong es reclutado por el gobierno de los EE.UU. para participar en un torneo en China y poner al descubierto a una red criminal que además causó la muerte de su padre(n)</desc>
+    <credits>
+      <actor>George Lopez</actor>
+      <actor>Robert Patrick</actor>
+      <actor>Christhoper Walken</actor>
+      <actor>Robert Ben Garant</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Acción</category>
+  </programme>
+  <programme start="20160112101800 -0600" stop="20160112122000 -0600" channel="Cinemax (W)">
+    <title lang="es">Una loca competencia</title>
+    <desc lang="es">Un antiguo campeón de ping pong es reclutado por el gobierno de los EE.UU. para participar en un torneo en China y poner al descubierto a una red criminal que además causó la muerte de su padre(n)</desc>
+    <credits>
+      <actor>George Lopez</actor>
+      <actor>Robert Patrick</actor>
+      <actor>Christhoper Walken</actor>
+      <actor>Robert Ben Garant</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Acción</category>
+  </programme>
+  <programme start="20160112122000 -0600" stop="20160112150000 -0600" channel="Cinemax (W)">
+    <title lang="es">Mujer Bonita</title>
+    <desc lang="es">Julia Roberts protagoniza a una joven y desafortunada prostituta, cuyo encuentro casual con un empresario apuesto y millonario lleva a ambos a una relación amorosa insostenible(n)</desc>
+    <credits>
+      <actor>Ralph Bellamy</actor>
+      <actor>Richard Gere</actor>
+      <actor>Julia Roberts</actor>
+      <actor>Garry Marshall</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160112150000 -0600" stop="20160112173700 -0600" channel="Cinemax (W)">
+    <title lang="es">Volver al futuro 3</title>
+    <desc lang="es">La conclusión de la trilogía envía a Marty McFly a una misión de rescate al viejo oeste en el año 1885, en donde debe salvar al Doc Brown de ser asesinado de manos de otro miembro del clan Tannen(n)</desc>
+    <credits>
+      <actor>Michael J. Fox</actor>
+      <actor>Lea Thompson</actor>
+      <actor>Robert Zemeckis</actor>
+      <actor>Christopher Lloyd</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">C.Ficción</category>
+  </programme>
+  <programme start="20160112173700 -0600" stop="20160112200000 -0600" channel="Cinemax (W)">
+    <title lang="es">Super Agente 86</title>
+    <desc lang="es">El Agente Maxwell Smart y la sexy Agente 99 son dos superespías que luchan por salvar al mundo de las fuerzas del mal encarnada en KAOS, en esta comedia basada en el clásico televisivo creado por Mel Brooks y Buck Henry(n)</desc>
+    <credits>
+      <actor>Steve Carell</actor>
+      <actor>Dwayne Johnson</actor>
+      <actor>Anne Hathaway</actor>
+      <actor>Peter Segal</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160112200000 -0600" stop="20160112223500 -0600" channel="Cinemax (W)">
+    <title lang="es">Virgen a los 40</title>
+    <desc lang="es">Mientras sus amigos tratan de ayudar a que Andy termine con su virginidad a los 40 años, él conoce a Trish, una mujer que ha decidido no tener relaciones sexuales durante el noviazgo(n)</desc>
+    <credits>
+      <actor>Paul Rudd</actor>
+      <actor>Catherine Keener</actor>
+      <actor>Steven Carell</actor>
+      <actor>Judd Apatow</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160112223500 -0600" stop="20160113004000 -0600" channel="Cinemax (W)">
+    <title lang="es">Tres Tipos Duros</title>
+    <desc lang="es">Un asesino a sueldo es liberado de prisión y decide irse de juerga con sus dos mejores amigos, que se dedican a lo mismo. Lo que no sabe es que uno de ellos tiene la misión de eliminarlo(n)</desc>
+    <credits>
+      <actor>Al Pacino</actor>
+      <actor>Alan Arkin</actor>
+      <actor>Fisher Stevens</actor>
+      <actor>Christopher Walken</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160113004000 -0600" stop="20160113024500 -0600" channel="Cinemax (W)">
+    <title lang="es">Deudas de sangre</title>
+    <desc lang="es">Un hombre se enfrenta al peor día de su vida: su novia le avisa que está embarazada, el cobrador de la mafia le da 24 horas para liquidar sus deudas y, accidentalmente, se queda con el teléfono de un matón al que persiguen dos asesinos para liquidarlo(n)</desc>
+    <credits>
+      <actor>Billy Zane</actor>
+      <actor>Elena Anaya</actor>
+      <actor>Gary Oldman</actor>
+      <actor>Charley Stadler</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Terror y Suspenso</category>
+  </programme>
+  <programme start="20160113024500 -0600" stop="20160113030000 -0600" channel="Cinemax (W)">
+    <title lang="es">Sembradores de optimismo</title>
+    <sub-title lang="es">El Arca</sub-title>
+    <desc lang="es">HBO presenta Sembradores de Optimismo, una iniciativa dedicada a difundir la obra de organizaciones que tienen éxito en sus luchas contra los problemas sociales en sus países(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160113030000 -0600" stop="20160113050500 -0600" channel="Cinemax (W)">
+    <title lang="es">Die Konferenz der Tiere</title>
+    <desc lang="es">Historia inspirada en el libro "la conferencia de los animales", del escritor Erich Kästner. Los animales, hartos de que los humanos les quiten el agua para utilizarla en sus intereses comerciales, se reúnen con el fin de idear un plan que acabe con esa situación(n)</desc>
+    <credits>
+      <actor>Vanessa Redgrave</actor>
+      <actor>Stephen Fry</actor>
+      <actor>Holger Tappe</actor>
+      <actor>Sven Severin</actor>
+      <actor>Reinhard Klooss</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Animación</category>
+  </programme>
+  <programme start="20160113050500 -0600" stop="20160113072000 -0600" channel="Cinemax (W)">
+    <title lang="es">Kit Kittredge: an american girl</title>
+    <desc lang="es">Debido a la recesión en EEUU, el padre de Kit pierde su trabajo y se muda de ciudad. Junto a su madre, Kit tratará de que las cosas mejoren. Cuando una ola de crímenes barra la ciudad, Kit no descansará hasta resolver el misterio(n)</desc>
+    <credits>
+      <actor>Julia Ormond</actor>
+      <actor>Chris O' Donnell</actor>
+      <actor>Abigail Breslin</actor>
+      <actor>Patricia Rozema</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160113072000 -0600" stop="20160113094500 -0600" channel="Cinemax (W)">
+    <title lang="es">High School Musical 3: La Graduación</title>
+    <desc lang="es">Troy y Gabriella, alumnos del último curso, se enfrentan a la perspectiva de la separación ya que ambos emprenderán caminos diferentes en la universidad. Con ayuda del resto de los Wildcats, realizan un elaborado musical de primavera que refleja sus experiencias, sus esperanzas y sus inquietudes ante el futuro(n)</desc>
+    <credits>
+      <actor>Ashley Tisdale</actor>
+      <actor>Zac Efron</actor>
+      <actor>Vanessa Hudgens</actor>
+      <actor>Kenny Ortega</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160113094500 -0600" stop="20160113094500 -0600" channel="Cinemax (W)">
+    <title lang="es">La momia</title>
+    <desc lang="es">El aventurero Rick O'Connell es liberado de la prisión por Evelyn, una bella egiptólogo británica, y su hermano Jonathan, para encontrar la ciudad de Hamunaptra, donde Imhotep sufrió un final peor que la muerte(n)</desc>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Fantasía</category>
+  </programme>
+  <programme start="20160113094500 -0600" stop="20160113123000 -0600" channel="Cinemax (W)">
+    <title lang="es">La momia</title>
+    <desc lang="es">El aventurero Rick O'Connell es liberado de la prisión por Evelyn, una bella egiptólogo británica, y su hermano Jonathan, para encontrar la ciudad de Hamunaptra, donde Imhotep sufrió un final peor que la muerte(n)</desc>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Fantasía</category>
+  </programme>
+  <programme start="20160113123000 -0600" stop="20160113144500 -0600" channel="Cinemax (W)">
+    <title lang="es">Reign Of Fire</title>
+    <desc lang="es">Quinn tenía 12 años, en la Londres actual, cuando fue testigo de cómo su madre, despertaba involuntariamente a un dragón de su letargo de siglos. Veinte años más tarde todavía pueden apreciarse las devastadoras heridas que causaron la bestia y sus vástagos prácticamente en todo el mundo. Los dragones son extremadamente inteligentes, muy evolucionados y no tienen ninguna intención de compartir el planeta. Quinn se ha convertido en jefe de un grupo de resistencia y es el responsable de mantener a las bestias alejadas de una pequeña comunidad(n)</desc>
+    <credits>
+      <actor>Christian Bale</actor>
+      <actor>Matthew McConaughey</actor>
+      <actor>Rob Bowman</actor>
+      <actor>Izabella Scorupco</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">C.Ficción</category>
+  </programme>
+  <programme start="20160113144500 -0600" stop="20160113170500 -0600" channel="Cinemax (W)">
+    <title lang="es">Rápido y furioso: reto Tokyo</title>
+    <desc lang="es">Shaun Boswell es un chico que no acaba de encajar en ningún grupo. Su única conexión con el mundo de indiferencia que le rodea es a través de las carreras ilegales, lo que no lo convierte en el chico favorito de la policía. Cuando amenazan con arrestarlo, es enviado a vivir a Tokio, donde no tarda en involucrarse con el mundo de las carreras de autos. Su peor decisión será entrometerce con los Yakuza, la mafia japonesa(n)</desc>
+    <credits>
+      <actor>Zachery Ty Brian</actor>
+      <actor>Lucas Black</actor>
+      <actor>Brandon Brendel</actor>
+      <actor>Justin Lin</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Acción</category>
+  </programme>
+  <programme start="20160113170500 -0600" stop="20160113200000 -0600" channel="Cinemax (W)">
+    <title lang="es">Miami Vice</title>
+    <desc lang="es">Los agentes Crockett y Tubbs investigan las muertes de una pareja de agentes federales y de la familia de un informante. La investigación los lleva a infiltrarse como traficantes de drogas en el sur de la Florida. El bajo mundo los seduce, y ellos deberán averiguar de qué lado de la ley prefieren estar(n)</desc>
+    <credits>
+      <actor>Li Gong</actor>
+      <actor>Jamie Foxx</actor>
+      <actor>Colin Farrell</actor>
+      <actor>Michael Mann</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Acción</category>
+  </programme>
+  <programme start="20160113200000 -0600" stop="20160113222000 -0600" channel="Cinemax (W)">
+    <title lang="es">Paranoia</title>
+    <desc lang="es">Adam es un joven muy ambicioso. Tras ser despedido de Wyatt Mobile, el dueño le propone volver, pero para espiar a la competencia a cambio de mucho dinero. Adam se encontrará en medio de dos implacables magnates y estará en riesgo cada segundo(n)</desc>
+    <category lang="es">Cine</category>
+    <category lang="es">Película</category>
+  </programme>
+  <programme start="20160113222000 -0600" stop="20160114010500 -0600" channel="Cinemax (W)">
+    <title lang="es">La momia</title>
+    <desc lang="es">El aventurero Rick O'Connell es liberado de la prisión por Evelyn, una bella egiptólogo británica, y su hermano Jonathan, para encontrar la ciudad de Hamunaptra, donde Imhotep sufrió un final peor que la muerte(n)</desc>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Fantasía</category>
+  </programme>
+  <programme start="20160114010500 -0600" stop="20160114031000 -0600" channel="Cinemax (W)">
+    <title lang="es">Primitivo</title>
+    <desc lang="es">El equipo de un noticiero de televisión americano se va a África para hacer un reportaje sobre un enorme cocodrilo que ha acabado con la vida de cientos de personas. El peligro aumentará cuando se sumerjan en el río y se aproximen al reptil(n)</desc>
+    <credits>
+      <actor>Orlando Jones</actor>
+      <actor>Dominic Purcell</actor>
+      <actor>Brooke Langton</actor>
+      <actor>Michael Katleman</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Terror y Suspenso</category>
+  </programme>
+  <programme start="20160114031000 -0600" stop="20160114054500 -0600" channel="Cinemax (W)">
+    <title lang="es">Extremos en Aspen</title>
+    <desc lang="es">Dos amigos, aburridos de Detroit, deciden irse a buscar nuevas aventuras a Aspen. Aprovecharán el invierno para enseñar a esquiar a las personas adineradas que visitan esa prestigiosa estación(n)</desc>
+    <credits>
+      <actor>Peter Berg</actor>
+      <actor>Paul Gross</actor>
+      <actor>Martin Kemp</actor>
+      <actor>Patrick Hasburgh</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Acción</category>
+  </programme>
+  <programme start="20160114054500 -0600" stop="20160114060000 -0600" channel="Cinemax (W)">
+    <title lang="es">Sembradores de optimismo</title>
+    <sub-title lang="es">El Arca</sub-title>
+    <desc lang="es">HBO presenta Sembradores de Optimismo, una iniciativa dedicada a difundir la obra de organizaciones que tienen éxito en sus luchas contra los problemas sociales en sus países(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160114060000 -0600" stop="20160114073500 -0600" channel="Cinemax (W)">
+    <title lang="es">Iron Man y Hulk: Heroes Unidos</title>
+    <desc lang="es">El invencible Iron Man y el increíble Hulk deben unir sus fuerzas para salvar el planeta y derrotar a las amenazas más grandes(n)</desc>
+    <credits>
+      <actor>Dee Bradley Baker</actor>
+      <actor>Fred Tatasciore</actor>
+      <actor>Eric Radomski</actor>
+      <actor>Adrian Pasdar</actor>
+      <actor>Leo Riley</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Animación</category>
+  </programme>
+  <programme start="20160114073500 -0600" stop="20160114092000 -0600" channel="Cinemax (W)">
+    <title lang="es">9 (Nine)</title>
+    <desc lang="es">Cuando 9 llega a la vida, se encuentra en un mundo pos- apocalíptico donde los humanos han desaparecido, y solo por causalidad es que descubre una pequeña comunidad de otros como él(n)</desc>
+    <credits>
+      <actor>Martin Landau</actor>
+      <actor>Christopher Plummer</actor>
+      <actor>Elijah Wood</actor>
+      <actor>Shane Acker</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Animación</category>
+  </programme>
+  <programme start="20160114092000 -0600" stop="20160114092000 -0600" channel="Cinemax (W)">
+    <title lang="es">Invasión</title>
+    <desc lang="es">En un futuro lejano, donde ha triunfado el totalitarismo como forma de gobierno, un joven se alista en el ejército poco antes de que estalle la guerra contra una raza alienígena de insectos que se librará lejos de la Tierra(n)</desc>
+    <credits>
+      <actor>Casper Van Dien</actor>
+      <actor>Michael Ironside</actor>
+      <actor>Marshall Bell</actor>
+      <actor>Paul Verhoeven</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">C.Ficción</category>
+  </programme>
+  <programme start="20160114092000 -0600" stop="20160114120500 -0600" channel="Cinemax (W)">
+    <title lang="es">Invasión</title>
+    <desc lang="es">En un futuro lejano, donde ha triunfado el totalitarismo como forma de gobierno, un joven se alista en el ejército poco antes de que estalle la guerra contra una raza alienígena de insectos que se librará lejos de la Tierra(n)</desc>
+    <credits>
+      <actor>Casper Van Dien</actor>
+      <actor>Michael Ironside</actor>
+      <actor>Marshall Bell</actor>
+      <actor>Paul Verhoeven</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">C.Ficción</category>
+  </programme>
+  <programme start="20160114120500 -0600" stop="20160114141000 -0600" channel="Cinemax (W)">
+    <title lang="es">El juez</title>
+    <desc lang="es">Sylverter Stallone da vida al juez Dredd, un hombre dispuesto a luchar por la ley ante la corrupción que amenaza la supervivencia en la ciudad(n)</desc>
+    <credits>
+      <actor>Sylvester Stallone</actor>
+      <actor>Rob Schneider</actor>
+      <actor>Jürgen Prochnow</actor>
+      <actor>Danny Cannon</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Acción</category>
+  </programme>
+  <programme start="20160114141000 -0600" stop="20160114165500 -0600" channel="Cinemax (W)">
+    <title lang="es">El quinto elemento</title>
+    <desc lang="es">La vida es amenazada por la llegada del diablo en forma de amenaza extraterrestre. Sólo el 'quinto elemento' puede hace que el mal no extinga la vida en la Tierra, algo que intenta cada mil años(n)</desc>
+    <credits>
+      <actor>Milla Jovovich</actor>
+      <actor>Bruce Willis</actor>
+      <actor>Luc Besson</actor>
+      <actor>Gary Oldman</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">C.Ficción</category>
+  </programme>
+  <programme start="20160114165500 -0600" stop="20160114200000 -0600" channel="Cinemax (W)">
+    <title lang="es">Los Juegos del Hambre</title>
+    <desc lang="es">Katniss Everdeen vive en la nación Panem, regida por un imponente Capitolio. Cada año, dos representantes (hombre y mujer), de cada uno de los 12 distritos que conforman la nación, deben enfrentarse en los Juegos del Hambre. Katniss se presentará como voluntaria para proteger a su hermana, ahora su misión será luchar a muerte contra sus rivales y sobrevivir(n)</desc>
+    <credits>
+      <actor>Wes Bentley</actor>
+      <actor>Jennifer Lawrence</actor>
+      <actor>Stanley Tucci</actor>
+      <actor>Gary Ross</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">C.Ficción</category>
+  </programme>
+  <programme start="20160114200000 -0600" stop="20160114215500 -0600" channel="Cinemax (W)">
+    <title lang="es">El Búnker 3</title>
+    <desc lang="es">Tercera parte de la saga "Outpost", dirigida por Kieran Parker. Cuenta el origen de los monstruosos soldados nazis sobrenaturales y muestra la feroz batalla contra una de las más despiadadas y notorias fuerzas militares, la Rusia Spetsnaz(n)</desc>
+    <credits>
+      <actor>Bryan Larkin</actor>
+      <actor>Iván Kamarás</actor>
+      <actor>Michael McKell</actor>
+      <actor>Kieran Parker</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">C.Ficción</category>
+  </programme>
+  <programme start="20160114215500 -0600" stop="20160115011000 -0600" channel="Cinemax (W)">
+    <title lang="es">Perfume: The Story of a Murderer</title>
+    <desc lang="es">Jean-Baptiste nació en mitad del hedor de los restos de pescado y fue abandonado por su madre en la basura. Pero había algo que le hacía diferente: No tenía olor. Sin embargo, poseía un olfato excepcional. A los 20 años consigue trabajar para el perfumero Baldini , quien le enseña a destilar esencias. A cambio de fórmulas de nuevas fragancias, Baldini le escribe una carta de recomendación para que pueda aprender el arte de enfleurage en la capital mundial del perfume: Grasse. Una vez allí, conseguirá su objetivo: un magnífico perfume cuyo ingrediente es la esencia de jóvenes muchachas(n)</desc>
+    <credits>
+      <actor>Ben Whishaw</actor>
+      <actor>Dustin Hoffman</actor>
+      <actor>Tom Tykwer</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Thriller</category>
+  </programme>
+  <programme start="20160115011000 -0600" stop="20160115025500 -0600" channel="Cinemax (W)">
+    <title lang="es">Instinto Siniestro</title>
+    <desc lang="es">Luego de la muerte de su esposo cuatro meses antes, Sarah se prepara para dar a luz y pasa la Noche buena sola en su casa. Cuando una extraña mujer comience a acosarla, Sarah tendrá que luchar por su vida y la de su bebé(n)</desc>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Terror y Suspenso</category>
+  </programme>
+  <programme start="20160115025500 -0600" stop="20160115032500 -0600" channel="Cinemax (W)">
+    <title lang="es">The Hollywood News Report</title>
+    <desc lang="es">Tus estrellas estarán más cerca de ti que nunca, pues el mundo del espectáculo de Hollywood no podrá ocultar los secretos y detalles importantes sobre sus vidas(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20160115032500 -0600" stop="20160115053000 -0600" channel="Cinemax (W)">
+    <title lang="es">El Club De Los Cinco</title>
+    <desc lang="es">En esta comedia dramática con Molly Ringwald, una de las adolescentes más populares del cine de los años 80, cinco estudiantes castigados deben permanecer en la escuela durante un sábado. Además, tiene que escribir un ensayo de mil palabras sobre sí mismos. Al principio, se muestran reticentes a realizar la tarea, pero poco a poco se dan cuenta de que cada uno tiene historias y sueños para contar(n)</desc>
+    <credits>
+      <actor>Emilio Estevez</actor>
+      <actor>Paul Gleason</actor>
+      <actor>Anthony Michael Hall</actor>
+      <actor>John Hughes</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160115053000 -0600" stop="20160115073000 -0600" channel="Cinemax (W)">
+    <title lang="es">Ant Bully - Las aventuras de Lucas</title>
+    <desc lang="es">A Lucas Nicle, un niño de 10 años, todo le sale mal. Hace poco se mudó a una nueva ciudad con su familia y no tiene amigos. Lucas saca sus frustraciones destruyendo hormigueros en su jardín, sin saber que está a punto de vivir una gran aventura(n)</desc>
+    <credits>
+      <actor>Nicolas Cage</actor>
+      <actor>Julia Roberts</actor>
+      <actor>Meryl Streep</actor>
+      <actor>John A. Davis</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Animación</category>
+  </programme>
+  <programme start="20160115073000 -0600" stop="20160115094500 -0600" channel="Cinemax (W)">
+    <title lang="es">Cambio de hábito</title>
+    <desc lang="es">Tras presenciar un asesinato, una cantante de Las Vegas, es escondida por la policía en el último lugar donde los criminales la buscarían: un convento. Al comprobar que la vocación de la nueva hermana no es exactamente religiosa, la Madre Superiora intenta limitar su influencia sobre las otras internas incorporándola al coro. Pronto, no sólo consigue revitalizar el coro, sino que no demora en convertirse en una celebridad. El problema es que, gracias a su popularidad, la mafia descubre su paradero(n)</desc>
+    <credits>
+      <actor>Maggie Smith</actor>
+      <actor>Kathy Najimy</actor>
+      <actor>Whoopi Goldberg</actor>
+      <actor>Emile Ardolino</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160115094500 -0600" stop="20160115094500 -0600" channel="Cinemax (W)">
+    <title lang="es">La venganza del conde de Montecristo</title>
+    <desc lang="es">El joven marinero, Edmond es ingenuo y honesto. Hasta que un día, su vida pacífica y sus planes de casarse con la bella Mercedes son destrozados por su mejor amigo Fernand, quien lo traiciona para quedarse con Mercedes(n)</desc>
+    <credits>
+      <actor>Guy Pearce</actor>
+      <actor>Richard Harris</actor>
+      <actor>Kevin Reynolds</actor>
+      <actor>Jim Caviezel</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160115094500 -0600" stop="20160115124000 -0600" channel="Cinemax (W)">
+    <title lang="es">La venganza del conde de Montecristo</title>
+    <desc lang="es">El joven marinero, Edmond es ingenuo y honesto. Hasta que un día, su vida pacífica y sus planes de casarse con la bella Mercedes son destrozados por su mejor amigo Fernand, quien lo traiciona para quedarse con Mercedes(n)</desc>
+    <credits>
+      <actor>Guy Pearce</actor>
+      <actor>Richard Harris</actor>
+      <actor>Kevin Reynolds</actor>
+      <actor>Jim Caviezel</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160115124000 -0600" stop="20160115154500 -0600" channel="Cinemax (W)">
+    <title lang="es">Ángeles y demonios</title>
+    <desc lang="es">El profesor de simbología religiosa Robert Langdon se ve pronto sumido en la búsqueda de secretos de una antigua secta satánica denominada Illuminati y por la búsqueda del arma más mortífera de la humanidad (antimateria) que estos han puesto en el Vaticano. Con unas pocas horas para evitar el desastre, unos misteriosos ambigramas y con un asesino que siempre lleva la delantera, Langdon y una científica italiana se ponen en una carrera contra el reloj(n)</desc>
+    <credits>
+      <actor>Ewan McGregor</actor>
+      <actor>Ron Howard</actor>
+      <actor>Ayelet Zurer</actor>
+      <actor>Tom Hanks</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Acción</category>
+  </programme>
+  <programme start="20160115154500 -0600" stop="20160115180000 -0600" channel="Cinemax (W)">
+    <title lang="es">Reign Of Fire</title>
+    <desc lang="es">Quinn tenía 12 años, en la Londres actual, cuando fue testigo de cómo su madre, despertaba involuntariamente a un dragón de su letargo de siglos. Veinte años más tarde todavía pueden apreciarse las devastadoras heridas que causaron la bestia y sus vástagos prácticamente en todo el mundo. Los dragones son extremadamente inteligentes, muy evolucionados y no tienen ninguna intención de compartir el planeta. Quinn se ha convertido en jefe de un grupo de resistencia y es el responsable de mantener a las bestias alejadas de una pequeña comunidad(n)</desc>
+    <credits>
+      <actor>Christian Bale</actor>
+      <actor>Matthew McConaughey</actor>
+      <actor>Rob Bowman</actor>
+      <actor>Izabella Scorupco</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">C.Ficción</category>
+  </programme>
+  <programme start="20160115180000 -0600" stop="20160115200000 -0600" channel="Cinemax (W)">
+    <title lang="es">The Librarian: The Curse of the Judas Chalice</title>
+    <desc lang="es">Flynn Carsen, el experto bibliotecario, viaja a los misteriosos pantanos de Nueva Orleans en busca del cáliz de Judas, una copa de plata que, según la leyenda, tenía el poder de devolver la vida al mismísimo príncipe Drácula. Tercera entrega de la serie de películas de aventuras protagonizada por Noah Wyle, "The Librarian". En esta ocasión, el héroe de la saga se enfrentará a una horda de vampiros(n)</desc>
+    <credits>
+      <actor>Talia Shire</actor>
+      <actor>Bob Newhart</actor>
+      <actor>Noah Wyle</actor>
+      <actor>Jonathan Frakes</actor>
+      <actor>Stana Katic</actor>
+      <actor>Bruce Davison</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Fantasía</category>
+  </programme>
+  <programme start="20160115200000 -0600" stop="20160115225500 -0600" channel="Cinemax (W)">
+    <title lang="es">Cazadores de sombras - Ciudad de Hueso</title>
+    <desc lang="es">Película dirigida por Harald Zwart y basada en la novela del mismo nombre de la escritora norteamericana Cassandra Clare. La historia se centra en Clary Fray, una chica que vive en Brooklyn y que una noche ve como un extraño personaje lleno de tatuajes hace desaparecer un cuerpo. Descubrirá que se trata de Jace, un cazador de sombras, un ser mitad ángel, mitad humano que tiene el objetivo de aniquilar a todos los demonios para proteger a la humanidad(n)</desc>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Fantasía</category>
+  </programme>
+  <programme start="20160115225500 -0600" stop="20160116011000 -0600" channel="Cinemax (W)">
+    <title lang="es">Legion</title>
+    <desc lang="es">El apocalipsis ha llegado finalmente a la Tierra. No hay posibilidad de escapar a las fuerzas del mal. La última línea de resistencia se encuentra en un restaurante perdido al suroeste de los Estados Unidos. Allí, un grupo de desconocidos lamenta su suerte y espera la muerte con resignación. Hasta que descubren que la camarera del restaurante está embarazada del Mesías(n)</desc>
+    <credits>
+      <actor>Tyrese Gibson</actor>
+      <actor>Lucas Black</actor>
+      <actor>Paul Bettany</actor>
+      <actor>Scott Charles Stewart</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Acción</category>
+  </programme>
+  <programme start="20160116011000 -0600" stop="20160116031000 -0600" channel="Cinemax (W)">
+    <title lang="es">Sin aliento</title>
+    <desc lang="es">Dale decide no compartir el botín de 100.000 dólares de su último robo con su esposa Lorna. Ella decide matarlo, pero necesita la ayuda de su amiga Tiny para deshacerse del cuerpo antes de que la policía se entere de lo sucedido(n)</desc>
+    <credits>
+      <actor>Val Kilmer</actor>
+      <actor>Kelli Giddish</actor>
+      <actor>Gina Gershon</actor>
+      <actor>Jesse Baget</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160116031000 -0600" stop="20160116032500 -0600" channel="Cinemax (W)">
+    <title lang="es">Sembradores de optimismo</title>
+    <sub-title lang="es">El Arca</sub-title>
+    <desc lang="es">HBO presenta Sembradores de Optimismo, una iniciativa dedicada a difundir la obra de organizaciones que tienen éxito en sus luchas contra los problemas sociales en sus países(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160116032500 -0600" stop="20160116055100 -0600" channel="Cinemax (W)">
+    <title lang="es">Verdugo De Dragones</title>
+    <desc lang="es">El Rey hace un pacto con el dragón para que este último abandone el reino a cambio de sacrificar a las doncellas. Llega un hechicero y se ofrece a matar al monstruo para salvar a la próxima generación de doncellas(n)</desc>
+    <credits>
+      <actor>Caitlin Clarke</actor>
+      <actor>Peter Macnicol</actor>
+      <actor>Matthew Robbins</actor>
+      <actor>John Hallam</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Acción</category>
+  </programme>
+  <programme start="20160116055100 -0600" stop="20160116062000 -0600" channel="Cinemax (W)">
+    <title lang="es">The Hollywood News Report</title>
+    <desc lang="es">Tus estrellas estarán más cerca de ti que nunca, pues el mundo del espectáculo de Hollywood no podrá ocultar los secretos y detalles importantes sobre sus vidas(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20160116062000 -0600" stop="20160116084000 -0600" channel="Cinemax (W)">
+    <title lang="es">Rápido y furioso: reto Tokyo</title>
+    <desc lang="es">Shaun Boswell es un chico que no acaba de encajar en ningún grupo. Su única conexión con el mundo de indiferencia que le rodea es a través de las carreras ilegales, lo que no lo convierte en el chico favorito de la policía. Cuando amenazan con arrestarlo, es enviado a vivir a Tokio, donde no tarda en involucrarse con el mundo de las carreras de autos. Su peor decisión será entrometerce con los Yakuza, la mafia japonesa(n)</desc>
+    <credits>
+      <actor>Zachery Ty Brian</actor>
+      <actor>Lucas Black</actor>
+      <actor>Brandon Brendel</actor>
+      <actor>Justin Lin</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Acción</category>
+  </programme>
+  <programme start="20160116084000 -0600" stop="20160116084000 -0600" channel="Cinemax (W)">
+    <title lang="es">King Kong</title>
+    <desc lang="es">Ann Darrow es una actriz de vodevil que se queda sin trabajo durante la Gran Depresión en Nueva York (1933). Su suerte cambia cuando conoce a Carl Denham, un empresario, cuentista, aventurero y cineasta que lucha para abrirse camino en el mundo del espectáculo. Jack Driscoll es un autor de teatro neoyorquino convertido en el héroe improbable de una aventura romántica en la que deberá demostrar su valor y bondad. Todos se embarcan en una expedición que los llevará a una remota isla para el rodaje de la película que Denham va a dirigir. Allí descubren a un ser increíble, un gorila gigante conocido como King Kong, que habita en una frondosa selva donde criaturas prehistóricas han vivido protegidas y ocultas durante millones de años. Denham, con un apetito insaciable de grandeza, enseguida ve(n)</desc>
+    <credits>
+      <actor>Adrien Brody</actor>
+      <actor>Jack Black</actor>
+      <actor>Naomi Watts</actor>
+      <actor>Peter Jackson</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Acción</category>
+  </programme>
+  <programme start="20160116084000 -0600" stop="20160116124700 -0600" channel="Cinemax (W)">
+    <title lang="es">King Kong</title>
+    <desc lang="es">Ann Darrow es una actriz de vodevil que se queda sin trabajo durante la Gran Depresión en Nueva York (1933). Su suerte cambia cuando conoce a Carl Denham, un empresario, cuentista, aventurero y cineasta que lucha para abrirse camino en el mundo del espectáculo. Jack Driscoll es un autor de teatro neoyorquino convertido en el héroe improbable de una aventura romántica en la que deberá demostrar su valor y bondad. Todos se embarcan en una expedición que los llevará a una remota isla para el rodaje de la película que Denham va a dirigir. Allí descubren a un ser increíble, un gorila gigante conocido como King Kong, que habita en una frondosa selva donde criaturas prehistóricas han vivido protegidas y ocultas durante millones de años. Denham, con un apetito insaciable de grandeza, enseguida ve(n)</desc>
+    <credits>
+      <actor>Adrien Brody</actor>
+      <actor>Jack Black</actor>
+      <actor>Naomi Watts</actor>
+      <actor>Peter Jackson</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Acción</category>
+  </programme>
+  <programme start="20160116124700 -0600" stop="20160116152500 -0600" channel="Cinemax (W)">
+    <title lang="es">Volver al futuro 3</title>
+    <desc lang="es">La conclusión de la trilogía envía a Marty McFly a una misión de rescate al viejo oeste en el año 1885, en donde debe salvar al Doc Brown de ser asesinado de manos de otro miembro del clan Tannen(n)</desc>
+    <credits>
+      <actor>Michael J. Fox</actor>
+      <actor>Lea Thompson</actor>
+      <actor>Robert Zemeckis</actor>
+      <actor>Christopher Lloyd</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">C.Ficción</category>
+  </programme>
+  <programme start="20160116152500 -0600" stop="20160116174500 -0600" channel="Cinemax (W)">
+    <title lang="es">Dark Water</title>
+    <desc lang="es">Dahlia Williams comienza una nueva vida con un nuevo empleo y un nuevo departamento. Está decidida a olvidarse de su relación con su ex esposo y dedicarse a la crianza de su hija Ceci. Pero cuando la separación se convierte en una agria disputa por la custodia de la niña, ruidos misteriosos, goteos de agua oscura y extraños sucesos en el departamento hacen que su imaginación se descontrole. Mientras Dahlia investiga frenéticamente la relación entre esos enigmas, el agua oscura pareciera rodearla. Sin embargo sin importarle lo que ocurra nada le impedirá encontrar las causas del misterio(n)</desc>
+    <credits>
+      <actor>Jennifer Connelly</actor>
+      <actor>John C. Reilly</actor>
+      <actor>Tim Roth</actor>
+      <actor>Walter Salles</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Terror</category>
+  </programme>
+  <programme start="20160116174500 -0600" stop="20160116200000 -0600" channel="Cinemax (W)">
+    <title lang="es">House at the End of the Street</title>
+    <desc lang="es">Una mujer se muda con su hija hacia una nueva vida. Lo que no saben es que el oscuro y siniestro pasado de la casa lindera las puede atrapar para revivir una historia macabra(n)</desc>
+    <credits>
+      <actor>Elisabeth Shue</actor>
+      <actor>Jennifer Lawrence</actor>
+      <actor>Max Thieriot</actor>
+      <actor>Mark Tonderai</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Terror</category>
+  </programme>
+  <programme start="20160116200000 -0600" stop="20160116220500 -0600" channel="Cinemax (W)">
+    <title lang="es">Tú eres el siguiente</title>
+    <desc lang="es">La familia Davison disfruta unos días de descanso en una casa apartada y de pronto entran unos sujetos enmascarados con la intención de matarlos. Los asesinos no imaginan que una de las invitadas podría convertirse en su amenaza y no en su víctima(n)</desc>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Terror y Suspenso</category>
+  </programme>
+  <programme start="20160116220500 -0600" stop="20160117000000 -0600" channel="Cinemax (W)">
+    <title lang="es">El Búnker 3</title>
+    <desc lang="es">Tercera parte de la saga "Outpost", dirigida por Kieran Parker. Cuenta el origen de los monstruosos soldados nazis sobrenaturales y muestra la feroz batalla contra una de las más despiadadas y notorias fuerzas militares, la Rusia Spetsnaz(n)</desc>
+    <credits>
+      <actor>Bryan Larkin</actor>
+      <actor>Iván Kamarás</actor>
+      <actor>Michael McKell</actor>
+      <actor>Kieran Parker</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">C.Ficción</category>
+  </programme>
+  <programme start="20160117000000 -0600" stop="20160117015500 -0600" channel="Cinemax (W)">
+    <title lang="es">The Strangers</title>
+    <desc lang="es">Tras asistir a una boda, una pareja se instala en una residencia vacacional aislada. En medio de la noche, alguien toca a la puerta; a partir de allí comienza la violenta invasión de tres agresores(n)</desc>
+    <credits>
+      <actor>Liv Tyler</actor>
+      <actor>Glenn Howerton</actor>
+      <actor>Scott Speedman</actor>
+      <actor>Bryan Bertino</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160117015500 -0600" stop="20160117035500 -0600" channel="Cinemax (W)">
+    <title lang="es">Only God Forgives</title>
+    <desc lang="es">En Bangkok, Julian, un fugitivo de la justicia estadounidense, dirige un club de boxeo tailandés que actúa como tapadera para su tráfico de estupefacientes. Su madre, jefe de una amplia organización criminal, desembarca procedente de Estados Unidos para repatriar el cuerpo de su hijo favorito, Billy: el hermano de Julian ha sido asesinado tras haber masacrado salvajemente a una joven prostituta. Llena de odio y venganza, exige a Julian la cabeza de los asesinos. Julian deberán entonces enfrentarse a Chang, un extraño policía jubilado, adulado por los demás policías(n)</desc>
+    <credits>
+      <actor>Kristin Scott Thomas</actor>
+      <actor>Ryan Gosling</actor>
+      <actor>Nicolas Winding Refn</actor>
+      <actor>Vithaya Pansringarm</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Thriller</category>
+  </programme>
+  <programme start="20160117035500 -0600" stop="20160117041000 -0600" channel="Cinemax (W)">
+    <title lang="es">Sembradores de optimismo</title>
+    <sub-title lang="es">El Arca</sub-title>
+    <desc lang="es">HBO presenta Sembradores de Optimismo, una iniciativa dedicada a difundir la obra de organizaciones que tienen éxito en sus luchas contra los problemas sociales en sus países(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160117041000 -0600" stop="20160117060500 -0600" channel="Cinemax (W)">
+    <title lang="es">Back to Gaya</title>
+    <desc lang="es">Gaya es un lugar en donde la vida de sus habitantes depende de un cristal. Cuando la piedra desaparece, tres gayanos y la princesa Alanta intentarán recuperarla antes de que su mundo desaparezca(n)</desc>
+    <credits>
+      <actor>Glenn Wrage</actor>
+      <actor>Emily Watson</actor>
+      <actor>Holger Tappe</actor>
+      <actor>Lenard Fritz Krawinkel</actor>
+      <actor>Patrick Stewart</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Aventura</category>
+  </programme>
+  <programme start="20160117060500 -0600" stop="20160117062000 -0600" channel="Cinemax (W)">
+    <title lang="es">Sembradores de optimismo</title>
+    <sub-title lang="es">El Arca</sub-title>
+    <desc lang="es">HBO presenta Sembradores de Optimismo, una iniciativa dedicada a difundir la obra de organizaciones que tienen éxito en sus luchas contra los problemas sociales en sus países(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160117062000 -0600" stop="20160117090000 -0600" channel="Cinemax (W)">
+    <title lang="es">Volver al futuro 3</title>
+    <desc lang="es">La conclusión de la trilogía envía a Marty McFly a una misión de rescate al viejo oeste en el año 1885, en donde debe salvar al Doc Brown de ser asesinado de manos de otro miembro del clan Tannen(n)</desc>
+    <credits>
+      <actor>Michael J. Fox</actor>
+      <actor>Lea Thompson</actor>
+      <actor>Robert Zemeckis</actor>
+      <actor>Christopher Lloyd</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">C.Ficción</category>
+  </programme>
+  <programme start="20160117090000 -0600" stop="20160117114500 -0600" channel="Cinemax (W)">
+    <title lang="es">Batman y Robin</title>
+    <desc lang="es">Batman sale de su lujosa residencia para salvar a ciudad Gothica de las congelantes hazañas del pingüino y sus secuaces. Pero junto con Batichica y Robin, logran vencerlos(n)</desc>
+    <credits>
+      <actor>George Clooney</actor>
+      <actor>Arnold Schwarzenegger</actor>
+      <actor>Chris O’Donnell</actor>
+      <actor>Joel Schumacher</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Acción</category>
+  </programme>
+  <programme start="20160117114500 -0600" stop="20160117114500 -0600" channel="Cinemax (W)">
+    <title lang="es">Los suplentes</title>
+    <desc lang="es">Los jugadores del Washington Sentinels se declaran en huelga. El propietario contrata a un viejo entrenador para que forme un equipo de suplentes. Contra todo pronóstico se convierten en los héroes de la temporada(n)</desc>
+    <credits>
+      <actor>Gene Hackman</actor>
+      <actor>Keanu Reeves</actor>
+      <actor>Howard Deutch</actor>
+      <actor>Jon Favreau</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160117114500 -0600" stop="20160117142500 -0600" channel="Cinemax (W)">
+    <title lang="es">Los suplentes</title>
+    <desc lang="es">Los jugadores del Washington Sentinels se declaran en huelga. El propietario contrata a un viejo entrenador para que forme un equipo de suplentes. Contra todo pronóstico se convierten en los héroes de la temporada(n)</desc>
+    <credits>
+      <actor>Gene Hackman</actor>
+      <actor>Keanu Reeves</actor>
+      <actor>Howard Deutch</actor>
+      <actor>Jon Favreau</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160117142500 -0600" stop="20160117172000 -0600" channel="Cinemax (W)">
+    <title lang="es">Duro de matar: la venganza</title>
+    <desc lang="es">El oficial de policía McClane recorre Nueva York, junto con el civil Zeus Carver, para evitar que un criminal con la identidad de Simon atente contra los habitantes de la ciudad. Ambos se verán envueltos en un peligroso juego motivado por la venganza. Tercer filme de la trilogía "Duro de matar", protagonizado por Bruce Willis, Samuel L. Jackson y el ganador del Oscar Jeremy Irons(n)</desc>
+    <credits>
+      <actor>Bruce Willis</actor>
+      <actor>Stephen Pearlman</actor>
+      <actor>John Hoyt</actor>
+      <actor>John McTiernan</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Acción</category>
+  </programme>
+  <programme start="20160117172000 -0600" stop="20160117200000 -0600" channel="Cinemax (W)">
+    <title lang="es">Ataque a la Casa Blanca</title>
+    <desc lang="es">Cuando un grupo de terroristas invada la Casa Blanca y tome de rehén al presidente de los Estados Unidos, solo un hombre, un ex agente de seguridad, podrá detener la amenaza y evitar que el país quede sumido en la anarquía(n)</desc>
+    <credits>
+      <actor>Gerard Butler</actor>
+      <actor>Morgan Freeman</actor>
+      <actor>Aaron Eckhart</actor>
+      <actor>Antoine Fuqua</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Acción</category>
+  </programme>
+  <programme start="20160117200000 -0600" stop="20160117222000 -0600" channel="Cinemax (W)">
+    <title lang="es">Rápidos y Furiosos 4</title>
+    <desc lang="es">Un crimen y un enemigo mutuo hará que Dominic Toretto, un fugitivo exconvicto, y el agente del FBI, Brian O'Conner, se unan de nuevo para vencerlo. La mejor forma de obtener su victoria será rompiendo los límites detrás del volante(n)</desc>
+    <credits>
+      <actor>Michelle Rodriguez</actor>
+      <actor>Paul Walker</actor>
+      <actor>Vin Diesel</actor>
+      <actor>Justin Lin</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Acción</category>
+  </programme>
+  <programme start="20160117222000 -0600" stop="20160118002500 -0600" channel="Cinemax (W)">
+    <title lang="es">Tú eres el siguiente</title>
+    <desc lang="es">La familia Davison disfruta unos días de descanso en una casa apartada y de pronto entran unos sujetos enmascarados con la intención de matarlos. Los asesinos no imaginan que una de las invitadas podría convertirse en su amenaza y no en su víctima(n)</desc>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Terror y Suspenso</category>
+  </programme>
+  <programme start="20160118002500 -0600" stop="20160118021000 -0600" channel="Cinemax (W)">
+    <title lang="es">Husk</title>
+    <desc lang="es">Husk nos contará la historia de cinco amigos de viaje de fin de semana, que se verán perdidos en medio del campo cuando unos cuervos ataquen su vehículo. Pronto se darán cuenta que los maizales están habitados por reanimados espantapájaros que se reproducen matando y forzando a sus víctimas a unirse a ellos(n)</desc>
+    <credits>
+      <actor>C.j. Thomason</actor>
+      <actor>Devon Graye</actor>
+      <actor>Wes Chatham</actor>
+      <actor>Brett Simmons</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Terror</category>
+  </programme>
+  <programme start="20160118021000 -0600" stop="20160118024000 -0600" channel="Cinemax (W)">
+    <title lang="es">The Hollywood News Report</title>
+    <desc lang="es">Tus estrellas estarán más cerca de ti que nunca, pues el mundo del espectáculo de Hollywood no podrá ocultar los secretos y detalles importantes sobre sus vidas(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20160118024000 -0600" stop="20160118053500 -0600" channel="Cinemax (W)">
+    <title lang="es">Zona de miedo</title>
+    <desc lang="es">Narra el día a día de una brigada estadounidense especializada en la desactivación de explosivos desplegada en Irak. Una unidad de élite de artificieros que se ve inmersa dentro de una caótica ciudad donde cualquiera puede ser un potencial enemigo y cualquier objeto puede ser una bomba(n)</desc>
+    <credits>
+      <actor>Guy Pearce</actor>
+      <actor>Kathryn Bigelow</actor>
+      <actor>Jeremy Renner</actor>
+      <actor>Ralph Fiennes</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Acción</category>
+  </programme>
+  <programme start="20160118053500 -0600" stop="20160118073000 -0600" channel="Cinemax (W)">
+    <title lang="es">Cielos turbulentos</title>
+    <desc lang="es">Un avión, que está equipado con un nuevo equipo de navegación, está a punto de tener su primer vuelo. El avión parece estar funcionando bien, pero, de repente, se desvía de su curso. Cuando los militares se enteran de esto, temen lo que podría pasar y deciden derribarlo con todos a bordo(n)</desc>
+    <credits>
+      <actor>Brad Dourif</actor>
+      <actor>Fred Olen Ray</actor>
+      <actor>Nicole Eggert</actor>
+      <actor>Casper Van Dien</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Terror y Suspenso</category>
+  </programme>
+  <programme start="20160118073000 -0600" stop="20160118074500 -0600" channel="Cinemax (W)">
+    <title lang="es">Sembradores de optimismo</title>
+    <sub-title lang="es">El Arca</sub-title>
+    <desc lang="es">HBO presenta Sembradores de Optimismo, una iniciativa dedicada a difundir la obra de organizaciones que tienen éxito en sus luchas contra los problemas sociales en sus países(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160118074500 -0600" stop="20160118093000 -0600" channel="Cinemax (W)">
+    <title lang="es">Duro de Espiar</title>
+    <desc lang="es">El Súper Agente WD-40, quien tiene que entrar en acción para atrapar al malvado general Rancor y salvar a la humanidad de su diabólico plan. Para esto contará con la ayuda de la misteriosa agente 3.14. ¿Podrán ellos detenerlo?(n)</desc>
+    <credits>
+      <actor>Nicolette Sheridan</actor>
+      <actor>Charles Durning</actor>
+      <actor>Leslie Nielsen</actor>
+      <actor>Rick Friedberg</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160118093000 -0600" stop="20160118093000 -0600" channel="Cinemax (W)">
+    <title lang="es">Riesgo en el aire</title>
+    <desc lang="es">Cameron Poe, un ex soldado de las fuerzas especiales, regresa a casa después de haber permanecido ocho años en prisión por haber matado accidentalmente a un hombre que estaba molestando a su mujer. Pero su regreso se complica(n)</desc>
+    <credits>
+      <actor>John Cusack</actor>
+      <actor>Nicolas Cage</actor>
+      <actor>John Malkovich</actor>
+      <actor>Simon West</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Acción</category>
+  </programme>
+  <programme start="20160118093000 -0600" stop="20160118120500 -0600" channel="Cinemax (W)">
+    <title lang="es">Riesgo en el aire</title>
+    <desc lang="es">Cameron Poe, un ex soldado de las fuerzas especiales, regresa a casa después de haber permanecido ocho años en prisión por haber matado accidentalmente a un hombre que estaba molestando a su mujer. Pero su regreso se complica(n)</desc>
+    <credits>
+      <actor>John Cusack</actor>
+      <actor>Nicolas Cage</actor>
+      <actor>John Malkovich</actor>
+      <actor>Simon West</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Acción</category>
+  </programme>
+  <programme start="20160118120500 -0600" stop="20160118145000 -0600" channel="Cinemax (W)">
+    <title lang="es">Avión Presidencial</title>
+    <desc lang="es">En pleno vuelo oficial, el avión presidencial de los Estados Unidos es secuestrado por criminales rusos, luego de que el presidente americano diera un discurso en Moscú. El Presidente y su tripulación intentan retomar control sobre la nave en una acción que, en tierra, tiene a la Casa Blanca fuera de control(n)</desc>
+    <credits>
+      <actor>Glenn Close</actor>
+      <actor>Harrison Ford</actor>
+      <actor>Wolfgang Petersen</actor>
+      <actor>Gary Oldman</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Acción</category>
+  </programme>
+  <programme start="20160118145000 -0600" stop="20160118174500 -0600" channel="Cinemax (W)">
+    <title lang="es">Cazadores de sombras - Ciudad de Hueso</title>
+    <desc lang="es">Película dirigida por Harald Zwart y basada en la novela del mismo nombre de la escritora norteamericana Cassandra Clare. La historia se centra en Clary Fray, una chica que vive en Brooklyn y que una noche ve como un extraño personaje lleno de tatuajes hace desaparecer un cuerpo. Descubrirá que se trata de Jace, un cazador de sombras, un ser mitad ángel, mitad humano que tiene el objetivo de aniquilar a todos los demonios para proteger a la humanidad(n)</desc>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Fantasía</category>
+  </programme>
+  <programme start="20160118174500 -0600" stop="20160118194500 -0600" channel="Cinemax (W)">
+    <title lang="es">The Librarian: The Curse of the Judas Chalice</title>
+    <desc lang="es">Flynn Carsen, el experto bibliotecario, viaja a los misteriosos pantanos de Nueva Orleans en busca del cáliz de Judas, una copa de plata que, según la leyenda, tenía el poder de devolver la vida al mismísimo príncipe Drácula. Tercera entrega de la serie de películas de aventuras protagonizada por Noah Wyle, "The Librarian". En esta ocasión, el héroe de la saga se enfrentará a una horda de vampiros(n)</desc>
+    <credits>
+      <actor>Talia Shire</actor>
+      <actor>Bob Newhart</actor>
+      <actor>Noah Wyle</actor>
+      <actor>Jonathan Frakes</actor>
+      <actor>Stana Katic</actor>
+      <actor>Bruce Davison</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Fantasía</category>
+  </programme>
+  <programme start="20160118194500 -0600" stop="20160118220000 -0600" channel="Cinemax (W)">
+    <title lang="es">Legion</title>
+    <desc lang="es">El apocalipsis ha llegado finalmente a la Tierra. No hay posibilidad de escapar a las fuerzas del mal. La última línea de resistencia se encuentra en un restaurante perdido al suroeste de los Estados Unidos. Allí, un grupo de desconocidos lamenta su suerte y espera la muerte con resignación. Hasta que descubren que la camarera del restaurante está embarazada del Mesías(n)</desc>
+    <credits>
+      <actor>Tyrese Gibson</actor>
+      <actor>Lucas Black</actor>
+      <actor>Paul Bettany</actor>
+      <actor>Scott Charles Stewart</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Acción</category>
+  </programme>
+  <programme start="20160118220000 -0600" stop="20160118223500 -0600" channel="Cinemax (W)">
+    <title lang="es">House of Lies</title>
+    <sub-title lang="es">Restos</sub-title>
+    <desc lang="es">Marty Kaan es un experto, exitoso y agresivo asesor empresarial que trabaja para las compañías más grandes del mundo, y que es capaz de hacer cualquier cosa con tal de conseguir la información demandada por sus clientes. Por su parte, cuenta con la ayuda de su asistente Jeannie, una joven recién graduada que utiliza sus seductores encantos para obtener lo que desea(n)</desc>
+    <credits>
+      <actor>Don Cheadle</actor>
+      <actor>Kristen Bell</actor>
+      <actor>Ben Schwartz</actor>
+      <actor>Stephen Hopkins</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160118223500 -0600" stop="20160118231500 -0600" channel="Cinemax (W)">
+    <title lang="es">House of Lies</title>
+    <sub-title lang="es">Power</sub-title>
     <desc lang="es">Marty Kaan es un experto, exitoso y agresivo asesor empresarial que trabaja para las compañías más grandes del mundo, y que es capaz de hacer cualquier cosa con tal de conseguir la información demandada por sus clientes. Por su parte, cuenta con la ayuda de su asistente Jeannie, una joven recién graduada que utiliza sus seductores encantos para obtener lo que desea(n)</desc>
     <credits>
       <actor>Don Cheadle</actor>
