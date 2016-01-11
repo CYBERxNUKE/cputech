@@ -142,6 +142,7 @@
   </channel>
   <channel id="Cine Latino">
     <display-name lang="es">Cine Latino</display-name>
+    <icon src="http://z.cdn.entutele.com/media/channels/big/cine-latino.gif" />
     <url>http://www.entutele.com</url>
   </channel>
   <channel id="Cinecanal HD">
@@ -48964,5 +48965,1287 @@
   <programme start="20160118090000 -0600" stop="20160118210000 -0600" channel="CCTV">
     <title lang="es">CCTV</title>
     <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160111024000 -0600" stop="20160111042000 -0600" channel="Cine Latino">
+    <title lang="es">Se nos armó la gorda</title>
+    <desc lang="es">La gorda Fabiola recibe una supuesta propuesta de trabajo en la ciudad de San Francisco. Al llegar es secuestrada por una pandilla, contratada por un príncipe árabe a quien le gustan las mujeres con unos kilitos de más(n)</desc>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160111042000 -0600" stop="20160111060000 -0600" channel="Cine Latino">
+    <title lang="es">Mi novia está... de madre!</title>
+    <desc lang="es">Un joven profesional, con una bella novia, se ve en una encrucijada al enamorarse de una nueva vecina, mayor que él, que se muda en su mismo edificio(n)</desc>
+    <credits>
+      <actor>Archie Lopez</actor>
+      <actor>Cuquín Victoria</actor>
+      <actor>Patricia Manterola</actor>
+      <actor>Roberto Angel Salcedo</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160111060000 -0600" stop="20160111073500 -0600" channel="Cine Latino">
+    <title lang="es">Goza conmigo</title>
+    <desc lang="es">Dos mujeres acompañadas de tres traviesos hombres juegan bromas a los transeúntes captándolos con su cámara(n)</desc>
+    <credits>
+      <actor>Carmen Salinas</actor>
+      <actor>Maribel Fernandez</actor>
+      <actor>René Cardona Jr.</actor>
+      <actor>Pedro Romo</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160111073500 -0600" stop="20160111091000 -0600" channel="Cine Latino">
+    <title lang="es">Locos de amor</title>
+    <desc lang="es">La historia de Romeo y Julieta se actualiza al presentar a Azálea y Urayoán, dos amantes que sufren la enemistad entre sus familias en un residencial público de Puerto Rico(n)</desc>
+    <credits>
+      <actor>Vicente Castro</actor>
+      <actor>Oscar H. Guerrero</actor>
+      <actor>Angela Mari</actor>
+      <actor>Jazmín Caratini</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160111091000 -0600" stop="20160111105000 -0600" channel="Cine Latino">
+    <title lang="es">Naica: un viaje a la cueva de los cristales</title>
+    <desc lang="es">Al norte de México, en el estado de Chihuahua, se encuentra la octava maravilla del mundo: la Cueva de los Cristales; una gran caverna, a 300 metros de profundidad, llena de gigantescos cristales, únicos en el mundo(n)</desc>
+    <credits>
+      <actor>Gonzalo Infante</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160111105000 -0600" stop="20160111105000 -0600" channel="Cine Latino">
+    <title lang="es">Los cómplices del infierno</title>
+    <desc lang="es">Sandra es testigo de la muerte de su mejor amiga, quien estaba involucrada en una secta, y el líder la persigue para saber que tanta información tiene respecto de ellos(n)</desc>
+    <credits>
+      <actor>Alfredo Adame</actor>
+      <actor>Edith González</actor>
+      <actor>Maribel Guardia</actor>
+      <actor>Juan Fernando Pérez Gavilán</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Acción</category>
+  </programme>
+  <programme start="20160111105000 -0600" stop="20160111122500 -0600" channel="Cine Latino">
+    <title lang="es">Los cómplices del infierno</title>
+    <desc lang="es">Sandra es testigo de la muerte de su mejor amiga, quien estaba involucrada en una secta, y el líder la persigue para saber que tanta información tiene respecto de ellos(n)</desc>
+    <credits>
+      <actor>Alfredo Adame</actor>
+      <actor>Edith González</actor>
+      <actor>Maribel Guardia</actor>
+      <actor>Juan Fernando Pérez Gavilán</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Acción</category>
+  </programme>
+  <programme start="20160111122500 -0600" stop="20160111143000 -0600" channel="Cine Latino">
+    <title lang="es">Por tu culpa</title>
+    <desc lang="es">Sara sale de vacaciones a la playa. Ella es una mujer de provincia quien se involucra con dos hombres que descubren que son hermanos y se han enamorado perdidamente de ella(n)</desc>
+    <credits>
+      <actor>Luis Fernando Peña</actor>
+      <actor>Adriana Fonseca</actor>
+      <actor>Ismael La Rosa</actor>
+      <actor>Gonzalo González</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160111143000 -0600" stop="20160111160500 -0600" channel="Cine Latino">
+    <title lang="es">Goza conmigo</title>
+    <desc lang="es">Dos mujeres acompañadas de tres traviesos hombres juegan bromas a los transeúntes captándolos con su cámara(n)</desc>
+    <credits>
+      <actor>Carmen Salinas</actor>
+      <actor>Maribel Fernandez</actor>
+      <actor>René Cardona Jr.</actor>
+      <actor>Pedro Romo</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160111160500 -0600" stop="20160111174000 -0600" channel="Cine Latino">
+    <title lang="es">Locos de amor</title>
+    <desc lang="es">La historia de Romeo y Julieta se actualiza al presentar a Azálea y Urayoán, dos amantes que sufren la enemistad entre sus familias en un residencial público de Puerto Rico(n)</desc>
+    <credits>
+      <actor>Vicente Castro</actor>
+      <actor>Oscar H. Guerrero</actor>
+      <actor>Angela Mari</actor>
+      <actor>Jazmín Caratini</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160111174000 -0600" stop="20160111193000 -0600" channel="Cine Latino">
+    <title lang="es">Nueba Yol</title>
+    <desc lang="es">Tras la muerte de su esposa, Balbuena viaja a Nueva York en busca del sueño americano. Enfrentándose a una nueva cultura y con los típicos obstáculos de un inmigrante ilegal, se da cuenta que Estados Unidos no es como él lo imaginaba(n)</desc>
+    <credits>
+      <actor>Raul Carbonell</actor>
+      <actor>Caridad Ravelo</actor>
+      <actor>Luisito Marti</actor>
+      <actor>Ángel Muñiz</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160111193000 -0600" stop="20160111210000 -0600" channel="Cine Latino">
+    <title lang="es">Mi gente linda, mi gente bella</title>
+    <desc lang="es">Un sueco llega a Colombia en donde lo tratan como rey. Ahí tendrá la oportunidad de entender lo que es ser y vivir en un país estigmatizado en el extranjero, que vive de sus pasiones y lo mejor de todo, sus mujeres(n)</desc>
+    <credits>
+      <actor>César Mora</actor>
+      <actor>Harold Trompetero</actor>
+      <actor>Connor McShannon</actor>
+      <actor>Brenda Hanst</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160111210000 -0600" stop="20160111224500 -0600" channel="Cine Latino">
+    <title lang="es">Lotoman 003</title>
+    <desc lang="es">Los hermanos Marchena aceptan una propuesta donde descubren el emocionante mundo de los agentes encubiertos. Su misión será desarticular una peligrosa organización criminal. En el camino su integridad será puesta a prueba porque a veces es difícil hacer lo correcto(n)</desc>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160111224500 -0600" stop="20160112001500 -0600" channel="Cine Latino">
+    <title lang="es">El justiciero</title>
+    <desc lang="es">Un joven y su hermana intentan cruzar la frontera pero son estafados por un "coyote", quien vende a su hermana a unos traficantes de mujeres. Su objetivo será rescatarla(n)</desc>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160112001500 -0600" stop="20160112015000 -0600" channel="Cine Latino">
+    <title lang="es">Duro y parejo en la casita del pecado</title>
+    <desc lang="es">Al heredar la mansión de una tía olvidada, José Luis, un sencillo boticario sale del campo rumbo a la capital. Al llegar descubre que es una casa de citas, habitada por un ramillete de preciosas muchachitas(n)</desc>
+    <credits>
+      <actor>Maria Cardinal</actor>
+      <actor>Polo Polo</actor>
+      <actor>Olivia Collins</actor>
+      <actor>Jesús Fragoso Montoya</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160112015000 -0600" stop="20160112033000 -0600" channel="Cine Latino">
+    <title lang="es">Lotoman 003</title>
+    <desc lang="es">Los hermanos Marchena aceptan una propuesta donde descubren el emocionante mundo de los agentes encubiertos. Su misión será desarticular una peligrosa organización criminal. En el camino su integridad será puesta a prueba porque a veces es difícil hacer lo correcto(n)</desc>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160112033000 -0600" stop="20160112053000 -0600" channel="Cine Latino">
+    <title lang="es">Por tu culpa</title>
+    <desc lang="es">Sara sale de vacaciones a la playa. Ella es una mujer de provincia quien se involucra con dos hombres que descubren que son hermanos y se han enamorado perdidamente de ella(n)</desc>
+    <credits>
+      <actor>Luis Fernando Peña</actor>
+      <actor>Adriana Fonseca</actor>
+      <actor>Ismael La Rosa</actor>
+      <actor>Gonzalo González</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160112053000 -0600" stop="20160112060000 -0600" channel="Cine Latino">
+    <title lang="es">Cuentos para solitarios</title>
+    <desc lang="es">Una serie de relatos fantásticos presentados como cuentos cortos unitarios de diversos géneros. Realizada en espectaculares escenarios. Reúne a un selecto grupo de escritores de cine y televisión(n)</desc>
+    <credits>
+      <actor>Sebastián Silva</actor>
+      <actor>Ramón De Mafer Suárez</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Serie</category>
+  </programme>
+  <programme start="20160112060000 -0600" stop="20160112063000 -0600" channel="Cine Latino">
+    <title lang="es">Cuentos para solitarios</title>
+    <desc lang="es">Una serie de relatos fantásticos presentados como cuentos cortos unitarios de diversos géneros. Realizada en espectaculares escenarios. Reúne a un selecto grupo de escritores de cine y televisión(n)</desc>
+    <credits>
+      <actor>Sebastián Silva</actor>
+      <actor>Ramón De Mafer Suárez</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Serie</category>
+  </programme>
+  <programme start="20160112063000 -0600" stop="20160112083000 -0600" channel="Cine Latino">
+    <title lang="es">¿Quién paga la cuenta?</title>
+    <desc lang="es">En un mundo donde todos quieren tener todo y en donde a unos les gusta gastar y a otros ahorrar. Presos por las deudas, Dora, Saúl y Salvador nos enseñarán de qué están hechos a la hora de pagar(n)</desc>
+    <credits>
+      <actor>Sandra Ochoa</actor>
+      <actor>Jorge Flores</actor>
+      <actor>Oscar Izacas</actor>
+      <actor>Benjamin Lopez</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160112083000 -0600" stop="20160112100000 -0600" channel="Cine Latino">
+    <title lang="es">Amexicano</title>
+    <desc lang="es">Al quedarse sin empleo, Bruno, un italoamericano, decide contratar los servicios de un indocumentado, a pesar de sus prejuicios. Poco a poco sus ideas se ven remplazadas cuando entre ambos comienza a surgir una profunda y honesta amistad(n)</desc>
+    <credits>
+      <actor>Jennifer Peña</actor>
+      <actor>Carmine Famiglietti</actor>
+      <actor>Manny Perez</actor>
+      <actor>Matthew Bonifacio</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160112100000 -0600" stop="20160112113000 -0600" channel="Cine Latino">
+    <title lang="es">Quiéreme mucho</title>
+    <desc lang="es">Un fin de semana basta para que una familia puertorriqueña que se reúne para celebrar la llegada del Año nuevo, enfrente graves secretos(n)</desc>
+    <credits>
+      <actor>Sonia Noemí González</actor>
+      <actor>Jorge Luis Ramos</actor>
+      <actor>Alex Anderson</actor>
+      <actor>Vicente Castro</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160112113000 -0600" stop="20160112113000 -0600" channel="Cine Latino">
+    <title lang="es">Bloques</title>
+    <desc lang="es">El film está compuesto por dos historias. En el Bloque 1 transcurre la historia de Manuel, un hombre solitario y gris, cuya actitud lo distancia de todos los que lo rodean, incluso de su propio hijo. En medio de la rutina y el alcohol, surge la esperanza de un nuevo amor. Así es como Norma, cantinera de un bar, entra en su vida sin darse cuenta. En el Bloque 2 se han mudado los Aristigueta, familia venezolana de clase alta, venida a menos económicamente por las fallidas decisiones del padre. Alejandra, la mayor de los hijos Aristigueta, vive en Nueva York desde hace algunos años, ignorando la realidad que vive su familia y su país. Mientras que para Alejandra el viaje de regreso a Venezuela se convierte en un encuentro consigo misma, asumiendo el control del destino de su familia, su herma(n)</desc>
+    <credits>
+      <actor>Nohely Arteaga</actor>
+      <actor>Pedro Durán</actor>
+      <actor>Tomás Denis</actor>
+      <actor>Carlos Caridad-Montero</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160112113000 -0600" stop="20160112130000 -0600" channel="Cine Latino">
+    <title lang="es">Bloques</title>
+    <desc lang="es">El film está compuesto por dos historias. En el Bloque 1 transcurre la historia de Manuel, un hombre solitario y gris, cuya actitud lo distancia de todos los que lo rodean, incluso de su propio hijo. En medio de la rutina y el alcohol, surge la esperanza de un nuevo amor. Así es como Norma, cantinera de un bar, entra en su vida sin darse cuenta. En el Bloque 2 se han mudado los Aristigueta, familia venezolana de clase alta, venida a menos económicamente por las fallidas decisiones del padre. Alejandra, la mayor de los hijos Aristigueta, vive en Nueva York desde hace algunos años, ignorando la realidad que vive su familia y su país. Mientras que para Alejandra el viaje de regreso a Venezuela se convierte en un encuentro consigo misma, asumiendo el control del destino de su familia, su herma(n)</desc>
+    <credits>
+      <actor>Nohely Arteaga</actor>
+      <actor>Pedro Durán</actor>
+      <actor>Tomás Denis</actor>
+      <actor>Carlos Caridad-Montero</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160112130000 -0600" stop="20160112142000 -0600" channel="Cine Latino">
+    <title lang="es">Al Fin y al Cabo</title>
+    <desc lang="es">Las aventuras y vicisitudes que tienen dos policías al ser elegidos por el gobierno dominicano para una misión en la que deben ayudar al FBI a capturar a unos "ladroncillos" en Nueva York, pero lo que descubren es una peligrosa secta de vampiros(n)</desc>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160112142000 -0600" stop="20160112161500 -0600" channel="Cine Latino">
+    <title lang="es">¿Quién paga la cuenta?</title>
+    <desc lang="es">En un mundo donde todos quieren tener todo y en donde a unos les gusta gastar y a otros ahorrar. Presos por las deudas, Dora, Saúl y Salvador nos enseñarán de qué están hechos a la hora de pagar(n)</desc>
+    <credits>
+      <actor>Sandra Ochoa</actor>
+      <actor>Jorge Flores</actor>
+      <actor>Oscar Izacas</actor>
+      <actor>Benjamin Lopez</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160112161500 -0600" stop="20160112174500 -0600" channel="Cine Latino">
+    <title lang="es">Amexicano</title>
+    <desc lang="es">Al quedarse sin empleo, Bruno, un italoamericano, decide contratar los servicios de un indocumentado, a pesar de sus prejuicios. Poco a poco sus ideas se ven remplazadas cuando entre ambos comienza a surgir una profunda y honesta amistad(n)</desc>
+    <credits>
+      <actor>Jennifer Peña</actor>
+      <actor>Carmine Famiglietti</actor>
+      <actor>Manny Perez</actor>
+      <actor>Matthew Bonifacio</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160112174500 -0600" stop="20160112193000 -0600" channel="Cine Latino">
+    <title lang="es">Muerte en alto contraste</title>
+    <desc lang="es">Gabriel, un policía que busca la justicia por su propia mano, se mezcla en una relación sentimental con Raquel, la hija de un policía corrupto que está implicado en la muerte de sus padres(n)</desc>
+    <credits>
+      <actor>Norelys Rodríguez</actor>
+      <actor>Juan Manuel Laguardia</actor>
+      <actor>Erich Wildpret</actor>
+      <actor>Cesar Bolívar</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Acción</category>
+  </programme>
+  <programme start="20160112193000 -0600" stop="20160112210000 -0600" channel="Cine Latino">
+    <title lang="es">La fiebre</title>
+    <desc lang="es">Un grupo de jóvenes amantes de la velocidad y con necesidad de divertirse se dedican a realizar carreras clandestinas en donde la pasión pone a hervir la sangre y se entremezclan los celos, la venganza y el desafío a la autoridad(n)</desc>
+    <credits>
+      <actor>Vicente Castro</actor>
+      <actor>Juan Pablo Díaz</actor>
+      <actor>Luis Gonzaga</actor>
+      <actor>Daniela Droz</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Acción</category>
+  </programme>
+  <programme start="20160112210000 -0600" stop="20160112224500 -0600" channel="Cine Latino">
+    <title lang="es">Un lío en dólares</title>
+    <desc lang="es">Un cantante de bachata, con la promesa de lograr el sueño americano, viaja a la ciudad de Nueva York sin saber que es parte de un tráfico de diamantes. Al llegar, su situación se complica cuando el FBI apresa a su amigo y él tendrá que huir, desatando una serie de enredos(n)</desc>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160112224500 -0600" stop="20160113001500 -0600" channel="Cine Latino">
+    <title lang="es">El justiciero 2, el retorno de Don Ramiro</title>
+    <desc lang="es">Un juez concede su libertad al mafioso a quien el justiciero envió a la cárcel y ahora este delincuente buscará vengarse. Mientras el justiciero continúa ayudando a la policía, también va tras dos mujeres quienes trafican con drogas e indocumentados(n)</desc>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Acción</category>
+  </programme>
+  <programme start="20160113001500 -0600" stop="20160113014500 -0600" channel="Cine Latino">
+    <title lang="es">Ni tan vivo ni tan bobo</title>
+    <desc lang="es">Unos amantes planean casar a un hombre inepto para así encubrir su romance y que la mujer de él no sospeche(n)</desc>
+    <credits>
+      <actor>Alfonso Zayas</actor>
+      <actor>Hilda Aguirre</actor>
+      <actor>Victor Manuel Castro</actor>
+      <actor>. Gioconda</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160113014500 -0600" stop="20160113031500 -0600" channel="Cine Latino">
+    <title lang="es">Quinto piso</title>
+    <desc lang="es">La historia de 8 personas, 3 parejas y 2 personas solitarias que se hospedan en un hotel, en la cual emergen los problemas emocionales y sociales de estos personajes a lo largo de una noche(n)</desc>
+    <credits>
+      <actor>Luis Fernando Peña</actor>
+      <actor>Manuel Ojeda</actor>
+      <actor>Gonzalo González</actor>
+      <actor>Sissi Fleitas</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160113031500 -0600" stop="20160113044000 -0600" channel="Cine Latino">
+    <title lang="es">La fiebre</title>
+    <desc lang="es">Un grupo de jóvenes amantes de la velocidad y con necesidad de divertirse se dedican a realizar carreras clandestinas en donde la pasión pone a hervir la sangre y se entremezclan los celos, la venganza y el desafío a la autoridad(n)</desc>
+    <credits>
+      <actor>Vicente Castro</actor>
+      <actor>Juan Pablo Díaz</actor>
+      <actor>Luis Gonzaga</actor>
+      <actor>Daniela Droz</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Acción</category>
+  </programme>
+  <programme start="20160113044000 -0600" stop="20160113060000 -0600" channel="Cine Latino">
+    <title lang="es">Al Fin y al Cabo</title>
+    <desc lang="es">Las aventuras y vicisitudes que tienen dos policías al ser elegidos por el gobierno dominicano para una misión en la que deben ayudar al FBI a capturar a unos "ladroncillos" en Nueva York, pero lo que descubren es una peligrosa secta de vampiros(n)</desc>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160113060000 -0600" stop="20160113063000 -0600" channel="Cine Latino">
+    <title lang="es">El doble</title>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160113063000 -0600" stop="20160113075000 -0600" channel="Cine Latino">
+    <title lang="es">The Love Potion</title>
+    <desc lang="es">Una montaña rusa de risas, amor y comedia escandalosa que muestra a 4 parejas que sirven para ejemplificar los 5 elementos del amor: a lujuria, la intimidad, el compromiso, la pasión y el apego(n)</desc>
+    <credits>
+      <actor>Pablo González</actor>
+      <actor>Stephanie Ortiz</actor>
+      <actor>Danny Hastings</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">C.Romántica</category>
+  </programme>
+  <programme start="20160113075000 -0600" stop="20160113094000 -0600" channel="Cine Latino">
+    <title lang="es">1,2 y 3 mujeres</title>
+    <desc lang="es">Aborda el tema de la mujer y su relación con el entorno social y geográfico desde diferentes perspectivas y propuestas estéticas través de las historias de Eloína, Rosario y Gregoria(n)</desc>
+    <credits>
+      <actor>Juliana Cuervos</actor>
+      <actor>Ogladih Mayorga</actor>
+      <actor>Ana Isabel Llorca</actor>
+      <actor>Andrea Herrera Catalán</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Película</category>
+  </programme>
+  <programme start="20160113094000 -0600" stop="20160113110000 -0600" channel="Cine Latino">
+    <title lang="es">Amando a Maradona</title>
+    <desc lang="es">Diego Maradona, el desproporcionado ícono de la Argentina, en un retrato que da cuenta de una pasión desenfrenada. Reinventado cada vez que se lo propone, el Diego vive en todos los que alimentan el gran fuego sagrado(n)</desc>
+    <credits>
+      <actor>Diego Armando Maradona</actor>
+      <actor>Alejandro Dolina</actor>
+      <actor>Charly García</actor>
+      <actor>Javier Vázquez</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160113110000 -0600" stop="20160113110000 -0600" channel="Cine Latino">
+    <title lang="es">Punto y aparte</title>
+    <desc lang="es">Miroslava y Aline, dos jóvenes inexpertas de diferentes clases sociales, familias y costumbres, tienen algo en común: son víctimas de un embarazo no deseado y ahora que ven partida su vida, se enfrentan ante el dilema de tener al bebé o abortar(n)</desc>
+    <credits>
+      <actor>Geraldine Bazán</actor>
+      <actor>Evangelina Sosa</actor>
+      <actor>Mauricio Islas</actor>
+      <actor>Paco Del Toro</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160113110000 -0600" stop="20160113130500 -0600" channel="Cine Latino">
+    <title lang="es">Punto y aparte</title>
+    <desc lang="es">Miroslava y Aline, dos jóvenes inexpertas de diferentes clases sociales, familias y costumbres, tienen algo en común: son víctimas de un embarazo no deseado y ahora que ven partida su vida, se enfrentan ante el dilema de tener al bebé o abortar(n)</desc>
+    <credits>
+      <actor>Geraldine Bazán</actor>
+      <actor>Evangelina Sosa</actor>
+      <actor>Mauricio Islas</actor>
+      <actor>Paco Del Toro</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160113130500 -0600" stop="20160113143500 -0600" channel="Cine Latino">
+    <title lang="es">Condones.com</title>
+    <desc lang="es">Timo es un joven inquieto cuya vida transcurre entre la universidad y su novia Gabriela, de quien está enamorado. Sin embargo, cuando conoce a la provocativa Bárbara y tiene una aventura con ella, la vida le cambiará cuando se entere que será papá(n)</desc>
+    <credits>
+      <actor>Sandra Echeverría</actor>
+      <actor>Mark Tacher</actor>
+      <actor>Ramón Márquez</actor>
+      <actor>Abraham Mancilla</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160113143500 -0600" stop="20160113155500 -0600" channel="Cine Latino">
+    <title lang="es">The Love Potion</title>
+    <desc lang="es">Una montaña rusa de risas, amor y comedia escandalosa que muestra a 4 parejas que sirven para ejemplificar los 5 elementos del amor: a lujuria, la intimidad, el compromiso, la pasión y el apego(n)</desc>
+    <credits>
+      <actor>Pablo González</actor>
+      <actor>Stephanie Ortiz</actor>
+      <actor>Danny Hastings</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">C.Romántica</category>
+  </programme>
+  <programme start="20160113155500 -0600" stop="20160113174000 -0600" channel="Cine Latino">
+    <title lang="es">1,2 y 3 mujeres</title>
+    <desc lang="es">Aborda el tema de la mujer y su relación con el entorno social y geográfico desde diferentes perspectivas y propuestas estéticas través de las historias de Eloína, Rosario y Gregoria(n)</desc>
+    <credits>
+      <actor>Juliana Cuervos</actor>
+      <actor>Ogladih Mayorga</actor>
+      <actor>Ana Isabel Llorca</actor>
+      <actor>Andrea Herrera Catalán</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Película</category>
+  </programme>
+  <programme start="20160113174000 -0600" stop="20160113193000 -0600" channel="Cine Latino">
+    <title lang="es">Elite</title>
+    <desc lang="es">El narcotraficante más poderoso del Caribe logra escapar. Incapaz de confiar en su propia fuerza policial, el Gobernador crea un grupo especial de táctica llamado "Elite", un grupo de oficiales incorruptibles de diferentes países de América Latina(n)</desc>
+    <credits>
+      <actor>Denise Quiñones</actor>
+      <actor>Frank Perozo</actor>
+      <actor>Andrés Ramirez</actor>
+      <actor>Jorge Alberti</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Acción</category>
+  </programme>
+  <programme start="20160113193000 -0600" stop="20160113210000 -0600" channel="Cine Latino">
+    <title lang="es">The Witness - El testigo</title>
+    <desc lang="es">En lo que parecía un día cualquiera Chelo presencia un crimen. Perseguido por los asesinos y la policía se ve forzado a luchar por su vida y la de su novia, utilizando sus destrezas en las artes marciales como su única arma(n)</desc>
+    <credits>
+      <actor>Melissa Serrano</actor>
+      <actor>Gil Sanabria</actor>
+      <actor>Andrés Ramirez</actor>
+      <actor>José Manuel</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Acción</category>
+  </programme>
+  <programme start="20160113210000 -0600" stop="20160113223500 -0600" channel="Cine Latino">
+    <title lang="es">Mejor estar solo</title>
+    <desc lang="es">Hugo es un joven al que dejan plantado en el altar, en lo que iba a ser una celebración de tres días organizada por su suegra. Apelando a que la novia llegará sí o sí la suegra mantiene las celebraciones llenas de viejos arribistas y desconocidos para Hugo, quien bajo el alero de un sobreprotector padre y su abuelo hace retrospectiva durante los tres días, sobre su fracasada relación con su caprichosa ex novia Josefina. De esa forma Hugo se va dando cuenta de la cantidad de errores y estupidez en que estaba inmerso, en una sociedad que aprecia más construir estereotipos, que buscar el equilibrio interior. Es una historia que habla del traspaso generacional entre abuelo-padre-nieto los tres sin una mujer al lado, y de como las carencias pueden construir ilusión. Durante la película Hugo se encuentra con una antigua amiga de la infancia, Leonor con la que pondrá a prueba si es que en esos tres días aprendió algo o no(n)</desc>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160113223500 -0600" stop="20160114000000 -0600" channel="Cine Latino">
+    <title lang="es">El justiciero 3, la venganza del senador</title>
+    <desc lang="es">Con la muerte de Don Ramiro, otro mafioso ha tomado el control del bajo mundo en Miami y buscará vengarse de quienes lo enviaron a la cárcel, pero no será tarea fácil pues El justiciero está decido a destruirlo(n)</desc>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Acción</category>
+  </programme>
+  <programme start="20160114000000 -0600" stop="20160114013000 -0600" channel="Cine Latino">
+    <title lang="es">Las traigo muertas</title>
+    <desc lang="es">Un mesero y apostador empedernido pierde todo su dinero. Debido a esto se casa con una vecina viuda y rica a quien conoce porque su gato y la gata de ella se enamoraron. Luego de seguir en sus enredos, el apostador, se da cuenta que es víctima de sus propias trampas y va a jugar ruleta rusa al infierno(n)</desc>
+    <credits>
+      <actor>María Berdhal</actor>
+      <actor>Agustín Bernal</actor>
+      <actor>Maribel Guardia</actor>
+      <actor>Rafael Baledon</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160114013000 -0600" stop="20160114032500 -0600" channel="Cine Latino">
+    <title lang="es">Elite</title>
+    <desc lang="es">El narcotraficante más poderoso del Caribe logra escapar. Incapaz de confiar en su propia fuerza policial, el Gobernador crea un grupo especial de táctica llamado "Elite", un grupo de oficiales incorruptibles de diferentes países de América Latina(n)</desc>
+    <credits>
+      <actor>Denise Quiñones</actor>
+      <actor>Frank Perozo</actor>
+      <actor>Andrés Ramirez</actor>
+      <actor>Jorge Alberti</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Acción</category>
+  </programme>
+  <programme start="20160114032500 -0600" stop="20160114053000 -0600" channel="Cine Latino">
+    <title lang="es">Punto y aparte</title>
+    <desc lang="es">Miroslava y Aline, dos jóvenes inexpertas de diferentes clases sociales, familias y costumbres, tienen algo en común: son víctimas de un embarazo no deseado y ahora que ven partida su vida, se enfrentan ante el dilema de tener al bebé o abortar(n)</desc>
+    <credits>
+      <actor>Geraldine Bazán</actor>
+      <actor>Evangelina Sosa</actor>
+      <actor>Mauricio Islas</actor>
+      <actor>Paco Del Toro</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160114053000 -0600" stop="20160114060000 -0600" channel="Cine Latino">
+    <title lang="es">Cuentos para solitarios</title>
+    <desc lang="es">Una serie de relatos fantásticos presentados como cuentos cortos unitarios de diversos géneros. Realizada en espectaculares escenarios. Reúne a un selecto grupo de escritores de cine y televisión(n)</desc>
+    <credits>
+      <actor>Sebastián Silva</actor>
+      <actor>Ramón De Mafer Suárez</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Serie</category>
+  </programme>
+  <programme start="20160114060000 -0600" stop="20160114073500 -0600" channel="Cine Latino">
+    <title lang="es">Arrobá</title>
+    <desc lang="es">Pedro, Samuel y Pilón, deciden robar un banco para solucionar sus problemas personales, pero por falta de experiencia, todo les sale mal. Cuando Pedro inventa una máquina del tiempo, encuentran la oportunidad de realizar el robo sin ningún error(n)</desc>
+    <category lang="es">Pelicula</category>
+    <category lang="es">C.Ficción</category>
+  </programme>
+  <programme start="20160114073500 -0600" stop="20160114091000 -0600" channel="Cine Latino">
+    <title lang="es">Vidas paralelas</title>
+    <desc lang="es">Es un programa de investigación periodística, objetivo y emotivo, que cuenta la historia de un famoso del espectáculo en su vida pública y privada, narrada por él mismo. Y de cómo, por azares del destino, dejó de ser sólo suya. Dos vidas independientes que se mezclaron en el amor, los negocios o la amistad... para bien o para mal(n)</desc>
+    <credits>
+      <actor>Aurora Del Valle</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160114091000 -0600" stop="20160114105000 -0600" channel="Cine Latino">
+    <title lang="es">La trenza de los milagros</title>
+    <desc lang="es">Una hermosa mujer sigue recordando a su gran amor, la vida le da otra oportunidad de enamorarse y al hacerlo rompe la promesa que le hizo: conservar su trenza. Se desatan en el pueblo una serie de milagros que son atribuidos a la trenza(n)</desc>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160114105000 -0600" stop="20160114105000 -0600" channel="Cine Latino">
+    <title lang="es">La cocina</title>
+    <desc lang="es">Los conflictos que se dan en el restaurante puertorriqueño "La cocina", cuando las autoridades se enteran que la mayoría del personal son indocumentados. Entre todos arman un maquiavélico plan para deshacerse del Senador que los está sobornando(n)</desc>
+    <credits>
+      <actor>Jorge Luis Ramos</actor>
+      <actor>Linnete Torres</actor>
+      <actor>Cristina Soler</actor>
+      <actor>Vicente Castro</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160114105000 -0600" stop="20160114123000 -0600" channel="Cine Latino">
+    <title lang="es">La cocina</title>
+    <desc lang="es">Los conflictos que se dan en el restaurante puertorriqueño "La cocina", cuando las autoridades se enteran que la mayoría del personal son indocumentados. Entre todos arman un maquiavélico plan para deshacerse del Senador que los está sobornando(n)</desc>
+    <credits>
+      <actor>Jorge Luis Ramos</actor>
+      <actor>Linnete Torres</actor>
+      <actor>Cristina Soler</actor>
+      <actor>Vicente Castro</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160114123000 -0600" stop="20160114144000 -0600" channel="Cine Latino">
+    <title lang="es">August Evening</title>
+    <desc lang="es">La conmovedora historia de Jaime, un hombre mayor e indocumentado, y Lupe, su nuera, quienes intentan encontrar una nueva vida(n)</desc>
+    <credits>
+      <actor>Veronica Loren</actor>
+      <actor>Pedro Castaneda</actor>
+      <actor>Abel Becerra</actor>
+      <actor>Chris Eska</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160114144000 -0600" stop="20160114161500 -0600" channel="Cine Latino">
+    <title lang="es">Arrobá</title>
+    <desc lang="es">Pedro, Samuel y Pilón, deciden robar un banco para solucionar sus problemas personales, pero por falta de experiencia, todo les sale mal. Cuando Pedro inventa una máquina del tiempo, encuentran la oportunidad de realizar el robo sin ningún error(n)</desc>
+    <category lang="es">Pelicula</category>
+    <category lang="es">C.Ficción</category>
+  </programme>
+  <programme start="20160114161500 -0600" stop="20160114175000 -0600" channel="Cine Latino">
+    <title lang="es">Vidas paralelas</title>
+    <desc lang="es">Es un programa de investigación periodística, objetivo y emotivo, que cuenta la historia de un famoso del espectáculo en su vida pública y privada, narrada por él mismo. Y de cómo, por azares del destino, dejó de ser sólo suya. Dos vidas independientes que se mezclaron en el amor, los negocios o la amistad... para bien o para mal(n)</desc>
+    <credits>
+      <actor>Aurora Del Valle</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160114175000 -0600" stop="20160114191500 -0600" channel="Cine Latino">
+    <title lang="es">Yo soy la salsa</title>
+    <desc lang="es">Homenaje a Johnny Pacheco, artista dominicano, cuya visión lo convirtió en una de las figuras más importantes en la creación y desarrollo de la salsa como género musical(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160114191500 -0600" stop="20160114210000 -0600" channel="Cine Latino">
+    <title lang="es">Cápsulas</title>
+    <desc lang="es">Fonsi es un niño de 12 años, con una vida aparentemente privilegiada; pero su mundo se desmorona en cuestión de horas debido a una serie de eventos inesperados. El destino de los personajes cambia drásticamente, enfrentándose a una cruda realidad(n)</desc>
+    <credits>
+      <actor>Carolina Cuervo</actor>
+      <actor>Giacomo Buonafina</actor>
+      <actor>Verónica Riedel</actor>
+      <actor>Sebastián Gereda</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Aventura</category>
+  </programme>
+  <programme start="20160114210000 -0600" stop="20160114224500 -0600" channel="Cine Latino">
+    <title lang="es">Al filo de la ley</title>
+    <desc lang="es">Traicionaron a la mafia, les cambiaron las identidades para modificarles la vida. Después de 20 años regresan del lado de la policía, como infiltrados en una mafia narco-terrorista(n)</desc>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Acción</category>
+  </programme>
+  <programme start="20160114224500 -0600" stop="20160115001500 -0600" channel="Cine Latino">
+    <title lang="es">Hasta el día que muera</title>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160115001500 -0600" stop="20160115014500 -0600" channel="Cine Latino">
+    <title lang="es">Investigador privado... muy privado</title>
+    <desc lang="es">Aunque su oficio sea investigar, lo único que logran es meter la pata en todo. Los secretos de alcoba no son un problema. Su especialidad es rastrear las mañas de mujeres infieles, siempre y cuando cumplan un requisito: que sean guapas(n)</desc>
+    <credits>
+      <actor>María Luisa Alcalá</actor>
+      <actor>Felicia Mercado</actor>
+      <actor>Polo Polo</actor>
+      <actor>Jesús Fragoso Montoya</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160115014500 -0600" stop="20160115032500 -0600" channel="Cine Latino">
+    <title lang="es">La cocina</title>
+    <desc lang="es">Los conflictos que se dan en el restaurante puertorriqueño "La cocina", cuando las autoridades se enteran que la mayoría del personal son indocumentados. Entre todos arman un maquiavélico plan para deshacerse del Senador que los está sobornando(n)</desc>
+    <credits>
+      <actor>Jorge Luis Ramos</actor>
+      <actor>Linnete Torres</actor>
+      <actor>Cristina Soler</actor>
+      <actor>Vicente Castro</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160115032500 -0600" stop="20160115053500 -0600" channel="Cine Latino">
+    <title lang="es">August Evening</title>
+    <desc lang="es">La conmovedora historia de Jaime, un hombre mayor e indocumentado, y Lupe, su nuera, quienes intentan encontrar una nueva vida(n)</desc>
+    <credits>
+      <actor>Veronica Loren</actor>
+      <actor>Pedro Castaneda</actor>
+      <actor>Abel Becerra</actor>
+      <actor>Chris Eska</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160115053500 -0600" stop="20160115060000 -0600" channel="Cine Latino">
+    <title lang="es">Cuentos para solitarios</title>
+    <desc lang="es">Una serie de relatos fantásticos presentados como cuentos cortos unitarios de diversos géneros. Realizada en espectaculares escenarios. Reúne a un selecto grupo de escritores de cine y televisión(n)</desc>
+    <credits>
+      <actor>Sebastián Silva</actor>
+      <actor>Ramón De Mafer Suárez</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Serie</category>
+  </programme>
+  <programme start="20160115060000 -0600" stop="20160115062500 -0600" channel="Cine Latino">
+    <title lang="es">Cuentos para solitarios</title>
+    <desc lang="es">Una serie de relatos fantásticos presentados como cuentos cortos unitarios de diversos géneros. Realizada en espectaculares escenarios. Reúne a un selecto grupo de escritores de cine y televisión(n)</desc>
+    <credits>
+      <actor>Sebastián Silva</actor>
+      <actor>Ramón De Mafer Suárez</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Serie</category>
+  </programme>
+  <programme start="20160115062500 -0600" stop="20160115080500 -0600" channel="Cine Latino">
+    <title lang="es">El escritor de telenovelas</title>
+    <desc lang="es">Gerardo Olarte, un escritor de telenovelas, al ver cómo su elogiada telenovela pierde audiencia frente al éxito arrollador de la telenovela de la competencia, empieza a sufrir la presión de los directivos del canal, de los actores y de la gente(n)</desc>
+    <credits>
+      <actor>Jaime Barbini</actor>
+      <actor>Paula Barreto</actor>
+      <actor>Mijail Mulkay</actor>
+      <actor>Felipe Dotheé</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160115080500 -0600" stop="20160115095000 -0600" channel="Cine Latino">
+    <title lang="es">Murder in the First</title>
+    <desc lang="es">Selva, es una prominente presentadora de Televisión y su esposo es un producto de éxito, juntos se dan a la aventura de producir una película que se convertirá en sus mismas pasiones reflejadas en el espejo de la película que producen(n)</desc>
+    <credits>
+      <actor>Jorge Luis Ramos</actor>
+      <actor>Johanna Rosaly</actor>
+      <actor>Vicente Castro</actor>
+      <actor>Osvaldo Ríos</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Terror y Suspenso</category>
+  </programme>
+  <programme start="20160115095000 -0600" stop="20160115113000 -0600" channel="Cine Latino">
+    <title lang="es">Profe por accidente</title>
+    <desc lang="es">Al perder su trabajo y su casa en un incendio, Francisco pide asilo en casa de su amigo Mon, trayéndole dificultades en su vida cotidiana por lo que se le ocurre conseguirle trabajo en un prestigioso colegio en Santo Domingo como profesor sustituto(n)</desc>
+    <credits>
+      <actor>Fausto Mata</actor>
+      <actor>Roberto Angel Salcedo</actor>
+      <actor>Jatnna Tavárez</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160115113000 -0600" stop="20160115113000 -0600" channel="Cine Latino">
+    <title lang="es">Ángel caído</title>
+    <desc lang="es">Ángel Caído es la más asombrosa trilogía épica fantástica, en donde las huestes del infierno se enfrentan a las fuerzas celestiales y un niño humano, marcado por la profecía, es la clave que definirá el desenlace entre el bien y el mal(n)</desc>
+    <credits>
+      <actor>José Alonso</actor>
+      <actor>Luis Caballero</actor>
+      <actor>Alejandro Durán</actor>
+      <actor>Arturo Anaya</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160115113000 -0600" stop="20160115132500 -0600" channel="Cine Latino">
+    <title lang="es">Ángel caído</title>
+    <desc lang="es">Ángel Caído es la más asombrosa trilogía épica fantástica, en donde las huestes del infierno se enfrentan a las fuerzas celestiales y un niño humano, marcado por la profecía, es la clave que definirá el desenlace entre el bien y el mal(n)</desc>
+    <credits>
+      <actor>José Alonso</actor>
+      <actor>Luis Caballero</actor>
+      <actor>Alejandro Durán</actor>
+      <actor>Arturo Anaya</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160115132500 -0600" stop="20160115151000 -0600" channel="Cine Latino">
+    <title lang="es">Víctor Manuel Castro</title>
+    <desc lang="es">Un hombre que desea ser lindo para poder vivir una vida de privilegio en una sociedad que le atribuye a la belleza el éxito. Pero no sabe que su gran deseo se convertirá en su mayor desafío(n)</desc>
+    <credits>
+      <actor>Alfonso Rodríguez</actor>
+      <actor>Frank Perozo</actor>
+      <actor>Fausto Mata</actor>
+      <actor>Kenny Grullón</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160115151000 -0600" stop="20160115165000 -0600" channel="Cine Latino">
+    <title lang="es">El escritor de telenovelas</title>
+    <desc lang="es">Gerardo Olarte, un escritor de telenovelas, al ver cómo su elogiada telenovela pierde audiencia frente al éxito arrollador de la telenovela de la competencia, empieza a sufrir la presión de los directivos del canal, de los actores y de la gente(n)</desc>
+    <credits>
+      <actor>Jaime Barbini</actor>
+      <actor>Paula Barreto</actor>
+      <actor>Mijail Mulkay</actor>
+      <actor>Felipe Dotheé</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160115165000 -0600" stop="20160115183500 -0600" channel="Cine Latino">
+    <title lang="es">Murder in the First</title>
+    <desc lang="es">Selva, es una prominente presentadora de Televisión y su esposo es un producto de éxito, juntos se dan a la aventura de producir una película que se convertirá en sus mismas pasiones reflejadas en el espejo de la película que producen(n)</desc>
+    <credits>
+      <actor>Jorge Luis Ramos</actor>
+      <actor>Johanna Rosaly</actor>
+      <actor>Vicente Castro</actor>
+      <actor>Osvaldo Ríos</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Terror y Suspenso</category>
+  </programme>
+  <programme start="20160115183500 -0600" stop="20160115201000 -0600" channel="Cine Latino">
+    <title lang="es">Mejor estar solo</title>
+    <desc lang="es">Hugo es un joven al que dejan plantado en el altar, en lo que iba a ser una celebración de tres días organizada por su suegra. Apelando a que la novia llegará sí o sí la suegra mantiene las celebraciones llenas de viejos arribistas y desconocidos para Hugo, quien bajo el alero de un sobreprotector padre y su abuelo hace retrospectiva durante los tres días, sobre su fracasada relación con su caprichosa ex novia Josefina. De esa forma Hugo se va dando cuenta de la cantidad de errores y estupidez en que estaba inmerso, en una sociedad que aprecia más construir estereotipos, que buscar el equilibrio interior. Es una historia que habla del traspaso generacional entre abuelo-padre-nieto los tres sin una mujer al lado, y de como las carencias pueden construir ilusión. Durante la película Hugo se encuentra con una antigua amiga de la infancia, Leonor con la que pondrá a prueba si es que en esos tres días aprendió algo o no(n)</desc>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160115201000 -0600" stop="20160115220000 -0600" channel="Cine Latino">
+    <title lang="es">Un lío en dólares</title>
+    <desc lang="es">Un cantante de bachata, con la promesa de lograr el sueño americano, viaja a la ciudad de Nueva York sin saber que es parte de un tráfico de diamantes. Al llegar, su situación se complica cuando el FBI apresa a su amigo y él tendrá que huir, desatando una serie de enredos(n)</desc>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160115220000 -0600" stop="20160115235000 -0600" channel="Cine Latino">
+    <title lang="es">La montaña rusa</title>
+    <desc lang="es">Una mujer y dos hombres, amigos de la infancia, vuelven a encontrarse muchos años despúes y forman un peculiar triángulo donde el sexo y el amor se entrelazan en complicadas y divertidas combinaciones que acabarán por volver loca a la chica(n)</desc>
+    <credits>
+      <actor>Veronica Sanchez</actor>
+      <actor>Ayanta Barilli</actor>
+      <actor>Alberto San Juan</actor>
+      <actor>Emilio Martínez Lázaro</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160115235000 -0600" stop="20160116011500 -0600" channel="Cine Latino">
+    <title lang="es">Lie</title>
+    <desc lang="es">Un joven artista introvertido que vive entre la fantasía y la realidad de una sociedad que no siempre es lo que parece, su mundo se trastoca al conocer a una chica que encenderá sus pasiones, y a un hombre que lo conduce a la violencia(n)</desc>
+    <credits>
+      <actor>Oscar H. Guerrero</actor>
+      <actor>Frank Perozo</actor>
+      <actor>Mariana Santángelo</actor>
+      <actor>Rafi Mercado</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160116011500 -0600" stop="20160116025000 -0600" channel="Cine Latino">
+    <title lang="es">Esta vieja es una fiera</title>
+    <desc lang="es">La bella Dorotea es vendida por su padrastro al viejo y rico hacendado Don Apolinar. A su muerte, ella hereda su fortuna, convirtiéndose en la envidia de todo el pueblo(n)</desc>
+    <credits>
+      <actor>Alfonso Zayas</actor>
+      <actor>Maribel Fernandez</actor>
+      <actor>Victor Manuel Castro</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160116025000 -0600" stop="20160116043000 -0600" channel="Cine Latino">
+    <title lang="es">El escritor de telenovelas</title>
+    <desc lang="es">Gerardo Olarte, un escritor de telenovelas, al ver cómo su elogiada telenovela pierde audiencia frente al éxito arrollador de la telenovela de la competencia, empieza a sufrir la presión de los directivos del canal, de los actores y de la gente(n)</desc>
+    <credits>
+      <actor>Jaime Barbini</actor>
+      <actor>Paula Barreto</actor>
+      <actor>Mijail Mulkay</actor>
+      <actor>Felipe Dotheé</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160116043000 -0600" stop="20160116060000 -0600" channel="Cine Latino">
+    <title lang="es">Mejor estar solo</title>
+    <desc lang="es">Hugo es un joven al que dejan plantado en el altar, en lo que iba a ser una celebración de tres días organizada por su suegra. Apelando a que la novia llegará sí o sí la suegra mantiene las celebraciones llenas de viejos arribistas y desconocidos para Hugo, quien bajo el alero de un sobreprotector padre y su abuelo hace retrospectiva durante los tres días, sobre su fracasada relación con su caprichosa ex novia Josefina. De esa forma Hugo se va dando cuenta de la cantidad de errores y estupidez en que estaba inmerso, en una sociedad que aprecia más construir estereotipos, que buscar el equilibrio interior. Es una historia que habla del traspaso generacional entre abuelo-padre-nieto los tres sin una mujer al lado, y de como las carencias pueden construir ilusión. Durante la película Hugo se encuentra con una antigua amiga de la infancia, Leonor con la que pondrá a prueba si es que en esos tres días aprendió algo o no(n)</desc>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160116060000 -0600" stop="20160116063000 -0600" channel="Cine Latino">
+    <title lang="es">Cuentos para solitarios</title>
+    <desc lang="es">Una serie de relatos fantásticos presentados como cuentos cortos unitarios de diversos géneros. Realizada en espectaculares escenarios. Reúne a un selecto grupo de escritores de cine y televisión(n)</desc>
+    <credits>
+      <actor>Sebastián Silva</actor>
+      <actor>Ramón De Mafer Suárez</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Serie</category>
+  </programme>
+  <programme start="20160116063000 -0600" stop="20160116065500 -0600" channel="Cine Latino">
+    <title lang="es">Cuentos para solitarios</title>
+    <desc lang="es">Una serie de relatos fantásticos presentados como cuentos cortos unitarios de diversos géneros. Realizada en espectaculares escenarios. Reúne a un selecto grupo de escritores de cine y televisión(n)</desc>
+    <credits>
+      <actor>Sebastián Silva</actor>
+      <actor>Ramón De Mafer Suárez</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Serie</category>
+  </programme>
+  <programme start="20160116065500 -0600" stop="20160116083000 -0600" channel="Cine Latino">
+    <title lang="es">Uno al año no hace daño</title>
+    <desc lang="es">Narra la historia de un universitario quien realiza un documental para saber si Colombia es un país de bebedores o no. En medio de situaciones cotidianas y cómicas, el joven obtendrá un interesante y entretenido material para su investigación(n)</desc>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160116083000 -0600" stop="20160116100000 -0600" channel="Cine Latino">
+    <title lang="es">Soy mucho mejor que vos</title>
+    <desc lang="es">Luego de ser humillado por su esposa vía Skype, Cristóbal deambula por la noche Santiaguina buscando una mujer que lo ayude a reivindicar su ego. Sin embargo, su búsqueda no llega a buen puerto y va sumando fracasos(n)</desc>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160116100000 -0600" stop="20160116114500 -0600" channel="Cine Latino">
+    <title lang="es">Chiapas: el corazón del café</title>
+    <desc lang="es">En 1827, un aventurero inglés y su esposa cruzan los mares a bordo de un bergantín. Llevan consigo 300 plantas de café traídas del Yemen y, tras muchas vicisitudes, llegan a Chiapas (México), donde esperan hacer fortuna. Por aquel entonces Chiapas era un estado autónomo, recién liberado de la Capitanía de Guatemala e indeciso en cuanto a su anexión a México. En medio de la belleza y la hostilidad de la selva surge una historia de amor que coincide con la llegada del café a la región(n)</desc>
+    <credits>
+      <actor>Carmen Aub</actor>
+      <actor>Alejandro Gonzalez Padilla</actor>
+      <actor>Juan Ignacio Aranda</actor>
+      <actor>Manuel Balbi</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160116114500 -0600" stop="20160116114500 -0600" channel="Cine Latino">
+    <title lang="es">Megadiva</title>
+    <desc lang="es">Luisa Dominguez, una joven de escasos recuersos, gracias a los esfuerzos de sus padres logra acudir a la universidad. Pero el ambiente social llogra influenciarla y comienza a desarrollar su vida como toda una mega diva(n)</desc>
+    <credits>
+      <actor>Roberto Ángel</actor>
+      <actor>Fausto Mata</actor>
+      <actor>Roberto Angel Salcedo</actor>
+      <actor>Jessika Grau</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160116114500 -0600" stop="20160116133000 -0600" channel="Cine Latino">
+    <title lang="es">Megadiva</title>
+    <desc lang="es">Luisa Dominguez, una joven de escasos recuersos, gracias a los esfuerzos de sus padres logra acudir a la universidad. Pero el ambiente social llogra influenciarla y comienza a desarrollar su vida como toda una mega diva(n)</desc>
+    <credits>
+      <actor>Roberto Ángel</actor>
+      <actor>Fausto Mata</actor>
+      <actor>Roberto Angel Salcedo</actor>
+      <actor>Jessika Grau</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160116133000 -0600" stop="20160116150500 -0600" channel="Cine Latino">
+    <title lang="es">El paseo 2</title>
+    <desc lang="es">Vacaciones. Playa, brisa y mar. El plan perfecto. Al menos eso era lo que pensaba Lucho Calvo, un padre de familia que, con gran esfuerzo, planeó las vacaciones de su vida. Sin embargo, no contaba con que su familia tendría otra idea de diversión y esta correrá por cuenta de Patrick, un ex novio de su esposa Gloria. Patrick es un gran anfitrión que deslumbrará a la familia con sus atenciones. Pero Lucho se siente retado y decide que no permitirá que su familia “sucumba” ante los encantos de quien ahora es su rival. Entonces Lucho emprenderá una carrera desenfrenada por conseguir su propósito. Sin embargo, captar la atención de su familia es una misión imposible. Lucho se verá forzado a usar mucho más que su imaginación para lograrlo, y en ese afán, será precisamente su familia la que padec(n)</desc>
+    <credits>
+      <actor>Karen Martínez</actor>
+      <actor>John Leguizamo</actor>
+      <actor>Harold Trompetero</actor>
+      <actor>Kristina Lilley</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160116150500 -0600" stop="20160116164500 -0600" channel="Cine Latino">
+    <title lang="es">Uno al año no hace daño</title>
+    <desc lang="es">Narra la historia de un universitario quien realiza un documental para saber si Colombia es un país de bebedores o no. En medio de situaciones cotidianas y cómicas, el joven obtendrá un interesante y entretenido material para su investigación(n)</desc>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160116164500 -0600" stop="20160116182000 -0600" channel="Cine Latino">
+    <title lang="es">Soy mucho mejor que vos</title>
+    <desc lang="es">Luego de ser humillado por su esposa vía Skype, Cristóbal deambula por la noche Santiaguina buscando una mujer que lo ayude a reivindicar su ego. Sin embargo, su búsqueda no llega a buen puerto y va sumando fracasos(n)</desc>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160116182000 -0600" stop="20160116201000 -0600" channel="Cine Latino">
+    <title lang="es">Libertador Morales, el justiciero</title>
+    <desc lang="es">Un mototaxista diferente, con su moto veloz y vestido de negro, se transforma en justiciero para enfrentar la delincuencia. Su propósito es rescatar los valores de la justicia y la solidaridad(n)</desc>
+    <credits>
+      <actor>Yugui López</actor>
+      <actor>Alba Vallvé</actor>
+      <actor>Efterpi Charalambidis</actor>
+      <actor>Rafael Gil</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160116201000 -0600" stop="20160116220000 -0600" channel="Cine Latino">
+    <title lang="es">No hay más remedio</title>
+    <desc lang="es">Tres ancianos planean el atraco a una farmacia para conseguir dinero y realizar sus últimos sueños. ¿Qué podría salir mal ahora que han decidido vivir al límite los últimos años de sus vidas?(n)</desc>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160116220000 -0600" stop="20160116233000 -0600" channel="Cine Latino">
+    <title lang="es">La lámpara del ladino</title>
+    <desc lang="es">Un indito vive enamorado de la mujer más linda del pueblo. Una noche por accidente, frota una botella y aparece un genio quien le concederá 5 deseos, él los aprovechará para conquistar a su amada, sólo que el genio tiene buen sentido del humor(n)</desc>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160116233000 -0600" stop="20160117012000 -0600" channel="Cine Latino">
+    <title lang="es">La montaña rusa</title>
+    <desc lang="es">Una mujer y dos hombres, amigos de la infancia, vuelven a encontrarse muchos años despúes y forman un peculiar triángulo donde el sexo y el amor se entrelazan en complicadas y divertidas combinaciones que acabarán por volver loca a la chica(n)</desc>
+    <credits>
+      <actor>Veronica Sanchez</actor>
+      <actor>Ayanta Barilli</actor>
+      <actor>Alberto San Juan</actor>
+      <actor>Emilio Martínez Lázaro</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160117012000 -0600" stop="20160117031000 -0600" channel="Cine Latino">
+    <title lang="es">Al filo de la ley</title>
+    <desc lang="es">Traicionaron a la mafia, les cambiaron las identidades para modificarles la vida. Después de 20 años regresan del lado de la policía, como infiltrados en una mafia narco-terrorista(n)</desc>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Acción</category>
+  </programme>
+  <programme start="20160117031000 -0600" stop="20160117050000 -0600" channel="Cine Latino">
+    <title lang="es">No hay más remedio</title>
+    <desc lang="es">Tres ancianos planean el atraco a una farmacia para conseguir dinero y realizar sus últimos sueños. ¿Qué podría salir mal ahora que han decidido vivir al límite los últimos años de sus vidas?(n)</desc>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160117050000 -0600" stop="20160117053000 -0600" channel="Cine Latino">
+    <title lang="es">El doble</title>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160117053000 -0600" stop="20160117060000 -0600" channel="Cine Latino">
+    <title lang="es">El doble</title>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160117060000 -0600" stop="20160117063000 -0600" channel="Cine Latino">
+    <title lang="es">Cuentos para solitarios</title>
+    <desc lang="es">Una serie de relatos fantásticos presentados como cuentos cortos unitarios de diversos géneros. Realizada en espectaculares escenarios. Reúne a un selecto grupo de escritores de cine y televisión(n)</desc>
+    <credits>
+      <actor>Sebastián Silva</actor>
+      <actor>Ramón De Mafer Suárez</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Serie</category>
+  </programme>
+  <programme start="20160117063000 -0600" stop="20160117080500 -0600" channel="Cine Latino">
+    <title lang="es">Barrio Universitario</title>
+    <desc lang="es">Barrio Universitario es una historia sobre la búsqueda del amor verdadero, la amistad y la superación, en medio de una batalla a muerte entre un humilde centro de formación técnica y la universidad más poderosa del país; batalla por el máximo galardón en el concurso. Un robot para Chile(n)</desc>
+    <credits>
+      <actor>Juanita Ringeling</actor>
+      <actor>Pedro Ruminot</actor>
+      <actor>Fabrizio Copano</actor>
+      <actor>Esteban Vidal</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160117080500 -0600" stop="20160117094000 -0600" channel="Cine Latino">
+    <title lang="es">La maldición del Padre Cardona</title>
+    <desc lang="es">Un cura que acude a un pueblito a investigar unos extraños sucesos presuntamente producidos por el diablo se siente atraído por una muchacha de la localidad(n)</desc>
+    <credits>
+      <actor>Milagros Germán</actor>
+      <actor>Anthony Álvarez</actor>
+      <actor>Zoe Saldana</actor>
+      <actor>Félix Germán</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160117094000 -0600" stop="20160117112500 -0600" channel="Cine Latino">
+    <title lang="es">O paí, o</title>
+    <desc lang="es">Con música original de Caetano Veloso y Dani Moraes, se desarrolla esta divertida adaptación de una obra teatral donde previo a los días del carnaval, los inquilinos de un edificio luchan con la casera y divulgan la vida de los otros(n)</desc>
+    <credits>
+      <actor>Lázaro Ramos</actor>
+      <actor>Wagner Moura</actor>
+      <actor>Dira Paes</actor>
+      <actor>Monique Gardenberg</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Película</category>
+  </programme>
+  <programme start="20160117112500 -0600" stop="20160117112500 -0600" channel="Cine Latino">
+    <title lang="es">Marcelo, la mafia y la estafa</title>
+    <desc lang="es">Un hombre hereda sorpresivamente las deudas de su mafioso "nonno" y deberá pagar el dinero que debe a la mafia turca y china, así que reúne a los más desquiciados mafiosos para realizar la gran estafa que le permitirá seguir con su vida(n)</desc>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Acción</category>
+  </programme>
+  <programme start="20160117112500 -0600" stop="20160117130000 -0600" channel="Cine Latino">
+    <title lang="es">Marcelo, la mafia y la estafa</title>
+    <desc lang="es">Un hombre hereda sorpresivamente las deudas de su mafioso "nonno" y deberá pagar el dinero que debe a la mafia turca y china, así que reúne a los más desquiciados mafiosos para realizar la gran estafa que le permitirá seguir con su vida(n)</desc>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Acción</category>
+  </programme>
+  <programme start="20160117130000 -0600" stop="20160117143500 -0600" channel="Cine Latino">
+    <title lang="es">El paseo 3, el plan de planes</title>
+    <desc lang="es">Al finalizar las vacaciones, un jefe de familia planea un divertido regreso a casa, por tierra, mar y aire. En el trayecto, la familia se verá involucrada en un robo que los llevará a vivir insólitas aventuras(n)</desc>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160117143500 -0600" stop="20160117161000 -0600" channel="Cine Latino">
+    <title lang="es">Barrio Universitario</title>
+    <desc lang="es">Barrio Universitario es una historia sobre la búsqueda del amor verdadero, la amistad y la superación, en medio de una batalla a muerte entre un humilde centro de formación técnica y la universidad más poderosa del país; batalla por el máximo galardón en el concurso. Un robot para Chile(n)</desc>
+    <credits>
+      <actor>Juanita Ringeling</actor>
+      <actor>Pedro Ruminot</actor>
+      <actor>Fabrizio Copano</actor>
+      <actor>Esteban Vidal</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160117161000 -0600" stop="20160117180000 -0600" channel="Cine Latino">
+    <title lang="es">Hasta que la suerte nos separe</title>
+    <desc lang="es">Un padre de familia gana la lotería. Tras llevar una vida de ostentación se gastan todo el dinero. Para evitar que su esposa descubra su nueva situación financiera, se involucra en divertidas confusiones para fingir que todo está bien(n)</desc>
+    <credits>
+      <actor>Danielle Winits</actor>
+      <actor>Leandro Hassum</actor>
+      <actor>Kiko Mascarenhas</actor>
+      <actor>Roberto Santucci</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160117180000 -0600" stop="20160117192500 -0600" channel="Cine Latino">
+    <title lang="es">Pa ¡por mis hijos lo que sea!</title>
+    <desc lang="es">Enrique, un exitoso ejecutivo y padre de familia, está próximo a ser ascendido como gerente de la sucursal de la empresa en la que trabaja y trasladado a otro país. De repente, su jefe le muestra los resultados de los exámenes que presentó y lo despide. Ahora su preocupación será cómo cubrir sus gastos y deudas(n)</desc>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160117192500 -0600" stop="20160117210000 -0600" channel="Cine Latino">
+    <title lang="es">Los Super</title>
+    <desc lang="es">Tres peculiares personajes se enfrentarán al malévolo Vandomal, quien en su interés por ganar popularidad y dinero crea un virus mortal y sólo él tiene la cura. Para combatirlo los tres amigos, se convertirán en superhéroes... dominicanos(n)</desc>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160117210000 -0600" stop="20160117222500 -0600" channel="Cine Latino">
+    <title lang="es">Pa ¡por mis hijos lo que sea!</title>
+    <desc lang="es">Enrique, un exitoso ejecutivo y padre de familia, está próximo a ser ascendido como gerente de la sucursal de la empresa en la que trabaja y trasladado a otro país. De repente, su jefe le muestra los resultados de los exámenes que presentó y lo despide. Ahora su preocupación será cómo cubrir sus gastos y deudas(n)</desc>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160117222500 -0600" stop="20160118000000 -0600" channel="Cine Latino">
+    <title lang="es">Los Super</title>
+    <desc lang="es">Tres peculiares personajes se enfrentarán al malévolo Vandomal, quien en su interés por ganar popularidad y dinero crea un virus mortal y sólo él tiene la cura. Para combatirlo los tres amigos, se convertirán en superhéroes... dominicanos(n)</desc>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160118000000 -0600" stop="20160118013000 -0600" channel="Cine Latino">
+    <title lang="es">La lámpara del ladino</title>
+    <desc lang="es">Un indito vive enamorado de la mujer más linda del pueblo. Una noche por accidente, frota una botella y aparece un genio quien le concederá 5 deseos, él los aprovechará para conquistar a su amada, sólo que el genio tiene buen sentido del humor(n)</desc>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160118013000 -0600" stop="20160118032000 -0600" channel="Cine Latino">
+    <title lang="es">Hasta que la suerte nos separe</title>
+    <desc lang="es">Un padre de familia gana la lotería. Tras llevar una vida de ostentación se gastan todo el dinero. Para evitar que su esposa descubra su nueva situación financiera, se involucra en divertidas confusiones para fingir que todo está bien(n)</desc>
+    <credits>
+      <actor>Danielle Winits</actor>
+      <actor>Leandro Hassum</actor>
+      <actor>Kiko Mascarenhas</actor>
+      <actor>Roberto Santucci</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160118032000 -0600" stop="20160118050500 -0600" channel="Cine Latino">
+    <title lang="es">O paí, o</title>
+    <desc lang="es">Con música original de Caetano Veloso y Dani Moraes, se desarrolla esta divertida adaptación de una obra teatral donde previo a los días del carnaval, los inquilinos de un edificio luchan con la casera y divulgan la vida de los otros(n)</desc>
+    <credits>
+      <actor>Lázaro Ramos</actor>
+      <actor>Wagner Moura</actor>
+      <actor>Dira Paes</actor>
+      <actor>Monique Gardenberg</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Película</category>
+  </programme>
+  <programme start="20160118050500 -0600" stop="20160118053000 -0600" channel="Cine Latino">
+    <title lang="es">El doble</title>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160118053000 -0600" stop="20160118060000 -0600" channel="Cine Latino">
+    <title lang="es">El doble</title>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160118060000 -0600" stop="20160118074000 -0600" channel="Cine Latino">
+    <title lang="es">Contraseña</title>
+    <desc lang="es">Historia sobre la crisis económica y social de una familia de clase media, que ve en la venta ilegal de películas el medio para salir adelante y pagar sus deudas. Así se desata una serie de problemáticas que afectan el entorno familiar(n)</desc>
+    <credits>
+      <actor>Christie Miro</actor>
+      <actor>Julio Ramos</actor>
+      <actor>Luis Freddie Vázquez</actor>
+      <actor>Jorel Ortiz</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160118074000 -0600" stop="20160118094000 -0600" channel="Cine Latino">
+    <title lang="es">Por tu culpa</title>
+    <desc lang="es">Sara sale de vacaciones a la playa. Ella es una mujer de provincia quien se involucra con dos hombres que descubren que son hermanos y se han enamorado perdidamente de ella(n)</desc>
+    <credits>
+      <actor>Luis Fernando Peña</actor>
+      <actor>Adriana Fonseca</actor>
+      <actor>Ismael La Rosa</actor>
+      <actor>Gonzalo González</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160118094000 -0600" stop="20160118112000 -0600" channel="Cine Latino">
+    <title lang="es">La cocina</title>
+    <desc lang="es">Los conflictos que se dan en el restaurante puertorriqueño "La cocina", cuando las autoridades se enteran que la mayoría del personal son indocumentados. Entre todos arman un maquiavélico plan para deshacerse del Senador que los está sobornando(n)</desc>
+    <credits>
+      <actor>Jorge Luis Ramos</actor>
+      <actor>Linnete Torres</actor>
+      <actor>Cristina Soler</actor>
+      <actor>Vicente Castro</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160118112000 -0600" stop="20160118112000 -0600" channel="Cine Latino">
+    <title lang="es">1,2 y 3 mujeres</title>
+    <desc lang="es">Aborda el tema de la mujer y su relación con el entorno social y geográfico desde diferentes perspectivas y propuestas estéticas través de las historias de Eloína, Rosario y Gregoria(n)</desc>
+    <credits>
+      <actor>Juliana Cuervos</actor>
+      <actor>Ogladih Mayorga</actor>
+      <actor>Ana Isabel Llorca</actor>
+      <actor>Andrea Herrera Catalán</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Película</category>
+  </programme>
+  <programme start="20160118112000 -0600" stop="20160118130500 -0600" channel="Cine Latino">
+    <title lang="es">1,2 y 3 mujeres</title>
+    <desc lang="es">Aborda el tema de la mujer y su relación con el entorno social y geográfico desde diferentes perspectivas y propuestas estéticas través de las historias de Eloína, Rosario y Gregoria(n)</desc>
+    <credits>
+      <actor>Juliana Cuervos</actor>
+      <actor>Ogladih Mayorga</actor>
+      <actor>Ana Isabel Llorca</actor>
+      <actor>Andrea Herrera Catalán</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Película</category>
+  </programme>
+  <programme start="20160118130500 -0600" stop="20160118142500 -0600" channel="Cine Latino">
+    <title lang="es">Jaque mate</title>
+    <category lang="es">Cine</category>
+    <category lang="es">Película</category>
+  </programme>
+  <programme start="20160118142500 -0600" stop="20160118160500 -0600" channel="Cine Latino">
+    <title lang="es">Contraseña</title>
+    <desc lang="es">Historia sobre la crisis económica y social de una familia de clase media, que ve en la venta ilegal de películas el medio para salir adelante y pagar sus deudas. Así se desata una serie de problemáticas que afectan el entorno familiar(n)</desc>
+    <credits>
+      <actor>Christie Miro</actor>
+      <actor>Julio Ramos</actor>
+      <actor>Luis Freddie Vázquez</actor>
+      <actor>Jorel Ortiz</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160118160500 -0600" stop="20160118180500 -0600" channel="Cine Latino">
+    <title lang="es">Por tu culpa</title>
+    <desc lang="es">Sara sale de vacaciones a la playa. Ella es una mujer de provincia quien se involucra con dos hombres que descubren que son hermanos y se han enamorado perdidamente de ella(n)</desc>
+    <credits>
+      <actor>Luis Fernando Peña</actor>
+      <actor>Adriana Fonseca</actor>
+      <actor>Ismael La Rosa</actor>
+      <actor>Gonzalo González</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160118180500 -0600" stop="20160118194000 -0600" channel="Cine Latino">
+    <title lang="es">Apatía, una película de carretera</title>
+    <desc lang="es">En una Semana Santa, dos amigos buscan alivio a su padecer, uno busca a una mujer que lo abandonó y el otro busca abandonarlo todo, emprenden cada uno por su parte un viaje para saber de que se trata la vida(n)</desc>
+    <credits>
+      <actor>Hector Chiquillo</actor>
+      <actor>Maria Dalmazzo</actor>
+      <actor>Elkin Córdoba</actor>
+      <actor>Arturo Ortegón</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Aventura</category>
+  </programme>
+  <programme start="20160118194000 -0600" stop="20160118210000 -0600" channel="Cine Latino">
+    <title lang="es">Poker</title>
+    <desc lang="es">Cuatro hombres viven una desgracia diferente y sólo los une su pasión por el poker. Aunque los demás lo ignoren y los jugadores se esfuercen por ocultarlo, cada uno de ellos está desesperado por ganar, pues saben que perder puede costarles la vida(n)</desc>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160118210000 -0600" stop="20160118224000 -0600" channel="Cine Latino">
+    <title lang="es">Seducción</title>
+    <desc lang="es">Relata la historia de un catedrático universitario que sostiene una relación prohibida con la mejor amiga de su hija(n)</desc>
+    <credits>
+      <actor>Alejandro Camacho</actor>
+      <actor>Gonzalo González</actor>
+      <actor>Luis Fernando Peña</actor>
+      <actor>Fátima Torre</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Drama</category>
   </programme>
 </tv>
