@@ -17,6 +17,7 @@
   </channel>
   <channel id="Animal Planet">
     <display-name lang="es">Animal Planet</display-name>
+    <icon src="http://z.cdn.entutele.com/media/channels/big/animal-planet.gif" />
     <url>http://www.entutele.com</url>
   </channel>
   <channel id="Antena 3">
@@ -5460,5 +5461,1954 @@
     <desc lang="es">En una tierra controlada por siete barones feudales, cuenta la historia de Sunny, un gran guerrero entrenado en las artes marciales, y M.K., su joven aprendiz, que se embarcan en un viaje espiritual cruzando una tierra peligrosa para encontrar la iluminación(n)</desc>
     <category lang="es">Series</category>
     <category lang="es">Fantasía</category>
+  </programme>
+  <programme start="20160111003800 -0600" stop="20160111020000 -0600" channel="Animal Planet">
+    <title lang="es">Clan orangután</title>
+    <sub-title lang="es">Emergencia animal</sub-title>
+    <desc lang="es">La tala ilegal está destruyendo los últimos baluartes de los orangutanes de Borneo dejando huérfanos y sin hogar a cientos de bebés. Su futuro se ve amenazado pero acaba de surgir un proyecto que ofrece verdadera esperanza para asegurar la supervivencia de la especie. Conozca a los 35 alumnos de la Escuela Forestal 103 del Centro de Rescate y Rehabilitación del Orangután "Nyaru Menteng". Estos precoces "hijos de la selva" tendrán la oportunidad de vivir en una isla protegida. La Isla del Orangután es la base para el mayor proyecto de rescate de primates del mundo(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Serie</category>
+  </programme>
+  <programme start="20160111020000 -0600" stop="20160111030000 -0600" channel="Animal Planet">
+    <title lang="es">La tierra de los más fuertes</title>
+    <sub-title lang="es">Perros salvajes africanos</sub-title>
+    <desc lang="es">Ya sea por territorio, derechos de apareamiento o por supervivencia, puede haber muchas razones para los conflictos entre animales, pero una cosa es segura: son inevitables en la naturaleza. Esta serie cuenta la historia de aquellos que luchan por la supremacía o sumisión de otra especie, así como por su posición dentro de su misma especie(n)</desc>
+    <category lang="es">Series</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160111030000 -0600" stop="20160111040000 -0600" channel="Animal Planet">
+    <title lang="es">La tierra de los más fuertes</title>
+    <sub-title lang="es">Mangostas</sub-title>
+    <desc lang="es">Ya sea por territorio, derechos de apareamiento o por supervivencia, puede haber muchas razones para los conflictos entre animales, pero una cosa es segura: son inevitables en la naturaleza. Esta serie cuenta la historia de aquellos que luchan por la supremacía o sumisión de otra especie, así como por su posición dentro de su misma especie(n)</desc>
+    <category lang="es">Series</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160111040000 -0600" stop="20160111050000 -0600" channel="Animal Planet">
+    <title lang="es">La tierra de los más fuertes</title>
+    <sub-title lang="es">Elefantes</sub-title>
+    <desc lang="es">Ya sea por territorio, derechos de apareamiento o por supervivencia, puede haber muchas razones para los conflictos entre animales, pero una cosa es segura: son inevitables en la naturaleza. Esta serie cuenta la historia de aquellos que luchan por la supremacía o sumisión de otra especie, así como por su posición dentro de su misma especie(n)</desc>
+    <category lang="es">Series</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160111050000 -0600" stop="20160111060000 -0600" channel="Animal Planet">
+    <title lang="es">Defensores de ballenas</title>
+    <sub-title lang="es">El sonido del hielo</sub-title>
+    <desc lang="es">La versión ambientalista de "Deadliest Catch" para APL, se sigue al "Sea Shepherd" en su intento por detener a los cazadores japoneses de ballenas(n)</desc>
+    <category lang="es">Series</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160111060000 -0600" stop="20160111070000 -0600" channel="Animal Planet">
+    <title lang="es">Las travesías de Corwin</title>
+    <sub-title lang="es">La agilidad del cocodrilo</sub-title>
+    <desc lang="es">Jeff Corwin recorre el mundo en busca de los animales más interesantes con una misión: explorar diferentes características de la vida salvaje como son el ataque, la velocidad y el tamaño. Irá de país en país en pos de las criaturas que más se destaquen en cada uno de estos aspectos(n)</desc>
+    <credits>
+      <actor>Jeff Corwin</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Reality Show</category>
+  </programme>
+  <programme start="20160111070000 -0600" stop="20160111073000 -0600" channel="Animal Planet">
+    <title lang="es">Beaver Brothers</title>
+    <sub-title lang="es">El mecánico y la rata</sub-title>
+    <desc lang="es">En el pequeño pueblo canadiense de Pomquet, Nueva Escocia, hay más animales que personas. Aunque intentan vivir en armonía, no siempre es posible. Entonces, cuando surge un conflicto entre los bichos y la comunidad, los pueblerinos acuden al equipo más confiable, simpático y poco convencional para que solucione el problema: los BEAVER BROTHERS. El grupo está formado por los hermanos Charlie y Eddie Landry y su joven protegido, Mike. Si bien muchas veces se los describe como enanitos de jardín que cobraron vida, los hermanos Landry, con su acento gracioso y agudo, son los representantes de la sabiduría tradicional local(n)</desc>
+    <credits>
+      <actor>Charles Landry</actor>
+      <actor>Michael Macisaac</actor>
+      <actor>Edward Landry</actor>
+    </credits>
+    <category lang="es">Reality Show</category>
+  </programme>
+  <programme start="20160111073000 -0600" stop="20160111080000 -0600" channel="Animal Planet">
+    <title lang="es">Beaver Brothers</title>
+    <sub-title lang="es">Día de la Marmota</sub-title>
+    <desc lang="es">En el pequeño pueblo canadiense de Pomquet, Nueva Escocia, hay más animales que personas. Aunque intentan vivir en armonía, no siempre es posible. Entonces, cuando surge un conflicto entre los bichos y la comunidad, los pueblerinos acuden al equipo más confiable, simpático y poco convencional para que solucione el problema: los BEAVER BROTHERS. El grupo está formado por los hermanos Charlie y Eddie Landry y su joven protegido, Mike. Si bien muchas veces se los describe como enanitos de jardín que cobraron vida, los hermanos Landry, con su acento gracioso y agudo, son los representantes de la sabiduría tradicional local(n)</desc>
+    <credits>
+      <actor>Charles Landry</actor>
+      <actor>Michael Macisaac</actor>
+      <actor>Edward Landry</actor>
+    </credits>
+    <category lang="es">Reality Show</category>
+  </programme>
+  <programme start="20160111080000 -0600" stop="20160111090000 -0600" channel="Animal Planet">
+    <title lang="es">Criaturas devoradoras</title>
+    <sub-title lang="es">Tigres y leopardos</sub-title>
+    <desc lang="es">Algunas coincidencias pueden resultar muy agradables, pero definitivamente no es el caso si se trata de encuentros cara a cara con algunos de los animales salvajes más peligrosos de la naturaleza(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160111090000 -0600" stop="20160111093000 -0600" channel="Animal Planet">
+    <title lang="es">Perros salvajes de Asia</title>
+    <sub-title lang="es">Con vista de halcón</sub-title>
+    <category lang="es">Culturales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160111093000 -0600" stop="20160111100000 -0600" channel="Animal Planet">
+    <title lang="es">Perros salvajes de Asia</title>
+    <category lang="es">Culturales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160111100000 -0600" stop="20160111110000 -0600" channel="Animal Planet">
+    <title lang="es">Mi gato endemoniado: rasguños</title>
+    <sub-title lang="es">El terror de los clientes</sub-title>
+    <desc lang="es">Episodios especiales de la serie en la que Jackson Galaxy, conductista de gatos, ayuda a las familias a calmar a sus felinos revoltosos(n)</desc>
+    <credits>
+      <actor>Jackson Galaxy</actor>
+    </credits>
+    <category lang="es">Documentales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160111110000 -0600" stop="20160111120000 -0600" channel="Animal Planet">
+    <title lang="es">La tierra de los más fuertes</title>
+    <sub-title lang="es">Hipopótamos</sub-title>
+    <desc lang="es">Ya sea por territorio, derechos de apareamiento o por supervivencia, puede haber muchas razones para los conflictos entre animales, pero una cosa es segura: son inevitables en la naturaleza. Esta serie cuenta la historia de aquellos que luchan por la supremacía o sumisión de otra especie, así como por su posición dentro de su misma especie(n)</desc>
+    <category lang="es">Series</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160111120000 -0600" stop="20160111130000 -0600" channel="Animal Planet">
+    <title lang="es">La tierra de los más fuertes</title>
+    <sub-title lang="es">Perros salvajes africanos</sub-title>
+    <desc lang="es">Ya sea por territorio, derechos de apareamiento o por supervivencia, puede haber muchas razones para los conflictos entre animales, pero una cosa es segura: son inevitables en la naturaleza. Esta serie cuenta la historia de aquellos que luchan por la supremacía o sumisión de otra especie, así como por su posición dentro de su misma especie(n)</desc>
+    <category lang="es">Series</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160111130000 -0600" stop="20160111133000 -0600" channel="Animal Planet">
+    <title lang="es">Beaver Brothers</title>
+    <sub-title lang="es">El mecánico y la rata</sub-title>
+    <desc lang="es">En el pequeño pueblo canadiense de Pomquet, Nueva Escocia, hay más animales que personas. Aunque intentan vivir en armonía, no siempre es posible. Entonces, cuando surge un conflicto entre los bichos y la comunidad, los pueblerinos acuden al equipo más confiable, simpático y poco convencional para que solucione el problema: los BEAVER BROTHERS. El grupo está formado por los hermanos Charlie y Eddie Landry y su joven protegido, Mike. Si bien muchas veces se los describe como enanitos de jardín que cobraron vida, los hermanos Landry, con su acento gracioso y agudo, son los representantes de la sabiduría tradicional local(n)</desc>
+    <credits>
+      <actor>Charles Landry</actor>
+      <actor>Michael Macisaac</actor>
+      <actor>Edward Landry</actor>
+    </credits>
+    <category lang="es">Reality Show</category>
+  </programme>
+  <programme start="20160111133000 -0600" stop="20160111140000 -0600" channel="Animal Planet">
+    <title lang="es">Beaver Brothers</title>
+    <sub-title lang="es">Día de la Marmota</sub-title>
+    <desc lang="es">En el pequeño pueblo canadiense de Pomquet, Nueva Escocia, hay más animales que personas. Aunque intentan vivir en armonía, no siempre es posible. Entonces, cuando surge un conflicto entre los bichos y la comunidad, los pueblerinos acuden al equipo más confiable, simpático y poco convencional para que solucione el problema: los BEAVER BROTHERS. El grupo está formado por los hermanos Charlie y Eddie Landry y su joven protegido, Mike. Si bien muchas veces se los describe como enanitos de jardín que cobraron vida, los hermanos Landry, con su acento gracioso y agudo, son los representantes de la sabiduría tradicional local(n)</desc>
+    <credits>
+      <actor>Charles Landry</actor>
+      <actor>Michael Macisaac</actor>
+      <actor>Edward Landry</actor>
+    </credits>
+    <category lang="es">Reality Show</category>
+  </programme>
+  <programme start="20160111140000 -0600" stop="20160111150000 -0600" channel="Animal Planet">
+    <title lang="es">Criaturas devoradoras</title>
+    <sub-title lang="es">Tigres y leopardos</sub-title>
+    <desc lang="es">Algunas coincidencias pueden resultar muy agradables, pero definitivamente no es el caso si se trata de encuentros cara a cara con algunos de los animales salvajes más peligrosos de la naturaleza(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160111150000 -0600" stop="20160111153000 -0600" channel="Animal Planet">
+    <title lang="es">Perros salvajes de Asia</title>
+    <sub-title lang="es">Con vista de halcón</sub-title>
+    <category lang="es">Culturales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160111153000 -0600" stop="20160111160000 -0600" channel="Animal Planet">
+    <title lang="es">Perros salvajes de Asia</title>
+    <category lang="es">Culturales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160111160000 -0600" stop="20160111170000 -0600" channel="Animal Planet">
+    <title lang="es">ABC canino</title>
+    <sub-title lang="es">Grifón de Bruselas, coonhound</sub-title>
+    <desc lang="es">¡La más amplia y entrañable enciclopedia televisiva sobre perros, con más de 150 razas reconocidas por el American Kennel Club! En este programa se podrán apreciar las razas más adorables, vivaces e inesperadas. Además, se analizan los distintos comportamientos, las historias genéticas, los ejemplares más famosos y las más descabelladas curiosidades. Se presentan las razas más aptas para la vida urbana y las más amistosas para la familia. Esta producción es una mirada sin precedentes al mejor amigo del hombre(n)</desc>
+    <credits>
+      <actor>Kevin Draine</actor>
+    </credits>
+    <category lang="es">Culturales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160111170000 -0600" stop="20160111173000 -0600" channel="Animal Planet">
+    <title lang="es">Village Vets</title>
+    <sub-title lang="es">Tim's Cow</sub-title>
+    <desc lang="es">James y Anthony se hicieron amigos el primer día de universidad. Ahora son veterinarios y atienden juntos en un pequeño pueblo rural de Australia, donde reciben desde las mascotas más comunes, hasta animales bastante más inusuales(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Serie</category>
+  </programme>
+  <programme start="20160111173000 -0600" stop="20160111180000 -0600" channel="Animal Planet">
+    <title lang="es">Village Vets</title>
+    <sub-title lang="es">Alpaca Down</sub-title>
+    <desc lang="es">James y Anthony se hicieron amigos el primer día de universidad. Ahora son veterinarios y atienden juntos en un pequeño pueblo rural de Australia, donde reciben desde las mascotas más comunes, hasta animales bastante más inusuales(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Serie</category>
+  </programme>
+  <programme start="20160111180000 -0600" stop="20160111190000 -0600" channel="Animal Planet">
+    <title lang="es">Las travesías de Corwin</title>
+    <sub-title lang="es">Sardinas a la defensiva</sub-title>
+    <desc lang="es">Jeff Corwin recorre el mundo en busca de los animales más interesantes con una misión: explorar diferentes características de la vida salvaje como son el ataque, la velocidad y el tamaño. Irá de país en país en pos de las criaturas que más se destaquen en cada uno de estos aspectos(n)</desc>
+    <credits>
+      <actor>Jeff Corwin</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Reality Show</category>
+  </programme>
+  <programme start="20160111190000 -0600" stop="20160111200000 -0600" channel="Animal Planet">
+    <title lang="es">Planeta mutante</title>
+    <desc lang="es">Nueva Zelandia es un archipiélago de ensueño con un turbulento pasado geológico, una asombrosa tierra donde la evolución hizo posible animales inusuales: aves que no vuelan, moradores nocturnos y fósiles vivientes(n)</desc>
+    <category lang="es">Documentales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160111200000 -0600" stop="20160111203000 -0600" channel="Animal Planet">
+    <title lang="es">Bondi Vet</title>
+    <sub-title lang="es">¿Podrá Willow caminar otra vez</sub-title>
+    <desc lang="es">La locación de esta serie es la espectacular y famosa Bondi Beach en Australia. El carismático y enérgico veterinario de Sydney, el Dr. Brown, atiende los casos más curiosos en su hospital veterinario, escenario donde el drama y la alegría se combinan para demostrar hasta dónde puede llegar la relación entre los humanos y los animales(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Serie</category>
+  </programme>
+  <programme start="20160111203000 -0600" stop="20160111210000 -0600" channel="Animal Planet">
+    <title lang="es">Bondi Vet</title>
+    <sub-title lang="es">Un día largo para el Dr. Brown</sub-title>
+    <desc lang="es">La locación de esta serie es la espectacular y famosa Bondi Beach en Australia. El carismático y enérgico veterinario de Sydney, el Dr. Brown, atiende los casos más curiosos en su hospital veterinario, escenario donde el drama y la alegría se combinan para demostrar hasta dónde puede llegar la relación entre los humanos y los animales(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Serie</category>
+  </programme>
+  <programme start="20160111210000 -0600" stop="20160111220000 -0600" channel="Animal Planet">
+    <title lang="es">Mi gato endemoniado</title>
+    <sub-title lang="es">Elvis rellenito</sub-title>
+    <desc lang="es">Desde gatos espásticos que arruinan relaciones hasta felinos violentos que envían a sus dueños al hospital, Jackson Galaxy, experto en comportamiento felino, lo ha visto todo. Usted podrá seguir a Jackson mientras trata de hacer que las desesperadas familias comprendan a sus felinos antes de que renuncien a ellos(n)</desc>
+    <credits>
+      <actor>Jackson Galaxy</actor>
+    </credits>
+    <category lang="es">Culturales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160111220000 -0600" stop="20160111230000 -0600" channel="Animal Planet">
+    <title lang="es">SOS: cocodrilo en la mira</title>
+    <sub-title lang="es">Cocodrilo en fuga</sub-title>
+    <desc lang="es">Sigue las azañas que desafian a la muerte de Paul Bedard y Jimmy Riffle, 2 de los mejores cazadores de cocodrilos quienes se arriesgan a lesiones e incluso a morir para capturar cocodrilos molestos que han invadido patios, albercas, garages e incluso cuartos de las residencias de los Everglades de Florida(n)</desc>
+    <credits>
+      <actor>Jimmy Riffle</actor>
+      <actor>Paul Bedard</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Reality Show</category>
+  </programme>
+  <programme start="20160111230000 -0600" stop="20160111234800 -0600" channel="Animal Planet">
+    <title lang="es">África incomparable</title>
+    <sub-title lang="es">Madagascar</sub-title>
+    <desc lang="es">Un homenaje a los lugares más espectaculares de África, que presenta la experiencia africana total. Se viajará desde la cuna de la civilización humana hasta las maravillas naturales más asombrosas del mundo. Venga al corazón de África y descubra uno de los lugares más increíbles y emocionantes de la Tierra(n)</desc>
+    <category lang="es">Documentales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160111234800 -0600" stop="20160112003800 -0600" channel="Animal Planet">
+    <title lang="es">África incomparable</title>
+    <sub-title lang="es">Costa del Cabo</sub-title>
+    <desc lang="es">Un homenaje a los lugares más espectaculares de África, que presenta la experiencia africana total. Se viajará desde la cuna de la civilización humana hasta las maravillas naturales más asombrosas del mundo. Venga al corazón de África y descubra uno de los lugares más increíbles y emocionantes de la Tierra(n)</desc>
+    <category lang="es">Documentales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160112003800 -0600" stop="20160112010800 -0600" channel="Animal Planet">
+    <title lang="es">Clan orangután</title>
+    <sub-title lang="es">Amenaza invisible</sub-title>
+    <desc lang="es">La tala ilegal está destruyendo los últimos baluartes de los orangutanes de Borneo dejando huérfanos y sin hogar a cientos de bebés. Su futuro se ve amenazado pero acaba de surgir un proyecto que ofrece verdadera esperanza para asegurar la supervivencia de la especie. Conozca a los 35 alumnos de la Escuela Forestal 103 del Centro de Rescate y Rehabilitación del Orangután "Nyaru Menteng". Estos precoces "hijos de la selva" tendrán la oportunidad de vivir en una isla protegida. La Isla del Orangután es la base para el mayor proyecto de rescate de primates del mundo(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Serie</category>
+  </programme>
+  <programme start="20160112010800 -0600" stop="20160112013400 -0600" channel="Animal Planet">
+    <title lang="es">Bondi Vet</title>
+    <sub-title lang="es">¿Podrá Willow caminar otra vez</sub-title>
+    <desc lang="es">La locación de esta serie es la espectacular y famosa Bondi Beach en Australia. El carismático y enérgico veterinario de Sydney, el Dr. Brown, atiende los casos más curiosos en su hospital veterinario, escenario donde el drama y la alegría se combinan para demostrar hasta dónde puede llegar la relación entre los humanos y los animales(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Serie</category>
+  </programme>
+  <programme start="20160112013400 -0600" stop="20160112020000 -0600" channel="Animal Planet">
+    <title lang="es">Bondi Vet</title>
+    <sub-title lang="es">Un día largo para el Dr. Brown</sub-title>
+    <desc lang="es">La locación de esta serie es la espectacular y famosa Bondi Beach en Australia. El carismático y enérgico veterinario de Sydney, el Dr. Brown, atiende los casos más curiosos en su hospital veterinario, escenario donde el drama y la alegría se combinan para demostrar hasta dónde puede llegar la relación entre los humanos y los animales(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Serie</category>
+  </programme>
+  <programme start="20160112020000 -0600" stop="20160112030000 -0600" channel="Animal Planet">
+    <title lang="es">Mi gato endemoniado</title>
+    <sub-title lang="es">Elvis rellenito</sub-title>
+    <desc lang="es">Desde gatos espásticos que arruinan relaciones hasta felinos violentos que envían a sus dueños al hospital, Jackson Galaxy, experto en comportamiento felino, lo ha visto todo. Usted podrá seguir a Jackson mientras trata de hacer que las desesperadas familias comprendan a sus felinos antes de que renuncien a ellos(n)</desc>
+    <credits>
+      <actor>Jackson Galaxy</actor>
+    </credits>
+    <category lang="es">Culturales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160112030000 -0600" stop="20160112040000 -0600" channel="Animal Planet">
+    <title lang="es">SOS: cocodrilo en la mira</title>
+    <sub-title lang="es">Cocodrilo en fuga</sub-title>
+    <desc lang="es">Sigue las azañas que desafian a la muerte de Paul Bedard y Jimmy Riffle, 2 de los mejores cazadores de cocodrilos quienes se arriesgan a lesiones e incluso a morir para capturar cocodrilos molestos que han invadido patios, albercas, garages e incluso cuartos de las residencias de los Everglades de Florida(n)</desc>
+    <credits>
+      <actor>Jimmy Riffle</actor>
+      <actor>Paul Bedard</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Reality Show</category>
+  </programme>
+  <programme start="20160112040000 -0600" stop="20160112050000 -0600" channel="Animal Planet">
+    <title lang="es">África incomparable</title>
+    <sub-title lang="es">Madagascar</sub-title>
+    <desc lang="es">Un homenaje a los lugares más espectaculares de África, que presenta la experiencia africana total. Se viajará desde la cuna de la civilización humana hasta las maravillas naturales más asombrosas del mundo. Venga al corazón de África y descubra uno de los lugares más increíbles y emocionantes de la Tierra(n)</desc>
+    <category lang="es">Documentales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160112050000 -0600" stop="20160112060000 -0600" channel="Animal Planet">
+    <title lang="es">Defensores de ballenas</title>
+    <sub-title lang="es">Acero maleable</sub-title>
+    <desc lang="es">La versión ambientalista de "Deadliest Catch" para APL, se sigue al "Sea Shepherd" en su intento por detener a los cazadores japoneses de ballenas(n)</desc>
+    <category lang="es">Series</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160112060000 -0600" stop="20160112070000 -0600" channel="Animal Planet">
+    <title lang="es">Las travesías de Corwin</title>
+    <sub-title lang="es">Chimpancés y sociedad</sub-title>
+    <desc lang="es">Jeff Corwin recorre el mundo en busca de los animales más interesantes con una misión: explorar diferentes características de la vida salvaje como son el ataque, la velocidad y el tamaño. Irá de país en país en pos de las criaturas que más se destaquen en cada uno de estos aspectos(n)</desc>
+    <credits>
+      <actor>Jeff Corwin</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Reality Show</category>
+  </programme>
+  <programme start="20160112070000 -0600" stop="20160112073000 -0600" channel="Animal Planet">
+    <title lang="es">Beaver Brothers</title>
+    <sub-title lang="es">2 de febrero</sub-title>
+    <desc lang="es">En el pequeño pueblo canadiense de Pomquet, Nueva Escocia, hay más animales que personas. Aunque intentan vivir en armonía, no siempre es posible. Entonces, cuando surge un conflicto entre los bichos y la comunidad, los pueblerinos acuden al equipo más confiable, simpático y poco convencional para que solucione el problema: los BEAVER BROTHERS. El grupo está formado por los hermanos Charlie y Eddie Landry y su joven protegido, Mike. Si bien muchas veces se los describe como enanitos de jardín que cobraron vida, los hermanos Landry, con su acento gracioso y agudo, son los representantes de la sabiduría tradicional local(n)</desc>
+    <credits>
+      <actor>Charles Landry</actor>
+      <actor>Michael Macisaac</actor>
+      <actor>Edward Landry</actor>
+    </credits>
+    <category lang="es">Reality Show</category>
+  </programme>
+  <programme start="20160112073000 -0600" stop="20160112080000 -0600" channel="Animal Planet">
+    <title lang="es">Beaver Brothers</title>
+    <sub-title lang="es">El mecánico y la rata</sub-title>
+    <desc lang="es">En el pequeño pueblo canadiense de Pomquet, Nueva Escocia, hay más animales que personas. Aunque intentan vivir en armonía, no siempre es posible. Entonces, cuando surge un conflicto entre los bichos y la comunidad, los pueblerinos acuden al equipo más confiable, simpático y poco convencional para que solucione el problema: los BEAVER BROTHERS. El grupo está formado por los hermanos Charlie y Eddie Landry y su joven protegido, Mike. Si bien muchas veces se los describe como enanitos de jardín que cobraron vida, los hermanos Landry, con su acento gracioso y agudo, son los representantes de la sabiduría tradicional local(n)</desc>
+    <credits>
+      <actor>Charles Landry</actor>
+      <actor>Michael Macisaac</actor>
+      <actor>Edward Landry</actor>
+    </credits>
+    <category lang="es">Reality Show</category>
+  </programme>
+  <programme start="20160112080000 -0600" stop="20160112090000 -0600" channel="Animal Planet">
+    <title lang="es">Criaturas devoradoras</title>
+    <sub-title lang="es">Tiburones</sub-title>
+    <desc lang="es">Algunas coincidencias pueden resultar muy agradables, pero definitivamente no es el caso si se trata de encuentros cara a cara con algunos de los animales salvajes más peligrosos de la naturaleza(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160112090000 -0600" stop="20160112093000 -0600" channel="Animal Planet">
+    <title lang="es">Perros salvajes de Asia</title>
+    <category lang="es">Culturales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160112093000 -0600" stop="20160112100000 -0600" channel="Animal Planet">
+    <title lang="es">Perros salvajes de Asia</title>
+    <category lang="es">Culturales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160112100000 -0600" stop="20160112103000 -0600" channel="Animal Planet">
+    <title lang="es">ABC canino</title>
+    <sub-title lang="es">Coonhound</sub-title>
+    <desc lang="es">¡La más amplia y entrañable enciclopedia televisiva sobre perros, con más de 150 razas reconocidas por el American Kennel Club! En este programa se podrán apreciar las razas más adorables, vivaces e inesperadas. Además, se analizan los distintos comportamientos, las historias genéticas, los ejemplares más famosos y las más descabelladas curiosidades. Se presentan las razas más aptas para la vida urbana y las más amistosas para la familia. Esta producción es una mirada sin precedentes al mejor amigo del hombre(n)</desc>
+    <credits>
+      <actor>Kevin Draine</actor>
+    </credits>
+    <category lang="es">Culturales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160112103000 -0600" stop="20160112110000 -0600" channel="Animal Planet">
+    <title lang="es">ABC canino</title>
+    <sub-title lang="es">Pastor de shetland</sub-title>
+    <desc lang="es">¡La más amplia y entrañable enciclopedia televisiva sobre perros, con más de 150 razas reconocidas por el American Kennel Club! En este programa se podrán apreciar las razas más adorables, vivaces e inesperadas. Además, se analizan los distintos comportamientos, las historias genéticas, los ejemplares más famosos y las más descabelladas curiosidades. Se presentan las razas más aptas para la vida urbana y las más amistosas para la familia. Esta producción es una mirada sin precedentes al mejor amigo del hombre(n)</desc>
+    <credits>
+      <actor>Kevin Draine</actor>
+    </credits>
+    <category lang="es">Culturales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160112110000 -0600" stop="20160112113000 -0600" channel="Animal Planet">
+    <title lang="es">Bondi Vet</title>
+    <sub-title lang="es">¿Podrá Willow caminar otra vez</sub-title>
+    <desc lang="es">La locación de esta serie es la espectacular y famosa Bondi Beach en Australia. El carismático y enérgico veterinario de Sydney, el Dr. Brown, atiende los casos más curiosos en su hospital veterinario, escenario donde el drama y la alegría se combinan para demostrar hasta dónde puede llegar la relación entre los humanos y los animales(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Serie</category>
+  </programme>
+  <programme start="20160112113000 -0600" stop="20160112120000 -0600" channel="Animal Planet">
+    <title lang="es">Bondi Vet</title>
+    <sub-title lang="es">Un día largo para el Dr. Brown</sub-title>
+    <desc lang="es">La locación de esta serie es la espectacular y famosa Bondi Beach en Australia. El carismático y enérgico veterinario de Sydney, el Dr. Brown, atiende los casos más curiosos en su hospital veterinario, escenario donde el drama y la alegría se combinan para demostrar hasta dónde puede llegar la relación entre los humanos y los animales(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Serie</category>
+  </programme>
+  <programme start="20160112120000 -0600" stop="20160112130000 -0600" channel="Animal Planet">
+    <title lang="es">Mi gato endemoniado</title>
+    <sub-title lang="es">Elvis rellenito</sub-title>
+    <desc lang="es">Desde gatos espásticos que arruinan relaciones hasta felinos violentos que envían a sus dueños al hospital, Jackson Galaxy, experto en comportamiento felino, lo ha visto todo. Usted podrá seguir a Jackson mientras trata de hacer que las desesperadas familias comprendan a sus felinos antes de que renuncien a ellos(n)</desc>
+    <credits>
+      <actor>Jackson Galaxy</actor>
+    </credits>
+    <category lang="es">Culturales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160112130000 -0600" stop="20160112133000 -0600" channel="Animal Planet">
+    <title lang="es">Beaver Brothers</title>
+    <sub-title lang="es">2 de febrero</sub-title>
+    <desc lang="es">En el pequeño pueblo canadiense de Pomquet, Nueva Escocia, hay más animales que personas. Aunque intentan vivir en armonía, no siempre es posible. Entonces, cuando surge un conflicto entre los bichos y la comunidad, los pueblerinos acuden al equipo más confiable, simpático y poco convencional para que solucione el problema: los BEAVER BROTHERS. El grupo está formado por los hermanos Charlie y Eddie Landry y su joven protegido, Mike. Si bien muchas veces se los describe como enanitos de jardín que cobraron vida, los hermanos Landry, con su acento gracioso y agudo, son los representantes de la sabiduría tradicional local(n)</desc>
+    <credits>
+      <actor>Charles Landry</actor>
+      <actor>Michael Macisaac</actor>
+      <actor>Edward Landry</actor>
+    </credits>
+    <category lang="es">Reality Show</category>
+  </programme>
+  <programme start="20160112133000 -0600" stop="20160112140000 -0600" channel="Animal Planet">
+    <title lang="es">Beaver Brothers</title>
+    <sub-title lang="es">El mecánico y la rata</sub-title>
+    <desc lang="es">En el pequeño pueblo canadiense de Pomquet, Nueva Escocia, hay más animales que personas. Aunque intentan vivir en armonía, no siempre es posible. Entonces, cuando surge un conflicto entre los bichos y la comunidad, los pueblerinos acuden al equipo más confiable, simpático y poco convencional para que solucione el problema: los BEAVER BROTHERS. El grupo está formado por los hermanos Charlie y Eddie Landry y su joven protegido, Mike. Si bien muchas veces se los describe como enanitos de jardín que cobraron vida, los hermanos Landry, con su acento gracioso y agudo, son los representantes de la sabiduría tradicional local(n)</desc>
+    <credits>
+      <actor>Charles Landry</actor>
+      <actor>Michael Macisaac</actor>
+      <actor>Edward Landry</actor>
+    </credits>
+    <category lang="es">Reality Show</category>
+  </programme>
+  <programme start="20160112140000 -0600" stop="20160112150000 -0600" channel="Animal Planet">
+    <title lang="es">Criaturas devoradoras</title>
+    <sub-title lang="es">Tiburones</sub-title>
+    <desc lang="es">Algunas coincidencias pueden resultar muy agradables, pero definitivamente no es el caso si se trata de encuentros cara a cara con algunos de los animales salvajes más peligrosos de la naturaleza(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160112150000 -0600" stop="20160112153000 -0600" channel="Animal Planet">
+    <title lang="es">Perros salvajes de Asia</title>
+    <category lang="es">Culturales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160112153000 -0600" stop="20160112160000 -0600" channel="Animal Planet">
+    <title lang="es">Perros salvajes de Asia</title>
+    <category lang="es">Culturales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160112160000 -0600" stop="20160112170000 -0600" channel="Animal Planet">
+    <title lang="es">ABC canino</title>
+    <desc lang="es">¡La más amplia y entrañable enciclopedia televisiva sobre perros, con más de 150 razas reconocidas por el American Kennel Club! En este programa se podrán apreciar las razas más adorables, vivaces e inesperadas. Además, se analizan los distintos comportamientos, las historias genéticas, los ejemplares más famosos y las más descabelladas curiosidades. Se presentan las razas más aptas para la vida urbana y las más amistosas para la familia. Esta producción es una mirada sin precedentes al mejor amigo del hombre(n)</desc>
+    <credits>
+      <actor>Kevin Draine</actor>
+    </credits>
+    <category lang="es">Culturales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160112170000 -0600" stop="20160112173000 -0600" channel="Animal Planet">
+    <title lang="es">Village Vets</title>
+    <sub-title lang="es">Lumpy Dog</sub-title>
+    <desc lang="es">James y Anthony se hicieron amigos el primer día de universidad. Ahora son veterinarios y atienden juntos en un pequeño pueblo rural de Australia, donde reciben desde las mascotas más comunes, hasta animales bastante más inusuales(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Serie</category>
+  </programme>
+  <programme start="20160112173000 -0600" stop="20160112180000 -0600" channel="Animal Planet">
+    <title lang="es">Village Vets</title>
+    <sub-title lang="es">Man Flu &amp; Percy's Knee</sub-title>
+    <desc lang="es">James y Anthony se hicieron amigos el primer día de universidad. Ahora son veterinarios y atienden juntos en un pequeño pueblo rural de Australia, donde reciben desde las mascotas más comunes, hasta animales bastante más inusuales(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Serie</category>
+  </programme>
+  <programme start="20160112180000 -0600" stop="20160112190000 -0600" channel="Animal Planet">
+    <title lang="es">Las travesías de Corwin</title>
+    <sub-title lang="es">La trompa del elefante</sub-title>
+    <desc lang="es">Jeff Corwin recorre el mundo en busca de los animales más interesantes con una misión: explorar diferentes características de la vida salvaje como son el ataque, la velocidad y el tamaño. Irá de país en país en pos de las criaturas que más se destaquen en cada uno de estos aspectos(n)</desc>
+    <credits>
+      <actor>Jeff Corwin</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Reality Show</category>
+  </programme>
+  <programme start="20160112190000 -0600" stop="20160112200000 -0600" channel="Animal Planet">
+    <title lang="es">Planeta mutante</title>
+    <sub-title lang="es">Ghats occidentales de india</sub-title>
+    <desc lang="es">Nueva Zelandia es un archipiélago de ensueño con un turbulento pasado geológico, una asombrosa tierra donde la evolución hizo posible animales inusuales: aves que no vuelan, moradores nocturnos y fósiles vivientes(n)</desc>
+    <category lang="es">Documentales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160112200000 -0600" stop="20160112210000 -0600" channel="Animal Planet">
+    <title lang="es">Justicia salvaje</title>
+    <sub-title lang="es">Receta para el desastre</sub-title>
+    <desc lang="es">En el estado Washington, la policía de peces y fauna protege a animales e individuos y atrapa a los criminales. Tanto en tierra como en agua, los oficiales están listos para arriesgar sus vidas(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160112210000 -0600" stop="20160112213000 -0600" channel="Animal Planet">
+    <title lang="es">Héroes caninos</title>
+    <desc lang="es">Ellos encuentran personas perdidas, hallan criminales en bosques densos, controlan prisioneros rebeldes y localizan bombas y narcóticos; son los perros de la Policía Militar de São Paulo. El programa muestra la rutina de patrullaje y entrenamiento entre perros y sus comandantes en las misiones que forman parte del día a día policial(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Serie</category>
+  </programme>
+  <programme start="20160112213000 -0600" stop="20160112220000 -0600" channel="Animal Planet">
+    <title lang="es">Héroes caninos</title>
+    <desc lang="es">Ellos encuentran personas perdidas, hallan criminales en bosques densos, controlan prisioneros rebeldes y localizan bombas y narcóticos; son los perros de la Policía Militar de São Paulo. El programa muestra la rutina de patrullaje y entrenamiento entre perros y sus comandantes en las misiones que forman parte del día a día policial(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Serie</category>
+  </programme>
+  <programme start="20160112220000 -0600" stop="20160112223000 -0600" channel="Animal Planet">
+    <title lang="es">Veterinario extremo</title>
+    <desc lang="es">Aunque no lo crea, en algunas casas de São Paulo hay leones, tigres y otros animales salvajes; y Rodrigo Teixeira, veterinario de animales salvajes, los trata cuando no están bien(n)</desc>
+    <credits>
+      <actor>Rodrigo Teixeira</actor>
+    </credits>
+    <category lang="es">Culturales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160112223000 -0600" stop="20160112230000 -0600" channel="Animal Planet">
+    <title lang="es">Veterinario extremo</title>
+    <desc lang="es">Aunque no lo crea, en algunas casas de São Paulo hay leones, tigres y otros animales salvajes; y Rodrigo Teixeira, veterinario de animales salvajes, los trata cuando no están bien(n)</desc>
+    <credits>
+      <actor>Rodrigo Teixeira</actor>
+    </credits>
+    <category lang="es">Culturales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160112230000 -0600" stop="20160112234800 -0600" channel="Animal Planet">
+    <title lang="es">África incomparable</title>
+    <sub-title lang="es">El Sahara</sub-title>
+    <desc lang="es">Un homenaje a los lugares más espectaculares de África, que presenta la experiencia africana total. Se viajará desde la cuna de la civilización humana hasta las maravillas naturales más asombrosas del mundo. Venga al corazón de África y descubra uno de los lugares más increíbles y emocionantes de la Tierra(n)</desc>
+    <category lang="es">Documentales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160112234800 -0600" stop="20160113003800 -0600" channel="Animal Planet">
+    <title lang="es">África incomparable</title>
+    <sub-title lang="es">Madagascar</sub-title>
+    <desc lang="es">Un homenaje a los lugares más espectaculares de África, que presenta la experiencia africana total. Se viajará desde la cuna de la civilización humana hasta las maravillas naturales más asombrosas del mundo. Venga al corazón de África y descubra uno de los lugares más increíbles y emocionantes de la Tierra(n)</desc>
+    <category lang="es">Documentales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160113003800 -0600" stop="20160113010800 -0600" channel="Animal Planet">
+    <title lang="es">Clan orangután</title>
+    <sub-title lang="es">Castillo de naipes</sub-title>
+    <desc lang="es">La tala ilegal está destruyendo los últimos baluartes de los orangutanes de Borneo dejando huérfanos y sin hogar a cientos de bebés. Su futuro se ve amenazado pero acaba de surgir un proyecto que ofrece verdadera esperanza para asegurar la supervivencia de la especie. Conozca a los 35 alumnos de la Escuela Forestal 103 del Centro de Rescate y Rehabilitación del Orangután "Nyaru Menteng". Estos precoces "hijos de la selva" tendrán la oportunidad de vivir en una isla protegida. La Isla del Orangután es la base para el mayor proyecto de rescate de primates del mundo(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Serie</category>
+  </programme>
+  <programme start="20160113010800 -0600" stop="20160113020000 -0600" channel="Animal Planet">
+    <title lang="es">Justicia salvaje</title>
+    <sub-title lang="es">Receta para el desastre</sub-title>
+    <desc lang="es">En el estado Washington, la policía de peces y fauna protege a animales e individuos y atrapa a los criminales. Tanto en tierra como en agua, los oficiales están listos para arriesgar sus vidas(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160113020000 -0600" stop="20160113023000 -0600" channel="Animal Planet">
+    <title lang="es">Héroes caninos</title>
+    <desc lang="es">Ellos encuentran personas perdidas, hallan criminales en bosques densos, controlan prisioneros rebeldes y localizan bombas y narcóticos; son los perros de la Policía Militar de São Paulo. El programa muestra la rutina de patrullaje y entrenamiento entre perros y sus comandantes en las misiones que forman parte del día a día policial(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Serie</category>
+  </programme>
+  <programme start="20160113023000 -0600" stop="20160113030000 -0600" channel="Animal Planet">
+    <title lang="es">Héroes caninos</title>
+    <desc lang="es">Ellos encuentran personas perdidas, hallan criminales en bosques densos, controlan prisioneros rebeldes y localizan bombas y narcóticos; son los perros de la Policía Militar de São Paulo. El programa muestra la rutina de patrullaje y entrenamiento entre perros y sus comandantes en las misiones que forman parte del día a día policial(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Serie</category>
+  </programme>
+  <programme start="20160113030000 -0600" stop="20160113033000 -0600" channel="Animal Planet">
+    <title lang="es">Veterinario extremo</title>
+    <desc lang="es">Aunque no lo crea, en algunas casas de São Paulo hay leones, tigres y otros animales salvajes; y Rodrigo Teixeira, veterinario de animales salvajes, los trata cuando no están bien(n)</desc>
+    <credits>
+      <actor>Rodrigo Teixeira</actor>
+    </credits>
+    <category lang="es">Culturales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160113033000 -0600" stop="20160113040000 -0600" channel="Animal Planet">
+    <title lang="es">Veterinario extremo</title>
+    <desc lang="es">Aunque no lo crea, en algunas casas de São Paulo hay leones, tigres y otros animales salvajes; y Rodrigo Teixeira, veterinario de animales salvajes, los trata cuando no están bien(n)</desc>
+    <credits>
+      <actor>Rodrigo Teixeira</actor>
+    </credits>
+    <category lang="es">Culturales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160113040000 -0600" stop="20160113050000 -0600" channel="Animal Planet">
+    <title lang="es">África incomparable</title>
+    <sub-title lang="es">El Sahara</sub-title>
+    <desc lang="es">Un homenaje a los lugares más espectaculares de África, que presenta la experiencia africana total. Se viajará desde la cuna de la civilización humana hasta las maravillas naturales más asombrosas del mundo. Venga al corazón de África y descubra uno de los lugares más increíbles y emocionantes de la Tierra(n)</desc>
+    <category lang="es">Documentales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160113050000 -0600" stop="20160113060000 -0600" channel="Animal Planet">
+    <title lang="es">Defensores de ballenas</title>
+    <sub-title lang="es">Perros que ladran y muerden</sub-title>
+    <desc lang="es">La versión ambientalista de "Deadliest Catch" para APL, se sigue al "Sea Shepherd" en su intento por detener a los cazadores japoneses de ballenas(n)</desc>
+    <category lang="es">Series</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160113060000 -0600" stop="20160113070000 -0600" channel="Animal Planet">
+    <title lang="es">Las travesías de Corwin</title>
+    <sub-title lang="es">Sardinas a la defensiva</sub-title>
+    <desc lang="es">Jeff Corwin recorre el mundo en busca de los animales más interesantes con una misión: explorar diferentes características de la vida salvaje como son el ataque, la velocidad y el tamaño. Irá de país en país en pos de las criaturas que más se destaquen en cada uno de estos aspectos(n)</desc>
+    <credits>
+      <actor>Jeff Corwin</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Reality Show</category>
+  </programme>
+  <programme start="20160113070000 -0600" stop="20160113073000 -0600" channel="Animal Planet">
+    <title lang="es">Beaver Brothers</title>
+    <sub-title lang="es">El hurón y el sacerdote</sub-title>
+    <desc lang="es">En el pequeño pueblo canadiense de Pomquet, Nueva Escocia, hay más animales que personas. Aunque intentan vivir en armonía, no siempre es posible. Entonces, cuando surge un conflicto entre los bichos y la comunidad, los pueblerinos acuden al equipo más confiable, simpático y poco convencional para que solucione el problema: los BEAVER BROTHERS. El grupo está formado por los hermanos Charlie y Eddie Landry y su joven protegido, Mike. Si bien muchas veces se los describe como enanitos de jardín que cobraron vida, los hermanos Landry, con su acento gracioso y agudo, son los representantes de la sabiduría tradicional local(n)</desc>
+    <credits>
+      <actor>Charles Landry</actor>
+      <actor>Michael Macisaac</actor>
+      <actor>Edward Landry</actor>
+    </credits>
+    <category lang="es">Reality Show</category>
+  </programme>
+  <programme start="20160113073000 -0600" stop="20160113080000 -0600" channel="Animal Planet">
+    <title lang="es">Beaver Brothers</title>
+    <sub-title lang="es">Destrozaduendes</sub-title>
+    <desc lang="es">En el pequeño pueblo canadiense de Pomquet, Nueva Escocia, hay más animales que personas. Aunque intentan vivir en armonía, no siempre es posible. Entonces, cuando surge un conflicto entre los bichos y la comunidad, los pueblerinos acuden al equipo más confiable, simpático y poco convencional para que solucione el problema: los BEAVER BROTHERS. El grupo está formado por los hermanos Charlie y Eddie Landry y su joven protegido, Mike. Si bien muchas veces se los describe como enanitos de jardín que cobraron vida, los hermanos Landry, con su acento gracioso y agudo, son los representantes de la sabiduría tradicional local(n)</desc>
+    <credits>
+      <actor>Charles Landry</actor>
+      <actor>Michael Macisaac</actor>
+      <actor>Edward Landry</actor>
+    </credits>
+    <category lang="es">Reality Show</category>
+  </programme>
+  <programme start="20160113080000 -0600" stop="20160113090000 -0600" channel="Animal Planet">
+    <title lang="es">Criaturas devoradoras</title>
+    <sub-title lang="es">Cocodrilos</sub-title>
+    <desc lang="es">Algunas coincidencias pueden resultar muy agradables, pero definitivamente no es el caso si se trata de encuentros cara a cara con algunos de los animales salvajes más peligrosos de la naturaleza(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160113090000 -0600" stop="20160113093000 -0600" channel="Animal Planet">
+    <title lang="es">Perros salvajes de Asia</title>
+    <category lang="es">Culturales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160113093000 -0600" stop="20160113100000 -0600" channel="Animal Planet">
+    <title lang="es">Perros salvajes de Asia</title>
+    <sub-title lang="es">Con vista de halcón</sub-title>
+    <category lang="es">Culturales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160113100000 -0600" stop="20160113103000 -0600" channel="Animal Planet">
+    <title lang="es">ABC canino</title>
+    <sub-title lang="es">Bernés de la montaña</sub-title>
+    <desc lang="es">¡La más amplia y entrañable enciclopedia televisiva sobre perros, con más de 150 razas reconocidas por el American Kennel Club! En este programa se podrán apreciar las razas más adorables, vivaces e inesperadas. Además, se analizan los distintos comportamientos, las historias genéticas, los ejemplares más famosos y las más descabelladas curiosidades. Se presentan las razas más aptas para la vida urbana y las más amistosas para la familia. Esta producción es una mirada sin precedentes al mejor amigo del hombre(n)</desc>
+    <credits>
+      <actor>Kevin Draine</actor>
+    </credits>
+    <category lang="es">Culturales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160113103000 -0600" stop="20160113110000 -0600" channel="Animal Planet">
+    <title lang="es">ABC canino</title>
+    <sub-title lang="es">Gigante de los pirineos</sub-title>
+    <desc lang="es">¡La más amplia y entrañable enciclopedia televisiva sobre perros, con más de 150 razas reconocidas por el American Kennel Club! En este programa se podrán apreciar las razas más adorables, vivaces e inesperadas. Además, se analizan los distintos comportamientos, las historias genéticas, los ejemplares más famosos y las más descabelladas curiosidades. Se presentan las razas más aptas para la vida urbana y las más amistosas para la familia. Esta producción es una mirada sin precedentes al mejor amigo del hombre(n)</desc>
+    <credits>
+      <actor>Kevin Draine</actor>
+    </credits>
+    <category lang="es">Culturales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160113110000 -0600" stop="20160113120000 -0600" channel="Animal Planet">
+    <title lang="es">Justicia salvaje</title>
+    <sub-title lang="es">Receta para el desastre</sub-title>
+    <desc lang="es">En el estado Washington, la policía de peces y fauna protege a animales e individuos y atrapa a los criminales. Tanto en tierra como en agua, los oficiales están listos para arriesgar sus vidas(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160113120000 -0600" stop="20160113123000 -0600" channel="Animal Planet">
+    <title lang="es">Héroes caninos</title>
+    <desc lang="es">Ellos encuentran personas perdidas, hallan criminales en bosques densos, controlan prisioneros rebeldes y localizan bombas y narcóticos; son los perros de la Policía Militar de São Paulo. El programa muestra la rutina de patrullaje y entrenamiento entre perros y sus comandantes en las misiones que forman parte del día a día policial(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Serie</category>
+  </programme>
+  <programme start="20160113123000 -0600" stop="20160113130000 -0600" channel="Animal Planet">
+    <title lang="es">Héroes caninos</title>
+    <desc lang="es">Ellos encuentran personas perdidas, hallan criminales en bosques densos, controlan prisioneros rebeldes y localizan bombas y narcóticos; son los perros de la Policía Militar de São Paulo. El programa muestra la rutina de patrullaje y entrenamiento entre perros y sus comandantes en las misiones que forman parte del día a día policial(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Serie</category>
+  </programme>
+  <programme start="20160113130000 -0600" stop="20160113133000 -0600" channel="Animal Planet">
+    <title lang="es">Beaver Brothers</title>
+    <sub-title lang="es">El hurón y el sacerdote</sub-title>
+    <desc lang="es">En el pequeño pueblo canadiense de Pomquet, Nueva Escocia, hay más animales que personas. Aunque intentan vivir en armonía, no siempre es posible. Entonces, cuando surge un conflicto entre los bichos y la comunidad, los pueblerinos acuden al equipo más confiable, simpático y poco convencional para que solucione el problema: los BEAVER BROTHERS. El grupo está formado por los hermanos Charlie y Eddie Landry y su joven protegido, Mike. Si bien muchas veces se los describe como enanitos de jardín que cobraron vida, los hermanos Landry, con su acento gracioso y agudo, son los representantes de la sabiduría tradicional local(n)</desc>
+    <credits>
+      <actor>Charles Landry</actor>
+      <actor>Michael Macisaac</actor>
+      <actor>Edward Landry</actor>
+    </credits>
+    <category lang="es">Reality Show</category>
+  </programme>
+  <programme start="20160113133000 -0600" stop="20160113140000 -0600" channel="Animal Planet">
+    <title lang="es">Beaver Brothers</title>
+    <sub-title lang="es">Destrozaduendes</sub-title>
+    <desc lang="es">En el pequeño pueblo canadiense de Pomquet, Nueva Escocia, hay más animales que personas. Aunque intentan vivir en armonía, no siempre es posible. Entonces, cuando surge un conflicto entre los bichos y la comunidad, los pueblerinos acuden al equipo más confiable, simpático y poco convencional para que solucione el problema: los BEAVER BROTHERS. El grupo está formado por los hermanos Charlie y Eddie Landry y su joven protegido, Mike. Si bien muchas veces se los describe como enanitos de jardín que cobraron vida, los hermanos Landry, con su acento gracioso y agudo, son los representantes de la sabiduría tradicional local(n)</desc>
+    <credits>
+      <actor>Charles Landry</actor>
+      <actor>Michael Macisaac</actor>
+      <actor>Edward Landry</actor>
+    </credits>
+    <category lang="es">Reality Show</category>
+  </programme>
+  <programme start="20160113140000 -0600" stop="20160113150000 -0600" channel="Animal Planet">
+    <title lang="es">Criaturas devoradoras</title>
+    <sub-title lang="es">Cocodrilos</sub-title>
+    <desc lang="es">Algunas coincidencias pueden resultar muy agradables, pero definitivamente no es el caso si se trata de encuentros cara a cara con algunos de los animales salvajes más peligrosos de la naturaleza(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160113150000 -0600" stop="20160113153000 -0600" channel="Animal Planet">
+    <title lang="es">Perros salvajes de Asia</title>
+    <category lang="es">Culturales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160113153000 -0600" stop="20160113160000 -0600" channel="Animal Planet">
+    <title lang="es">Perros salvajes de Asia</title>
+    <sub-title lang="es">Con vista de halcón</sub-title>
+    <category lang="es">Culturales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160113160000 -0600" stop="20160113170000 -0600" channel="Animal Planet">
+    <title lang="es">Abc de las mascotas</title>
+    <sub-title lang="es">Mascotas más originales</sub-title>
+    <desc lang="es">Esta serie muestra seis mascotas diferentes en cada episodio. El programa explica las características de cada raza de mascota y presenta las opiniones de expertos que van desde entrenadores hasta veterinarios. El show está orientado a las personas que quieren una mascota simpática pero que no saben cuál escoger(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Serie</category>
+  </programme>
+  <programme start="20160113170000 -0600" stop="20160113173000 -0600" channel="Animal Planet">
+    <title lang="es">Village Vets</title>
+    <desc lang="es">James y Anthony se hicieron amigos el primer día de universidad. Ahora son veterinarios y atienden juntos en un pequeño pueblo rural de Australia, donde reciben desde las mascotas más comunes, hasta animales bastante más inusuales(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Serie</category>
+  </programme>
+  <programme start="20160113173000 -0600" stop="20160113180000 -0600" channel="Animal Planet">
+    <title lang="es">Village Vets</title>
+    <desc lang="es">James y Anthony se hicieron amigos el primer día de universidad. Ahora son veterinarios y atienden juntos en un pequeño pueblo rural de Australia, donde reciben desde las mascotas más comunes, hasta animales bastante más inusuales(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Serie</category>
+  </programme>
+  <programme start="20160113180000 -0600" stop="20160113190000 -0600" channel="Animal Planet">
+    <title lang="es">Las travesías de Corwin</title>
+    <sub-title lang="es">La cola de la ballena azul</sub-title>
+    <desc lang="es">Jeff Corwin recorre el mundo en busca de los animales más interesantes con una misión: explorar diferentes características de la vida salvaje como son el ataque, la velocidad y el tamaño. Irá de país en país en pos de las criaturas que más se destaquen en cada uno de estos aspectos(n)</desc>
+    <credits>
+      <actor>Jeff Corwin</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Reality Show</category>
+  </programme>
+  <programme start="20160113190000 -0600" stop="20160113200000 -0600" channel="Animal Planet">
+    <title lang="es">Planeta mutante</title>
+    <desc lang="es">Nueva Zelandia es un archipiélago de ensueño con un turbulento pasado geológico, una asombrosa tierra donde la evolución hizo posible animales inusuales: aves que no vuelan, moradores nocturnos y fósiles vivientes(n)</desc>
+    <category lang="es">Documentales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160113200000 -0600" stop="20160113210000 -0600" channel="Animal Planet">
+    <title lang="es">Dr. Jeff, veterinario</title>
+    <sub-title lang="es">Mile high mutt</sub-title>
+    <desc lang="es">El veterinario más ocupado de Colorado, el Dr. Jeff, lucha para salvar la vida de un perro chiquito que se tragó algo que podría ser mortal. Llegan a la clínica 10 perros cachorros con una enfermedad misteriosa y letal. Cada segundo cuenta para salvarlos(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Serie</category>
+  </programme>
+  <programme start="20160113210000 -0600" stop="20160113220000 -0600" channel="Animal Planet">
+    <title lang="es">El encantador de perros</title>
+    <sub-title lang="es">Seven, Sara y Madeleine</sub-title>
+    <desc lang="es">César Millán consigue rehabilitar a perros agresivos, asustadizos, haraganes, compulsivos y celosos. En cada episodio atiende tanto a los animales con problemas de comportamiento como a sus familias humanas. Utilizando su extraordinario conocimiento instintivo sobre psicología canina, César Millán demuestra técnicas específicas para cada problemática perruna(n)</desc>
+    <credits>
+      <actor>Cesar Millan</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Reality Show</category>
+  </programme>
+  <programme start="20160113220000 -0600" stop="20160113223000 -0600" channel="Animal Planet">
+    <title lang="es">El mejor amigo</title>
+    <desc lang="es">Esta enternecedora serie documental examina la relación entre los perros y otros animales. El programa muestra las inspiradoras amistades entre diferentes especies animales y nos recuerda por qué se dice que el perro es el mejor amigo del hombre(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160113223000 -0600" stop="20160113230000 -0600" channel="Animal Planet">
+    <title lang="es">El mejor amigo</title>
+    <desc lang="es">Esta enternecedora serie documental examina la relación entre los perros y otros animales. El programa muestra las inspiradoras amistades entre diferentes especies animales y nos recuerda por qué se dice que el perro es el mejor amigo del hombre(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160113230000 -0600" stop="20160113234800 -0600" channel="Animal Planet">
+    <title lang="es">África incomparable</title>
+    <sub-title lang="es">Monte Kenia</sub-title>
+    <desc lang="es">Un homenaje a los lugares más espectaculares de África, que presenta la experiencia africana total. Se viajará desde la cuna de la civilización humana hasta las maravillas naturales más asombrosas del mundo. Venga al corazón de África y descubra uno de los lugares más increíbles y emocionantes de la Tierra(n)</desc>
+    <category lang="es">Documentales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160113234800 -0600" stop="20160114003800 -0600" channel="Animal Planet">
+    <title lang="es">África incomparable</title>
+    <sub-title lang="es">El Sahara</sub-title>
+    <desc lang="es">Un homenaje a los lugares más espectaculares de África, que presenta la experiencia africana total. Se viajará desde la cuna de la civilización humana hasta las maravillas naturales más asombrosas del mundo. Venga al corazón de África y descubra uno de los lugares más increíbles y emocionantes de la Tierra(n)</desc>
+    <category lang="es">Documentales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160114003800 -0600" stop="20160114010800 -0600" channel="Animal Planet">
+    <title lang="es">Clan orangután</title>
+    <sub-title lang="es">Bonanza</sub-title>
+    <desc lang="es">La tala ilegal está destruyendo los últimos baluartes de los orangutanes de Borneo dejando huérfanos y sin hogar a cientos de bebés. Su futuro se ve amenazado pero acaba de surgir un proyecto que ofrece verdadera esperanza para asegurar la supervivencia de la especie. Conozca a los 35 alumnos de la Escuela Forestal 103 del Centro de Rescate y Rehabilitación del Orangután "Nyaru Menteng". Estos precoces "hijos de la selva" tendrán la oportunidad de vivir en una isla protegida. La Isla del Orangután es la base para el mayor proyecto de rescate de primates del mundo(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Serie</category>
+  </programme>
+  <programme start="20160114010800 -0600" stop="20160114020000 -0600" channel="Animal Planet">
+    <title lang="es">Dr. Jeff, veterinario</title>
+    <sub-title lang="es">Mile high mutt</sub-title>
+    <desc lang="es">El veterinario más ocupado de Colorado, el Dr. Jeff, lucha para salvar la vida de un perro chiquito que se tragó algo que podría ser mortal. Llegan a la clínica 10 perros cachorros con una enfermedad misteriosa y letal. Cada segundo cuenta para salvarlos(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Serie</category>
+  </programme>
+  <programme start="20160114020000 -0600" stop="20160114030000 -0600" channel="Animal Planet">
+    <title lang="es">El encantador de perros</title>
+    <sub-title lang="es">Seven, Sara y Madeleine</sub-title>
+    <desc lang="es">César Millán consigue rehabilitar a perros agresivos, asustadizos, haraganes, compulsivos y celosos. En cada episodio atiende tanto a los animales con problemas de comportamiento como a sus familias humanas. Utilizando su extraordinario conocimiento instintivo sobre psicología canina, César Millán demuestra técnicas específicas para cada problemática perruna(n)</desc>
+    <credits>
+      <actor>Cesar Millan</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Reality Show</category>
+  </programme>
+  <programme start="20160114030000 -0600" stop="20160114033000 -0600" channel="Animal Planet">
+    <title lang="es">El mejor amigo</title>
+    <desc lang="es">Esta enternecedora serie documental examina la relación entre los perros y otros animales. El programa muestra las inspiradoras amistades entre diferentes especies animales y nos recuerda por qué se dice que el perro es el mejor amigo del hombre(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160114033000 -0600" stop="20160114040000 -0600" channel="Animal Planet">
+    <title lang="es">El mejor amigo</title>
+    <desc lang="es">Esta enternecedora serie documental examina la relación entre los perros y otros animales. El programa muestra las inspiradoras amistades entre diferentes especies animales y nos recuerda por qué se dice que el perro es el mejor amigo del hombre(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160114040000 -0600" stop="20160114050000 -0600" channel="Animal Planet">
+    <title lang="es">África incomparable</title>
+    <sub-title lang="es">Monte Kenia</sub-title>
+    <desc lang="es">Un homenaje a los lugares más espectaculares de África, que presenta la experiencia africana total. Se viajará desde la cuna de la civilización humana hasta las maravillas naturales más asombrosas del mundo. Venga al corazón de África y descubra uno de los lugares más increíbles y emocionantes de la Tierra(n)</desc>
+    <category lang="es">Documentales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160114050000 -0600" stop="20160114060000 -0600" channel="Animal Planet">
+    <title lang="es">Defensores de ballenas</title>
+    <sub-title lang="es">El sabor de la derrota</sub-title>
+    <desc lang="es">La versión ambientalista de "Deadliest Catch" para APL, se sigue al "Sea Shepherd" en su intento por detener a los cazadores japoneses de ballenas(n)</desc>
+    <category lang="es">Series</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160114060000 -0600" stop="20160114070000 -0600" channel="Animal Planet">
+    <title lang="es">Las travesías de Corwin</title>
+    <sub-title lang="es">La trompa del elefante</sub-title>
+    <desc lang="es">Jeff Corwin recorre el mundo en busca de los animales más interesantes con una misión: explorar diferentes características de la vida salvaje como son el ataque, la velocidad y el tamaño. Irá de país en país en pos de las criaturas que más se destaquen en cada uno de estos aspectos(n)</desc>
+    <credits>
+      <actor>Jeff Corwin</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Reality Show</category>
+  </programme>
+  <programme start="20160114070000 -0600" stop="20160114073000 -0600" channel="Animal Planet">
+    <title lang="es">Beaver Brothers</title>
+    <sub-title lang="es">Aventuras de hermanos</sub-title>
+    <desc lang="es">En el pequeño pueblo canadiense de Pomquet, Nueva Escocia, hay más animales que personas. Aunque intentan vivir en armonía, no siempre es posible. Entonces, cuando surge un conflicto entre los bichos y la comunidad, los pueblerinos acuden al equipo más confiable, simpático y poco convencional para que solucione el problema: los BEAVER BROTHERS. El grupo está formado por los hermanos Charlie y Eddie Landry y su joven protegido, Mike. Si bien muchas veces se los describe como enanitos de jardín que cobraron vida, los hermanos Landry, con su acento gracioso y agudo, son los representantes de la sabiduría tradicional local(n)</desc>
+    <credits>
+      <actor>Charles Landry</actor>
+      <actor>Michael Macisaac</actor>
+      <actor>Edward Landry</actor>
+    </credits>
+    <category lang="es">Reality Show</category>
+  </programme>
+  <programme start="20160114073000 -0600" stop="20160114080000 -0600" channel="Animal Planet">
+    <title lang="es">Beaver Brothers</title>
+    <desc lang="es">En el pequeño pueblo canadiense de Pomquet, Nueva Escocia, hay más animales que personas. Aunque intentan vivir en armonía, no siempre es posible. Entonces, cuando surge un conflicto entre los bichos y la comunidad, los pueblerinos acuden al equipo más confiable, simpático y poco convencional para que solucione el problema: los BEAVER BROTHERS. El grupo está formado por los hermanos Charlie y Eddie Landry y su joven protegido, Mike. Si bien muchas veces se los describe como enanitos de jardín que cobraron vida, los hermanos Landry, con su acento gracioso y agudo, son los representantes de la sabiduría tradicional local(n)</desc>
+    <credits>
+      <actor>Charles Landry</actor>
+      <actor>Michael Macisaac</actor>
+      <actor>Edward Landry</actor>
+    </credits>
+    <category lang="es">Reality Show</category>
+  </programme>
+  <programme start="20160114080000 -0600" stop="20160114090000 -0600" channel="Animal Planet">
+    <title lang="es">Criaturas devoradoras</title>
+    <sub-title lang="es">Osos</sub-title>
+    <desc lang="es">Algunas coincidencias pueden resultar muy agradables, pero definitivamente no es el caso si se trata de encuentros cara a cara con algunos de los animales salvajes más peligrosos de la naturaleza(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160114090000 -0600" stop="20160114093000 -0600" channel="Animal Planet">
+    <title lang="es">Perros salvajes de Asia</title>
+    <category lang="es">Culturales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160114093000 -0600" stop="20160114100000 -0600" channel="Animal Planet">
+    <title lang="es">Perros salvajes de Asia</title>
+    <category lang="es">Culturales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160114100000 -0600" stop="20160114103000 -0600" channel="Animal Planet">
+    <title lang="es">ABC canino</title>
+    <sub-title lang="es">Bichón frisé</sub-title>
+    <desc lang="es">¡La más amplia y entrañable enciclopedia televisiva sobre perros, con más de 150 razas reconocidas por el American Kennel Club! En este programa se podrán apreciar las razas más adorables, vivaces e inesperadas. Además, se analizan los distintos comportamientos, las historias genéticas, los ejemplares más famosos y las más descabelladas curiosidades. Se presentan las razas más aptas para la vida urbana y las más amistosas para la familia. Esta producción es una mirada sin precedentes al mejor amigo del hombre(n)</desc>
+    <credits>
+      <actor>Kevin Draine</actor>
+    </credits>
+    <category lang="es">Culturales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160114103000 -0600" stop="20160114110000 -0600" channel="Animal Planet">
+    <title lang="es">ABC canino</title>
+    <sub-title lang="es">Flat-coated retriever</sub-title>
+    <desc lang="es">¡La más amplia y entrañable enciclopedia televisiva sobre perros, con más de 150 razas reconocidas por el American Kennel Club! En este programa se podrán apreciar las razas más adorables, vivaces e inesperadas. Además, se analizan los distintos comportamientos, las historias genéticas, los ejemplares más famosos y las más descabelladas curiosidades. Se presentan las razas más aptas para la vida urbana y las más amistosas para la familia. Esta producción es una mirada sin precedentes al mejor amigo del hombre(n)</desc>
+    <credits>
+      <actor>Kevin Draine</actor>
+    </credits>
+    <category lang="es">Culturales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160114110000 -0600" stop="20160114120000 -0600" channel="Animal Planet">
+    <title lang="es">Dr. Jeff, veterinario</title>
+    <sub-title lang="es">Mile high mutt</sub-title>
+    <desc lang="es">El veterinario más ocupado de Colorado, el Dr. Jeff, lucha para salvar la vida de un perro chiquito que se tragó algo que podría ser mortal. Llegan a la clínica 10 perros cachorros con una enfermedad misteriosa y letal. Cada segundo cuenta para salvarlos(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Serie</category>
+  </programme>
+  <programme start="20160114120000 -0600" stop="20160114130000 -0600" channel="Animal Planet">
+    <title lang="es">El encantador de perros</title>
+    <sub-title lang="es">Seven, Sara y Madeleine</sub-title>
+    <desc lang="es">César Millán consigue rehabilitar a perros agresivos, asustadizos, haraganes, compulsivos y celosos. En cada episodio atiende tanto a los animales con problemas de comportamiento como a sus familias humanas. Utilizando su extraordinario conocimiento instintivo sobre psicología canina, César Millán demuestra técnicas específicas para cada problemática perruna(n)</desc>
+    <credits>
+      <actor>Cesar Millan</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Reality Show</category>
+  </programme>
+  <programme start="20160114130000 -0600" stop="20160114133000 -0600" channel="Animal Planet">
+    <title lang="es">Beaver Brothers</title>
+    <sub-title lang="es">Aventuras de hermanos</sub-title>
+    <desc lang="es">En el pequeño pueblo canadiense de Pomquet, Nueva Escocia, hay más animales que personas. Aunque intentan vivir en armonía, no siempre es posible. Entonces, cuando surge un conflicto entre los bichos y la comunidad, los pueblerinos acuden al equipo más confiable, simpático y poco convencional para que solucione el problema: los BEAVER BROTHERS. El grupo está formado por los hermanos Charlie y Eddie Landry y su joven protegido, Mike. Si bien muchas veces se los describe como enanitos de jardín que cobraron vida, los hermanos Landry, con su acento gracioso y agudo, son los representantes de la sabiduría tradicional local(n)</desc>
+    <credits>
+      <actor>Charles Landry</actor>
+      <actor>Michael Macisaac</actor>
+      <actor>Edward Landry</actor>
+    </credits>
+    <category lang="es">Reality Show</category>
+  </programme>
+  <programme start="20160114133000 -0600" stop="20160114140000 -0600" channel="Animal Planet">
+    <title lang="es">Beaver Brothers</title>
+    <desc lang="es">En el pequeño pueblo canadiense de Pomquet, Nueva Escocia, hay más animales que personas. Aunque intentan vivir en armonía, no siempre es posible. Entonces, cuando surge un conflicto entre los bichos y la comunidad, los pueblerinos acuden al equipo más confiable, simpático y poco convencional para que solucione el problema: los BEAVER BROTHERS. El grupo está formado por los hermanos Charlie y Eddie Landry y su joven protegido, Mike. Si bien muchas veces se los describe como enanitos de jardín que cobraron vida, los hermanos Landry, con su acento gracioso y agudo, son los representantes de la sabiduría tradicional local(n)</desc>
+    <credits>
+      <actor>Charles Landry</actor>
+      <actor>Michael Macisaac</actor>
+      <actor>Edward Landry</actor>
+    </credits>
+    <category lang="es">Reality Show</category>
+  </programme>
+  <programme start="20160114140000 -0600" stop="20160114150000 -0600" channel="Animal Planet">
+    <title lang="es">Criaturas devoradoras</title>
+    <sub-title lang="es">Osos</sub-title>
+    <desc lang="es">Algunas coincidencias pueden resultar muy agradables, pero definitivamente no es el caso si se trata de encuentros cara a cara con algunos de los animales salvajes más peligrosos de la naturaleza(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160114150000 -0600" stop="20160114153000 -0600" channel="Animal Planet">
+    <title lang="es">Perros salvajes de Asia</title>
+    <category lang="es">Culturales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160114153000 -0600" stop="20160114160000 -0600" channel="Animal Planet">
+    <title lang="es">Perros salvajes de Asia</title>
+    <category lang="es">Culturales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160114160000 -0600" stop="20160114170000 -0600" channel="Animal Planet">
+    <title lang="es">Abc de las mascotas</title>
+    <sub-title lang="es">Mascotas que llegan del patio trasero</sub-title>
+    <desc lang="es">Esta serie muestra seis mascotas diferentes en cada episodio. El programa explica las características de cada raza de mascota y presenta las opiniones de expertos que van desde entrenadores hasta veterinarios. El show está orientado a las personas que quieren una mascota simpática pero que no saben cuál escoger(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Serie</category>
+  </programme>
+  <programme start="20160114170000 -0600" stop="20160114173000 -0600" channel="Animal Planet">
+    <title lang="es">Village Vets</title>
+    <desc lang="es">James y Anthony se hicieron amigos el primer día de universidad. Ahora son veterinarios y atienden juntos en un pequeño pueblo rural de Australia, donde reciben desde las mascotas más comunes, hasta animales bastante más inusuales(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Serie</category>
+  </programme>
+  <programme start="20160114173000 -0600" stop="20160114180000 -0600" channel="Animal Planet">
+    <title lang="es">Village Vets</title>
+    <desc lang="es">James y Anthony se hicieron amigos el primer día de universidad. Ahora son veterinarios y atienden juntos en un pequeño pueblo rural de Australia, donde reciben desde las mascotas más comunes, hasta animales bastante más inusuales(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Serie</category>
+  </programme>
+  <programme start="20160114180000 -0600" stop="20160114190000 -0600" channel="Animal Planet">
+    <title lang="es">Las travesías de Corwin</title>
+    <sub-title lang="es">Ojo de águila</sub-title>
+    <desc lang="es">Jeff Corwin recorre el mundo en busca de los animales más interesantes con una misión: explorar diferentes características de la vida salvaje como son el ataque, la velocidad y el tamaño. Irá de país en país en pos de las criaturas que más se destaquen en cada uno de estos aspectos(n)</desc>
+    <credits>
+      <actor>Jeff Corwin</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Reality Show</category>
+  </programme>
+  <programme start="20160114190000 -0600" stop="20160114200000 -0600" channel="Animal Planet">
+    <title lang="es">Planeta mutante</title>
+    <sub-title lang="es">El árido Namib</sub-title>
+    <desc lang="es">Nueva Zelandia es un archipiélago de ensueño con un turbulento pasado geológico, una asombrosa tierra donde la evolución hizo posible animales inusuales: aves que no vuelan, moradores nocturnos y fósiles vivientes(n)</desc>
+    <category lang="es">Documentales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160114200000 -0600" stop="20160114210000 -0600" channel="Animal Planet">
+    <title lang="es">Crías adorables</title>
+    <sub-title lang="es">Panda gigante</sub-title>
+    <desc lang="es">Esta serie rinde homenaje a algunas de las crías de animales más adorables y fascinantes y muestra cómo aprenden a defenderse(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160114210000 -0600" stop="20160114220000 -0600" channel="Animal Planet">
+    <title lang="es">El entrenador de animales</title>
+    <category lang="es">Culturales</category>
+    <category lang="es">Serie</category>
+  </programme>
+  <programme start="20160114220000 -0600" stop="20160114230000 -0600" channel="Animal Planet">
+    <title lang="es">Too Cute!</title>
+    <sub-title lang="es">Gatos chiquitos</sub-title>
+    <desc lang="es">Este programa es una forma nueva de ver a nuestros amigos más adorables. Por medio de cámaras de avanzada y técnicas de películas de la vida silvestre, cada especial sigue a tres camadas por las etapas de la vida que comienza. Desde su ceguera al momento de nacer hasta la maravilla de sus primeros pasos, y el duro momento del destete y la separación de los cuidados de mamá. Las cámaras captan cada momento desde la perspectiva del animal, y uno vive las emociones del cachorrito o gatito que crece y se desenvuelve en el mundo salvaje de su hogar(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160114230000 -0600" stop="20160114234800 -0600" channel="Animal Planet">
+    <title lang="es">África incomparable</title>
+    <sub-title lang="es">El río Nilo</sub-title>
+    <desc lang="es">Un homenaje a los lugares más espectaculares de África, que presenta la experiencia africana total. Se viajará desde la cuna de la civilización humana hasta las maravillas naturales más asombrosas del mundo. Venga al corazón de África y descubra uno de los lugares más increíbles y emocionantes de la Tierra(n)</desc>
+    <category lang="es">Documentales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160114234800 -0600" stop="20160115003800 -0600" channel="Animal Planet">
+    <title lang="es">África incomparable</title>
+    <sub-title lang="es">Monte Kenia</sub-title>
+    <desc lang="es">Un homenaje a los lugares más espectaculares de África, que presenta la experiencia africana total. Se viajará desde la cuna de la civilización humana hasta las maravillas naturales más asombrosas del mundo. Venga al corazón de África y descubra uno de los lugares más increíbles y emocionantes de la Tierra(n)</desc>
+    <category lang="es">Documentales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160115003800 -0600" stop="20160115010800 -0600" channel="Animal Planet">
+    <title lang="es">Clan orangután</title>
+    <sub-title lang="es">Sube y baja</sub-title>
+    <desc lang="es">La tala ilegal está destruyendo los últimos baluartes de los orangutanes de Borneo dejando huérfanos y sin hogar a cientos de bebés. Su futuro se ve amenazado pero acaba de surgir un proyecto que ofrece verdadera esperanza para asegurar la supervivencia de la especie. Conozca a los 35 alumnos de la Escuela Forestal 103 del Centro de Rescate y Rehabilitación del Orangután "Nyaru Menteng". Estos precoces "hijos de la selva" tendrán la oportunidad de vivir en una isla protegida. La Isla del Orangután es la base para el mayor proyecto de rescate de primates del mundo(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Serie</category>
+  </programme>
+  <programme start="20160115010800 -0600" stop="20160115020000 -0600" channel="Animal Planet">
+    <title lang="es">Crías adorables</title>
+    <sub-title lang="es">Panda gigante</sub-title>
+    <desc lang="es">Esta serie rinde homenaje a algunas de las crías de animales más adorables y fascinantes y muestra cómo aprenden a defenderse(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160115020000 -0600" stop="20160115030000 -0600" channel="Animal Planet">
+    <title lang="es">El entrenador de animales</title>
+    <category lang="es">Culturales</category>
+    <category lang="es">Serie</category>
+  </programme>
+  <programme start="20160115030000 -0600" stop="20160115040000 -0600" channel="Animal Planet">
+    <title lang="es">Too Cute!</title>
+    <sub-title lang="es">Gatos chiquitos</sub-title>
+    <desc lang="es">Este programa es una forma nueva de ver a nuestros amigos más adorables. Por medio de cámaras de avanzada y técnicas de películas de la vida silvestre, cada especial sigue a tres camadas por las etapas de la vida que comienza. Desde su ceguera al momento de nacer hasta la maravilla de sus primeros pasos, y el duro momento del destete y la separación de los cuidados de mamá. Las cámaras captan cada momento desde la perspectiva del animal, y uno vive las emociones del cachorrito o gatito que crece y se desenvuelve en el mundo salvaje de su hogar(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160115040000 -0600" stop="20160115050000 -0600" channel="Animal Planet">
+    <title lang="es">África incomparable</title>
+    <sub-title lang="es">El río Nilo</sub-title>
+    <desc lang="es">Un homenaje a los lugares más espectaculares de África, que presenta la experiencia africana total. Se viajará desde la cuna de la civilización humana hasta las maravillas naturales más asombrosas del mundo. Venga al corazón de África y descubra uno de los lugares más increíbles y emocionantes de la Tierra(n)</desc>
+    <category lang="es">Documentales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160115050000 -0600" stop="20160115060000 -0600" channel="Animal Planet">
+    <title lang="es">Defensores de ballenas</title>
+    <sub-title lang="es">Cuarentena</sub-title>
+    <desc lang="es">La versión ambientalista de "Deadliest Catch" para APL, se sigue al "Sea Shepherd" en su intento por detener a los cazadores japoneses de ballenas(n)</desc>
+    <category lang="es">Series</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160115060000 -0600" stop="20160115070000 -0600" channel="Animal Planet">
+    <title lang="es">Las travesías de Corwin</title>
+    <sub-title lang="es">La cola de la ballena azul</sub-title>
+    <desc lang="es">Jeff Corwin recorre el mundo en busca de los animales más interesantes con una misión: explorar diferentes características de la vida salvaje como son el ataque, la velocidad y el tamaño. Irá de país en país en pos de las criaturas que más se destaquen en cada uno de estos aspectos(n)</desc>
+    <credits>
+      <actor>Jeff Corwin</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Reality Show</category>
+  </programme>
+  <programme start="20160115070000 -0600" stop="20160115073000 -0600" channel="Animal Planet">
+    <title lang="es">Beaver Brothers</title>
+    <desc lang="es">En el pequeño pueblo canadiense de Pomquet, Nueva Escocia, hay más animales que personas. Aunque intentan vivir en armonía, no siempre es posible. Entonces, cuando surge un conflicto entre los bichos y la comunidad, los pueblerinos acuden al equipo más confiable, simpático y poco convencional para que solucione el problema: los BEAVER BROTHERS. El grupo está formado por los hermanos Charlie y Eddie Landry y su joven protegido, Mike. Si bien muchas veces se los describe como enanitos de jardín que cobraron vida, los hermanos Landry, con su acento gracioso y agudo, son los representantes de la sabiduría tradicional local(n)</desc>
+    <credits>
+      <actor>Charles Landry</actor>
+      <actor>Michael Macisaac</actor>
+      <actor>Edward Landry</actor>
+    </credits>
+    <category lang="es">Reality Show</category>
+  </programme>
+  <programme start="20160115073000 -0600" stop="20160115080000 -0600" channel="Animal Planet">
+    <title lang="es">Beaver Brothers</title>
+    <desc lang="es">En el pequeño pueblo canadiense de Pomquet, Nueva Escocia, hay más animales que personas. Aunque intentan vivir en armonía, no siempre es posible. Entonces, cuando surge un conflicto entre los bichos y la comunidad, los pueblerinos acuden al equipo más confiable, simpático y poco convencional para que solucione el problema: los BEAVER BROTHERS. El grupo está formado por los hermanos Charlie y Eddie Landry y su joven protegido, Mike. Si bien muchas veces se los describe como enanitos de jardín que cobraron vida, los hermanos Landry, con su acento gracioso y agudo, son los representantes de la sabiduría tradicional local(n)</desc>
+    <credits>
+      <actor>Charles Landry</actor>
+      <actor>Michael Macisaac</actor>
+      <actor>Edward Landry</actor>
+    </credits>
+    <category lang="es">Reality Show</category>
+  </programme>
+  <programme start="20160115080000 -0600" stop="20160115090000 -0600" channel="Animal Planet">
+    <title lang="es">Criaturas devoradoras</title>
+    <sub-title lang="es">Leones</sub-title>
+    <desc lang="es">Algunas coincidencias pueden resultar muy agradables, pero definitivamente no es el caso si se trata de encuentros cara a cara con algunos de los animales salvajes más peligrosos de la naturaleza(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160115090000 -0600" stop="20160115093000 -0600" channel="Animal Planet">
+    <title lang="es">Perros salvajes de Asia</title>
+    <category lang="es">Culturales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160115093000 -0600" stop="20160115100000 -0600" channel="Animal Planet">
+    <title lang="es">Perros salvajes de Asia</title>
+    <category lang="es">Culturales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160115100000 -0600" stop="20160115103000 -0600" channel="Animal Planet">
+    <title lang="es">ABC canino</title>
+    <sub-title lang="es">Akita</sub-title>
+    <desc lang="es">¡La más amplia y entrañable enciclopedia televisiva sobre perros, con más de 150 razas reconocidas por el American Kennel Club! En este programa se podrán apreciar las razas más adorables, vivaces e inesperadas. Además, se analizan los distintos comportamientos, las historias genéticas, los ejemplares más famosos y las más descabelladas curiosidades. Se presentan las razas más aptas para la vida urbana y las más amistosas para la familia. Esta producción es una mirada sin precedentes al mejor amigo del hombre(n)</desc>
+    <credits>
+      <actor>Kevin Draine</actor>
+    </credits>
+    <category lang="es">Culturales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160115103000 -0600" stop="20160115110000 -0600" channel="Animal Planet">
+    <title lang="es">ABC canino</title>
+    <sub-title lang="es">Border terrier</sub-title>
+    <desc lang="es">¡La más amplia y entrañable enciclopedia televisiva sobre perros, con más de 150 razas reconocidas por el American Kennel Club! En este programa se podrán apreciar las razas más adorables, vivaces e inesperadas. Además, se analizan los distintos comportamientos, las historias genéticas, los ejemplares más famosos y las más descabelladas curiosidades. Se presentan las razas más aptas para la vida urbana y las más amistosas para la familia. Esta producción es una mirada sin precedentes al mejor amigo del hombre(n)</desc>
+    <credits>
+      <actor>Kevin Draine</actor>
+    </credits>
+    <category lang="es">Culturales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160115110000 -0600" stop="20160115120000 -0600" channel="Animal Planet">
+    <title lang="es">Crías adorables</title>
+    <sub-title lang="es">Panda gigante</sub-title>
+    <desc lang="es">Esta serie rinde homenaje a algunas de las crías de animales más adorables y fascinantes y muestra cómo aprenden a defenderse(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160115120000 -0600" stop="20160115130000 -0600" channel="Animal Planet">
+    <title lang="es">El entrenador de animales</title>
+    <category lang="es">Culturales</category>
+    <category lang="es">Serie</category>
+  </programme>
+  <programme start="20160115130000 -0600" stop="20160115133000 -0600" channel="Animal Planet">
+    <title lang="es">Beaver Brothers</title>
+    <desc lang="es">En el pequeño pueblo canadiense de Pomquet, Nueva Escocia, hay más animales que personas. Aunque intentan vivir en armonía, no siempre es posible. Entonces, cuando surge un conflicto entre los bichos y la comunidad, los pueblerinos acuden al equipo más confiable, simpático y poco convencional para que solucione el problema: los BEAVER BROTHERS. El grupo está formado por los hermanos Charlie y Eddie Landry y su joven protegido, Mike. Si bien muchas veces se los describe como enanitos de jardín que cobraron vida, los hermanos Landry, con su acento gracioso y agudo, son los representantes de la sabiduría tradicional local(n)</desc>
+    <credits>
+      <actor>Charles Landry</actor>
+      <actor>Michael Macisaac</actor>
+      <actor>Edward Landry</actor>
+    </credits>
+    <category lang="es">Reality Show</category>
+  </programme>
+  <programme start="20160115133000 -0600" stop="20160115140000 -0600" channel="Animal Planet">
+    <title lang="es">Beaver Brothers</title>
+    <desc lang="es">En el pequeño pueblo canadiense de Pomquet, Nueva Escocia, hay más animales que personas. Aunque intentan vivir en armonía, no siempre es posible. Entonces, cuando surge un conflicto entre los bichos y la comunidad, los pueblerinos acuden al equipo más confiable, simpático y poco convencional para que solucione el problema: los BEAVER BROTHERS. El grupo está formado por los hermanos Charlie y Eddie Landry y su joven protegido, Mike. Si bien muchas veces se los describe como enanitos de jardín que cobraron vida, los hermanos Landry, con su acento gracioso y agudo, son los representantes de la sabiduría tradicional local(n)</desc>
+    <credits>
+      <actor>Charles Landry</actor>
+      <actor>Michael Macisaac</actor>
+      <actor>Edward Landry</actor>
+    </credits>
+    <category lang="es">Reality Show</category>
+  </programme>
+  <programme start="20160115140000 -0600" stop="20160115150000 -0600" channel="Animal Planet">
+    <title lang="es">Criaturas devoradoras</title>
+    <sub-title lang="es">Leones</sub-title>
+    <desc lang="es">Algunas coincidencias pueden resultar muy agradables, pero definitivamente no es el caso si se trata de encuentros cara a cara con algunos de los animales salvajes más peligrosos de la naturaleza(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160115150000 -0600" stop="20160115153000 -0600" channel="Animal Planet">
+    <title lang="es">Perros salvajes de Asia</title>
+    <category lang="es">Culturales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160115153000 -0600" stop="20160115160000 -0600" channel="Animal Planet">
+    <title lang="es">Perros salvajes de Asia</title>
+    <category lang="es">Culturales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160115160000 -0600" stop="20160115170000 -0600" channel="Animal Planet">
+    <title lang="es">ABC Felino</title>
+    <desc lang="es">Descúbralo todo acerca de sus amigos los gatos en ABC felino. Esta serie examina el comportamiento de estos adorables animalitos enérgicos y retozones, que sobrepasaron al perro como el animal más popular de los EE. UU. Aprenda sobre las diferentes razas, su historia genética y datos acerca de gatos famosos y excéntricos(n)</desc>
+    <credits>
+      <actor>John Fulton</actor>
+    </credits>
+    <category lang="es">Culturales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160115170000 -0600" stop="20160115173000 -0600" channel="Animal Planet">
+    <title lang="es">Village Vets</title>
+    <desc lang="es">James y Anthony se hicieron amigos el primer día de universidad. Ahora son veterinarios y atienden juntos en un pequeño pueblo rural de Australia, donde reciben desde las mascotas más comunes, hasta animales bastante más inusuales(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Serie</category>
+  </programme>
+  <programme start="20160115173000 -0600" stop="20160115180000 -0600" channel="Animal Planet">
+    <title lang="es">Village Vets</title>
+    <desc lang="es">James y Anthony se hicieron amigos el primer día de universidad. Ahora son veterinarios y atienden juntos en un pequeño pueblo rural de Australia, donde reciben desde las mascotas más comunes, hasta animales bastante más inusuales(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Serie</category>
+  </programme>
+  <programme start="20160115180000 -0600" stop="20160115190000 -0600" channel="Animal Planet">
+    <title lang="es">Las travesías de Corwin</title>
+    <sub-title lang="es">El ataque del león</sub-title>
+    <desc lang="es">Jeff Corwin recorre el mundo en busca de los animales más interesantes con una misión: explorar diferentes características de la vida salvaje como son el ataque, la velocidad y el tamaño. Irá de país en país en pos de las criaturas que más se destaquen en cada uno de estos aspectos(n)</desc>
+    <credits>
+      <actor>Jeff Corwin</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Reality Show</category>
+  </programme>
+  <programme start="20160115190000 -0600" stop="20160115200000 -0600" channel="Animal Planet">
+    <title lang="es">Planeta mutante</title>
+    <desc lang="es">Nueva Zelandia es un archipiélago de ensueño con un turbulento pasado geológico, una asombrosa tierra donde la evolución hizo posible animales inusuales: aves que no vuelan, moradores nocturnos y fósiles vivientes(n)</desc>
+    <category lang="es">Documentales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160115200000 -0600" stop="20160115203000 -0600" channel="Animal Planet">
+    <title lang="es">Supersentidos</title>
+    <sub-title lang="es">Bajo el agua</sub-title>
+    <desc lang="es">Si piensas que tienes desarrollados tus sentidos, espera a que veas qué pasa cuando los animales llevan nuestros cinco sentidos al extremo. Desde un tarsero cuyos ojos son literalmente más grandes que su estómago hasta un animal que percibe un "sexto sentido", descubre que no necesitas ser un genio para saber lo que pasa cuando los sentidos son llevados a lo más extremo(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Serie</category>
+  </programme>
+  <programme start="20160115203000 -0600" stop="20160115210000 -0600" channel="Animal Planet">
+    <title lang="es">Supersentidos</title>
+    <sub-title lang="es">Cielo</sub-title>
+    <desc lang="es">Si piensas que tienes desarrollados tus sentidos, espera a que veas qué pasa cuando los animales llevan nuestros cinco sentidos al extremo. Desde un tarsero cuyos ojos son literalmente más grandes que su estómago hasta un animal que percibe un "sexto sentido", descubre que no necesitas ser un genio para saber lo que pasa cuando los sentidos son llevados a lo más extremo(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Serie</category>
+  </programme>
+  <programme start="20160115210000 -0600" stop="20160115220000 -0600" channel="Animal Planet">
+    <title lang="es">10 serpientes mortales con Nigel Marven</title>
+    <sub-title lang="es">Malasia</sub-title>
+    <desc lang="es">En esta serie llena de acción, el aventurero de la fauna Nigel Marven, hace la cuenta regresiva de las diez serpientes más mortales en cada país que visita. Viajando a través de China, Costa Rica, EE. UU., y Sudáfrica,(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160115220000 -0600" stop="20160115230000 -0600" channel="Animal Planet">
+    <title lang="es">Criaturas de miedo con Dominic Monaghan</title>
+    <sub-title lang="es">Escarabajo Goliat</sub-title>
+    <desc lang="es">Criaturas de miedos lleva al espectador a lo largo de un viaje a través de algunos de los lugares más exóticos del mundo, desde las densas selvas de Ecuador y los áridos desiertos de Namibia, hasta los más remotos ríos de Laos. En cada destino, Dominic se verá cara a cara con criaturas tan extrañas como peligrosas: irá en busca de la colonia más grande de hormigas venenosas, intentará descubrir al ciempiés carnívoro que se alimenta de murciélagos y encontrará también arañas gigantes, reptiles y mortales escorpiones. Encontraremos una nueva forma de entender la naturaleza y convivir con los animales e insectos, sin importar lo feo o peligrosos que parezcan(n)</desc>
+    <credits>
+      <actor>Dominic Monaghan</actor>
+    </credits>
+    <category lang="es">Culturales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160115230000 -0600" stop="20160115234800 -0600" channel="Animal Planet">
+    <title lang="es">África incomparable</title>
+    <sub-title lang="es">Etiopía</sub-title>
+    <desc lang="es">Un homenaje a los lugares más espectaculares de África, que presenta la experiencia africana total. Se viajará desde la cuna de la civilización humana hasta las maravillas naturales más asombrosas del mundo. Venga al corazón de África y descubra uno de los lugares más increíbles y emocionantes de la Tierra(n)</desc>
+    <category lang="es">Documentales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160115234800 -0600" stop="20160116003800 -0600" channel="Animal Planet">
+    <title lang="es">África incomparable</title>
+    <sub-title lang="es">El río Nilo</sub-title>
+    <desc lang="es">Un homenaje a los lugares más espectaculares de África, que presenta la experiencia africana total. Se viajará desde la cuna de la civilización humana hasta las maravillas naturales más asombrosas del mundo. Venga al corazón de África y descubra uno de los lugares más increíbles y emocionantes de la Tierra(n)</desc>
+    <category lang="es">Documentales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160116003800 -0600" stop="20160116010800 -0600" channel="Animal Planet">
+    <title lang="es">Clan orangután</title>
+    <sub-title lang="es">¿Quién manda</sub-title>
+    <desc lang="es">La tala ilegal está destruyendo los últimos baluartes de los orangutanes de Borneo dejando huérfanos y sin hogar a cientos de bebés. Su futuro se ve amenazado pero acaba de surgir un proyecto que ofrece verdadera esperanza para asegurar la supervivencia de la especie. Conozca a los 35 alumnos de la Escuela Forestal 103 del Centro de Rescate y Rehabilitación del Orangután "Nyaru Menteng". Estos precoces "hijos de la selva" tendrán la oportunidad de vivir en una isla protegida. La Isla del Orangután es la base para el mayor proyecto de rescate de primates del mundo(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Serie</category>
+  </programme>
+  <programme start="20160116010800 -0600" stop="20160116013400 -0600" channel="Animal Planet">
+    <title lang="es">Supersentidos</title>
+    <sub-title lang="es">Bajo el agua</sub-title>
+    <desc lang="es">Si piensas que tienes desarrollados tus sentidos, espera a que veas qué pasa cuando los animales llevan nuestros cinco sentidos al extremo. Desde un tarsero cuyos ojos son literalmente más grandes que su estómago hasta un animal que percibe un "sexto sentido", descubre que no necesitas ser un genio para saber lo que pasa cuando los sentidos son llevados a lo más extremo(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Serie</category>
+  </programme>
+  <programme start="20160116013400 -0600" stop="20160116020000 -0600" channel="Animal Planet">
+    <title lang="es">Supersentidos</title>
+    <sub-title lang="es">Cielo</sub-title>
+    <desc lang="es">Si piensas que tienes desarrollados tus sentidos, espera a que veas qué pasa cuando los animales llevan nuestros cinco sentidos al extremo. Desde un tarsero cuyos ojos son literalmente más grandes que su estómago hasta un animal que percibe un "sexto sentido", descubre que no necesitas ser un genio para saber lo que pasa cuando los sentidos son llevados a lo más extremo(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Serie</category>
+  </programme>
+  <programme start="20160116020000 -0600" stop="20160116030000 -0600" channel="Animal Planet">
+    <title lang="es">10 serpientes mortales con Nigel Marven</title>
+    <sub-title lang="es">Malasia</sub-title>
+    <desc lang="es">En esta serie llena de acción, el aventurero de la fauna Nigel Marven, hace la cuenta regresiva de las diez serpientes más mortales en cada país que visita. Viajando a través de China, Costa Rica, EE. UU., y Sudáfrica,(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160116030000 -0600" stop="20160116040000 -0600" channel="Animal Planet">
+    <title lang="es">Criaturas de miedo con Dominic Monaghan</title>
+    <sub-title lang="es">Escarabajo Goliat</sub-title>
+    <desc lang="es">Criaturas de miedos lleva al espectador a lo largo de un viaje a través de algunos de los lugares más exóticos del mundo, desde las densas selvas de Ecuador y los áridos desiertos de Namibia, hasta los más remotos ríos de Laos. En cada destino, Dominic se verá cara a cara con criaturas tan extrañas como peligrosas: irá en busca de la colonia más grande de hormigas venenosas, intentará descubrir al ciempiés carnívoro que se alimenta de murciélagos y encontrará también arañas gigantes, reptiles y mortales escorpiones. Encontraremos una nueva forma de entender la naturaleza y convivir con los animales e insectos, sin importar lo feo o peligrosos que parezcan(n)</desc>
+    <credits>
+      <actor>Dominic Monaghan</actor>
+    </credits>
+    <category lang="es">Culturales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160116040000 -0600" stop="20160116050000 -0600" channel="Animal Planet">
+    <title lang="es">África incomparable</title>
+    <sub-title lang="es">Etiopía</sub-title>
+    <desc lang="es">Un homenaje a los lugares más espectaculares de África, que presenta la experiencia africana total. Se viajará desde la cuna de la civilización humana hasta las maravillas naturales más asombrosas del mundo. Venga al corazón de África y descubra uno de los lugares más increíbles y emocionantes de la Tierra(n)</desc>
+    <category lang="es">Documentales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160116050000 -0600" stop="20160116060000 -0600" channel="Animal Planet">
+    <title lang="es">Defensores de ballenas</title>
+    <sub-title lang="es">Al ataque</sub-title>
+    <desc lang="es">La versión ambientalista de "Deadliest Catch" para APL, se sigue al "Sea Shepherd" en su intento por detener a los cazadores japoneses de ballenas(n)</desc>
+    <category lang="es">Series</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160116060000 -0600" stop="20160116070000 -0600" channel="Animal Planet">
+    <title lang="es">Las travesías de Corwin</title>
+    <sub-title lang="es">Ojo de águila</sub-title>
+    <desc lang="es">Jeff Corwin recorre el mundo en busca de los animales más interesantes con una misión: explorar diferentes características de la vida salvaje como son el ataque, la velocidad y el tamaño. Irá de país en país en pos de las criaturas que más se destaquen en cada uno de estos aspectos(n)</desc>
+    <credits>
+      <actor>Jeff Corwin</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Reality Show</category>
+  </programme>
+  <programme start="20160116070000 -0600" stop="20160116073000 -0600" channel="Animal Planet">
+    <title lang="es">Beaver Brothers</title>
+    <sub-title lang="es">El mecánico y la rata</sub-title>
+    <desc lang="es">En el pequeño pueblo canadiense de Pomquet, Nueva Escocia, hay más animales que personas. Aunque intentan vivir en armonía, no siempre es posible. Entonces, cuando surge un conflicto entre los bichos y la comunidad, los pueblerinos acuden al equipo más confiable, simpático y poco convencional para que solucione el problema: los BEAVER BROTHERS. El grupo está formado por los hermanos Charlie y Eddie Landry y su joven protegido, Mike. Si bien muchas veces se los describe como enanitos de jardín que cobraron vida, los hermanos Landry, con su acento gracioso y agudo, son los representantes de la sabiduría tradicional local(n)</desc>
+    <credits>
+      <actor>Charles Landry</actor>
+      <actor>Michael Macisaac</actor>
+      <actor>Edward Landry</actor>
+    </credits>
+    <category lang="es">Reality Show</category>
+  </programme>
+  <programme start="20160116073000 -0600" stop="20160116080000 -0600" channel="Animal Planet">
+    <title lang="es">Beaver Brothers</title>
+    <sub-title lang="es">Día de la Marmota</sub-title>
+    <desc lang="es">En el pequeño pueblo canadiense de Pomquet, Nueva Escocia, hay más animales que personas. Aunque intentan vivir en armonía, no siempre es posible. Entonces, cuando surge un conflicto entre los bichos y la comunidad, los pueblerinos acuden al equipo más confiable, simpático y poco convencional para que solucione el problema: los BEAVER BROTHERS. El grupo está formado por los hermanos Charlie y Eddie Landry y su joven protegido, Mike. Si bien muchas veces se los describe como enanitos de jardín que cobraron vida, los hermanos Landry, con su acento gracioso y agudo, son los representantes de la sabiduría tradicional local(n)</desc>
+    <credits>
+      <actor>Charles Landry</actor>
+      <actor>Michael Macisaac</actor>
+      <actor>Edward Landry</actor>
+    </credits>
+    <category lang="es">Reality Show</category>
+  </programme>
+  <programme start="20160116080000 -0600" stop="20160116090000 -0600" channel="Animal Planet">
+    <title lang="es">Migración de ballenas con Nigel Marven</title>
+    <desc lang="es">El documentalista Nigel Marven acompaña a las ballenas grises mientras emprenden la migración más larga realizada por los mamíferos: un viaje que bordea la costa del Pacífico de América del Norte a lo largo de casi diez mil kilómetros(n)</desc>
+    <category lang="es">Documentales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160116090000 -0600" stop="20160116100000 -0600" channel="Animal Planet">
+    <title lang="es">Too Cute!</title>
+    <sub-title lang="es">Gatos y zorrillos</sub-title>
+    <desc lang="es">Este programa es una forma nueva de ver a nuestros amigos más adorables. Por medio de cámaras de avanzada y técnicas de películas de la vida silvestre, cada especial sigue a tres camadas por las etapas de la vida que comienza. Desde su ceguera al momento de nacer hasta la maravilla de sus primeros pasos, y el duro momento del destete y la separación de los cuidados de mamá. Las cámaras captan cada momento desde la perspectiva del animal, y uno vive las emociones del cachorrito o gatito que crece y se desenvuelve en el mundo salvaje de su hogar(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160116100000 -0600" stop="20160116103000 -0600" channel="Animal Planet">
+    <title lang="es">Videos divertidos de Animal Planet</title>
+    <desc lang="es">Divertidísimos vídeos con animales como principales protagonistas. Trucos, gracias y simpáticas actuaciones nos harán creer que nuestro salón está rodeado de miles de chistosas mascotas(n)</desc>
+    <credits>
+      <actor>Keegan-Michael Key</actor>
+    </credits>
+    <category lang="es">Documentales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160116103000 -0600" stop="20160116110000 -0600" channel="Animal Planet">
+    <title lang="es">Videos divertidos de Animal Planet</title>
+    <desc lang="es">Divertidísimos vídeos con animales como principales protagonistas. Trucos, gracias y simpáticas actuaciones nos harán creer que nuestro salón está rodeado de miles de chistosas mascotas(n)</desc>
+    <credits>
+      <actor>Keegan-Michael Key</actor>
+    </credits>
+    <category lang="es">Documentales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160116110000 -0600" stop="20160116113000 -0600" channel="Animal Planet">
+    <title lang="es">Supersentidos</title>
+    <sub-title lang="es">Bajo el agua</sub-title>
+    <desc lang="es">Si piensas que tienes desarrollados tus sentidos, espera a que veas qué pasa cuando los animales llevan nuestros cinco sentidos al extremo. Desde un tarsero cuyos ojos son literalmente más grandes que su estómago hasta un animal que percibe un "sexto sentido", descubre que no necesitas ser un genio para saber lo que pasa cuando los sentidos son llevados a lo más extremo(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Serie</category>
+  </programme>
+  <programme start="20160116113000 -0600" stop="20160116120000 -0600" channel="Animal Planet">
+    <title lang="es">Supersentidos</title>
+    <sub-title lang="es">Cielo</sub-title>
+    <desc lang="es">Si piensas que tienes desarrollados tus sentidos, espera a que veas qué pasa cuando los animales llevan nuestros cinco sentidos al extremo. Desde un tarsero cuyos ojos son literalmente más grandes que su estómago hasta un animal que percibe un "sexto sentido", descubre que no necesitas ser un genio para saber lo que pasa cuando los sentidos son llevados a lo más extremo(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Serie</category>
+  </programme>
+  <programme start="20160116120000 -0600" stop="20160116130000 -0600" channel="Animal Planet">
+    <title lang="es">10 serpientes mortales con Nigel Marven</title>
+    <sub-title lang="es">Malasia</sub-title>
+    <desc lang="es">En esta serie llena de acción, el aventurero de la fauna Nigel Marven, hace la cuenta regresiva de las diez serpientes más mortales en cada país que visita. Viajando a través de China, Costa Rica, EE. UU., y Sudáfrica,(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160116130000 -0600" stop="20160116133000 -0600" channel="Animal Planet">
+    <title lang="es">Beaver Brothers</title>
+    <sub-title lang="es">El mecánico y la rata</sub-title>
+    <desc lang="es">En el pequeño pueblo canadiense de Pomquet, Nueva Escocia, hay más animales que personas. Aunque intentan vivir en armonía, no siempre es posible. Entonces, cuando surge un conflicto entre los bichos y la comunidad, los pueblerinos acuden al equipo más confiable, simpático y poco convencional para que solucione el problema: los BEAVER BROTHERS. El grupo está formado por los hermanos Charlie y Eddie Landry y su joven protegido, Mike. Si bien muchas veces se los describe como enanitos de jardín que cobraron vida, los hermanos Landry, con su acento gracioso y agudo, son los representantes de la sabiduría tradicional local(n)</desc>
+    <credits>
+      <actor>Charles Landry</actor>
+      <actor>Michael Macisaac</actor>
+      <actor>Edward Landry</actor>
+    </credits>
+    <category lang="es">Reality Show</category>
+  </programme>
+  <programme start="20160116133000 -0600" stop="20160116140000 -0600" channel="Animal Planet">
+    <title lang="es">Beaver Brothers</title>
+    <sub-title lang="es">Día de la Marmota</sub-title>
+    <desc lang="es">En el pequeño pueblo canadiense de Pomquet, Nueva Escocia, hay más animales que personas. Aunque intentan vivir en armonía, no siempre es posible. Entonces, cuando surge un conflicto entre los bichos y la comunidad, los pueblerinos acuden al equipo más confiable, simpático y poco convencional para que solucione el problema: los BEAVER BROTHERS. El grupo está formado por los hermanos Charlie y Eddie Landry y su joven protegido, Mike. Si bien muchas veces se los describe como enanitos de jardín que cobraron vida, los hermanos Landry, con su acento gracioso y agudo, son los representantes de la sabiduría tradicional local(n)</desc>
+    <credits>
+      <actor>Charles Landry</actor>
+      <actor>Michael Macisaac</actor>
+      <actor>Edward Landry</actor>
+    </credits>
+    <category lang="es">Reality Show</category>
+  </programme>
+  <programme start="20160116140000 -0600" stop="20160116150000 -0600" channel="Animal Planet">
+    <title lang="es">Criaturas devoradoras</title>
+    <sub-title lang="es">Lobos y coyotes</sub-title>
+    <desc lang="es">Algunas coincidencias pueden resultar muy agradables, pero definitivamente no es el caso si se trata de encuentros cara a cara con algunos de los animales salvajes más peligrosos de la naturaleza(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160116150000 -0600" stop="20160116153000 -0600" channel="Animal Planet">
+    <title lang="es">Wildlife at the Zoo</title>
+    <desc lang="es">Este programa muestra el fascinante mundo del zoológico Taronga en Sídney, Australia, que es el hogar de más de 2,600 animales que habitan sus 28 hectáreas. Esta serie no sólo contará las historias de los animales carismáticos del lugar, sino también explorará el íntimo vínculo que existe entre los animales y sus cuidadores. Sea testigo del nacimiento de tres tigres de Sumatra, una especia en peligro de extinción, y del viaje de una jirafa hembra hasta Nueva Zelanda. Este documental le da la posibilidad a los televidentes de conocer el mundo del zoológico desde un nuevo ángulo(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160116153000 -0600" stop="20160116160000 -0600" channel="Animal Planet">
+    <title lang="es">Wildlife at the Zoo</title>
+    <desc lang="es">Este programa muestra el fascinante mundo del zoológico Taronga en Sídney, Australia, que es el hogar de más de 2,600 animales que habitan sus 28 hectáreas. Esta serie no sólo contará las historias de los animales carismáticos del lugar, sino también explorará el íntimo vínculo que existe entre los animales y sus cuidadores. Sea testigo del nacimiento de tres tigres de Sumatra, una especia en peligro de extinción, y del viaje de una jirafa hembra hasta Nueva Zelanda. Este documental le da la posibilidad a los televidentes de conocer el mundo del zoológico desde un nuevo ángulo(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160116160000 -0600" stop="20160116170000 -0600" channel="Animal Planet">
+    <title lang="es">ABC Felino</title>
+    <desc lang="es">Descúbralo todo acerca de sus amigos los gatos en ABC felino. Esta serie examina el comportamiento de estos adorables animalitos enérgicos y retozones, que sobrepasaron al perro como el animal más popular de los EE. UU. Aprenda sobre las diferentes razas, su historia genética y datos acerca de gatos famosos y excéntricos(n)</desc>
+    <credits>
+      <actor>John Fulton</actor>
+    </credits>
+    <category lang="es">Culturales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160116170000 -0600" stop="20160116173000 -0600" channel="Animal Planet">
+    <title lang="es">Village Vets</title>
+    <sub-title lang="es">Gypsy The Horse &amp; Elsie The Cow</sub-title>
+    <desc lang="es">James y Anthony se hicieron amigos el primer día de universidad. Ahora son veterinarios y atienden juntos en un pequeño pueblo rural de Australia, donde reciben desde las mascotas más comunes, hasta animales bastante más inusuales(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Serie</category>
+  </programme>
+  <programme start="20160116173000 -0600" stop="20160116180000 -0600" channel="Animal Planet">
+    <title lang="es">Village Vets</title>
+    <sub-title lang="es">Sarcoid Horse &amp; Bryden’s Operation</sub-title>
+    <desc lang="es">James y Anthony se hicieron amigos el primer día de universidad. Ahora son veterinarios y atienden juntos en un pequeño pueblo rural de Australia, donde reciben desde las mascotas más comunes, hasta animales bastante más inusuales(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Serie</category>
+  </programme>
+  <programme start="20160116180000 -0600" stop="20160116190000 -0600" channel="Animal Planet">
+    <title lang="es">Mascotas adorables</title>
+    <sub-title lang="es">Extrema ternura</sub-title>
+    <desc lang="es">La búsqueda de las mascotas más bonitas de los EE. UU. continúa(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160116190000 -0600" stop="20160116200000 -0600" channel="Animal Planet">
+    <title lang="es">Con el agua al cuello</title>
+    <sub-title lang="es">SHAQ-SIZED</sub-title>
+    <desc lang="es">Conoce las divertidas experiencias del negocio familiar "ATM" (Acrylic Tank Manufacturing), enfocado a la construcción de los acuarios más grandes y exitosos de Estados Unidos(n)</desc>
+    <credits>
+      <actor>Brett Raymer</actor>
+      <actor>Wayde King</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Reality Show</category>
+  </programme>
+  <programme start="20160116200000 -0600" stop="20160116210000 -0600" channel="Animal Planet">
+    <title lang="es">África incomparable</title>
+    <sub-title lang="es">El río Nilo</sub-title>
+    <desc lang="es">Un homenaje a los lugares más espectaculares de África, que presenta la experiencia africana total. Se viajará desde la cuna de la civilización humana hasta las maravillas naturales más asombrosas del mundo. Venga al corazón de África y descubra uno de los lugares más increíbles y emocionantes de la Tierra(n)</desc>
+    <category lang="es">Documentales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160116210000 -0600" stop="20160116220000 -0600" channel="Animal Planet">
+    <title lang="es">Rugido de África</title>
+    <sub-title lang="es">Leones para África</sub-title>
+    <desc lang="es">Un análisis sobre el increíble trabajo que ALERT (Fondo para la Investigación Ambiental y de los Leones Africanos en inglés) y los proyectos de rehabilitación de impacto a los leones africanos hacen para conservar a esta magnífica especie(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160116220000 -0600" stop="20160116230000 -0600" channel="Animal Planet">
+    <title lang="es">El pingüino africano</title>
+    <desc lang="es">La población del pingüino africano está cayendo rápido y los científicos se esfuerzan por hayar la causa para evitar que la única especie de pingüino de África llegue a la extinción(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160116230000 -0600" stop="20160116232300 -0600" channel="Animal Planet">
+    <title lang="es">La manada</title>
+    <category lang="es">Culturales</category>
+    <category lang="es">Serie</category>
+  </programme>
+  <programme start="20160116232300 -0600" stop="20160116234800 -0600" channel="Animal Planet">
+    <title lang="es">La manada</title>
+    <category lang="es">Culturales</category>
+    <category lang="es">Serie</category>
+  </programme>
+  <programme start="20160116234800 -0600" stop="20160117003800 -0600" channel="Animal Planet">
+    <title lang="es">Criaturas devoradoras</title>
+    <sub-title lang="es">Tiburones</sub-title>
+    <desc lang="es">Algunas coincidencias pueden resultar muy agradables, pero definitivamente no es el caso si se trata de encuentros cara a cara con algunos de los animales salvajes más peligrosos de la naturaleza(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160117003800 -0600" stop="20160117010800 -0600" channel="Animal Planet">
+    <title lang="es">Clan orangután</title>
+    <sub-title lang="es">El regreso</sub-title>
+    <desc lang="es">La tala ilegal está destruyendo los últimos baluartes de los orangutanes de Borneo dejando huérfanos y sin hogar a cientos de bebés. Su futuro se ve amenazado pero acaba de surgir un proyecto que ofrece verdadera esperanza para asegurar la supervivencia de la especie. Conozca a los 35 alumnos de la Escuela Forestal 103 del Centro de Rescate y Rehabilitación del Orangután "Nyaru Menteng". Estos precoces "hijos de la selva" tendrán la oportunidad de vivir en una isla protegida. La Isla del Orangután es la base para el mayor proyecto de rescate de primates del mundo(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Serie</category>
+  </programme>
+  <programme start="20160117010800 -0600" stop="20160117020000 -0600" channel="Animal Planet">
+    <title lang="es">África incomparable</title>
+    <sub-title lang="es">El río Nilo</sub-title>
+    <desc lang="es">Un homenaje a los lugares más espectaculares de África, que presenta la experiencia africana total. Se viajará desde la cuna de la civilización humana hasta las maravillas naturales más asombrosas del mundo. Venga al corazón de África y descubra uno de los lugares más increíbles y emocionantes de la Tierra(n)</desc>
+    <category lang="es">Documentales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160117020000 -0600" stop="20160117030000 -0600" channel="Animal Planet">
+    <title lang="es">Rugido de África</title>
+    <sub-title lang="es">Leones para África</sub-title>
+    <desc lang="es">Un análisis sobre el increíble trabajo que ALERT (Fondo para la Investigación Ambiental y de los Leones Africanos en inglés) y los proyectos de rehabilitación de impacto a los leones africanos hacen para conservar a esta magnífica especie(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160117030000 -0600" stop="20160117040000 -0600" channel="Animal Planet">
+    <title lang="es">El pingüino africano</title>
+    <desc lang="es">La población del pingüino africano está cayendo rápido y los científicos se esfuerzan por hayar la causa para evitar que la única especie de pingüino de África llegue a la extinción(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160117040000 -0600" stop="20160117043000 -0600" channel="Animal Planet">
+    <title lang="es">La manada</title>
+    <category lang="es">Culturales</category>
+    <category lang="es">Serie</category>
+  </programme>
+  <programme start="20160117043000 -0600" stop="20160117050000 -0600" channel="Animal Planet">
+    <title lang="es">La manada</title>
+    <category lang="es">Culturales</category>
+    <category lang="es">Serie</category>
+  </programme>
+  <programme start="20160117050000 -0600" stop="20160117060000 -0600" channel="Animal Planet">
+    <title lang="es">Defensores de ballenas</title>
+    <sub-title lang="es">Maniobra de alto riesgo</sub-title>
+    <desc lang="es">La versión ambientalista de "Deadliest Catch" para APL, se sigue al "Sea Shepherd" en su intento por detener a los cazadores japoneses de ballenas(n)</desc>
+    <category lang="es">Series</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160117060000 -0600" stop="20160117070000 -0600" channel="Animal Planet">
+    <title lang="es">Austin Stevens: Los más peligrosos</title>
+    <sub-title lang="es">El bosque del gran oso</sub-title>
+    <desc lang="es">El programa sigue los pasos de Stevens en sus viajes alrededor del mundo. Así, visitará desde los desiertos del Oeste de los Estados Unidos hasta los bosques remotos de Costa Rica; y desde las zonas más salvajes de Australia hasta las selvas prohibidas de Borneo. Su objetivo consistirá en localizar y fotografiar especies poco comunes de serpientes y otros reptiles venenosos(n)</desc>
+    <credits>
+      <actor>Austin Stevens</actor>
+    </credits>
+    <category lang="es">Culturales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160117070000 -0600" stop="20160117073000 -0600" channel="Animal Planet">
+    <title lang="es">Beaver Brothers</title>
+    <sub-title lang="es">2 de febrero</sub-title>
+    <desc lang="es">En el pequeño pueblo canadiense de Pomquet, Nueva Escocia, hay más animales que personas. Aunque intentan vivir en armonía, no siempre es posible. Entonces, cuando surge un conflicto entre los bichos y la comunidad, los pueblerinos acuden al equipo más confiable, simpático y poco convencional para que solucione el problema: los BEAVER BROTHERS. El grupo está formado por los hermanos Charlie y Eddie Landry y su joven protegido, Mike. Si bien muchas veces se los describe como enanitos de jardín que cobraron vida, los hermanos Landry, con su acento gracioso y agudo, son los representantes de la sabiduría tradicional local(n)</desc>
+    <credits>
+      <actor>Charles Landry</actor>
+      <actor>Michael Macisaac</actor>
+      <actor>Edward Landry</actor>
+    </credits>
+    <category lang="es">Reality Show</category>
+  </programme>
+  <programme start="20160117073000 -0600" stop="20160117080000 -0600" channel="Animal Planet">
+    <title lang="es">Beaver Brothers</title>
+    <sub-title lang="es">El mecánico y la rata</sub-title>
+    <desc lang="es">En el pequeño pueblo canadiense de Pomquet, Nueva Escocia, hay más animales que personas. Aunque intentan vivir en armonía, no siempre es posible. Entonces, cuando surge un conflicto entre los bichos y la comunidad, los pueblerinos acuden al equipo más confiable, simpático y poco convencional para que solucione el problema: los BEAVER BROTHERS. El grupo está formado por los hermanos Charlie y Eddie Landry y su joven protegido, Mike. Si bien muchas veces se los describe como enanitos de jardín que cobraron vida, los hermanos Landry, con su acento gracioso y agudo, son los representantes de la sabiduría tradicional local(n)</desc>
+    <credits>
+      <actor>Charles Landry</actor>
+      <actor>Michael Macisaac</actor>
+      <actor>Edward Landry</actor>
+    </credits>
+    <category lang="es">Reality Show</category>
+  </programme>
+  <programme start="20160117080000 -0600" stop="20160117090000 -0600" channel="Animal Planet">
+    <title lang="es">Migración de ballenas con Nigel Marven</title>
+    <desc lang="es">El documentalista Nigel Marven acompaña a las ballenas grises mientras emprenden la migración más larga realizada por los mamíferos: un viaje que bordea la costa del Pacífico de América del Norte a lo largo de casi diez mil kilómetros(n)</desc>
+    <category lang="es">Documentales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160117090000 -0600" stop="20160117100000 -0600" channel="Animal Planet">
+    <title lang="es">Too Cute!</title>
+    <sub-title lang="es">Fiesta de cachorros</sub-title>
+    <desc lang="es">Este programa es una forma nueva de ver a nuestros amigos más adorables. Por medio de cámaras de avanzada y técnicas de películas de la vida silvestre, cada especial sigue a tres camadas por las etapas de la vida que comienza. Desde su ceguera al momento de nacer hasta la maravilla de sus primeros pasos, y el duro momento del destete y la separación de los cuidados de mamá. Las cámaras captan cada momento desde la perspectiva del animal, y uno vive las emociones del cachorrito o gatito que crece y se desenvuelve en el mundo salvaje de su hogar(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160117100000 -0600" stop="20160117103000 -0600" channel="Animal Planet">
+    <title lang="es">Videos divertidos de Animal Planet</title>
+    <desc lang="es">Divertidísimos vídeos con animales como principales protagonistas. Trucos, gracias y simpáticas actuaciones nos harán creer que nuestro salón está rodeado de miles de chistosas mascotas(n)</desc>
+    <credits>
+      <actor>Keegan-Michael Key</actor>
+    </credits>
+    <category lang="es">Documentales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160117103000 -0600" stop="20160117110000 -0600" channel="Animal Planet">
+    <title lang="es">Videos divertidos de Animal Planet</title>
+    <desc lang="es">Divertidísimos vídeos con animales como principales protagonistas. Trucos, gracias y simpáticas actuaciones nos harán creer que nuestro salón está rodeado de miles de chistosas mascotas(n)</desc>
+    <credits>
+      <actor>Keegan-Michael Key</actor>
+    </credits>
+    <category lang="es">Documentales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160117110000 -0600" stop="20160117120000 -0600" channel="Animal Planet">
+    <title lang="es">África incomparable</title>
+    <sub-title lang="es">El río Nilo</sub-title>
+    <desc lang="es">Un homenaje a los lugares más espectaculares de África, que presenta la experiencia africana total. Se viajará desde la cuna de la civilización humana hasta las maravillas naturales más asombrosas del mundo. Venga al corazón de África y descubra uno de los lugares más increíbles y emocionantes de la Tierra(n)</desc>
+    <category lang="es">Documentales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160117120000 -0600" stop="20160117130000 -0600" channel="Animal Planet">
+    <title lang="es">Rugido de África</title>
+    <sub-title lang="es">Leones para África</sub-title>
+    <desc lang="es">Un análisis sobre el increíble trabajo que ALERT (Fondo para la Investigación Ambiental y de los Leones Africanos en inglés) y los proyectos de rehabilitación de impacto a los leones africanos hacen para conservar a esta magnífica especie(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160117130000 -0600" stop="20160117133000 -0600" channel="Animal Planet">
+    <title lang="es">Beaver Brothers</title>
+    <sub-title lang="es">2 de febrero</sub-title>
+    <desc lang="es">En el pequeño pueblo canadiense de Pomquet, Nueva Escocia, hay más animales que personas. Aunque intentan vivir en armonía, no siempre es posible. Entonces, cuando surge un conflicto entre los bichos y la comunidad, los pueblerinos acuden al equipo más confiable, simpático y poco convencional para que solucione el problema: los BEAVER BROTHERS. El grupo está formado por los hermanos Charlie y Eddie Landry y su joven protegido, Mike. Si bien muchas veces se los describe como enanitos de jardín que cobraron vida, los hermanos Landry, con su acento gracioso y agudo, son los representantes de la sabiduría tradicional local(n)</desc>
+    <credits>
+      <actor>Charles Landry</actor>
+      <actor>Michael Macisaac</actor>
+      <actor>Edward Landry</actor>
+    </credits>
+    <category lang="es">Reality Show</category>
+  </programme>
+  <programme start="20160117133000 -0600" stop="20160117140000 -0600" channel="Animal Planet">
+    <title lang="es">Beaver Brothers</title>
+    <sub-title lang="es">El mecánico y la rata</sub-title>
+    <desc lang="es">En el pequeño pueblo canadiense de Pomquet, Nueva Escocia, hay más animales que personas. Aunque intentan vivir en armonía, no siempre es posible. Entonces, cuando surge un conflicto entre los bichos y la comunidad, los pueblerinos acuden al equipo más confiable, simpático y poco convencional para que solucione el problema: los BEAVER BROTHERS. El grupo está formado por los hermanos Charlie y Eddie Landry y su joven protegido, Mike. Si bien muchas veces se los describe como enanitos de jardín que cobraron vida, los hermanos Landry, con su acento gracioso y agudo, son los representantes de la sabiduría tradicional local(n)</desc>
+    <credits>
+      <actor>Charles Landry</actor>
+      <actor>Michael Macisaac</actor>
+      <actor>Edward Landry</actor>
+    </credits>
+    <category lang="es">Reality Show</category>
+  </programme>
+  <programme start="20160117140000 -0600" stop="20160117150000 -0600" channel="Animal Planet">
+    <title lang="es">Criaturas devoradoras</title>
+    <sub-title lang="es">Tigres y leopardos</sub-title>
+    <desc lang="es">Algunas coincidencias pueden resultar muy agradables, pero definitivamente no es el caso si se trata de encuentros cara a cara con algunos de los animales salvajes más peligrosos de la naturaleza(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160117150000 -0600" stop="20160117153000 -0600" channel="Animal Planet">
+    <title lang="es">Wildlife at the Zoo</title>
+    <desc lang="es">Este programa muestra el fascinante mundo del zoológico Taronga en Sídney, Australia, que es el hogar de más de 2,600 animales que habitan sus 28 hectáreas. Esta serie no sólo contará las historias de los animales carismáticos del lugar, sino también explorará el íntimo vínculo que existe entre los animales y sus cuidadores. Sea testigo del nacimiento de tres tigres de Sumatra, una especia en peligro de extinción, y del viaje de una jirafa hembra hasta Nueva Zelanda. Este documental le da la posibilidad a los televidentes de conocer el mundo del zoológico desde un nuevo ángulo(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160117153000 -0600" stop="20160117160000 -0600" channel="Animal Planet">
+    <title lang="es">Wildlife at the Zoo</title>
+    <desc lang="es">Este programa muestra el fascinante mundo del zoológico Taronga en Sídney, Australia, que es el hogar de más de 2,600 animales que habitan sus 28 hectáreas. Esta serie no sólo contará las historias de los animales carismáticos del lugar, sino también explorará el íntimo vínculo que existe entre los animales y sus cuidadores. Sea testigo del nacimiento de tres tigres de Sumatra, una especia en peligro de extinción, y del viaje de una jirafa hembra hasta Nueva Zelanda. Este documental le da la posibilidad a los televidentes de conocer el mundo del zoológico desde un nuevo ángulo(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160117160000 -0600" stop="20160117170000 -0600" channel="Animal Planet">
+    <title lang="es">ABC Felino</title>
+    <desc lang="es">Descúbralo todo acerca de sus amigos los gatos en ABC felino. Esta serie examina el comportamiento de estos adorables animalitos enérgicos y retozones, que sobrepasaron al perro como el animal más popular de los EE. UU. Aprenda sobre las diferentes razas, su historia genética y datos acerca de gatos famosos y excéntricos(n)</desc>
+    <credits>
+      <actor>John Fulton</actor>
+    </credits>
+    <category lang="es">Culturales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160117170000 -0600" stop="20160117173000 -0600" channel="Animal Planet">
+    <title lang="es">Village Vets</title>
+    <sub-title lang="es">Tim's Cow</sub-title>
+    <desc lang="es">James y Anthony se hicieron amigos el primer día de universidad. Ahora son veterinarios y atienden juntos en un pequeño pueblo rural de Australia, donde reciben desde las mascotas más comunes, hasta animales bastante más inusuales(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Serie</category>
+  </programme>
+  <programme start="20160117173000 -0600" stop="20160117180000 -0600" channel="Animal Planet">
+    <title lang="es">Village Vets</title>
+    <sub-title lang="es">Alpaca Down</sub-title>
+    <desc lang="es">James y Anthony se hicieron amigos el primer día de universidad. Ahora son veterinarios y atienden juntos en un pequeño pueblo rural de Australia, donde reciben desde las mascotas más comunes, hasta animales bastante más inusuales(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Serie</category>
+  </programme>
+  <programme start="20160117180000 -0600" stop="20160117190000 -0600" channel="Animal Planet">
+    <title lang="es">Mascotas adorables</title>
+    <sub-title lang="es">Perros adorables</sub-title>
+    <desc lang="es">La búsqueda de las mascotas más bonitas de los EE. UU. continúa(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160117190000 -0600" stop="20160117200000 -0600" channel="Animal Planet">
+    <title lang="es">Pit Bulls y convictos</title>
+    <sub-title lang="es">Jail Break</sub-title>
+    <desc lang="es">Debido a que todos merecen una segunda oportunidad, Tía María Torres, propietaria del Centro de Rescate Villalobos, se la otorga a exconvictos y a pit bulls. Esta mezcla perfecta muestra los momentos más agridulces de una transformación positiva(n)</desc>
+    <credits>
+      <actor>Tía María Torres</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Reality Show</category>
+  </programme>
+  <programme start="20160117200000 -0600" stop="20160117210000 -0600" channel="Animal Planet">
+    <title lang="es">Pandamonio</title>
+    <sub-title lang="es">Bienvenidos a Wolong</sub-title>
+    <desc lang="es">Los pandas gigantes se encuentran entre las especies más populares y a la vez, en mayor peligro de extinción. En esta extraordinaria serie, veremos tras bastidores las escenas del primer y más exitoso centro de reproducción de estos animales en todo el mundo. Filmado con acceso exclusivo durante un año en el Centro de Investigación y Conservación Wolong para el panda gigante, en la provincia de Sichuan, China, este documental nos permitirá ser testigos de increíbles historias de los cuidadores y funcionarios que luchan a diario para preservar los pandas más preciosos del planeta(n)</desc>
+    <category lang="es">Series</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160117210000 -0600" stop="20160117230000 -0600" channel="Animal Planet">
+    <title lang="es">Preservando pandas</title>
+    <desc lang="es">Vea los desafíos cotidianos y los triunfos de un grupo de oseznos panda en la Base de pandas de Chengdu mientras sus cuidadores los crían y los entrenan para que algún día formen parte de un programa de liberación en el Centro de pandas de Dujiangyan(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160117230000 -0600" stop="20160117234800 -0600" channel="Animal Planet">
+    <title lang="es">Crías adorables</title>
+    <sub-title lang="es">Panda gigante</sub-title>
+    <desc lang="es">Esta serie rinde homenaje a algunas de las crías de animales más adorables y fascinantes y muestra cómo aprenden a defenderse(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160117234800 -0600" stop="20160118003800 -0600" channel="Animal Planet">
+    <title lang="es">Too Cute!</title>
+    <sub-title lang="es">Gatos chiquitos</sub-title>
+    <desc lang="es">Este programa es una forma nueva de ver a nuestros amigos más adorables. Por medio de cámaras de avanzada y técnicas de películas de la vida silvestre, cada especial sigue a tres camadas por las etapas de la vida que comienza. Desde su ceguera al momento de nacer hasta la maravilla de sus primeros pasos, y el duro momento del destete y la separación de los cuidados de mamá. Las cámaras captan cada momento desde la perspectiva del animal, y uno vive las emociones del cachorrito o gatito que crece y se desenvuelve en el mundo salvaje de su hogar(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160118003800 -0600" stop="20160118010800 -0600" channel="Animal Planet">
+    <title lang="es">Clan orangután</title>
+    <sub-title lang="es">Un ángel en el paraíso</sub-title>
+    <desc lang="es">La tala ilegal está destruyendo los últimos baluartes de los orangutanes de Borneo dejando huérfanos y sin hogar a cientos de bebés. Su futuro se ve amenazado pero acaba de surgir un proyecto que ofrece verdadera esperanza para asegurar la supervivencia de la especie. Conozca a los 35 alumnos de la Escuela Forestal 103 del Centro de Rescate y Rehabilitación del Orangután "Nyaru Menteng". Estos precoces "hijos de la selva" tendrán la oportunidad de vivir en una isla protegida. La Isla del Orangután es la base para el mayor proyecto de rescate de primates del mundo(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Serie</category>
+  </programme>
+  <programme start="20160118010800 -0600" stop="20160118020000 -0600" channel="Animal Planet">
+    <title lang="es">Pandamonio</title>
+    <sub-title lang="es">Bienvenidos a Wolong</sub-title>
+    <desc lang="es">Los pandas gigantes se encuentran entre las especies más populares y a la vez, en mayor peligro de extinción. En esta extraordinaria serie, veremos tras bastidores las escenas del primer y más exitoso centro de reproducción de estos animales en todo el mundo. Filmado con acceso exclusivo durante un año en el Centro de Investigación y Conservación Wolong para el panda gigante, en la provincia de Sichuan, China, este documental nos permitirá ser testigos de increíbles historias de los cuidadores y funcionarios que luchan a diario para preservar los pandas más preciosos del planeta(n)</desc>
+    <category lang="es">Series</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160118020000 -0600" stop="20160118040000 -0600" channel="Animal Planet">
+    <title lang="es">Preservando pandas</title>
+    <desc lang="es">Vea los desafíos cotidianos y los triunfos de un grupo de oseznos panda en la Base de pandas de Chengdu mientras sus cuidadores los crían y los entrenan para que algún día formen parte de un programa de liberación en el Centro de pandas de Dujiangyan(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160118040000 -0600" stop="20160118050000 -0600" channel="Animal Planet">
+    <title lang="es">Crías adorables</title>
+    <sub-title lang="es">Panda gigante</sub-title>
+    <desc lang="es">Esta serie rinde homenaje a algunas de las crías de animales más adorables y fascinantes y muestra cómo aprenden a defenderse(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160118050000 -0600" stop="20160118060000 -0600" channel="Animal Planet">
+    <title lang="es">Defensores de ballenas</title>
+    <sub-title lang="es">Carnada para incautos</sub-title>
+    <desc lang="es">La versión ambientalista de "Deadliest Catch" para APL, se sigue al "Sea Shepherd" en su intento por detener a los cazadores japoneses de ballenas(n)</desc>
+    <category lang="es">Series</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160118060000 -0600" stop="20160118070000 -0600" channel="Animal Planet">
+    <title lang="es">Austin Stevens: Los más peligrosos</title>
+    <sub-title lang="es">La última serpiente</sub-title>
+    <desc lang="es">El programa sigue los pasos de Stevens en sus viajes alrededor del mundo. Así, visitará desde los desiertos del Oeste de los Estados Unidos hasta los bosques remotos de Costa Rica; y desde las zonas más salvajes de Australia hasta las selvas prohibidas de Borneo. Su objetivo consistirá en localizar y fotografiar especies poco comunes de serpientes y otros reptiles venenosos(n)</desc>
+    <credits>
+      <actor>Austin Stevens</actor>
+    </credits>
+    <category lang="es">Culturales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160118070000 -0600" stop="20160118073000 -0600" channel="Animal Planet">
+    <title lang="es">Como pez fuera del agua</title>
+    <sub-title lang="es">Shark-A-Mania</sub-title>
+    <desc lang="es">En esta serie el presentador recorre los EE.UU. y conoce comunidades de pesca muy particulares(n)</desc>
+    <credits>
+      <actor>Eric Young</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160118073000 -0600" stop="20160118080000 -0600" channel="Animal Planet">
+    <title lang="es">Como pez fuera del agua</title>
+    <sub-title lang="es">El pez más rápido</sub-title>
+    <desc lang="es">En esta serie el presentador recorre los EE.UU. y conoce comunidades de pesca muy particulares(n)</desc>
+    <credits>
+      <actor>Eric Young</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160118080000 -0600" stop="20160118090000 -0600" channel="Animal Planet">
+    <title lang="es">Después del ataque</title>
+    <sub-title lang="es">Puma y alce</sub-title>
+    <desc lang="es">Conoceremos la historia humana - y forense - después de un ataque animal mientras la víctima aprovecha la experiencia con la intención de cambiar su vida para bien y vencer el miedo, todo desde una perspectiva conservacionista, a favor de los animales(n)</desc>
+    <category lang="es">Series</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160118090000 -0600" stop="20160118093000 -0600" channel="Animal Planet">
+    <title lang="es">Wildlife at the Zoo</title>
+    <desc lang="es">Este programa muestra el fascinante mundo del zoológico Taronga en Sídney, Australia, que es el hogar de más de 2,600 animales que habitan sus 28 hectáreas. Esta serie no sólo contará las historias de los animales carismáticos del lugar, sino también explorará el íntimo vínculo que existe entre los animales y sus cuidadores. Sea testigo del nacimiento de tres tigres de Sumatra, una especia en peligro de extinción, y del viaje de una jirafa hembra hasta Nueva Zelanda. Este documental le da la posibilidad a los televidentes de conocer el mundo del zoológico desde un nuevo ángulo(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160118093000 -0600" stop="20160118100000 -0600" channel="Animal Planet">
+    <title lang="es">Wildlife at the Zoo</title>
+    <desc lang="es">Este programa muestra el fascinante mundo del zoológico Taronga en Sídney, Australia, que es el hogar de más de 2,600 animales que habitan sus 28 hectáreas. Esta serie no sólo contará las historias de los animales carismáticos del lugar, sino también explorará el íntimo vínculo que existe entre los animales y sus cuidadores. Sea testigo del nacimiento de tres tigres de Sumatra, una especia en peligro de extinción, y del viaje de una jirafa hembra hasta Nueva Zelanda. Este documental le da la posibilidad a los televidentes de conocer el mundo del zoológico desde un nuevo ángulo(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160118100000 -0600" stop="20160118110000 -0600" channel="Animal Planet">
+    <title lang="es">Pit Bulls y convictos</title>
+    <sub-title lang="es">Jail Break</sub-title>
+    <desc lang="es">Debido a que todos merecen una segunda oportunidad, Tía María Torres, propietaria del Centro de Rescate Villalobos, se la otorga a exconvictos y a pit bulls. Esta mezcla perfecta muestra los momentos más agridulces de una transformación positiva(n)</desc>
+    <credits>
+      <actor>Tía María Torres</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Reality Show</category>
+  </programme>
+  <programme start="20160118110000 -0600" stop="20160118120000 -0600" channel="Animal Planet">
+    <title lang="es">Pandamonio</title>
+    <sub-title lang="es">Bienvenidos a Wolong</sub-title>
+    <desc lang="es">Los pandas gigantes se encuentran entre las especies más populares y a la vez, en mayor peligro de extinción. En esta extraordinaria serie, veremos tras bastidores las escenas del primer y más exitoso centro de reproducción de estos animales en todo el mundo. Filmado con acceso exclusivo durante un año en el Centro de Investigación y Conservación Wolong para el panda gigante, en la provincia de Sichuan, China, este documental nos permitirá ser testigos de increíbles historias de los cuidadores y funcionarios que luchan a diario para preservar los pandas más preciosos del planeta(n)</desc>
+    <category lang="es">Series</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160118120000 -0600" stop="20160118140000 -0600" channel="Animal Planet">
+    <title lang="es">Preservando pandas</title>
+    <desc lang="es">Vea los desafíos cotidianos y los triunfos de un grupo de oseznos panda en la Base de pandas de Chengdu mientras sus cuidadores los crían y los entrenan para que algún día formen parte de un programa de liberación en el Centro de pandas de Dujiangyan(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160118140000 -0600" stop="20160118150000 -0600" channel="Animal Planet">
+    <title lang="es">Después del ataque</title>
+    <sub-title lang="es">Puma y alce</sub-title>
+    <desc lang="es">Conoceremos la historia humana - y forense - después de un ataque animal mientras la víctima aprovecha la experiencia con la intención de cambiar su vida para bien y vencer el miedo, todo desde una perspectiva conservacionista, a favor de los animales(n)</desc>
+    <category lang="es">Series</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160118150000 -0600" stop="20160118153000 -0600" channel="Animal Planet">
+    <title lang="es">Wildlife at the Zoo</title>
+    <desc lang="es">Este programa muestra el fascinante mundo del zoológico Taronga en Sídney, Australia, que es el hogar de más de 2,600 animales que habitan sus 28 hectáreas. Esta serie no sólo contará las historias de los animales carismáticos del lugar, sino también explorará el íntimo vínculo que existe entre los animales y sus cuidadores. Sea testigo del nacimiento de tres tigres de Sumatra, una especia en peligro de extinción, y del viaje de una jirafa hembra hasta Nueva Zelanda. Este documental le da la posibilidad a los televidentes de conocer el mundo del zoológico desde un nuevo ángulo(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160118153000 -0600" stop="20160118160000 -0600" channel="Animal Planet">
+    <title lang="es">Wildlife at the Zoo</title>
+    <desc lang="es">Este programa muestra el fascinante mundo del zoológico Taronga en Sídney, Australia, que es el hogar de más de 2,600 animales que habitan sus 28 hectáreas. Esta serie no sólo contará las historias de los animales carismáticos del lugar, sino también explorará el íntimo vínculo que existe entre los animales y sus cuidadores. Sea testigo del nacimiento de tres tigres de Sumatra, una especia en peligro de extinción, y del viaje de una jirafa hembra hasta Nueva Zelanda. Este documental le da la posibilidad a los televidentes de conocer el mundo del zoológico desde un nuevo ángulo(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160118160000 -0600" stop="20160118170000 -0600" channel="Animal Planet">
+    <title lang="es">Mascotas revoltosas</title>
+    <sub-title lang="es">Cleptómanos y escapistas</sub-title>
+    <desc lang="es">Los animales pueden ser malos. Los perros pueden convertir un sofá de mil dólares en juguete para morder, robarse el pavo de la cena y atascarse la cabeza en el mismo, y pueden ponerse demasiado cariñosos con la tía. ¡Y lo filmamos todo!(n)</desc>
+    <category lang="es">Series</category>
+    <category lang="es">Reality Show</category>
+  </programme>
+  <programme start="20160118170000 -0600" stop="20160118173000 -0600" channel="Animal Planet">
+    <title lang="es">Veterinario extremo</title>
+    <desc lang="es">Aunque no lo crea, en algunas casas de São Paulo hay leones, tigres y otros animales salvajes; y Rodrigo Teixeira, veterinario de animales salvajes, los trata cuando no están bien(n)</desc>
+    <credits>
+      <actor>Rodrigo Teixeira</actor>
+    </credits>
+    <category lang="es">Culturales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160118173000 -0600" stop="20160118180000 -0600" channel="Animal Planet">
+    <title lang="es">Veterinario extremo</title>
+    <desc lang="es">Aunque no lo crea, en algunas casas de São Paulo hay leones, tigres y otros animales salvajes; y Rodrigo Teixeira, veterinario de animales salvajes, los trata cuando no están bien(n)</desc>
+    <credits>
+      <actor>Rodrigo Teixeira</actor>
+    </credits>
+    <category lang="es">Culturales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160118180000 -0600" stop="20160118190000 -0600" channel="Animal Planet">
+    <title lang="es">Las travesías de Corwin</title>
+    <sub-title lang="es">La destreza del puma</sub-title>
+    <desc lang="es">Jeff Corwin recorre el mundo en busca de los animales más interesantes con una misión: explorar diferentes características de la vida salvaje como son el ataque, la velocidad y el tamaño. Irá de país en país en pos de las criaturas que más se destaquen en cada uno de estos aspectos(n)</desc>
+    <credits>
+      <actor>Jeff Corwin</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Reality Show</category>
+  </programme>
+  <programme start="20160118190000 -0600" stop="20160118200000 -0600" channel="Animal Planet">
+    <title lang="es">Latinoamérica salvaje</title>
+    <sub-title lang="es">Amazonia</sub-title>
+    <desc lang="es">Esta serie rinde homenaje a algunos de los lugares más espectaculares de Latinoamérica y su increíble vida silvestre(n)</desc>
+    <category lang="es">Documentales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160118200000 -0600" stop="20160118203000 -0600" channel="Animal Planet">
+    <title lang="es">Bondi Vet</title>
+    <sub-title lang="es">Ayudar a un koala Deprimido y dolió</sub-title>
+    <desc lang="es">La locación de esta serie es la espectacular y famosa Bondi Beach en Australia. El carismático y enérgico veterinario de Sydney, el Dr. Brown, atiende los casos más curiosos en su hospital veterinario, escenario donde el drama y la alegría se combinan para demostrar hasta dónde puede llegar la relación entre los humanos y los animales(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Serie</category>
+  </programme>
+  <programme start="20160118203000 -0600" stop="20160118210000 -0600" channel="Animal Planet">
+    <title lang="es">Bondi Vet</title>
+    <sub-title lang="es">Un cordero huérfano sin anticuerpos</sub-title>
+    <desc lang="es">La locación de esta serie es la espectacular y famosa Bondi Beach en Australia. El carismático y enérgico veterinario de Sydney, el Dr. Brown, atiende los casos más curiosos en su hospital veterinario, escenario donde el drama y la alegría se combinan para demostrar hasta dónde puede llegar la relación entre los humanos y los animales(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Serie</category>
+  </programme>
+  <programme start="20160118210000 -0600" stop="20160118220000 -0600" channel="Animal Planet">
+    <title lang="es">Mi gato endemoniado</title>
+    <sub-title lang="es">Desconección psíquica</sub-title>
+    <desc lang="es">Desde gatos espásticos que arruinan relaciones hasta felinos violentos que envían a sus dueños al hospital, Jackson Galaxy, experto en comportamiento felino, lo ha visto todo. Usted podrá seguir a Jackson mientras trata de hacer que las desesperadas familias comprendan a sus felinos antes de que renuncien a ellos(n)</desc>
+    <credits>
+      <actor>Jackson Galaxy</actor>
+    </credits>
+    <category lang="es">Culturales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160118220000 -0600" stop="20160118230000 -0600" channel="Animal Planet">
+    <title lang="es">SOS: cocodrilo en la mira</title>
+    <sub-title lang="es">Malo hasta la médula</sub-title>
+    <desc lang="es">Sigue las azañas que desafian a la muerte de Paul Bedard y Jimmy Riffle, 2 de los mejores cazadores de cocodrilos quienes se arriesgan a lesiones e incluso a morir para capturar cocodrilos molestos que han invadido patios, albercas, garages e incluso cuartos de las residencias de los Everglades de Florida(n)</desc>
+    <credits>
+      <actor>Jimmy Riffle</actor>
+      <actor>Paul Bedard</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Reality Show</category>
+  </programme>
+  <programme start="20160118230000 -0600" stop="20160118232300 -0600" channel="Animal Planet">
+    <title lang="es">La ciudad en la selva</title>
+    <sub-title lang="es">Ciudad de monos</sub-title>
+    <desc lang="es">Esta es una serie única de historia de la naturaleza grabada en Manaos, Brasil. Rodeada por la selva tropical más grande del mundo, Manaos es una frontera salvaje en donde sus habitantes comparten sus vidas con miles de criaturas extrañas, asombrosas y mortales. Cada episodio sigue una especie exótica diferente que se ha adaptado a la vida en la ciudad, y a los expertos que están disponibles las 24 horas del día para los animales que se encuentren en problemas para sobrevivir en la selva(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Documental</category>
+  </programme>
+  <programme start="20160118232300 -0600" stop="20160118234800 -0600" channel="Animal Planet">
+    <title lang="es">La ciudad en la selva</title>
+    <sub-title lang="es">Alerta: Perezosos</sub-title>
+    <desc lang="es">Esta es una serie única de historia de la naturaleza grabada en Manaos, Brasil. Rodeada por la selva tropical más grande del mundo, Manaos es una frontera salvaje en donde sus habitantes comparten sus vidas con miles de criaturas extrañas, asombrosas y mortales. Cada episodio sigue una especie exótica diferente que se ha adaptado a la vida en la ciudad, y a los expertos que están disponibles las 24 horas del día para los animales que se encuentren en problemas para sobrevivir en la selva(n)</desc>
+    <category lang="es">Culturales</category>
+    <category lang="es">Documental</category>
   </programme>
 </tv>
