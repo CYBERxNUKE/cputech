@@ -113,6 +113,7 @@
   </channel>
   <channel id="Canal 52MX">
     <display-name lang="es">Canal 52MX</display-name>
+    <icon src="http://z.cdn.entutele.com/media/channels/big/canal-52mx.gif" />
     <url>http://www.entutele.com</url>
   </channel>
   <channel id="Canal Capital 21">
@@ -34192,5 +34193,1643 @@
     <title lang="es">Películas PM</title>
     <category lang="es">Pelicula</category>
     <category lang="es">Película</category>
+  </programme>
+  <programme start="20160111030000 -0600" stop="20160111033000 -0600" channel="Canal 52MX">
+    <title lang="es">Latin Angels</title>
+    <desc lang="es">Recorre los lugares mas excitantes del mundo junto a las chicas latinas mas sexys(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160111033000 -0600" stop="20160111040000 -0600" channel="Canal 52MX">
+    <title lang="es">Punto cero</title>
+    <desc lang="es">Luis Cárdenas conduce Punto cero, programa de investigación en el que abordará diversos temas, analizándolos con el apoyo de entrevistas y testimoniales(n)</desc>
+    <credits>
+      <actor>Luis Cárdenas</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160111040000 -0600" stop="20160111043000 -0600" channel="Canal 52MX">
+    <title lang="es">Spot central</title>
+    <desc lang="es">Acción, mujeres, erotismo, animales y hombres como parte de las campañas más exitosas en el creativo mundo de la publicidad(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160111043000 -0600" stop="20160111050000 -0600" channel="Canal 52MX">
+    <title lang="es">Spot central</title>
+    <desc lang="es">Acción, mujeres, erotismo, animales y hombres como parte de las campañas más exitosas en el creativo mundo de la publicidad(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160111050000 -0600" stop="20160111053000 -0600" channel="Canal 52MX">
+    <title lang="es">Leyendas deportivas</title>
+    <desc lang="es">Programa de investigación periodística sobre figuras del deporte mundial. Ivette Hernández nos presenta la historia de vida de los personajes más destacados en el ámbito deportivo(n)</desc>
+    <credits>
+      <actor>Ivette Hernández</actor>
+    </credits>
+    <category lang="es">Periodístico</category>
+    <category lang="es">Interés General</category>
+  </programme>
+  <programme start="20160111053000 -0600" stop="20160111060000 -0600" channel="Canal 52MX">
+    <title lang="es">Otro nivel deportivo</title>
+    <desc lang="es">Semblanza de los héroes deportivos mexicanos destacados nacional e internacionalmente, así como los extranjeros o naturalizados más rentables en nuestro país(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20160111060000 -0600" stop="20160111100000 -0600" channel="Canal 52MX">
+    <title lang="es">Noticias MVS</title>
+    <desc lang="es">Regresa a la pantalla del 52MX la reconocida periodista Carmen Aristegui, para brindar al televidente un periodismo audaz, inteligente, objetivo y análitico(n)</desc>
+    <credits>
+      <actor>Carmen Aristegui</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160111100000 -0600" stop="20160111110000 -0600" channel="Canal 52MX">
+    <title lang="es">El último pitazo</title>
+    <desc lang="es">Noticias, polémica, comedia, entrevistas, gadgets, encuestas y más encontrarás en esta revista nocturna conducida por Jean Duverger quien te llevará por todos los matices del deporte mundial(n)</desc>
+    <credits>
+      <actor>Jean Duverger</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160111110000 -0600" stop="20160111115000 -0600" channel="Canal 52MX">
+    <title lang="es">Suelta la sopa</title>
+    <desc lang="es">Programa de entretenimiento que ofrece las últimas noticias y titulares de la farándula, lo que está pasando en la vida de los famosos dentro y fuera de la pantalla. Además de los secretos más íntimos de los artistas(n)</desc>
+    <credits>
+      <actor>Jorge Bernal</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160111115000 -0600" stop="20160111120000 -0600" channel="Canal 52MX">
+    <title lang="es">Leyendas deportivas</title>
+    <desc lang="es">Programa de investigación periodística sobre figuras del deporte mundial. Ivette Hernández nos presenta la historia de vida de los personajes más destacados en el ámbito deportivo(n)</desc>
+    <credits>
+      <actor>Ivette Hernández</actor>
+    </credits>
+    <category lang="es">Periodístico</category>
+    <category lang="es">Interés General</category>
+  </programme>
+  <programme start="20160111120000 -0600" stop="20160111140000 -0600" channel="Canal 52MX">
+    <title lang="es">Tu casa TV</title>
+    <desc lang="es">Patricio Cabezut es el anfitrión de este nuevo espacio de entretenimiento para toda la familia. Cada tarde un grupo de profesionales traerán lo más actual en secciones como: salud, belleza, espectáculos, moda, entre muchos más(n)</desc>
+    <credits>
+      <actor>Wendy Braga</actor>
+      <actor>Rafa Balderrama</actor>
+      <actor>Patricio Cabezut</actor>
+      <actor>Jerry Ramírez</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160111140000 -0600" stop="20160111150000 -0600" channel="Canal 52MX">
+    <title lang="es">Uno noticias</title>
+    <desc lang="es">El noticiero maneja un concepto ágil, fresco y dinámico en cuanto a la información general, tiene 2 intervenciones de espectáculos y 2 de deportes, además de reportajes de interés para la sociedad(n)</desc>
+    <credits>
+      <actor>Ana Laura Barrios</actor>
+      <actor>Gabriela Calzada</actor>
+      <actor>Pablo Valdés</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160111150000 -0600" stop="20160111160000 -0600" channel="Canal 52MX">
+    <title lang="es">CMLL: guerreros del ring</title>
+    <desc lang="es">Los mejores exponentes del Consejo Mundial de Lucha Libre se dan cita en el cuadrilátero para deleitar con su técnica a los miles de fans de la lucha mexicana(n)</desc>
+    <credits>
+      <actor>Armando Padilla</actor>
+    </credits>
+    <category lang="es">Deportes</category>
+    <category lang="es">Lucha</category>
+  </programme>
+  <programme start="20160111160000 -0600" stop="20160111165000 -0600" channel="Canal 52MX">
+    <title lang="es">Suelta la sopa</title>
+    <desc lang="es">Programa de entretenimiento que ofrece las últimas noticias y titulares de la farándula, lo que está pasando en la vida de los famosos dentro y fuera de la pantalla. Además de los secretos más íntimos de los artistas(n)</desc>
+    <credits>
+      <actor>Jorge Bernal</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160111165000 -0600" stop="20160111170000 -0600" channel="Canal 52MX">
+    <title lang="es">Leyendas deportivas</title>
+    <desc lang="es">Programa de investigación periodística sobre figuras del deporte mundial. Ivette Hernández nos presenta la historia de vida de los personajes más destacados en el ámbito deportivo(n)</desc>
+    <credits>
+      <actor>Ivette Hernández</actor>
+    </credits>
+    <category lang="es">Periodístico</category>
+    <category lang="es">Interés General</category>
+  </programme>
+  <programme start="20160111170000 -0600" stop="20160111175000 -0600" channel="Canal 52MX">
+    <title lang="es">Al rojo vivo</title>
+    <desc lang="es">El programa es la evolución del exitoso formato de revista noticiosa donde se cubren los más importantes acontecimientos diarios y ofreciendo segmentos de interés como El Boletín de la Migra, Salud al día, e Imágenes al Rojo Vivo(n)</desc>
+    <credits>
+      <actor>María Celeste Arrarás</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20160111175000 -0600" stop="20160111180000 -0600" channel="Canal 52MX">
+    <title lang="es">Spot central</title>
+    <desc lang="es">Acción, mujeres, erotismo, animales y hombres como parte de las campañas más exitosas en el creativo mundo de la publicidad(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160111180000 -0600" stop="20160111200000 -0600" channel="Canal 52MX">
+    <title lang="es">Tu casa TV</title>
+    <desc lang="es">Patricio Cabezut es el anfitrión de este nuevo espacio de entretenimiento para toda la familia. Cada tarde un grupo de profesionales traerán lo más actual en secciones como: salud, belleza, espectáculos, moda, entre muchos más(n)</desc>
+    <credits>
+      <actor>Wendy Braga</actor>
+      <actor>Rafa Balderrama</actor>
+      <actor>Patricio Cabezut</actor>
+      <actor>Jerry Ramírez</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160111200000 -0600" stop="20160111210000 -0600" channel="Canal 52MX">
+    <title lang="es">Reacción en cadena</title>
+    <desc lang="es">El joven chef mexicano Alfonso Cadena, presenta en esta oportunidad una serie en la que muestra su cocina fusión, elaborando recetas originales a las que imprime su diseño personal(n)</desc>
+    <credits>
+      <actor>Alfonso Cadena</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Cocina</category>
+  </programme>
+  <programme start="20160111210000 -0600" stop="20160111213000 -0600" channel="Canal 52MX">
+    <title lang="es">Score final</title>
+    <desc lang="es">De lunes a viernes los mejores comentaristas, junto con un profesional equipo de reporteros se dan cita para analizar y discutir los eventos más relevantes en el fascinante mundo del deporte(n)</desc>
+    <credits>
+      <actor>Rodolfo Vargas</actor>
+      <actor>Jorge Murrieta</actor>
+      <actor>Alejandro Huerta</actor>
+    </credits>
+    <category lang="es">Deportes</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20160111213000 -0600" stop="20160111223000 -0600" channel="Canal 52MX">
+    <title lang="es">Uno noticias con José Cárdenas</title>
+    <desc lang="es">Las noticias más importantes de la jornada con el reconocido periodista Pepe Cárdenas(n)</desc>
+    <credits>
+      <actor>José Cárdenas</actor>
+      <actor>Luis Vázquez Fabris</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160111223000 -0600" stop="20160111233000 -0600" channel="Canal 52MX">
+    <title lang="es">Almohadazo</title>
+    <desc lang="es">Programa nocturno cuyo hilo conductor son las noticias, aderezadas con secciones de interés general. Un enfoque diferente, a través de la visión desenfadada y coloquial de Fernanda Tapia y sus secuaces(n)</desc>
+    <credits>
+      <actor>Fernanda Tapia</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20160111233000 -0600" stop="20160112003000 -0600" channel="Canal 52MX">
+    <title lang="es">El último pitazo</title>
+    <desc lang="es">Noticias, polémica, comedia, entrevistas, gadgets, encuestas y más encontrarás en esta revista nocturna conducida por Jean Duverger quien te llevará por todos los matices del deporte mundial(n)</desc>
+    <credits>
+      <actor>Jean Duverger</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160112003000 -0600" stop="20160112012000 -0600" channel="Canal 52MX">
+    <title lang="es">Al rojo vivo</title>
+    <desc lang="es">El programa es la evolución del exitoso formato de revista noticiosa donde se cubren los más importantes acontecimientos diarios y ofreciendo segmentos de interés como El Boletín de la Migra, Salud al día, e Imágenes al Rojo Vivo(n)</desc>
+    <credits>
+      <actor>María Celeste Arrarás</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20160112012000 -0600" stop="20160112013000 -0600" channel="Canal 52MX">
+    <title lang="es">Spot central</title>
+    <desc lang="es">Acción, mujeres, erotismo, animales y hombres como parte de las campañas más exitosas en el creativo mundo de la publicidad(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160112013000 -0600" stop="20160112023000 -0600" channel="Canal 52MX">
+    <title lang="es">Almohadazo</title>
+    <desc lang="es">Programa nocturno cuyo hilo conductor son las noticias, aderezadas con secciones de interés general. Un enfoque diferente, a través de la visión desenfadada y coloquial de Fernanda Tapia y sus secuaces(n)</desc>
+    <credits>
+      <actor>Fernanda Tapia</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20160112023000 -0600" stop="20160112033000 -0600" channel="Canal 52MX">
+    <title lang="es">Reacción en cadena</title>
+    <desc lang="es">El joven chef mexicano Alfonso Cadena, presenta en esta oportunidad una serie en la que muestra su cocina fusión, elaborando recetas originales a las que imprime su diseño personal(n)</desc>
+    <credits>
+      <actor>Alfonso Cadena</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Cocina</category>
+  </programme>
+  <programme start="20160112033000 -0600" stop="20160112053000 -0600" channel="Canal 52MX">
+    <title lang="es">Tu casa TV</title>
+    <desc lang="es">Patricio Cabezut es el anfitrión de este nuevo espacio de entretenimiento para toda la familia. Cada tarde un grupo de profesionales traerán lo más actual en secciones como: salud, belleza, espectáculos, moda, entre muchos más(n)</desc>
+    <credits>
+      <actor>Wendy Braga</actor>
+      <actor>Rafa Balderrama</actor>
+      <actor>Patricio Cabezut</actor>
+      <actor>Jerry Ramírez</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160112053000 -0600" stop="20160112060000 -0600" channel="Canal 52MX">
+    <title lang="es">Score final</title>
+    <desc lang="es">De lunes a viernes los mejores comentaristas, junto con un profesional equipo de reporteros se dan cita para analizar y discutir los eventos más relevantes en el fascinante mundo del deporte(n)</desc>
+    <credits>
+      <actor>Rodolfo Vargas</actor>
+      <actor>Jorge Murrieta</actor>
+      <actor>Alejandro Huerta</actor>
+    </credits>
+    <category lang="es">Deportes</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20160112060000 -0600" stop="20160112100000 -0600" channel="Canal 52MX">
+    <title lang="es">Noticias MVS</title>
+    <desc lang="es">Regresa a la pantalla del 52MX la reconocida periodista Carmen Aristegui, para brindar al televidente un periodismo audaz, inteligente, objetivo y análitico(n)</desc>
+    <credits>
+      <actor>Carmen Aristegui</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160112100000 -0600" stop="20160112110000 -0600" channel="Canal 52MX">
+    <title lang="es">El último pitazo</title>
+    <desc lang="es">Noticias, polémica, comedia, entrevistas, gadgets, encuestas y más encontrarás en esta revista nocturna conducida por Jean Duverger quien te llevará por todos los matices del deporte mundial(n)</desc>
+    <credits>
+      <actor>Jean Duverger</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160112110000 -0600" stop="20160112115000 -0600" channel="Canal 52MX">
+    <title lang="es">Suelta la sopa</title>
+    <desc lang="es">Programa de entretenimiento que ofrece las últimas noticias y titulares de la farándula, lo que está pasando en la vida de los famosos dentro y fuera de la pantalla. Además de los secretos más íntimos de los artistas(n)</desc>
+    <credits>
+      <actor>Jorge Bernal</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160112115000 -0600" stop="20160112120000 -0600" channel="Canal 52MX">
+    <title lang="es">Leyendas deportivas</title>
+    <desc lang="es">Programa de investigación periodística sobre figuras del deporte mundial. Ivette Hernández nos presenta la historia de vida de los personajes más destacados en el ámbito deportivo(n)</desc>
+    <credits>
+      <actor>Ivette Hernández</actor>
+    </credits>
+    <category lang="es">Periodístico</category>
+    <category lang="es">Interés General</category>
+  </programme>
+  <programme start="20160112120000 -0600" stop="20160112140000 -0600" channel="Canal 52MX">
+    <title lang="es">Tu casa TV</title>
+    <desc lang="es">Patricio Cabezut es el anfitrión de este nuevo espacio de entretenimiento para toda la familia. Cada tarde un grupo de profesionales traerán lo más actual en secciones como: salud, belleza, espectáculos, moda, entre muchos más(n)</desc>
+    <credits>
+      <actor>Wendy Braga</actor>
+      <actor>Rafa Balderrama</actor>
+      <actor>Patricio Cabezut</actor>
+      <actor>Jerry Ramírez</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160112140000 -0600" stop="20160112150000 -0600" channel="Canal 52MX">
+    <title lang="es">Uno noticias</title>
+    <desc lang="es">El noticiero maneja un concepto ágil, fresco y dinámico en cuanto a la información general, tiene 2 intervenciones de espectáculos y 2 de deportes, además de reportajes de interés para la sociedad(n)</desc>
+    <credits>
+      <actor>Ana Laura Barrios</actor>
+      <actor>Gabriela Calzada</actor>
+      <actor>Pablo Valdés</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160112150000 -0600" stop="20160112160000 -0600" channel="Canal 52MX">
+    <title lang="es">Reacción en cadena</title>
+    <desc lang="es">El joven chef mexicano Alfonso Cadena, presenta en esta oportunidad una serie en la que muestra su cocina fusión, elaborando recetas originales a las que imprime su diseño personal(n)</desc>
+    <credits>
+      <actor>Alfonso Cadena</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Cocina</category>
+  </programme>
+  <programme start="20160112160000 -0600" stop="20160112165000 -0600" channel="Canal 52MX">
+    <title lang="es">Suelta la sopa</title>
+    <desc lang="es">Programa de entretenimiento que ofrece las últimas noticias y titulares de la farándula, lo que está pasando en la vida de los famosos dentro y fuera de la pantalla. Además de los secretos más íntimos de los artistas(n)</desc>
+    <credits>
+      <actor>Jorge Bernal</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160112165000 -0600" stop="20160112170000 -0600" channel="Canal 52MX">
+    <title lang="es">Leyendas deportivas</title>
+    <desc lang="es">Programa de investigación periodística sobre figuras del deporte mundial. Ivette Hernández nos presenta la historia de vida de los personajes más destacados en el ámbito deportivo(n)</desc>
+    <credits>
+      <actor>Ivette Hernández</actor>
+    </credits>
+    <category lang="es">Periodístico</category>
+    <category lang="es">Interés General</category>
+  </programme>
+  <programme start="20160112170000 -0600" stop="20160112175000 -0600" channel="Canal 52MX">
+    <title lang="es">Al rojo vivo</title>
+    <desc lang="es">El programa es la evolución del exitoso formato de revista noticiosa donde se cubren los más importantes acontecimientos diarios y ofreciendo segmentos de interés como El Boletín de la Migra, Salud al día, e Imágenes al Rojo Vivo(n)</desc>
+    <credits>
+      <actor>María Celeste Arrarás</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20160112175000 -0600" stop="20160112180000 -0600" channel="Canal 52MX">
+    <title lang="es">Spot central</title>
+    <desc lang="es">Acción, mujeres, erotismo, animales y hombres como parte de las campañas más exitosas en el creativo mundo de la publicidad(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160112180000 -0600" stop="20160112200000 -0600" channel="Canal 52MX">
+    <title lang="es">Tu casa TV</title>
+    <desc lang="es">Patricio Cabezut es el anfitrión de este nuevo espacio de entretenimiento para toda la familia. Cada tarde un grupo de profesionales traerán lo más actual en secciones como: salud, belleza, espectáculos, moda, entre muchos más(n)</desc>
+    <credits>
+      <actor>Wendy Braga</actor>
+      <actor>Rafa Balderrama</actor>
+      <actor>Patricio Cabezut</actor>
+      <actor>Jerry Ramírez</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160112200000 -0600" stop="20160112210000 -0600" channel="Canal 52MX">
+    <title lang="es">Reacción en cadena</title>
+    <desc lang="es">El joven chef mexicano Alfonso Cadena, presenta en esta oportunidad una serie en la que muestra su cocina fusión, elaborando recetas originales a las que imprime su diseño personal(n)</desc>
+    <credits>
+      <actor>Alfonso Cadena</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Cocina</category>
+  </programme>
+  <programme start="20160112210000 -0600" stop="20160112213000 -0600" channel="Canal 52MX">
+    <title lang="es">Score final</title>
+    <desc lang="es">De lunes a viernes los mejores comentaristas, junto con un profesional equipo de reporteros se dan cita para analizar y discutir los eventos más relevantes en el fascinante mundo del deporte(n)</desc>
+    <credits>
+      <actor>Rodolfo Vargas</actor>
+      <actor>Jorge Murrieta</actor>
+      <actor>Alejandro Huerta</actor>
+    </credits>
+    <category lang="es">Deportes</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20160112213000 -0600" stop="20160112223000 -0600" channel="Canal 52MX">
+    <title lang="es">Uno noticias con José Cárdenas</title>
+    <desc lang="es">Las noticias más importantes de la jornada con el reconocido periodista Pepe Cárdenas(n)</desc>
+    <credits>
+      <actor>José Cárdenas</actor>
+      <actor>Luis Vázquez Fabris</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160112223000 -0600" stop="20160112233000 -0600" channel="Canal 52MX">
+    <title lang="es">Almohadazo</title>
+    <desc lang="es">Programa nocturno cuyo hilo conductor son las noticias, aderezadas con secciones de interés general. Un enfoque diferente, a través de la visión desenfadada y coloquial de Fernanda Tapia y sus secuaces(n)</desc>
+    <credits>
+      <actor>Fernanda Tapia</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20160112233000 -0600" stop="20160113003000 -0600" channel="Canal 52MX">
+    <title lang="es">El último pitazo</title>
+    <desc lang="es">Noticias, polémica, comedia, entrevistas, gadgets, encuestas y más encontrarás en esta revista nocturna conducida por Jean Duverger quien te llevará por todos los matices del deporte mundial(n)</desc>
+    <credits>
+      <actor>Jean Duverger</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160113003000 -0600" stop="20160113012000 -0600" channel="Canal 52MX">
+    <title lang="es">Al rojo vivo</title>
+    <desc lang="es">El programa es la evolución del exitoso formato de revista noticiosa donde se cubren los más importantes acontecimientos diarios y ofreciendo segmentos de interés como El Boletín de la Migra, Salud al día, e Imágenes al Rojo Vivo(n)</desc>
+    <credits>
+      <actor>María Celeste Arrarás</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20160113012000 -0600" stop="20160113013000 -0600" channel="Canal 52MX">
+    <title lang="es">Spot central</title>
+    <desc lang="es">Acción, mujeres, erotismo, animales y hombres como parte de las campañas más exitosas en el creativo mundo de la publicidad(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160113013000 -0600" stop="20160113023000 -0600" channel="Canal 52MX">
+    <title lang="es">Almohadazo</title>
+    <desc lang="es">Programa nocturno cuyo hilo conductor son las noticias, aderezadas con secciones de interés general. Un enfoque diferente, a través de la visión desenfadada y coloquial de Fernanda Tapia y sus secuaces(n)</desc>
+    <credits>
+      <actor>Fernanda Tapia</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20160113023000 -0600" stop="20160113033000 -0600" channel="Canal 52MX">
+    <title lang="es">Reacción en cadena</title>
+    <desc lang="es">El joven chef mexicano Alfonso Cadena, presenta en esta oportunidad una serie en la que muestra su cocina fusión, elaborando recetas originales a las que imprime su diseño personal(n)</desc>
+    <credits>
+      <actor>Alfonso Cadena</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Cocina</category>
+  </programme>
+  <programme start="20160113033000 -0600" stop="20160113053000 -0600" channel="Canal 52MX">
+    <title lang="es">Tu casa TV</title>
+    <desc lang="es">Patricio Cabezut es el anfitrión de este nuevo espacio de entretenimiento para toda la familia. Cada tarde un grupo de profesionales traerán lo más actual en secciones como: salud, belleza, espectáculos, moda, entre muchos más(n)</desc>
+    <credits>
+      <actor>Wendy Braga</actor>
+      <actor>Rafa Balderrama</actor>
+      <actor>Patricio Cabezut</actor>
+      <actor>Jerry Ramírez</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160113053000 -0600" stop="20160113060000 -0600" channel="Canal 52MX">
+    <title lang="es">Score final</title>
+    <desc lang="es">De lunes a viernes los mejores comentaristas, junto con un profesional equipo de reporteros se dan cita para analizar y discutir los eventos más relevantes en el fascinante mundo del deporte(n)</desc>
+    <credits>
+      <actor>Rodolfo Vargas</actor>
+      <actor>Jorge Murrieta</actor>
+      <actor>Alejandro Huerta</actor>
+    </credits>
+    <category lang="es">Deportes</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20160113060000 -0600" stop="20160113100000 -0600" channel="Canal 52MX">
+    <title lang="es">Noticias MVS</title>
+    <desc lang="es">Regresa a la pantalla del 52MX la reconocida periodista Carmen Aristegui, para brindar al televidente un periodismo audaz, inteligente, objetivo y análitico(n)</desc>
+    <credits>
+      <actor>Carmen Aristegui</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160113100000 -0600" stop="20160113110000 -0600" channel="Canal 52MX">
+    <title lang="es">El último pitazo</title>
+    <desc lang="es">Noticias, polémica, comedia, entrevistas, gadgets, encuestas y más encontrarás en esta revista nocturna conducida por Jean Duverger quien te llevará por todos los matices del deporte mundial(n)</desc>
+    <credits>
+      <actor>Jean Duverger</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160113110000 -0600" stop="20160113115000 -0600" channel="Canal 52MX">
+    <title lang="es">Suelta la sopa</title>
+    <desc lang="es">Programa de entretenimiento que ofrece las últimas noticias y titulares de la farándula, lo que está pasando en la vida de los famosos dentro y fuera de la pantalla. Además de los secretos más íntimos de los artistas(n)</desc>
+    <credits>
+      <actor>Jorge Bernal</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160113115000 -0600" stop="20160113120000 -0600" channel="Canal 52MX">
+    <title lang="es">Leyendas deportivas</title>
+    <desc lang="es">Programa de investigación periodística sobre figuras del deporte mundial. Ivette Hernández nos presenta la historia de vida de los personajes más destacados en el ámbito deportivo(n)</desc>
+    <credits>
+      <actor>Ivette Hernández</actor>
+    </credits>
+    <category lang="es">Periodístico</category>
+    <category lang="es">Interés General</category>
+  </programme>
+  <programme start="20160113120000 -0600" stop="20160113140000 -0600" channel="Canal 52MX">
+    <title lang="es">Tu casa TV</title>
+    <desc lang="es">Patricio Cabezut es el anfitrión de este nuevo espacio de entretenimiento para toda la familia. Cada tarde un grupo de profesionales traerán lo más actual en secciones como: salud, belleza, espectáculos, moda, entre muchos más(n)</desc>
+    <credits>
+      <actor>Wendy Braga</actor>
+      <actor>Rafa Balderrama</actor>
+      <actor>Patricio Cabezut</actor>
+      <actor>Jerry Ramírez</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160113140000 -0600" stop="20160113150000 -0600" channel="Canal 52MX">
+    <title lang="es">Uno noticias</title>
+    <desc lang="es">El noticiero maneja un concepto ágil, fresco y dinámico en cuanto a la información general, tiene 2 intervenciones de espectáculos y 2 de deportes, además de reportajes de interés para la sociedad(n)</desc>
+    <credits>
+      <actor>Ana Laura Barrios</actor>
+      <actor>Gabriela Calzada</actor>
+      <actor>Pablo Valdés</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160113150000 -0600" stop="20160113160000 -0600" channel="Canal 52MX">
+    <title lang="es">Reacción en cadena</title>
+    <desc lang="es">El joven chef mexicano Alfonso Cadena, presenta en esta oportunidad una serie en la que muestra su cocina fusión, elaborando recetas originales a las que imprime su diseño personal(n)</desc>
+    <credits>
+      <actor>Alfonso Cadena</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Cocina</category>
+  </programme>
+  <programme start="20160113160000 -0600" stop="20160113165000 -0600" channel="Canal 52MX">
+    <title lang="es">Suelta la sopa</title>
+    <desc lang="es">Programa de entretenimiento que ofrece las últimas noticias y titulares de la farándula, lo que está pasando en la vida de los famosos dentro y fuera de la pantalla. Además de los secretos más íntimos de los artistas(n)</desc>
+    <credits>
+      <actor>Jorge Bernal</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160113165000 -0600" stop="20160113170000 -0600" channel="Canal 52MX">
+    <title lang="es">Leyendas deportivas</title>
+    <desc lang="es">Programa de investigación periodística sobre figuras del deporte mundial. Ivette Hernández nos presenta la historia de vida de los personajes más destacados en el ámbito deportivo(n)</desc>
+    <credits>
+      <actor>Ivette Hernández</actor>
+    </credits>
+    <category lang="es">Periodístico</category>
+    <category lang="es">Interés General</category>
+  </programme>
+  <programme start="20160113170000 -0600" stop="20160113175000 -0600" channel="Canal 52MX">
+    <title lang="es">Al rojo vivo</title>
+    <desc lang="es">El programa es la evolución del exitoso formato de revista noticiosa donde se cubren los más importantes acontecimientos diarios y ofreciendo segmentos de interés como El Boletín de la Migra, Salud al día, e Imágenes al Rojo Vivo(n)</desc>
+    <credits>
+      <actor>María Celeste Arrarás</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20160113175000 -0600" stop="20160113180000 -0600" channel="Canal 52MX">
+    <title lang="es">Spot central</title>
+    <desc lang="es">Acción, mujeres, erotismo, animales y hombres como parte de las campañas más exitosas en el creativo mundo de la publicidad(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160113180000 -0600" stop="20160113200000 -0600" channel="Canal 52MX">
+    <title lang="es">Tu casa TV</title>
+    <desc lang="es">Patricio Cabezut es el anfitrión de este nuevo espacio de entretenimiento para toda la familia. Cada tarde un grupo de profesionales traerán lo más actual en secciones como: salud, belleza, espectáculos, moda, entre muchos más(n)</desc>
+    <credits>
+      <actor>Wendy Braga</actor>
+      <actor>Rafa Balderrama</actor>
+      <actor>Patricio Cabezut</actor>
+      <actor>Jerry Ramírez</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160113200000 -0600" stop="20160113210000 -0600" channel="Canal 52MX">
+    <title lang="es">Reacción en cadena</title>
+    <desc lang="es">El joven chef mexicano Alfonso Cadena, presenta en esta oportunidad una serie en la que muestra su cocina fusión, elaborando recetas originales a las que imprime su diseño personal(n)</desc>
+    <credits>
+      <actor>Alfonso Cadena</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Cocina</category>
+  </programme>
+  <programme start="20160113210000 -0600" stop="20160113213000 -0600" channel="Canal 52MX">
+    <title lang="es">Score final</title>
+    <desc lang="es">De lunes a viernes los mejores comentaristas, junto con un profesional equipo de reporteros se dan cita para analizar y discutir los eventos más relevantes en el fascinante mundo del deporte(n)</desc>
+    <credits>
+      <actor>Rodolfo Vargas</actor>
+      <actor>Jorge Murrieta</actor>
+      <actor>Alejandro Huerta</actor>
+    </credits>
+    <category lang="es">Deportes</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20160113213000 -0600" stop="20160113223000 -0600" channel="Canal 52MX">
+    <title lang="es">Uno noticias con José Cárdenas</title>
+    <desc lang="es">Las noticias más importantes de la jornada con el reconocido periodista Pepe Cárdenas(n)</desc>
+    <credits>
+      <actor>José Cárdenas</actor>
+      <actor>Luis Vázquez Fabris</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160113223000 -0600" stop="20160113233000 -0600" channel="Canal 52MX">
+    <title lang="es">Almohadazo</title>
+    <desc lang="es">Programa nocturno cuyo hilo conductor son las noticias, aderezadas con secciones de interés general. Un enfoque diferente, a través de la visión desenfadada y coloquial de Fernanda Tapia y sus secuaces(n)</desc>
+    <credits>
+      <actor>Fernanda Tapia</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20160113233000 -0600" stop="20160114003000 -0600" channel="Canal 52MX">
+    <title lang="es">El último pitazo</title>
+    <desc lang="es">Noticias, polémica, comedia, entrevistas, gadgets, encuestas y más encontrarás en esta revista nocturna conducida por Jean Duverger quien te llevará por todos los matices del deporte mundial(n)</desc>
+    <credits>
+      <actor>Jean Duverger</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160114003000 -0600" stop="20160114012000 -0600" channel="Canal 52MX">
+    <title lang="es">Al rojo vivo</title>
+    <desc lang="es">El programa es la evolución del exitoso formato de revista noticiosa donde se cubren los más importantes acontecimientos diarios y ofreciendo segmentos de interés como El Boletín de la Migra, Salud al día, e Imágenes al Rojo Vivo(n)</desc>
+    <credits>
+      <actor>María Celeste Arrarás</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20160114012000 -0600" stop="20160114013000 -0600" channel="Canal 52MX">
+    <title lang="es">Spot central</title>
+    <desc lang="es">Acción, mujeres, erotismo, animales y hombres como parte de las campañas más exitosas en el creativo mundo de la publicidad(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160114013000 -0600" stop="20160114023000 -0600" channel="Canal 52MX">
+    <title lang="es">Almohadazo</title>
+    <desc lang="es">Programa nocturno cuyo hilo conductor son las noticias, aderezadas con secciones de interés general. Un enfoque diferente, a través de la visión desenfadada y coloquial de Fernanda Tapia y sus secuaces(n)</desc>
+    <credits>
+      <actor>Fernanda Tapia</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20160114023000 -0600" stop="20160114033000 -0600" channel="Canal 52MX">
+    <title lang="es">Reacción en cadena</title>
+    <desc lang="es">El joven chef mexicano Alfonso Cadena, presenta en esta oportunidad una serie en la que muestra su cocina fusión, elaborando recetas originales a las que imprime su diseño personal(n)</desc>
+    <credits>
+      <actor>Alfonso Cadena</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Cocina</category>
+  </programme>
+  <programme start="20160114033000 -0600" stop="20160114053000 -0600" channel="Canal 52MX">
+    <title lang="es">Tu casa TV</title>
+    <desc lang="es">Patricio Cabezut es el anfitrión de este nuevo espacio de entretenimiento para toda la familia. Cada tarde un grupo de profesionales traerán lo más actual en secciones como: salud, belleza, espectáculos, moda, entre muchos más(n)</desc>
+    <credits>
+      <actor>Wendy Braga</actor>
+      <actor>Rafa Balderrama</actor>
+      <actor>Patricio Cabezut</actor>
+      <actor>Jerry Ramírez</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160114053000 -0600" stop="20160114060000 -0600" channel="Canal 52MX">
+    <title lang="es">Score final</title>
+    <desc lang="es">De lunes a viernes los mejores comentaristas, junto con un profesional equipo de reporteros se dan cita para analizar y discutir los eventos más relevantes en el fascinante mundo del deporte(n)</desc>
+    <credits>
+      <actor>Rodolfo Vargas</actor>
+      <actor>Jorge Murrieta</actor>
+      <actor>Alejandro Huerta</actor>
+    </credits>
+    <category lang="es">Deportes</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20160114060000 -0600" stop="20160114100000 -0600" channel="Canal 52MX">
+    <title lang="es">Noticias MVS</title>
+    <desc lang="es">Regresa a la pantalla del 52MX la reconocida periodista Carmen Aristegui, para brindar al televidente un periodismo audaz, inteligente, objetivo y análitico(n)</desc>
+    <credits>
+      <actor>Carmen Aristegui</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160114100000 -0600" stop="20160114110000 -0600" channel="Canal 52MX">
+    <title lang="es">El último pitazo</title>
+    <desc lang="es">Noticias, polémica, comedia, entrevistas, gadgets, encuestas y más encontrarás en esta revista nocturna conducida por Jean Duverger quien te llevará por todos los matices del deporte mundial(n)</desc>
+    <credits>
+      <actor>Jean Duverger</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160114110000 -0600" stop="20160114115000 -0600" channel="Canal 52MX">
+    <title lang="es">Suelta la sopa</title>
+    <desc lang="es">Programa de entretenimiento que ofrece las últimas noticias y titulares de la farándula, lo que está pasando en la vida de los famosos dentro y fuera de la pantalla. Además de los secretos más íntimos de los artistas(n)</desc>
+    <credits>
+      <actor>Jorge Bernal</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160114115000 -0600" stop="20160114120000 -0600" channel="Canal 52MX">
+    <title lang="es">Leyendas deportivas</title>
+    <desc lang="es">Programa de investigación periodística sobre figuras del deporte mundial. Ivette Hernández nos presenta la historia de vida de los personajes más destacados en el ámbito deportivo(n)</desc>
+    <credits>
+      <actor>Ivette Hernández</actor>
+    </credits>
+    <category lang="es">Periodístico</category>
+    <category lang="es">Interés General</category>
+  </programme>
+  <programme start="20160114120000 -0600" stop="20160114140000 -0600" channel="Canal 52MX">
+    <title lang="es">Tu casa TV</title>
+    <desc lang="es">Patricio Cabezut es el anfitrión de este nuevo espacio de entretenimiento para toda la familia. Cada tarde un grupo de profesionales traerán lo más actual en secciones como: salud, belleza, espectáculos, moda, entre muchos más(n)</desc>
+    <credits>
+      <actor>Wendy Braga</actor>
+      <actor>Rafa Balderrama</actor>
+      <actor>Patricio Cabezut</actor>
+      <actor>Jerry Ramírez</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160114140000 -0600" stop="20160114150000 -0600" channel="Canal 52MX">
+    <title lang="es">Uno noticias</title>
+    <desc lang="es">El noticiero maneja un concepto ágil, fresco y dinámico en cuanto a la información general, tiene 2 intervenciones de espectáculos y 2 de deportes, además de reportajes de interés para la sociedad(n)</desc>
+    <credits>
+      <actor>Ana Laura Barrios</actor>
+      <actor>Gabriela Calzada</actor>
+      <actor>Pablo Valdés</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160114150000 -0600" stop="20160114160000 -0600" channel="Canal 52MX">
+    <title lang="es">Reacción en cadena</title>
+    <desc lang="es">El joven chef mexicano Alfonso Cadena, presenta en esta oportunidad una serie en la que muestra su cocina fusión, elaborando recetas originales a las que imprime su diseño personal(n)</desc>
+    <credits>
+      <actor>Alfonso Cadena</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Cocina</category>
+  </programme>
+  <programme start="20160114160000 -0600" stop="20160114165000 -0600" channel="Canal 52MX">
+    <title lang="es">Suelta la sopa</title>
+    <desc lang="es">Programa de entretenimiento que ofrece las últimas noticias y titulares de la farándula, lo que está pasando en la vida de los famosos dentro y fuera de la pantalla. Además de los secretos más íntimos de los artistas(n)</desc>
+    <credits>
+      <actor>Jorge Bernal</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160114165000 -0600" stop="20160114170000 -0600" channel="Canal 52MX">
+    <title lang="es">Leyendas deportivas</title>
+    <desc lang="es">Programa de investigación periodística sobre figuras del deporte mundial. Ivette Hernández nos presenta la historia de vida de los personajes más destacados en el ámbito deportivo(n)</desc>
+    <credits>
+      <actor>Ivette Hernández</actor>
+    </credits>
+    <category lang="es">Periodístico</category>
+    <category lang="es">Interés General</category>
+  </programme>
+  <programme start="20160114170000 -0600" stop="20160114175000 -0600" channel="Canal 52MX">
+    <title lang="es">Al rojo vivo</title>
+    <desc lang="es">El programa es la evolución del exitoso formato de revista noticiosa donde se cubren los más importantes acontecimientos diarios y ofreciendo segmentos de interés como El Boletín de la Migra, Salud al día, e Imágenes al Rojo Vivo(n)</desc>
+    <credits>
+      <actor>María Celeste Arrarás</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20160114175000 -0600" stop="20160114180000 -0600" channel="Canal 52MX">
+    <title lang="es">Spot central</title>
+    <desc lang="es">Acción, mujeres, erotismo, animales y hombres como parte de las campañas más exitosas en el creativo mundo de la publicidad(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160114180000 -0600" stop="20160114200000 -0600" channel="Canal 52MX">
+    <title lang="es">Tu casa TV</title>
+    <desc lang="es">Patricio Cabezut es el anfitrión de este nuevo espacio de entretenimiento para toda la familia. Cada tarde un grupo de profesionales traerán lo más actual en secciones como: salud, belleza, espectáculos, moda, entre muchos más(n)</desc>
+    <credits>
+      <actor>Wendy Braga</actor>
+      <actor>Rafa Balderrama</actor>
+      <actor>Patricio Cabezut</actor>
+      <actor>Jerry Ramírez</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160114200000 -0600" stop="20160114210000 -0600" channel="Canal 52MX">
+    <title lang="es">Reacción en cadena</title>
+    <desc lang="es">El joven chef mexicano Alfonso Cadena, presenta en esta oportunidad una serie en la que muestra su cocina fusión, elaborando recetas originales a las que imprime su diseño personal(n)</desc>
+    <credits>
+      <actor>Alfonso Cadena</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Cocina</category>
+  </programme>
+  <programme start="20160114210000 -0600" stop="20160114213000 -0600" channel="Canal 52MX">
+    <title lang="es">Score final</title>
+    <desc lang="es">De lunes a viernes los mejores comentaristas, junto con un profesional equipo de reporteros se dan cita para analizar y discutir los eventos más relevantes en el fascinante mundo del deporte(n)</desc>
+    <credits>
+      <actor>Rodolfo Vargas</actor>
+      <actor>Jorge Murrieta</actor>
+      <actor>Alejandro Huerta</actor>
+    </credits>
+    <category lang="es">Deportes</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20160114213000 -0600" stop="20160114223000 -0600" channel="Canal 52MX">
+    <title lang="es">Uno noticias con José Cárdenas</title>
+    <desc lang="es">Las noticias más importantes de la jornada con el reconocido periodista Pepe Cárdenas(n)</desc>
+    <credits>
+      <actor>José Cárdenas</actor>
+      <actor>Luis Vázquez Fabris</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160114223000 -0600" stop="20160114233000 -0600" channel="Canal 52MX">
+    <title lang="es">Almohadazo</title>
+    <desc lang="es">Programa nocturno cuyo hilo conductor son las noticias, aderezadas con secciones de interés general. Un enfoque diferente, a través de la visión desenfadada y coloquial de Fernanda Tapia y sus secuaces(n)</desc>
+    <credits>
+      <actor>Fernanda Tapia</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20160114233000 -0600" stop="20160115003000 -0600" channel="Canal 52MX">
+    <title lang="es">El último pitazo</title>
+    <desc lang="es">Noticias, polémica, comedia, entrevistas, gadgets, encuestas y más encontrarás en esta revista nocturna conducida por Jean Duverger quien te llevará por todos los matices del deporte mundial(n)</desc>
+    <credits>
+      <actor>Jean Duverger</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160115003000 -0600" stop="20160115012000 -0600" channel="Canal 52MX">
+    <title lang="es">Al rojo vivo</title>
+    <desc lang="es">El programa es la evolución del exitoso formato de revista noticiosa donde se cubren los más importantes acontecimientos diarios y ofreciendo segmentos de interés como El Boletín de la Migra, Salud al día, e Imágenes al Rojo Vivo(n)</desc>
+    <credits>
+      <actor>María Celeste Arrarás</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20160115012000 -0600" stop="20160115013000 -0600" channel="Canal 52MX">
+    <title lang="es">Spot central</title>
+    <desc lang="es">Acción, mujeres, erotismo, animales y hombres como parte de las campañas más exitosas en el creativo mundo de la publicidad(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160115013000 -0600" stop="20160115023000 -0600" channel="Canal 52MX">
+    <title lang="es">Almohadazo</title>
+    <desc lang="es">Programa nocturno cuyo hilo conductor son las noticias, aderezadas con secciones de interés general. Un enfoque diferente, a través de la visión desenfadada y coloquial de Fernanda Tapia y sus secuaces(n)</desc>
+    <credits>
+      <actor>Fernanda Tapia</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20160115023000 -0600" stop="20160115033000 -0600" channel="Canal 52MX">
+    <title lang="es">Reacción en cadena</title>
+    <desc lang="es">El joven chef mexicano Alfonso Cadena, presenta en esta oportunidad una serie en la que muestra su cocina fusión, elaborando recetas originales a las que imprime su diseño personal(n)</desc>
+    <credits>
+      <actor>Alfonso Cadena</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Cocina</category>
+  </programme>
+  <programme start="20160115033000 -0600" stop="20160115053000 -0600" channel="Canal 52MX">
+    <title lang="es">Tu casa TV</title>
+    <desc lang="es">Patricio Cabezut es el anfitrión de este nuevo espacio de entretenimiento para toda la familia. Cada tarde un grupo de profesionales traerán lo más actual en secciones como: salud, belleza, espectáculos, moda, entre muchos más(n)</desc>
+    <credits>
+      <actor>Wendy Braga</actor>
+      <actor>Rafa Balderrama</actor>
+      <actor>Patricio Cabezut</actor>
+      <actor>Jerry Ramírez</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160115053000 -0600" stop="20160115060000 -0600" channel="Canal 52MX">
+    <title lang="es">Score final</title>
+    <desc lang="es">De lunes a viernes los mejores comentaristas, junto con un profesional equipo de reporteros se dan cita para analizar y discutir los eventos más relevantes en el fascinante mundo del deporte(n)</desc>
+    <credits>
+      <actor>Rodolfo Vargas</actor>
+      <actor>Jorge Murrieta</actor>
+      <actor>Alejandro Huerta</actor>
+    </credits>
+    <category lang="es">Deportes</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20160115060000 -0600" stop="20160115100000 -0600" channel="Canal 52MX">
+    <title lang="es">Noticias MVS</title>
+    <desc lang="es">Regresa a la pantalla del 52MX la reconocida periodista Carmen Aristegui, para brindar al televidente un periodismo audaz, inteligente, objetivo y análitico(n)</desc>
+    <credits>
+      <actor>Carmen Aristegui</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160115100000 -0600" stop="20160115110000 -0600" channel="Canal 52MX">
+    <title lang="es">El último pitazo</title>
+    <desc lang="es">Noticias, polémica, comedia, entrevistas, gadgets, encuestas y más encontrarás en esta revista nocturna conducida por Jean Duverger quien te llevará por todos los matices del deporte mundial(n)</desc>
+    <credits>
+      <actor>Jean Duverger</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160115110000 -0600" stop="20160115115000 -0600" channel="Canal 52MX">
+    <title lang="es">Suelta la sopa</title>
+    <desc lang="es">Programa de entretenimiento que ofrece las últimas noticias y titulares de la farándula, lo que está pasando en la vida de los famosos dentro y fuera de la pantalla. Además de los secretos más íntimos de los artistas(n)</desc>
+    <credits>
+      <actor>Jorge Bernal</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160115115000 -0600" stop="20160115120000 -0600" channel="Canal 52MX">
+    <title lang="es">Leyendas deportivas</title>
+    <desc lang="es">Programa de investigación periodística sobre figuras del deporte mundial. Ivette Hernández nos presenta la historia de vida de los personajes más destacados en el ámbito deportivo(n)</desc>
+    <credits>
+      <actor>Ivette Hernández</actor>
+    </credits>
+    <category lang="es">Periodístico</category>
+    <category lang="es">Interés General</category>
+  </programme>
+  <programme start="20160115120000 -0600" stop="20160115140000 -0600" channel="Canal 52MX">
+    <title lang="es">Tu casa TV</title>
+    <desc lang="es">Patricio Cabezut es el anfitrión de este nuevo espacio de entretenimiento para toda la familia. Cada tarde un grupo de profesionales traerán lo más actual en secciones como: salud, belleza, espectáculos, moda, entre muchos más(n)</desc>
+    <credits>
+      <actor>Wendy Braga</actor>
+      <actor>Rafa Balderrama</actor>
+      <actor>Patricio Cabezut</actor>
+      <actor>Jerry Ramírez</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160115140000 -0600" stop="20160115150000 -0600" channel="Canal 52MX">
+    <title lang="es">Uno noticias</title>
+    <desc lang="es">El noticiero maneja un concepto ágil, fresco y dinámico en cuanto a la información general, tiene 2 intervenciones de espectáculos y 2 de deportes, además de reportajes de interés para la sociedad(n)</desc>
+    <credits>
+      <actor>Ana Laura Barrios</actor>
+      <actor>Gabriela Calzada</actor>
+      <actor>Pablo Valdés</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160115150000 -0600" stop="20160115160000 -0600" channel="Canal 52MX">
+    <title lang="es">Reacción en cadena</title>
+    <desc lang="es">El joven chef mexicano Alfonso Cadena, presenta en esta oportunidad una serie en la que muestra su cocina fusión, elaborando recetas originales a las que imprime su diseño personal(n)</desc>
+    <credits>
+      <actor>Alfonso Cadena</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Cocina</category>
+  </programme>
+  <programme start="20160115160000 -0600" stop="20160115165000 -0600" channel="Canal 52MX">
+    <title lang="es">Suelta la sopa</title>
+    <desc lang="es">Programa de entretenimiento que ofrece las últimas noticias y titulares de la farándula, lo que está pasando en la vida de los famosos dentro y fuera de la pantalla. Además de los secretos más íntimos de los artistas(n)</desc>
+    <credits>
+      <actor>Jorge Bernal</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160115165000 -0600" stop="20160115170000 -0600" channel="Canal 52MX">
+    <title lang="es">Leyendas deportivas</title>
+    <desc lang="es">Programa de investigación periodística sobre figuras del deporte mundial. Ivette Hernández nos presenta la historia de vida de los personajes más destacados en el ámbito deportivo(n)</desc>
+    <credits>
+      <actor>Ivette Hernández</actor>
+    </credits>
+    <category lang="es">Periodístico</category>
+    <category lang="es">Interés General</category>
+  </programme>
+  <programme start="20160115170000 -0600" stop="20160115175000 -0600" channel="Canal 52MX">
+    <title lang="es">Al rojo vivo</title>
+    <desc lang="es">El programa es la evolución del exitoso formato de revista noticiosa donde se cubren los más importantes acontecimientos diarios y ofreciendo segmentos de interés como El Boletín de la Migra, Salud al día, e Imágenes al Rojo Vivo(n)</desc>
+    <credits>
+      <actor>María Celeste Arrarás</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20160115175000 -0600" stop="20160115180000 -0600" channel="Canal 52MX">
+    <title lang="es">Spot central</title>
+    <desc lang="es">Acción, mujeres, erotismo, animales y hombres como parte de las campañas más exitosas en el creativo mundo de la publicidad(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160115180000 -0600" stop="20160115200000 -0600" channel="Canal 52MX">
+    <title lang="es">Tu casa TV</title>
+    <desc lang="es">Patricio Cabezut es el anfitrión de este nuevo espacio de entretenimiento para toda la familia. Cada tarde un grupo de profesionales traerán lo más actual en secciones como: salud, belleza, espectáculos, moda, entre muchos más(n)</desc>
+    <credits>
+      <actor>Wendy Braga</actor>
+      <actor>Rafa Balderrama</actor>
+      <actor>Patricio Cabezut</actor>
+      <actor>Jerry Ramírez</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160115200000 -0600" stop="20160115210000 -0600" channel="Canal 52MX">
+    <title lang="es">Reacción en cadena</title>
+    <desc lang="es">El joven chef mexicano Alfonso Cadena, presenta en esta oportunidad una serie en la que muestra su cocina fusión, elaborando recetas originales a las que imprime su diseño personal(n)</desc>
+    <credits>
+      <actor>Alfonso Cadena</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Cocina</category>
+  </programme>
+  <programme start="20160115210000 -0600" stop="20160115213000 -0600" channel="Canal 52MX">
+    <title lang="es">Score final</title>
+    <desc lang="es">De lunes a viernes los mejores comentaristas, junto con un profesional equipo de reporteros se dan cita para analizar y discutir los eventos más relevantes en el fascinante mundo del deporte(n)</desc>
+    <credits>
+      <actor>Rodolfo Vargas</actor>
+      <actor>Jorge Murrieta</actor>
+      <actor>Alejandro Huerta</actor>
+    </credits>
+    <category lang="es">Deportes</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20160115213000 -0600" stop="20160115223000 -0600" channel="Canal 52MX">
+    <title lang="es">Uno noticias con José Cárdenas</title>
+    <desc lang="es">Las noticias más importantes de la jornada con el reconocido periodista Pepe Cárdenas(n)</desc>
+    <credits>
+      <actor>José Cárdenas</actor>
+      <actor>Luis Vázquez Fabris</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160115223000 -0600" stop="20160115233000 -0600" channel="Canal 52MX">
+    <title lang="es">Almohadazo</title>
+    <desc lang="es">Programa nocturno cuyo hilo conductor son las noticias, aderezadas con secciones de interés general. Un enfoque diferente, a través de la visión desenfadada y coloquial de Fernanda Tapia y sus secuaces(n)</desc>
+    <credits>
+      <actor>Fernanda Tapia</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20160115233000 -0600" stop="20160116003000 -0600" channel="Canal 52MX">
+    <title lang="es">El último pitazo</title>
+    <desc lang="es">Noticias, polémica, comedia, entrevistas, gadgets, encuestas y más encontrarás en esta revista nocturna conducida por Jean Duverger quien te llevará por todos los matices del deporte mundial(n)</desc>
+    <credits>
+      <actor>Jean Duverger</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160116003000 -0600" stop="20160116012000 -0600" channel="Canal 52MX">
+    <title lang="es">Al rojo vivo</title>
+    <desc lang="es">El programa es la evolución del exitoso formato de revista noticiosa donde se cubren los más importantes acontecimientos diarios y ofreciendo segmentos de interés como El Boletín de la Migra, Salud al día, e Imágenes al Rojo Vivo(n)</desc>
+    <credits>
+      <actor>María Celeste Arrarás</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20160116012000 -0600" stop="20160116013000 -0600" channel="Canal 52MX">
+    <title lang="es">Spot central</title>
+    <desc lang="es">Acción, mujeres, erotismo, animales y hombres como parte de las campañas más exitosas en el creativo mundo de la publicidad(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160116013000 -0600" stop="20160116023000 -0600" channel="Canal 52MX">
+    <title lang="es">Almohadazo</title>
+    <desc lang="es">Programa nocturno cuyo hilo conductor son las noticias, aderezadas con secciones de interés general. Un enfoque diferente, a través de la visión desenfadada y coloquial de Fernanda Tapia y sus secuaces(n)</desc>
+    <credits>
+      <actor>Fernanda Tapia</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20160116023000 -0600" stop="20160116033000 -0600" channel="Canal 52MX">
+    <title lang="es">Reacción en cadena</title>
+    <desc lang="es">El joven chef mexicano Alfonso Cadena, presenta en esta oportunidad una serie en la que muestra su cocina fusión, elaborando recetas originales a las que imprime su diseño personal(n)</desc>
+    <credits>
+      <actor>Alfonso Cadena</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Cocina</category>
+  </programme>
+  <programme start="20160116033000 -0600" stop="20160116053000 -0600" channel="Canal 52MX">
+    <title lang="es">Tu casa TV</title>
+    <desc lang="es">Patricio Cabezut es el anfitrión de este nuevo espacio de entretenimiento para toda la familia. Cada tarde un grupo de profesionales traerán lo más actual en secciones como: salud, belleza, espectáculos, moda, entre muchos más(n)</desc>
+    <credits>
+      <actor>Wendy Braga</actor>
+      <actor>Rafa Balderrama</actor>
+      <actor>Patricio Cabezut</actor>
+      <actor>Jerry Ramírez</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160116053000 -0600" stop="20160116060000 -0600" channel="Canal 52MX">
+    <title lang="es">Score final</title>
+    <desc lang="es">De lunes a viernes los mejores comentaristas, junto con un profesional equipo de reporteros se dan cita para analizar y discutir los eventos más relevantes en el fascinante mundo del deporte(n)</desc>
+    <credits>
+      <actor>Rodolfo Vargas</actor>
+      <actor>Jorge Murrieta</actor>
+      <actor>Alejandro Huerta</actor>
+    </credits>
+    <category lang="es">Deportes</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20160116060000 -0600" stop="20160116063000 -0600" channel="Canal 52MX">
+    <title lang="es">Otro nivel deportivo</title>
+    <desc lang="es">Semblanza de los héroes deportivos mexicanos destacados nacional e internacionalmente, así como los extranjeros o naturalizados más rentables en nuestro país(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20160116063000 -0600" stop="20160116070000 -0600" channel="Canal 52MX">
+    <title lang="es">Otro nivel deportivo</title>
+    <desc lang="es">Semblanza de los héroes deportivos mexicanos destacados nacional e internacionalmente, así como los extranjeros o naturalizados más rentables en nuestro país(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20160116070000 -0600" stop="20160116073000 -0600" channel="Canal 52MX">
+    <title lang="es">Infomercial</title>
+    <desc lang="es">Los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller(n)</desc>
+    <category lang="es">Venta y Publicidad</category>
+    <category lang="es">Publicidad</category>
+  </programme>
+  <programme start="20160116073000 -0600" stop="20160116080000 -0600" channel="Canal 52MX">
+    <title lang="es">Infomercial</title>
+    <desc lang="es">Los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller(n)</desc>
+    <category lang="es">Venta y Publicidad</category>
+    <category lang="es">Publicidad</category>
+  </programme>
+  <programme start="20160116080000 -0600" stop="20160116083000 -0600" channel="Canal 52MX">
+    <title lang="es">Infomercial</title>
+    <desc lang="es">Los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller(n)</desc>
+    <category lang="es">Venta y Publicidad</category>
+    <category lang="es">Publicidad</category>
+  </programme>
+  <programme start="20160116083000 -0600" stop="20160116090000 -0600" channel="Canal 52MX">
+    <title lang="es">Vive la pesca</title>
+    <desc lang="es">Ricardo Valladares conduce este programa en el que nos mostrará algunos aspectos de la pesca deportiva, en el mar, de torneo y en laguna(n)</desc>
+    <credits>
+      <actor>Ricardo Valladares</actor>
+    </credits>
+    <category lang="es">Deportes</category>
+    <category lang="es">Caza y Pesca</category>
+  </programme>
+  <programme start="20160116090000 -0600" stop="20160116100000 -0600" channel="Canal 52MX">
+    <title lang="es">Lo mejor de reacción en cadena</title>
+    <desc lang="es">Recordaremos los mejores reportajes, entrevistas y notas relevantes de la semana con los mejores líderes de opinión en el deporte(n)</desc>
+    <category lang="es">Noticias</category>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20160116100000 -0600" stop="20160116120000 -0600" channel="Canal 52MX">
+    <title lang="es">Lo mejor de tu casa TV</title>
+    <desc lang="es">Los mejores momentos de la semana del magazine Tu casa TV(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20160116120000 -0600" stop="20160116130000 -0600" channel="Canal 52MX">
+    <title lang="es">La arrolladora banda El Limón</title>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160116130000 -0600" stop="20160116133000 -0600" channel="Canal 52MX">
+    <title lang="es">Latin Angels</title>
+    <desc lang="es">Recorre los lugares mas excitantes del mundo junto a las chicas latinas mas sexys(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160116133000 -0600" stop="20160116140000 -0600" channel="Canal 52MX">
+    <title lang="es">Latin Angels</title>
+    <desc lang="es">Recorre los lugares mas excitantes del mundo junto a las chicas latinas mas sexys(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160116140000 -0600" stop="20160116150000 -0600" channel="Canal 52MX">
+    <title lang="es">CMLL: guerreros del ring</title>
+    <desc lang="es">Los mejores exponentes del Consejo Mundial de Lucha Libre se dan cita en el cuadrilátero para deleitar con su técnica a los miles de fans de la lucha mexicana(n)</desc>
+    <credits>
+      <actor>Armando Padilla</actor>
+    </credits>
+    <category lang="es">Deportes</category>
+    <category lang="es">Lucha</category>
+  </programme>
+  <programme start="20160116150000 -0600" stop="20160116160000 -0600" channel="Canal 52MX">
+    <title lang="es">Lo mejor de reacción en cadena</title>
+    <desc lang="es">Recordaremos los mejores reportajes, entrevistas y notas relevantes de la semana con los mejores líderes de opinión en el deporte(n)</desc>
+    <category lang="es">Noticias</category>
+    <category lang="es">Deportes</category>
+  </programme>
+  <programme start="20160116160000 -0600" stop="20160116170000 -0600" channel="Canal 52MX">
+    <title lang="es">Conexiones</title>
+    <desc lang="es">Conexiones es un programa de música, artistas, instrumentos, canciones, discos y todo lo que esto representa en la memoria de quien escucha una canción. Conexiones es un programa que habla de música y de todo lo que en ella confluye(n)</desc>
+    <credits>
+      <actor>Jaime Almeida</actor>
+      <actor>Edgar Ramirez</actor>
+    </credits>
+    <category lang="es">Culturales</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160116170000 -0600" stop="20160116173000 -0600" channel="Canal 52MX">
+    <title lang="es">Leyendas deportivas</title>
+    <desc lang="es">Programa de investigación periodística sobre figuras del deporte mundial. Ivette Hernández nos presenta la historia de vida de los personajes más destacados en el ámbito deportivo(n)</desc>
+    <credits>
+      <actor>Ivette Hernández</actor>
+    </credits>
+    <category lang="es">Periodístico</category>
+    <category lang="es">Interés General</category>
+  </programme>
+  <programme start="20160116173000 -0600" stop="20160116180000 -0600" channel="Canal 52MX">
+    <title lang="es">Otro nivel deportivo</title>
+    <desc lang="es">Semblanza de los héroes deportivos mexicanos destacados nacional e internacionalmente, así como los extranjeros o naturalizados más rentables en nuestro país(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20160116180000 -0600" stop="20160116190000 -0600" channel="Canal 52MX">
+    <title lang="es">Racers</title>
+    <desc lang="es">Racers te presenta desde la visión de un fan, un corredor y un analista las mejores acciones de la F-1, Nascar, Indy car, entre otras(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Automovilismo</category>
+  </programme>
+  <programme start="20160116190000 -0600" stop="20160116195000 -0600" channel="Canal 52MX">
+    <title lang="es">Suelta la sopa</title>
+    <desc lang="es">Programa de entretenimiento que ofrece las últimas noticias y titulares de la farándula, lo que está pasando en la vida de los famosos dentro y fuera de la pantalla. Además de los secretos más íntimos de los artistas(n)</desc>
+    <credits>
+      <actor>Jorge Bernal</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160116195000 -0600" stop="20160116200000 -0600" channel="Canal 52MX">
+    <title lang="es">Spot central</title>
+    <desc lang="es">Acción, mujeres, erotismo, animales y hombres como parte de las campañas más exitosas en el creativo mundo de la publicidad(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160116200000 -0600" stop="20160116210000 -0600" channel="Canal 52MX">
+    <title lang="es">A toda gloria</title>
+    <desc lang="es">Un reality que logra captar la vida de Gloria Trevi como artista, esposa, madre e hija(n)</desc>
+    <category lang="es">Series</category>
+    <category lang="es">Reality Show</category>
+  </programme>
+  <programme start="20160116210000 -0600" stop="20160116220000 -0600" channel="Canal 52MX">
+    <title lang="es">Las tres y el cuarto</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20160116220000 -0600" stop="20160116230000 -0600" channel="Canal 52MX">
+    <title lang="es">La fiesta de los comediantes</title>
+    <desc lang="es">Mezcla de géneros, variedad, stand up, magia y música, con la participación estelar de los comediantes más reconocidos de México, Latinoamerica y las nuevas promesas de la comedia. Luis de Alba, Ricardo Hill, Facundo, María Elena Saldaña, El mago Herrera, Chevo. José Natera y Margara Francisca, Jo, Jo Jorge Falcón, Nora Velázquez(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160116230000 -0600" stop="20160117000000 -0600" channel="Canal 52MX">
+    <title lang="es">Poné a Francella</title>
+    <desc lang="es">El programa se dividía en secuencias de temática diversa, en que Francella interpretaba personajes diferentes. Las secuencias y los personajes fueron: Sambucetti, Enrique el antiguo, no es lo que parece, la nena, etc..(n)</desc>
+    <category lang="es">Series</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160117000000 -0600" stop="20160117014500 -0600" channel="Canal 52MX">
+    <title lang="es">Alterado</title>
+    <desc lang="es">Historia de cuatro hombres decididos a vengarse contra la salvaje forma de vida exterior que los mantiene prisioneros y que ha matado a su amigo. Pero en este juego de vida o muerte, de escondites, ¿serán ellos los que resulten descubiertos y destruidos?(n)</desc>
+    <credits>
+      <actor>Brad William Henke</actor>
+      <actor>Eduardo Sánchez</actor>
+      <actor>Misty Rosas</actor>
+      <actor>Paul Mccarthy-boyington</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Terror y Suspenso</category>
+  </programme>
+  <programme start="20160117014500 -0600" stop="20160117020000 -0600" channel="Canal 52MX">
+    <title lang="es">Spot central</title>
+    <desc lang="es">Acción, mujeres, erotismo, animales y hombres como parte de las campañas más exitosas en el creativo mundo de la publicidad(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160117020000 -0600" stop="20160117023000 -0600" channel="Canal 52MX">
+    <title lang="es">Sé tu propio héroe</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160117023000 -0600" stop="20160117043000 -0600" channel="Canal 52MX">
+    <title lang="es">Lo mejor de tu casa TV</title>
+    <desc lang="es">Los mejores momentos de la semana del magazine Tu casa TV(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20160117043000 -0600" stop="20160117050000 -0600" channel="Canal 52MX">
+    <title lang="es">Spot central</title>
+    <desc lang="es">Acción, mujeres, erotismo, animales y hombres como parte de las campañas más exitosas en el creativo mundo de la publicidad(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160117050000 -0600" stop="20160117053000 -0600" channel="Canal 52MX">
+    <title lang="es">Leyendas deportivas</title>
+    <desc lang="es">Programa de investigación periodística sobre figuras del deporte mundial. Ivette Hernández nos presenta la historia de vida de los personajes más destacados en el ámbito deportivo(n)</desc>
+    <credits>
+      <actor>Ivette Hernández</actor>
+    </credits>
+    <category lang="es">Periodístico</category>
+    <category lang="es">Interés General</category>
+  </programme>
+  <programme start="20160117053000 -0600" stop="20160117060000 -0600" channel="Canal 52MX">
+    <title lang="es">Otro nivel deportivo</title>
+    <desc lang="es">Semblanza de los héroes deportivos mexicanos destacados nacional e internacionalmente, así como los extranjeros o naturalizados más rentables en nuestro país(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20160117060000 -0600" stop="20160117063000 -0600" channel="Canal 52MX">
+    <title lang="es">Otro nivel deportivo</title>
+    <desc lang="es">Semblanza de los héroes deportivos mexicanos destacados nacional e internacionalmente, así como los extranjeros o naturalizados más rentables en nuestro país(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20160117063000 -0600" stop="20160117070000 -0600" channel="Canal 52MX">
+    <title lang="es">Otro nivel deportivo</title>
+    <desc lang="es">Semblanza de los héroes deportivos mexicanos destacados nacional e internacionalmente, así como los extranjeros o naturalizados más rentables en nuestro país(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20160117070000 -0600" stop="20160117073000 -0600" channel="Canal 52MX">
+    <title lang="es">Infomercial</title>
+    <desc lang="es">Los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller(n)</desc>
+    <category lang="es">Venta y Publicidad</category>
+    <category lang="es">Publicidad</category>
+  </programme>
+  <programme start="20160117073000 -0600" stop="20160117080000 -0600" channel="Canal 52MX">
+    <title lang="es">Infomercial</title>
+    <desc lang="es">Los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller(n)</desc>
+    <category lang="es">Venta y Publicidad</category>
+    <category lang="es">Publicidad</category>
+  </programme>
+  <programme start="20160117080000 -0600" stop="20160117083000 -0600" channel="Canal 52MX">
+    <title lang="es">Infomercial</title>
+    <desc lang="es">Los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller(n)</desc>
+    <category lang="es">Venta y Publicidad</category>
+    <category lang="es">Publicidad</category>
+  </programme>
+  <programme start="20160117083000 -0600" stop="20160117090000 -0600" channel="Canal 52MX">
+    <title lang="es">Infomercial</title>
+    <desc lang="es">Los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller(n)</desc>
+    <category lang="es">Venta y Publicidad</category>
+    <category lang="es">Publicidad</category>
+  </programme>
+  <programme start="20160117090000 -0600" stop="20160117100000 -0600" channel="Canal 52MX">
+    <title lang="es">Racers</title>
+    <desc lang="es">Racers te presenta desde la visión de un fan, un corredor y un analista las mejores acciones de la F-1, Nascar, Indy car, entre otras(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Automovilismo</category>
+  </programme>
+  <programme start="20160117100000 -0600" stop="20160117110000 -0600" channel="Canal 52MX">
+    <title lang="es">CMLL: guerreros del ring</title>
+    <desc lang="es">Los mejores exponentes del Consejo Mundial de Lucha Libre se dan cita en el cuadrilátero para deleitar con su técnica a los miles de fans de la lucha mexicana(n)</desc>
+    <credits>
+      <actor>Armando Padilla</actor>
+    </credits>
+    <category lang="es">Deportes</category>
+    <category lang="es">Lucha</category>
+  </programme>
+  <programme start="20160117110000 -0600" stop="20160117120000 -0600" channel="Canal 52MX">
+    <title lang="es">Race to the scene</title>
+    <desc lang="es">El reconocido actor Dolph Lundgren conduce este programa en el que los amantes del cine serán transportados a sus escenas de acción favoritas a través de impactantes desafíos filmados en los sets originales(n)</desc>
+    <credits>
+      <actor>Dolph Lundgren</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Acción</category>
+  </programme>
+  <programme start="20160117120000 -0600" stop="20160117123000 -0600" channel="Canal 52MX">
+    <title lang="es">Latin Angels</title>
+    <desc lang="es">Recorre los lugares mas excitantes del mundo junto a las chicas latinas mas sexys(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160117123000 -0600" stop="20160117130000 -0600" channel="Canal 52MX">
+    <title lang="es">Latin Angels</title>
+    <desc lang="es">Recorre los lugares mas excitantes del mundo junto a las chicas latinas mas sexys(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160117130000 -0600" stop="20160117140000 -0600" channel="Canal 52MX">
+    <title lang="es">Armando Manzanero en concierto</title>
+    <category lang="es">Musicales</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160117140000 -0600" stop="20160117150000 -0600" channel="Canal 52MX">
+    <title lang="es">La fiesta de los comediantes</title>
+    <desc lang="es">Mezcla de géneros, variedad, stand up, magia y música, con la participación estelar de los comediantes más reconocidos de México, Latinoamerica y las nuevas promesas de la comedia. Luis de Alba, Ricardo Hill, Facundo, María Elena Saldaña, El mago Herrera, Chevo. José Natera y Margara Francisca, Jo, Jo Jorge Falcón, Nora Velázquez(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160117150000 -0600" stop="20160117160000 -0600" channel="Canal 52MX">
+    <title lang="es">La fiesta de los comediantes</title>
+    <desc lang="es">Mezcla de géneros, variedad, stand up, magia y música, con la participación estelar de los comediantes más reconocidos de México, Latinoamerica y las nuevas promesas de la comedia. Luis de Alba, Ricardo Hill, Facundo, María Elena Saldaña, El mago Herrera, Chevo. José Natera y Margara Francisca, Jo, Jo Jorge Falcón, Nora Velázquez(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160117160000 -0600" stop="20160117163000 -0600" channel="Canal 52MX">
+    <title lang="es">Leyendas deportivas</title>
+    <desc lang="es">Programa de investigación periodística sobre figuras del deporte mundial. Ivette Hernández nos presenta la historia de vida de los personajes más destacados en el ámbito deportivo(n)</desc>
+    <credits>
+      <actor>Ivette Hernández</actor>
+    </credits>
+    <category lang="es">Periodístico</category>
+    <category lang="es">Interés General</category>
+  </programme>
+  <programme start="20160117163000 -0600" stop="20160117170000 -0600" channel="Canal 52MX">
+    <title lang="es">Sé tu propio héroe</title>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160117170000 -0600" stop="20160117180000 -0600" channel="Canal 52MX">
+    <title lang="es">Race to the scene</title>
+    <desc lang="es">El reconocido actor Dolph Lundgren conduce este programa en el que los amantes del cine serán transportados a sus escenas de acción favoritas a través de impactantes desafíos filmados en los sets originales(n)</desc>
+    <credits>
+      <actor>Dolph Lundgren</actor>
+    </credits>
+    <category lang="es">Cine</category>
+    <category lang="es">Acción</category>
+  </programme>
+  <programme start="20160117180000 -0600" stop="20160117190000 -0600" channel="Canal 52MX">
+    <title lang="es">Armando Manzanero en concierto</title>
+    <category lang="es">Musicales</category>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20160117190000 -0600" stop="20160117200000 -0600" channel="Canal 52MX">
+    <title lang="es">Poné a Francella</title>
+    <desc lang="es">El programa se dividía en secuencias de temática diversa, en que Francella interpretaba personajes diferentes. Las secuencias y los personajes fueron: Sambucetti, Enrique el antiguo, no es lo que parece, la nena, etc..(n)</desc>
+    <category lang="es">Series</category>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20160117200000 -0600" stop="20160117210000 -0600" channel="Canal 52MX">
+    <title lang="es">Score final</title>
+    <desc lang="es">De lunes a viernes los mejores comentaristas, junto con un profesional equipo de reporteros se dan cita para analizar y discutir los eventos más relevantes en el fascinante mundo del deporte(n)</desc>
+    <credits>
+      <actor>Rodolfo Vargas</actor>
+      <actor>Jorge Murrieta</actor>
+      <actor>Alejandro Huerta</actor>
+    </credits>
+    <category lang="es">Deportes</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20160117210000 -0600" stop="20160117220000 -0600" channel="Canal 52MX">
+    <title lang="es">A toda gloria</title>
+    <desc lang="es">Un reality que logra captar la vida de Gloria Trevi como artista, esposa, madre e hija(n)</desc>
+    <category lang="es">Series</category>
+    <category lang="es">Reality Show</category>
+  </programme>
+  <programme start="20160117220000 -0600" stop="20160117230000 -0600" channel="Canal 52MX">
+    <title lang="es">La fiesta de los comediantes</title>
+    <desc lang="es">Mezcla de géneros, variedad, stand up, magia y música, con la participación estelar de los comediantes más reconocidos de México, Latinoamerica y las nuevas promesas de la comedia. Luis de Alba, Ricardo Hill, Facundo, María Elena Saldaña, El mago Herrera, Chevo. José Natera y Margara Francisca, Jo, Jo Jorge Falcón, Nora Velázquez(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160117230000 -0600" stop="20160117233000 -0600" channel="Canal 52MX">
+    <title lang="es">Latin Angels</title>
+    <desc lang="es">Recorre los lugares mas excitantes del mundo junto a las chicas latinas mas sexys(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160117233000 -0600" stop="20160118000000 -0600" channel="Canal 52MX">
+    <title lang="es">Punto cero</title>
+    <desc lang="es">Luis Cárdenas conduce Punto cero, programa de investigación en el que abordará diversos temas, analizándolos con el apoyo de entrevistas y testimoniales(n)</desc>
+    <credits>
+      <actor>Luis Cárdenas</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160118000000 -0600" stop="20160118010000 -0600" channel="Canal 52MX">
+    <title lang="es">Score final</title>
+    <desc lang="es">De lunes a viernes los mejores comentaristas, junto con un profesional equipo de reporteros se dan cita para analizar y discutir los eventos más relevantes en el fascinante mundo del deporte(n)</desc>
+    <credits>
+      <actor>Rodolfo Vargas</actor>
+      <actor>Jorge Murrieta</actor>
+      <actor>Alejandro Huerta</actor>
+    </credits>
+    <category lang="es">Deportes</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20160118010000 -0600" stop="20160118030000 -0600" channel="Canal 52MX">
+    <title lang="es">Lo mejor de tu casa TV</title>
+    <desc lang="es">Los mejores momentos de la semana del magazine Tu casa TV(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20160118030000 -0600" stop="20160118033000 -0600" channel="Canal 52MX">
+    <title lang="es">Latin Angels</title>
+    <desc lang="es">Recorre los lugares mas excitantes del mundo junto a las chicas latinas mas sexys(n)</desc>
+    <category lang="es">Variedades</category>
+    <category lang="es">Entretenimientos</category>
+  </programme>
+  <programme start="20160118033000 -0600" stop="20160118040000 -0600" channel="Canal 52MX">
+    <title lang="es">Punto cero</title>
+    <desc lang="es">Luis Cárdenas conduce Punto cero, programa de investigación en el que abordará diversos temas, analizándolos con el apoyo de entrevistas y testimoniales(n)</desc>
+    <credits>
+      <actor>Luis Cárdenas</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160118040000 -0600" stop="20160118043000 -0600" channel="Canal 52MX">
+    <title lang="es">Spot central</title>
+    <desc lang="es">Acción, mujeres, erotismo, animales y hombres como parte de las campañas más exitosas en el creativo mundo de la publicidad(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160118043000 -0600" stop="20160118050000 -0600" channel="Canal 52MX">
+    <title lang="es">Spot central</title>
+    <desc lang="es">Acción, mujeres, erotismo, animales y hombres como parte de las campañas más exitosas en el creativo mundo de la publicidad(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160118050000 -0600" stop="20160118053000 -0600" channel="Canal 52MX">
+    <title lang="es">Leyendas deportivas</title>
+    <desc lang="es">Programa de investigación periodística sobre figuras del deporte mundial. Ivette Hernández nos presenta la historia de vida de los personajes más destacados en el ámbito deportivo(n)</desc>
+    <credits>
+      <actor>Ivette Hernández</actor>
+    </credits>
+    <category lang="es">Periodístico</category>
+    <category lang="es">Interés General</category>
+  </programme>
+  <programme start="20160118053000 -0600" stop="20160118060000 -0600" channel="Canal 52MX">
+    <title lang="es">Otro nivel deportivo</title>
+    <desc lang="es">Semblanza de los héroes deportivos mexicanos destacados nacional e internacionalmente, así como los extranjeros o naturalizados más rentables en nuestro país(n)</desc>
+    <category lang="es">Deportes</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20160118060000 -0600" stop="20160118100000 -0600" channel="Canal 52MX">
+    <title lang="es">Noticias MVS</title>
+    <desc lang="es">Regresa a la pantalla del 52MX la reconocida periodista Carmen Aristegui, para brindar al televidente un periodismo audaz, inteligente, objetivo y análitico(n)</desc>
+    <credits>
+      <actor>Carmen Aristegui</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160118100000 -0600" stop="20160118110000 -0600" channel="Canal 52MX">
+    <title lang="es">El último pitazo</title>
+    <desc lang="es">Noticias, polémica, comedia, entrevistas, gadgets, encuestas y más encontrarás en esta revista nocturna conducida por Jean Duverger quien te llevará por todos los matices del deporte mundial(n)</desc>
+    <credits>
+      <actor>Jean Duverger</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160118110000 -0600" stop="20160118115000 -0600" channel="Canal 52MX">
+    <title lang="es">Suelta la sopa</title>
+    <desc lang="es">Programa de entretenimiento que ofrece las últimas noticias y titulares de la farándula, lo que está pasando en la vida de los famosos dentro y fuera de la pantalla. Además de los secretos más íntimos de los artistas(n)</desc>
+    <credits>
+      <actor>Jorge Bernal</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160118115000 -0600" stop="20160118120000 -0600" channel="Canal 52MX">
+    <title lang="es">Leyendas deportivas</title>
+    <desc lang="es">Programa de investigación periodística sobre figuras del deporte mundial. Ivette Hernández nos presenta la historia de vida de los personajes más destacados en el ámbito deportivo(n)</desc>
+    <credits>
+      <actor>Ivette Hernández</actor>
+    </credits>
+    <category lang="es">Periodístico</category>
+    <category lang="es">Interés General</category>
+  </programme>
+  <programme start="20160118120000 -0600" stop="20160118140000 -0600" channel="Canal 52MX">
+    <title lang="es">Tu casa TV</title>
+    <desc lang="es">Patricio Cabezut es el anfitrión de este nuevo espacio de entretenimiento para toda la familia. Cada tarde un grupo de profesionales traerán lo más actual en secciones como: salud, belleza, espectáculos, moda, entre muchos más(n)</desc>
+    <credits>
+      <actor>Wendy Braga</actor>
+      <actor>Rafa Balderrama</actor>
+      <actor>Patricio Cabezut</actor>
+      <actor>Jerry Ramírez</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160118140000 -0600" stop="20160118150000 -0600" channel="Canal 52MX">
+    <title lang="es">Uno noticias</title>
+    <desc lang="es">El noticiero maneja un concepto ágil, fresco y dinámico en cuanto a la información general, tiene 2 intervenciones de espectáculos y 2 de deportes, además de reportajes de interés para la sociedad(n)</desc>
+    <credits>
+      <actor>Ana Laura Barrios</actor>
+      <actor>Gabriela Calzada</actor>
+      <actor>Pablo Valdés</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160118150000 -0600" stop="20160118160000 -0600" channel="Canal 52MX">
+    <title lang="es">CMLL: guerreros del ring</title>
+    <desc lang="es">Los mejores exponentes del Consejo Mundial de Lucha Libre se dan cita en el cuadrilátero para deleitar con su técnica a los miles de fans de la lucha mexicana(n)</desc>
+    <credits>
+      <actor>Armando Padilla</actor>
+    </credits>
+    <category lang="es">Deportes</category>
+    <category lang="es">Lucha</category>
+  </programme>
+  <programme start="20160118160000 -0600" stop="20160118165000 -0600" channel="Canal 52MX">
+    <title lang="es">Suelta la sopa</title>
+    <desc lang="es">Programa de entretenimiento que ofrece las últimas noticias y titulares de la farándula, lo que está pasando en la vida de los famosos dentro y fuera de la pantalla. Además de los secretos más íntimos de los artistas(n)</desc>
+    <credits>
+      <actor>Jorge Bernal</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160118165000 -0600" stop="20160118170000 -0600" channel="Canal 52MX">
+    <title lang="es">Leyendas deportivas</title>
+    <desc lang="es">Programa de investigación periodística sobre figuras del deporte mundial. Ivette Hernández nos presenta la historia de vida de los personajes más destacados en el ámbito deportivo(n)</desc>
+    <credits>
+      <actor>Ivette Hernández</actor>
+    </credits>
+    <category lang="es">Periodístico</category>
+    <category lang="es">Interés General</category>
+  </programme>
+  <programme start="20160118170000 -0600" stop="20160118175000 -0600" channel="Canal 52MX">
+    <title lang="es">Al rojo vivo</title>
+    <desc lang="es">El programa es la evolución del exitoso formato de revista noticiosa donde se cubren los más importantes acontecimientos diarios y ofreciendo segmentos de interés como El Boletín de la Migra, Salud al día, e Imágenes al Rojo Vivo(n)</desc>
+    <credits>
+      <actor>María Celeste Arrarás</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Magazine</category>
+  </programme>
+  <programme start="20160118175000 -0600" stop="20160118180000 -0600" channel="Canal 52MX">
+    <title lang="es">Spot central</title>
+    <desc lang="es">Acción, mujeres, erotismo, animales y hombres como parte de las campañas más exitosas en el creativo mundo de la publicidad(n)</desc>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160118180000 -0600" stop="20160118200000 -0600" channel="Canal 52MX">
+    <title lang="es">Tu casa TV</title>
+    <desc lang="es">Patricio Cabezut es el anfitrión de este nuevo espacio de entretenimiento para toda la familia. Cada tarde un grupo de profesionales traerán lo más actual en secciones como: salud, belleza, espectáculos, moda, entre muchos más(n)</desc>
+    <credits>
+      <actor>Wendy Braga</actor>
+      <actor>Rafa Balderrama</actor>
+      <actor>Patricio Cabezut</actor>
+      <actor>Jerry Ramírez</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+  </programme>
+  <programme start="20160118200000 -0600" stop="20160118210000 -0600" channel="Canal 52MX">
+    <title lang="es">Reacción en cadena</title>
+    <desc lang="es">El joven chef mexicano Alfonso Cadena, presenta en esta oportunidad una serie en la que muestra su cocina fusión, elaborando recetas originales a las que imprime su diseño personal(n)</desc>
+    <credits>
+      <actor>Alfonso Cadena</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Cocina</category>
+  </programme>
+  <programme start="20160118210000 -0600" stop="20160118213000 -0600" channel="Canal 52MX">
+    <title lang="es">Score final</title>
+    <desc lang="es">De lunes a viernes los mejores comentaristas, junto con un profesional equipo de reporteros se dan cita para analizar y discutir los eventos más relevantes en el fascinante mundo del deporte(n)</desc>
+    <credits>
+      <actor>Rodolfo Vargas</actor>
+      <actor>Jorge Murrieta</actor>
+      <actor>Alejandro Huerta</actor>
+    </credits>
+    <category lang="es">Deportes</category>
+    <category lang="es">Deportivo</category>
+  </programme>
+  <programme start="20160118213000 -0600" stop="20160118223000 -0600" channel="Canal 52MX">
+    <title lang="es">Uno noticias con José Cárdenas</title>
+    <desc lang="es">Las noticias más importantes de la jornada con el reconocido periodista Pepe Cárdenas(n)</desc>
+    <credits>
+      <actor>José Cárdenas</actor>
+      <actor>Luis Vázquez Fabris</actor>
+    </credits>
+    <category lang="es">Noticias</category>
+    <category lang="es">Noticiero</category>
+  </programme>
+  <programme start="20160118223000 -0600" stop="20160118233000 -0600" channel="Canal 52MX">
+    <title lang="es">Almohadazo</title>
+    <desc lang="es">Programa nocturno cuyo hilo conductor son las noticias, aderezadas con secciones de interés general. Un enfoque diferente, a través de la visión desenfadada y coloquial de Fernanda Tapia y sus secuaces(n)</desc>
+    <credits>
+      <actor>Fernanda Tapia</actor>
+    </credits>
+    <category lang="es">Variedades</category>
+    <category lang="es">Magazine</category>
   </programme>
 </tv>
