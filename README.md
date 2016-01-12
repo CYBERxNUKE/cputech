@@ -1,2 +1,0 @@
-# cputech
-Kodi Addon tech
