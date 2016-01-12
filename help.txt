@@ -1,15 +1,8 @@
-name="Install All Plugins"
+name="Install All Plugins - 2016"
 url="http://github.com/CYBERxNUKE/cputech/raw/master/XBMC9.zip"
 img="http://computertechs.org/xbmc/warning.png"
 fanart="http://computertechs.org/xbmc/omfg.jpg"
 description="Configure KODI!"
-type="main"
-
-name="UPDATES 1-11-16"
-url="http://github.com/CYBERxNUKE/cputech/raw/master/XBMC3.zip"
-img="http://computertechs.org/xbmc/omfg.jpg"
-fanart="http://computertechs.org/xbmc/omfg.jpg"
-description="UPDATE KODI!"
 type="main"
 
 name="Shortcuts"
@@ -18,7 +11,6 @@ img="http://computertechs.org/xbmc/omfg.jpg"
 fanart="http://computertechs.org/xbmc/omfg.jpg"
 description="UPDATE shortcuts for KODI!"
 type="main"
-
 
 name="Spanish TV Addon"
 url="http://github.com/CYBERxNUKE/cputech/raw/master/iptv-mx.zip"
