@@ -27,7 +27,7 @@ description="torrent addon"
 type="main"
 
 
-name="Spanish TV Addon "
+name="Spanish TV Addon tuama "
 url="https://github.com/CYBERxNUKE/cputech/raw/master/iptv-mx.zip"
 img="http://computertechs.org/xbmc/omfg.jpg"
 fanart="http://computertechs.org/xbmc/omfg.jpg"
