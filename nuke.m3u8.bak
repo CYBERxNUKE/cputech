@@ -1,5 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="kgns" tvg-logo="kgns.gif",Pro 8 News Live
+#EXTINF:0, CBS NEWS
+http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key=563b80c1ae4ce359830f572d2496a947
+#EXTINF:-1 tvg-name="kgns" tvg-logo="kgns.gif",Pro 8 News - 6am - 12pm - 5pm - 6pm - 10pm
 http://50.16.52.74/server/play/gray-kgns-dfp/262000/prog.m3u8
 #EXTINF:-1 tvg-name="nfl_now" tvg-logo="nfl.gif",NFL NOW
 http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9.m3u8
@@ -49,7 +51,7 @@ http://200.76.77.237/LIVE/H01/CANAL205/PROFILE03.m3u8?%2F.ts
 http://200.76.77.237/LIVE/H01/CANAL207/PROFILE03.m3u8?%2F.ts
 #EXTINF:-1 tvg-name="" tvg-logo="fx.gif",209 - FX HD
 http://200.76.77.237/LIVE/H01/CANAL209/PROFILE03.m3u8?%2F.ts
-#EXTINF:-1 tvg-name="" tvg-logo="ae.gif",211 - A&E HD
+#EXTINF:-1 tvg-name="A&E" tvg-logo="ae.gif",211 - A&E HD
 http://200.76.77.237/LIVE/H01/CANAL211/PROFILE03.m3u8?%2F.ts
 #EXTINF:-1 tvg-name="" tvg-logo="axn.gif",213 - AXN HD
 http://200.76.77.237/LIVE/H01/CANAL213/PROFILE03.m3u8?%2F.ts
@@ -153,7 +155,7 @@ http://200.76.77.237/LIVE/H01/CANAL435/PROFILE03.m3u8?%2F.ts
 http://200.76.77.237/LIVE/H01/CANAL436/PROFILE03.m3u8?%2F.ts
 #EXTINF:-1 tvg-name="" tvg-logo="the-film-zone-hd.gif",440 - The Film Zone HD
 http://200.76.77.237/LIVE/H01/CANAL440/PROFILE03.m3u8?%2F.ts
-#EXTINF:-1 tvg-name="" tvg-logo="de-pelicula-hd.gif",442 - De Película HD
+#EXTINF:-1 tvg-name="" tvg-logo="de-pelicula-hd.gif",442 - De Pelicula HD
 http://200.76.77.237/LIVE/H01/CANAL442/PROFILE03.m3u8?%2F.ts
 #EXTINF:-1 tvg-name="" tvg-logo="amc-hd.gif",444 - AMC HD
 http://200.76.77.237/LIVE/H01/CANAL444/PROFILE03.m3u8?%2F.ts
