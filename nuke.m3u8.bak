@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:0, CBS NEWS
 http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key=563b80c1ae4ce359830f572d2496a947
-#EXTINF:-1 tvg-name="kgns" tvg-logo="kgns.gif",Pro 8 News - 6am - 12pm - 5pm - 6pm - 10pm
-http://50.16.52.74/server/play/gray-kgns-dfp/262000/prog.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="",test playtv1
+https://raw.githubusercontent.com/CYBERxNUKE/cputech/master/test.m3u8
 #EXTINF:-1 tvg-name="nfl_now" tvg-logo="nfl.gif",NFL NOW
 http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="totalplay.gif",1 - TOTAL PLAY - BY CYBERxNUKE
