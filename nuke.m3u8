@@ -19,7 +19,7 @@ http://hlslive.rtve.es/24H_LV3_IPH/master.m3u8
 #EXTINF:-1 tvg-id="Lared" group-title="Spanish" tvg-logo="la_redHD.png",LA RED HD
 http://wow1.lax.digitalproserver.com/redtv/redtvvivo/livestream1/chunklist.m3u8|X-Forwarded-For=31.220.176.0
 #EXTINF:-1 tvg-id="Lared" group-title="Spanish" tvg-logo="la_redHD.png",LA RED HD (2)
-rtmp://wow1.dallas.digitalproserver.com/redtv/redtvvivo/livestream1
+rtmp://wow1.dallas.digitalproserver.com/redtv/redtvvivo playpath=mp4:livestream1 swfUrl=http://media.digitalproserver.com/v2/jw/6.7/jwplayer.flash.swf?v=67 live=1 pageUrl=http://media.digitalproserver.com/v2/live/redtv
 #EXTINF:-1 tvg-id="TVGalicia.es" group-title="Spanish" tvg-logo="galicia.png",TV Galicia
 http://media3.crtvg.es/live/tvge/chunklist.m3u8
 #EXTINF:-1 tvg-id="Lasexta.es" group-title="Spanish" tvg-logo="la_sexta_hd.png",LA SEXTA HD
