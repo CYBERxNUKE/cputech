@@ -11,9 +11,9 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_manifest.m3u8
 #EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="tve.png",[COLOR orange]TVEi[/COLOR]
 http://62.65.140.218:80/session/6ad1076e-d433-11e5-a43c-005056bc1a52/nvnv5a/2/5003/index.m3u8?token=5fddfbdd175a34c7656de33af0a178e1_1455661699_1455661699&p=127|X-Forwarded-For=85.2.118.34
 #EXTINF:-1 tvg-id="Rtvela1.es" group-title="Spanish" tvg-logo="tve_la1.png",[COLOR orange]RTVE La 1[/COLOR]
-http://hlslive.rtve.es/LA1_LV3_IPH/bitrate_2.m3u8
+http://hlslive.rtve.es/LA1_LV3_IPH/master.m3u8
 #EXTINF:-1 tvg-id="Rtvela2.es" group-title="Spanish" tvg-logo="tve_la2.png",[COLOR orange]RTVE La 2[/COLOR]
-http://hlslive.rtve.es/LA2_LV3_IPH/bitrate_2.m3u8
+http://hlslive.rtve.es/LA2_LV3_IPH/master.m3u8La 
 #EXTINF:-1 tvg-id="Rtve24horas.es" group-title="Spanish" tvg-logo="canal_24_horas.png",[COLOR orange]Canal 24 horas[/COLOR]
 http://hlslive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
 #EXTINF:-1 tvg-id="Lared" group-title="Spanish" tvg-logo="la_redHD.png",[COLOR orangered]LA RED HD[/COLOR]
