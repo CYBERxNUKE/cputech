@@ -1,81 +1,104 @@
 #EXTM3U
- #EXTINF:-1,Sport Klub 1
- http://46.234.100.41:8080/sk1/index.m3u8
- #EXTINF:-1,Sport Klub 2
- http://46.234.100.41:8080/sk2/index.m3u8
- #EXTINF:-1,Sport Klub 3
- http://46.234.100.41:8080/sk3/index.m3u8
- #EXTINF:-1,Sport Klub 4
- http://46.234.100.41:8080/sk4/index.m3u8
- #EXTINF:-1,Sport Klub 5
- http://46.234.100.41:8080/sk5/index.m3u8
- #EXTINF:-1,Sport Klub 6
- http://46.234.100.41:8080/sk6/index.m3u8
-
-#EXTINF:-1,Supersport 2
- http://46.234.100.41:8080/ss2sd/index.m3u8
- #EXTINF:-1,Supersport 3
- http://46.234.100.41:8080/ss3sd/index.m3u8
- #EXTINF:-1,Supersport 4
- http://46.234.100.41:8080/ss4sd/index.m3u8
- #EXTINF:-1,Supersport 5
- http://46.234.100.41:8080/ss5sd/index.m3u8
- #EXTINF:-1,Supersport 6
- http://46.234.100.41:8080/ss6sd/index.m3u8
- #EXTINF:-1,Arena Sport 1
- http://46.234.100.41:8080/arena1/index.m3u8
- #EXTINF:-1,Arena Sport 2
- http://46.234.100.41:8080/arena2/index.m3u8
- #EXTINF:-1,Arena Sport 3
- http://46.234.100.41:8080/arena3/index.m3u8
- #EXTINF:-1,Arena Sport 4
- http://46.234.100.41:8080/arena4/index.m3u8
-
-#EXTINF:-1,beIN Sports 1 HD
- http://169.45.89.106:1935/app/bein1frlsh58/playlist.m3u8
- #EXTINF:-1,beIN Sports 2 HD
- http://169.45.89.106:1935/app/bein2frlsh/playlist.m3u8
- #EXTINF:-1,beIN Sports 3 HD
- http://169.45.89.106:1935/app/bein3frlsh/playlist.m3u8
- #EXTINF:-1,beIN Sport max 4
- http://169.45.89.106:1935/app/max4lsh/playlist.m3u8
- #EXTINF:-1,beIN Sport max 5
- http://169.45.89.106:1935/app/max5lsh/playlist.m3u8
-
-#EXTINF:-1,BEIN 1 (AR)
- http://46.101.248.73:1234/hls/bein1hd.m3u8
-#EXTINF:-1,BEIN 2 (AR)
- http://46.101.248.73:1234/hls/bein2hd.m3u8
-#EXTINF:-1,BEIN 3 (AR)
- http://46.101.248.73:1234/hls/bein3hd.m3u8
-#EXTINF:-1,BEIN 4 (AR)
- http://46.101.248.73:1234/hls/bein4hd.m3u8
-#EXTINF:-1,BEIN 5 (AR)
- http://46.101.248.73:1234/hls/bein5hd.m3u8
-
-#EXTINF:0,ITA: Sky Calcio 1 HD (mt)
- http://213.136.90.30:8000/live/test/test/9187.ts
- #EXTINF:0,ITA: Sky Calcio 2 HD (mt)
- http://213.136.90.30:8000/live/test/test/9188.ts
- #EXTINF:0,ITA: Sky Calcio 3 HD (mt)
- http://213.136.90.30:8000/live/test/test/9189.ts
- #EXTINF:0,ITA: Sky Calcio 4 HD (mt)
- http://213.136.90.30:8000/live/test/test/9190.ts
- #EXTINF:0,ITA: Sky Calcio 5 HD (mt)
- http://213.136.90.30:8000/live/test/test/9191.ts
- #EXTINF:0,ITA: Sky Calcio 6 HD (mt)
- http://213.136.90.30:8000/live/test/test/9192.ts
- #EXTINF:0,ITA: SKY Calcio 7 HD (mt)
- http://213.136.90.30:8000/live/test/test/9193.ts
- #EXTINF:0,ITA: SKY Calcio 8 HD (mt)
- http://213.136.90.30:8000/live/test/test/9194.ts
- #EXTINF:0,ITA: SKY Calcio 9 HD (mt)
- http://213.136.90.30:8000/live/test/test/9195.ts
- #EXTINF:0,ITA: SKY Calcio 10 HD (mt)
- http://213.136.90.30:8000/live/test/test/9196.ts
- #EXTINF:0,ITA: SKY Calcio 11 HD (mt)
- http://213.136.90.30:8000/live/test/test/9197.ts
- #EXTINF:0,ITA: SKY Calcio 12 HD (mt)
- http://213.136.90.30:8000/live/test/test/9198.ts
- #EXTINF:0,ITA: SKY Calcio 13 HD (mt)
- http://213.136.90.30:8000/live/test/test/9199.ts
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="tve.png",[COLOR orange]TVEi[/COLOR]
+http://62.65.140.218:80/session/6ad1076e-d433-11e5-a43c-005056bc1a52/nvnv5a/2/5003/index.m3u8?token=5fddfbdd175a34c7656de33af0a178e1_1455661699_1455661699&p=127|X-Forwarded-For=85.2.118.34
+#EXTINF:-1 tvg-id="Rtvela1.es" group-title="Spanish" tvg-logo="tve_la1.png",[COLOR orange]RTVE La 1[/COLOR]
+http://hlslive.rtve.es/LA1_LV3_IPH/bitrate_2.m3u8
+#EXTINF:-1 tvg-id="Rtvela2.es" group-title="Spanish" tvg-logo="tve_la2.png",[COLOR orange]RTVE La 2[/COLOR]
+http://hlslive.rtve.es/LA2_LV3_IPH/bitrate_2.m3u8
+#EXTINF:-1 tvg-id="Rtve24horas.es" group-title="Spanish" tvg-logo="canal_24_horas.png",[COLOR orange]Canal 24 horas[/COLOR]
+http://hlslive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
+#EXTINF:-1 tvg-id="Lared" group-title="Spanish" tvg-logo="la_redHD.png",[COLOR orangered]LA RED HD[/COLOR]
+http://wow1.lax.digitalproserver.com/redtv/redtvvivo/livestream1/chunklist.m3u8|X-Forwarded-For=31.220.176.0
+#EXTINF:-1 tvg-id="Lared" group-title="Spanish" tvg-logo="la_redHD.png",[COLOR orangered]LA RED HD (2)[/COLOR]
+rtmp://wow1.dallas.digitalproserver.com/redtv/redtvvivo playpath=mp4:livestream1 swfUrl=http://media.digitalproserver.com/v2/jw/6.7/jwplayer.flash.swf?v=67 live=1 pageUrl=http://media.digitalproserver.com/v2/live/redtv
+#EXTINF:-1 tvg-id="TVGalicia.es" group-title="Spanish" tvg-logo="galicia.png",[COLOR orange]TV Galicia[/COLOR]
+http://media3.crtvg.es/live/tvge/chunklist.m3u8
+#EXTINF:-1 tvg-id="Lasexta.es" group-title="Spanish" tvg-logo="la_sexta_hd.png",[COLOR orangered]LA SEXTA HD[/COLOR]
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8
+#EXTINF:-1 tvg-id="Lasexta.es" group-title="Spanish" tvg-logo="la_sexta.png",[COLOR orange]LA SEXTA[/COLOR]
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_2_av-p.m3u8
+#EXTINF:-1 tvg-id="Antenna3.es" group-title="Spanish" tvg-logo="antenna3.png",[COLOR orangered]Antenna 3 HD[/COLOR]
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-p.m3u8
+#EXTINF:-1 tvg-id="Antenna3.es" group-title="Spanish" tvg-logo="antenna3.png",[COLOR orange]Antenna 3[/COLOR]
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_2_av-p.m3u8
+#EXTINF:-1 tvg-id="RussiaToday.es" group-title="Spanish" tvg-logo="russia_today.png",[COLOR orangered]Russia Today ES HD[/COLOR]
+http://rt.ashttp14.visionip.tv/live/RT_en_Espanol-HD/chunklist.m3u8
+#EXTINF:-1 tvg-id="TVChile" group-title="Spanish" tvg-logo="tv_chile.png",[COLOR orange]TV Chile[/COLOR]
+http://edge-61-cl.edge.mdstrm.com:1935/tvn-live/smil:285a5c6dade574d5f111419c85c6cf17/playlist.m3u8
+#EXTINF:-1 tvg-id="TVN" group-title="Spanish" tvg-logo="tvn.png",[COLOR orange]TVN[/COLOR]
+http://tvn-vod.mdstrm.com/liveedge/tvnelemental.smil/chunklist_b981000.m3u8
+#EXTINF:-1 tvg-id="TVN" group-title="Spanish" tvg-logo="tvn.png",[COLOR orange]TVN (2)[/COLOR]
+http://edge-11-cl.edge.mdstrm.com:1935/tvn-live/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
+#EXTINF:-1 tvg-id="TVChile" group-title="Spanish" tvg-logo="tv_mas.png",[COLOR orange]TV M.S[/COLOR]
+http://50.7.98.234:1935/rtv/videortv/live.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="mexico_travel_channel.png",[COLOR orange]M.xico Travel Channel[/COLOR]
+http://cdns840stu1010.multistream.net:80/mtchlive/amlst:live/livestream.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="mexico_televisio.png",[COLOR orange]M.xico Television Michoac.n[/COLOR]
+http://hd.worldkast.com/8512/smil:8512.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="navarra.png",[COLOR orange]Navarra TV[/COLOR]
+http://cdn.s3.eu.nice264.com:1935/niceLiveServer/NTV_livenatvmb_MB_478/live.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="ondaluz.png",[COLOR orange]Ondaluz Sierra[/COLOR]
+http://cls.elitehd-audiovisuales.com:80/olsierra/livestream1/live.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="condavision.png",[COLOR orange]Condavision[/COLOR]
+http://cls.todostreaming.eu:80/azahara/condavision/live.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="ewtn.png",[COLOR orange]EWTN[/COLOR]
+http://ewtn.mpl.miisolutions.net:1935/ewtn-live-5/900.mp4/livestream.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="esperanza.png",[COLOR orange]Esperanza TV[/COLOR]
+http://k3.usastreams.com:1935/etvSD/etvSD/live.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="alcance_tv.png",[COLOR orange]Alcance TV[/COLOR]
+http://hd.worldkast.com:1935/8232/8232.smil/chunklist_b1000000.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="almavision.png",[COLOR orange]Almavision[/COLOR]
+http://cdn3.iviplanet.com:1935/Almavision/almavision1/live.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="lancelot.png",[COLOR orange]Lancelot TV[/COLOR]
+http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="rts.png",[COLOR orange]RTS[/COLOR]
+http://d2rcb4pdmqg3cg.cloudfront.net:80/liverts/liverts.smil/chunklist_b899152.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="telecafe.png",[COLOR orange]Telecaf.[/COLOR]
+http://xtelecafex.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="canal_13.png",[COLOR orange]Canal 13[/COLOR]
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="c5n.png",[COLOR orange]C5N[/COLOR]
+rtmp://c5n.stweb.tv:1935/c5n/live
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="zoom.png",[COLOR orange]Zoom TV[/COLOR]
+http://xcanalzoomtvx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="tele_sistema.png",[COLOR orange]TeleSistema[/COLOR]
+http://mek4.mekstream.com/telesistema/smil:telesistema.smil/chunklist_w965232534_b464000.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="tele_antillas.png",[COLOR orange]TeleAntillas[/COLOR]
+http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="teleprogreso.png",[COLOR orange]TeleProgreso[/COLOR]
+http://162.212.176.83:8080/teleprogreso.m3u8?
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="telemetro.png",[COLOR orange]TeleMetro[/COLOR]
+http://live.telemetro.com/telemetro/tm.smil/playlist.m3u8?
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="rpc.png",[COLOR orange]RPC[/COLOR]
+http://live.rpctv.com/rpctv/tm.smil/playlist.m3u8?
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="rbc.png",[COLOR orange]RBC[/COLOR]
+rtmp://184.154.28.210:1935/rbcsatelital-hd/rbcsatelital-hd
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="eitb.png",[COLOR orange]EITB Espa.a[/COLOR]
+http://etbvhlsnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@123113/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="adinet_tv.png",[COLOR orange]Adinet TV[/COLOR]
+http://painel.tvdigitalhd.org:1935/adinet/adinet/live.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="canal_antiestres.png",[COLOR orange]Canal Antiestres[/COLOR]
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="cantinazo.png",[COLOR orange]Cantinazo[/COLOR]
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8
+#EXTINF:-1 tvg-id="Deutschewelle.de" group-title="Spanish" tvg-logo="deutsche_welle.png",[COLOR orange]Deutsche Welle (Latinoam.rica)[/COLOR]
+http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="teleantioquia.png",[COLOR orange]Teleantoquia[/COLOR]
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="cosmovision.png",[COLOR orange]Cosmovision[/COLOR]
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8
+#EXTINF:-1 tvg-id="" 
+3d6
+group-title="Spanish" tvg-logo="canal_u.png",[COLOR orange]Canal U[/COLOR]
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="cable_noticias.png",[COLOR orange]Cablenoticias[/COLOR]
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="el_tiempo.png",[COLOR orange]El Tiempo[/COLOR]
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="trendy_channel.png",[COLOR orange]Trendy[/COLOR]
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="tele_medellin.png",[COLOR orange]Tele med.llin[/COLOR]
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8
+#EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="tv_agro.png",[COLOR orange]TV Agro[/COLOR]
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVAG/tu1_3.m3u8
+#EXT-X-ENDLIST
