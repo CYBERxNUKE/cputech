@@ -5,9 +5,56 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1_manifest.m3u8
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0002/tu1_manifest.m3u8
 #EXTINF:-1 tvg-id="" group-title="Espanol" tvg-logo="win.png",Win Sports
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0003/tu1_manifest.m3u8
-#EXTINF:-1 tvg-id="" group-title="Espanol" tvg-logo="win.png",No se
+#EXTINF:-1 tvg-id="" group-title="Espanol" tvg-logo="win.png",Antenna 3
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_manifest.m3u8
-
+#EXTINF:-1,ES: Canal+ COMEDIA HD
+http://iptv.euroremix.com:8000/live/franca2/franca2/1543.ts
+#EXTINF:-1,ES: Antena 3 HD
+http://iptv.euroremix.com:8000/live/franca2/franca2/1374.ts
+#EXTINF:-1,ES: Toros TV HD
+http://iptv.euroremix.com:8000/live/franca2/franca2/1367.ts
+#EXTINF:-1,ES: R. MADRID TV HD
+http://iptv.euroremix.com:8000/live/franca2/franca2/1368.ts
+#EXTINF:-1,ES: Barca TV
+http://iptv.euroremix.com:8000/live/franca2/franca2/1360.ts
+#EXTINF:-1,ES: LA Sexta HD
+http://iptv.euroremix.com:8000/live/franca2/franca2/1369.ts
+#EXTINF:-1,ES: tv3 catalonia HD
+http://iptv.euroremix.com:8000/live/franca2/franca2/1371.ts
+#EXTINF:-1,ES: Canal+ LIGA 2 HD
+http://iptv.euroremix.com:8000/live/franca2/franca2/1372.ts
+#EXTINF:-1,ES: Canal+ DCine
+http://iptv.euroremix.com:8000/live/franca2/franca2/1457.ts
+#EXTINF:-1,ES: CANAL+ 2 HD
+http://iptv.euroremix.com:8000/live/franca2/franca2/1332.ts
+#EXTINF:-1,ES: CANAL+ ACCION HD
+http://iptv.euroremix.com:8000/live/franca2/franca2/1373.ts
+#EXTINF:-1,ES: Canal+ Liga HD
+http://iptv.euroremix.com:8000/live/franca2/franca2/1333.ts
+#EXTINF:-1,ES: CANAL GOLF HD
+http://iptv.euroremix.com:8000/live/franca2/franca2/1336.ts
+#EXTINF:-1,ES: Canal+ Futbol HD
+http://iptv.euroremix.com:8000/live/franca2/franca2/1335.ts
+#EXTINF:-1,ES: Canal+ DESPORTES HD
+http://iptv.euroremix.com:8000/live/franca2/franca2/1337.ts
+#EXTINF:-1,ES: Canal+ HD
+http://iptv.euroremix.com:8000/live/franca2/franca2/1334.ts
+#EXTINF:-1,ES: Cuatro HD
+http://iptv.euroremix.com:8000/live/franca2/franca2/1356.ts
+#EXTINF:-1,ES: Disney Channel
+http://iptv.euroremix.com:8000/live/franca2/franca2/1363.ts
+#EXTINF:-1,ES: MoviStar F1
+http://iptv.euroremix.com:8000/live/franca2/franca2/1359.ts
+#EXTINF:-1,ES: Movistar Moto GP HD
+http://iptv.euroremix.com:8000/live/franca2/franca2/1467.ts
+#EXTINF:-1,ES: Canal Series HD
+http://iptv.euroremix.com:8000/live/franca2/franca2/1341.ts
+#EXTINF:-1,ES: Fox HD
+http://iptv.euroremix.com:8000/live/franca2/franca2/1343.ts
+#EXTINF:-1,ES: BEIN SPORTS Ñ HD
+http://iptv.euroremix.com:8000/live/franca2/franca2/1361.ts
+#EXTINF:-1,ES: Hollywood Spain HD
+http://iptv.euroremix.com:8000/live/franca2/franca2/1353.ts
 #EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="tve.png",TVEi
 http://62.65.140.218:80/session/6ad1076e-d433-11e5-a43c-005056bc1a52/nvnv5a/2/5003/index.m3u8?token=5fddfbdd175a34c7656de33af0a178e1_1455661699_1455661699&p=127|X-Forwarded-For=85.2.118.34
 #EXTINF:-1 tvg-id="Rtvela1.es" group-title="Spanish" tvg-logo="tve_la1.png",RTVE La 1
@@ -36,8 +83,6 @@ http://rt.ashttp14.visionip.tv/live/RT_en_Espanol-HD/chunklist.m3u8
 http://edge-61-cl.edge.mdstrm.com:1935/tvn-live/smil:285a5c6dade574d5f111419c85c6cf17/playlist.m3u8
 #EXTINF:-1 tvg-id="TVN" group-title="Spanish" tvg-logo="tvn.png",TVN
 http://tvn-vod.mdstrm.com/liveedge/tvnelemental.smil/chunklist_b981000.m3u8
-#EXTINF:-1 tvg-id="TVN" group-title="Spanish" tvg-logo="tvn.png",TVN (2)
-http://edge-11-cl.edge.mdstrm.com:1935/tvn-live/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
 #EXTINF:-1 tvg-id="TVChile" group-title="Spanish" tvg-logo="tv_mas.png",TV M.S
 http://50.7.98.234:1935/rtv/videortv/live.m3u8
 #EXTINF:-1 tvg-id="" group-title="Spanish" tvg-logo="mexico_travel_channel.png",M.xico Travel Channel
