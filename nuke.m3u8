@@ -19,6 +19,10 @@ http://tvultimate.mx/tvultimate.php?id=264
 http://tvultimate.mx/tvultimate.php?id=295
 #EXTINF:-1 tvg-logo="",ESPN2
 http://tvultimate.mx/tvultimate.php?id=301
+#EXTINF:-1 tvg-logo="",Disney Kids Latinoamerica
+http://tvultimate.mx/tvultimate.php?id=309
+#EXTINF:-1 tvg-logo="",Baby TV Latinoamerica
+http://tvultimate.mx/tvultimate.php?id=317
 
 #EXTINF:-1 tvg-logo="",====ADULT====
 http://
