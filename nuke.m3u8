@@ -31,6 +31,9 @@ http://tvultimate.mx/tvultimate.php?id=331
 http://tvultimate.mx/tvultimate.php?id=333
 #EXTINF:-1 tvg-logo="",Tru TV Latinoamerica
 http://tvultimate.mx/tvultimate.php?id=337
+#EXTINF:-1 tvg-logo="",Cinemax Latinoamerica
+http://tvultimate.mx/tvultimate.php?id=343
+
 
 #EXTINF:-1 tvg-logo="",====ADULT====
 http://
