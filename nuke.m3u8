@@ -57,7 +57,8 @@ http://tvultimate.mx/tvultimate.php?id=417
 http://tvultimate.mx/tvultimate.php?id=421
 #EXTINF:-1 tvg-logo="",Lifetime Latinoamerica
 http://tvultimate.mx/tvultimate.php?id=423
-
+#EXTINF:-1 tvg-logo="",FOX LIfe Latinoamerica
+http://tvultimate.mx/tvultimate.php?id=425
 
 
 #EXTINF:-1 tvg-logo="",====ADULT====
