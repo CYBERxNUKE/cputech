@@ -43,6 +43,8 @@ http://tvultimate.mx/tvultimate.php?id=369
 http://tvultimate.mx/tvultimate.php?id=379
 #EXTINF:-1 tvg-logo="",MAX Latinoamerica
 http://tvultimate.mx/tvultimate.php?id=381
+#EXTINF:-1 tvg-logo="",HBO Latinoamerica
+http://tvultimate.mx/tvultimate.php?id=385
 #EXTINF:-1 tvg-logo="",Universal Latinoamerica
 http://tvultimate.mx/tvultimate.php?id=387
 
