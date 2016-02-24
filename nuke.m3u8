@@ -9,13 +9,13 @@ http://tvultimate.mx/tvultimate.php?id=164
 http://tvultimate.mx/tvultimate.php?id=172
 #EXTINF:-1 tvg-logo="",DIY
 http://tvultimate.mx/tvultimate.php?id=174
-#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="",Showtime-E
 http://tvultimate.mx/tvultimate.php?id=218
 #EXTINF:-1 tvg-logo="",The Movie Channel
 http://tvultimate.mx/tvultimate.php?id=220
-#EXTINF:-1 tvg-logo="",Golden
+#EXTINF:-1 tvg-name="Golden" tvg-logo="golden.gif",Golden
 http://tvultimate.mx/tvultimate.php?id=264
-#EXTINF:-1 tvg-logo="",Passiones
+#EXTINF:-1 tvg-logo="",Pasiones
 http://tvultimate.mx/tvultimate.php?id=295
 #EXTINF:-1 tvg-logo="",ESPN2
 http://tvultimate.mx/tvultimate.php?id=301
@@ -63,7 +63,7 @@ http://tvultimate.mx/tvultimate.php?id=425
 http://tvultimate.mx/tvultimate.php?id=427
 #EXTINF:-1 tvg-logo="",MUNDO FOX Latinoamerica
 http://tvultimate.mx/tvultimate.php?id=429
-#EXTINF:-1 tvg-logo="",FX Latinoamerica
+#EXTINF:-1 tvg-name="fx" tvg-logo="fx.gif",FX Latinoamerica
 http://tvultimate.mx/tvultimate.php?id=431
 #EXTINF:-1 tvg-logo="",FOX Action Latinoamerica
 http://tvultimate.mx/tvultimate.php?id=435
