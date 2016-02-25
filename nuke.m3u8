@@ -95,6 +95,8 @@ http://tvultimate.mx/tvultimate.php?id=487
 http://tvultimate.mx/tvultimate.php?id=493
 #EXTINF:-1 tvg-name="BBC News" tvg-logo="bbc-news.gif",BBC News
 http://tvultimate.mx/tvultimate.php?id=495
+#EXTINF:-1 tvg-name="" tvg-logo=".gif",BBC News
+http://tvultimate.mx/tvultimate.php?id=497
 
 
 
