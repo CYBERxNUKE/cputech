@@ -59,20 +59,38 @@ http://tvultimate.mx/tvultimate.php?id=421
 http://tvultimate.mx/tvultimate.php?id=423
 #EXTINF:-1 tvg-logo="",FOX LIfe Latinoamerica
 http://tvultimate.mx/tvultimate.php?id=425
-#EXTINF:-1 tvg-logo="",E!
+#EXTINF:-1 tvg-name="E! Entertainment Television",E!
 http://tvultimate.mx/tvultimate.php?id=427
 #EXTINF:-1 tvg-name="Mundo Fox" tvg-logo="mundo-fox.gif",Mundo Fox Latinoamerica
 http://tvultimate.mx/tvultimate.php?id=429
 #EXTINF:-1 tvg-name="FX" tvg-logo="fx.gif",FX Latinoamerica
 http://tvultimate.mx/tvultimate.php?id=431
-#EXTINF:-1 tvg-logo="",FOX Action Latinoamerica
+#EXTINF:-1 tvg-logo="Fox Action (E)",FOX Action (E) Latinoamerica
 http://tvultimate.mx/tvultimate.php?id=435
-#EXTINF:-1 tvg-logo="",FOX Action Latinoamerica
+#EXTINF:-1 tvg-logo="Fox Action (W)",FOX Action (W) Latinoamerica
 http://tvultimate.mx/tvultimate.php?id=437
 #EXTINF:-1 tvg-name="" tvg-logo="",FOX Sports 3 Latinoamerica
 http://tvultimate.mx/tvultimate.php?id=445
-#EXTINF:-1 tvg-name="HBO_Family_(E)" tvg-logo="hbo-family-e.gif",HBO Family Latinoamerica
+#EXTINF:-1 tvg-name="HBO_Family_(E)" tvg-logo="hbo-family-e.gif",HBO Family (E) Latinoamerica
 http://tvultimate.mx/tvultimate.php?id=449
+#EXTINF:-1 tvg-name="Fox Cinéma" tvg-logo="fox-cinema.gif",FOX Cinema Latinoamerica
+http://tvultimate.mx/tvultimate.php?id=457
+#EXTINF:-1 tvg-name="Fox Comedy" tvg-logo="fox-comedy.gif",FOX Comedy Latinoamerica
+http://tvultimate.mx/tvultimate.php?id=461
+#EXTINF:-1 tvg-name="Fox Classics" tvg-logo="fox-classics.gif",FOX Classics Latinoamerica
+http://tvultimate.mx/tvultimate.php?id=465
+#EXTINF:-1 tvg-name="Fox Family" tvg-logo="fox-family.gif",FOX Family Latinoamerica
+http://tvultimate.mx/tvultimate.php?id=467
+#EXTINF:-1 tvg-name="Fox Sports 2" tvg-logo="fox-sports-2.gif",FOX Sports 2 Latinoamerica
+http://tvultimate.mx/tvultimate.php?id=475
+#EXTINF:-1 tvg-name="Concert" tvg-logo="concert.gif",Concert Latinoamerica
+http://tvultimate.mx/tvultimate.php?id=479
+#EXTINF:-1 tvg-name="VH1" tvg-logo="vh1.gif",VH1 Latinoamerica
+http://tvultimate.mx/tvultimate.php?id=483
+#EXTINF:-1 tvg-name="AMC" tvg-logo="amc.gif",AMC Latinoamerica
+http://tvultimate.mx/tvultimate.php?id=485
+#EXTINF:-1 tvg-name="ITV 2" tvg-logo="ITV-2.gif",ITV 2
+http://tvultimate.mx/tvultimate.php?id=487
 
 
 
