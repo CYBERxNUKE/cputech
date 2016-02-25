@@ -93,7 +93,8 @@ http://tvultimate.mx/tvultimate.php?id=485
 http://tvultimate.mx/tvultimate.php?id=487
 #EXTINF:-1 tvg-name="Sky News" tvg-logo="sky-news.gif",Sky News
 http://tvultimate.mx/tvultimate.php?id=493
-
+#EXTINF:-1 tvg-name="BBC News" tvg-logo="bbc-news.gif",BBC News
+http://tvultimate.mx/tvultimate.php?id=495
 
 
 
