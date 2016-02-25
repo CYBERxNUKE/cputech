@@ -89,9 +89,10 @@ http://tvultimate.mx/tvultimate.php?id=479
 http://tvultimate.mx/tvultimate.php?id=483
 #EXTINF:-1 tvg-name="AMC" tvg-logo="amc.gif",AMC Latinoamerica
 http://tvultimate.mx/tvultimate.php?id=485
-#EXTINF:-1 tvg-name="ITV 2" tvg-logo="ITV-2.gif",ITV 2
+#EXTINF:-1 tvg-name="ITV 2" tvg-logo="itv-2.gif",ITV 2
 http://tvultimate.mx/tvultimate.php?id=487
-
+#EXTINF:-1 tvg-name="Sky News" tvg-logo="sky-news.gif",Sky News
+http://tvultimate.mx/tvultimate.php?id=493
 
 
 
