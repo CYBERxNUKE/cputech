@@ -65,11 +65,11 @@ http://tvultimate.mx/tvultimate.php?id=427
 http://tvultimate.mx/tvultimate.php?id=429
 #EXTINF:-1 tvg-name="FX" tvg-logo="fx.gif",FX Latinoamerica
 http://tvultimate.mx/tvultimate.php?id=431
-#EXTINF:-1 tvg-logo="Fox Action (E)",FOX Action (E) Latinoamerica
+#EXTINF:-1 tvg-name="Fox Action (E)",FOX Action (E) Latinoamerica
 http://tvultimate.mx/tvultimate.php?id=435
-#EXTINF:-1 tvg-logo="Fox Action (W)",FOX Action (W) Latinoamerica
+#EXTINF:-1 tvg-name="Fox Action (W)",FOX Action (W) Latinoamerica
 http://tvultimate.mx/tvultimate.php?id=437
-#EXTINF:-1 tvg-name="" tvg-logo="",FOX Sports 3 Latinoamerica
+#EXTINF:-1 tvg-name="FOX Sports 3" tvg-logo="",FOX Sports 3 Latinoamerica
 http://tvultimate.mx/tvultimate.php?id=445
 #EXTINF:-1 tvg-name="HBO_Family_(E)" tvg-logo="hbo-family-e.gif",HBO Family (E) Latinoamerica
 http://tvultimate.mx/tvultimate.php?id=449
