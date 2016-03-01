@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<rss version="2.0"> 
+<channel> 
+<title>####</title> 
+<link>http://www.####.com</link> 
+<description></description> 
+<item> 
+<title>Azteca 13 HD</title> 
+<category>Streaming Video</category> 
+<description>Azteca 13 HD</description> 
+<streamformat>hls</streamformat>
+<media:content url="http://stream2.tvit.ba:80/live?channelId=1&uid=201&deviceUser=usmirt&devicePass=iptv2224"/> 
+<media:thumbnail url="http://byui-web.github.io/BYU-I-Roku-Channel/images/live.png" /> 
+</item> 
+<item> 
+<title>91.5 FM</title> 
+<category>Streaming Video</category> 
+<description>91.5 Live Feed</description> 
+<streamformat>hls</streamformat>
+<media:content url="http://byui-lh.akamaihd.net/i/kbyr_1@186144/master.m3u8"/> 
+<media:thumbnail url="http://byui-web.github.io/BYU-I-Roku-Channel/images/91.png" /> 
+</item> 
+<item> 
+<title>94.3 FM</title> 
+<category>Streaming Video</category> 
+<description>94.3 Live Feed</description> 
+<streamformat>hls</streamformat>
+<media:content url="http://byui-lh.akamaihd.net/i/kbyi_1@186144/master.m3u8"/> 
+<media:thumbnail url="http://byui-web.github.io/BYU-I-Roku-Channel/images/94.png" /> 
+</item> 
+<item> 
+<title>Online Radio</title> 
+<category>Online Radio</category> 
+<description>Online Radio Live Feed</description> 
+<streamformat>hls</streamformat>
+<media:content url="http://byui-lh.akamaihd.net/i/onlinerad_1@186144/master.m3u8"/> 
+<media:thumbnail url="http://byui-web.github.io/BYU-I-Roku-Channel/images/online.png" /> 
+</item> 
+
+</channel> 
+</rss>
