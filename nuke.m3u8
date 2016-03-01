@@ -1,8 +1,240 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="",A State Of Trance Festival - Utrecht 
-http://manifest.googlevideo.com/api/manifest/hls_playlist/id/ocr7vZqcol8.1/itag/95/source/yt_live_broadcast/ratebypass/yes/live/1/cmbypass/yes/gir/yes/dg_shard/b2NyN3ZacWNvbDguMQ.95/hls_chunk_host/r3---sn-q4f7dm7z.googlevideo.com/playlist_type/DVR/pmbypass/yes/gcr/us/mm/32/mn/sn-q4f7dm7z/ms/lv/mv/m/nh/EAM/pl/14/dover/3/sver/3/fexp/9416126,9420452,9422596,9423661,9423662,9424417,9425517,9426525,9426942,9427143,9427248,9427413,9428246,9428710,9429237,9429246,9429297/upn/kcpiwWr_R-U/mt/1456625827/ip/70.113.216.129/ipbits/0/expire/1456647459/sparams/ip,ipbits,expire,id,itag,source,ratebypass,live,cmbypass,gir,dg_shard,hls_chunk_host,playlist_type,pmbypass,gcr,mm,mn,ms,mv,nh,pl/signature/6259D04C6B6D1025494D42FF4825586AE71A8199.61D8C58356A722F05FF0A8A9F5268C111659AD09/key/dg_yt0/playlist/index.m3u8
-
+#EXTINF:-1 tvg-logo="",Azteca 13 HD *
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
+#EXTINF:-1 tvg-logo=""Azteca 13 HD opcion 2
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_1_av-b.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="Arena Sport 1" tvg-logo="/noicon.png" group-title="Sportski",Arena Sport 1 - Arena Sport 1
+http://stream2.tvit.ba:80/live?channelId=1&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="2" tvg-name="Arena Sport 2" tvg-logo="/noicon.png" group-title="Sportski",Arena Sport 2 - Arena Sport 2
+http://stream1.tvit.ba:8088/live?channelId=2&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="4" tvg-name="Arena Sport 4" tvg-logo="/noicon.png" group-title="Sportski",Arena Sport 4 - Arena Sport 4
+http://stream2.tvit.ba:80/live?channelId=4&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="9" tvg-name="HAYAT Music" tvg-logo="/noicon.png" group-title="Muzicki",HAYAT Music - HAYAT Music
+http://stream1.tvit.ba:8088/live?channelId=9&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="14" tvg-name="VIVA" tvg-logo="/noicon.png" group-title="Muzicki",VIVA - VIVA
+http://stream1.tvit.ba:8088/live?channelId=14&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="22" tvg-name="SPORT KLUB 2" tvg-logo="/noicon.png" group-title="Sportski",SPORT KLUB 2 - SPORT KLUB 2
+http://stream1.tvit.ba:8088/live?channelId=22&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="23" tvg-name="LOV I RIBOLOV" tvg-logo="/noicon.png" group-title="Dokumentarni",LOV I RIBOLOV - LOV I RIBOLOV
+http://stream1.tvit.ba:8088/live?channelId=23&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="25" tvg-name="DM SAT" tvg-logo="/noicon.png" group-title="Muzicki",DM SAT - DM SAT
+http://stream1.tvit.ba:8088/live?channelId=25&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="27" tvg-name="BALKANIKA" tvg-logo="/noicon.png" group-title="Muzicki",BALKANIKA - BALKANIKA
+http://stream2.tvit.ba:80/live?channelId=27&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="28" tvg-name="SVET PLUS" tvg-logo="/noicon.png" group-title="Muzicki",SVET PLUS - SVET PLUS
+http://stream2.tvit.ba:80/live?channelId=28&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="31" tvg-name="FASHION TV" tvg-logo="/noicon.png" group-title="Informativni",FASHION TV - FASHION TV
+http://stream1.tvit.ba:8088/live?channelId=31&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="35" tvg-name="TRAVEL CHANNEL" tvg-logo="/noicon.png" group-title="Dokumentarni",TRAVEL CHANNEL - TRAVEL CHANNEL
+http://stream2.tvit.ba:80/live?channelId=35&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="37" tvg-name="DISCOVERY" tvg-logo="/noicon.png" group-title="Dokumentarni",DISCOVERY - DISCOVERY
+http://stream1.tvit.ba:8088/live?channelId=37&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="39" tvg-name="EUROSPORT 2" tvg-logo="/noicon.png" group-title="Sportski",EUROSPORT 2 - EUROSPORT 2
+http://stream1.tvit.ba:8088/live?channelId=39&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="42" tvg-name="ANIMAL PLANET" tvg-logo="/noicon.png" group-title="Dokumentarni",ANIMAL PLANET - docs
+http://stream2.tvit.ba:80/live?channelId=42&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="44" tvg-name="FOX CRIME" tvg-logo="/noicon.png" group-title="Filmski",FOX CRIME - FOX CRIME
+http://stream1.tvit.ba:8088/live?channelId=44&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="46" tvg-name="CRIME & INVESTIGATION" tvg-logo="/noicon.png" group-title="Dokumentarni",CRIME & INVESTIGATION - 
+http://stream2.tvit.ba:80/live?channelId=46&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="49" tvg-name="VOX" tvg-logo="/noicon.png" group-title="German",VOX - VOX
+http://stream1.tvit.ba:8088/live?channelId=49&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="50" tvg-name="RAI 1" tvg-logo="/noicon.png" group-title="Informativni",RAI 1 - RAI 1
+http://stream2.tvit.ba:80/live?channelId=50&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="51" tvg-name="SAUDI CHANNEL" tvg-logo="/noicon.png" group-title="Informativni",SAUDI CHANNEL - SAUDI CHANNEL
+http://stream2.tvit.ba:80/live?channelId=51&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="52" tvg-name="CNN" tvg-logo="/noicon.png" group-title="Informativni",CNN - CNN
+http://stream2.tvit.ba:80/live?channelId=52&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="54" tvg-name="TV5 Monde" tvg-logo="/noicon.png" group-title="Informativni",TV5 Monde - TV5 Monde
+http://stream1.tvit.ba:8088/live?channelId=54&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="55" tvg-name="GRAND TV" tvg-logo="/noicon.png" group-title="Muzicki",GRAND TV - GRAND TV
+http://stream2.tvit.ba:80/live?channelId=55&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="56" tvg-name="SUPER RTL" tvg-logo="/noicon.png" group-title="Djecji",SUPER RTL - SUPER RTL
+http://stream2.tvit.ba:80/live?channelId=56&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="59" tvg-name="UNIVERSAL CHANNEL" tvg-logo="/noicon.png" group-title="Filmski",UNIVERSAL CHANNEL - UNIVERSAL CHANNEL
+http://stream2.tvit.ba:80/live?channelId=59&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="60" tvg-name="CBS DRAMA" tvg-logo="/noicon.png" group-title="Filmski",CBS DRAMA - CBS DRAMA
+http://stream2.tvit.ba:80/live?channelId=60&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="61" tvg-name="TV 1000" tvg-logo="/noicon.png" group-title="Filmski",TV 1000 - TV 1000
+http://stream2.tvit.ba:80/live?channelId=61&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="64" tvg-name="SPORT KLUB 1" tvg-logo="/noicon.png" group-title="Sportski",SPORT KLUB 1 - SPORT KLUB 1
+http://stream1.tvit.ba:8088/live?channelId=64&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="65" tvg-name="RTS SAT" tvg-logo="/noicon.png" group-title="Informativni",RTS SAT - RTS SAT
+http://stream1.tvit.ba:8088/live?channelId=65&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="66" tvg-name="RTCG SAT" tvg-logo="/noicon.png" group-title="Informativni",RTCG SAT - RTCG SAT
+http://stream1.tvit.ba:8088/live?channelId=66&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="69" tvg-name="HRT 3" tvg-logo="/noicon.png" group-title="Informativni",HRT 3 - HRT 3
+http://stream1.tvit.ba:8088/live?channelId=69&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="72" tvg-name="RTL 2 HR Sat" tvg-logo="/noicon.png" group-title="Informativni",RTL 2 HR Sat - RTL 2 HR Sat
+http://stream4.tvit.ba:8088/live?channelId=72&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="74" tvg-name="CARTOON NETWORK" tvg-logo="/noicon.png" group-title="Djecji",CARTOON NETWORK - CARTOON NETWORK
+http://stream1.tvit.ba:8088/live?channelId=74&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="75" tvg-name="BOOMERANG" tvg-logo="/noicon.png" group-title="Djecji",BOOMERANG - BOOMERANG
+http://stream1.tvit.ba:8088/live?channelId=75&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="78" tvg-name="PRO 7" tvg-logo="/noicon.png" group-title="German",PRO 7 - PRO 7
+http://stream1.tvit.ba:8088/live?channelId=78&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="79" tvg-name="KABEL 1" tvg-logo="/noicon.png" group-title="Filmski",KABEL 1 - KABEL 1
+http://stream1.tvit.ba:8088/live?channelId=79&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="80" tvg-name="ALJAZEERA" tvg-logo="/noicon.png" group-title="Informativni",ALJAZEERA - ALJAZEERA
+http://stream1.tvit.ba:8088/live?channelId=80&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="118" tvg-name="Pink Super Kids" tvg-logo="/noicon.png" group-title="Djecji",Pink Super Kids - Pink Super Kids
+http://stream1.tvit.ba:8088/live?channelId=118&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="3" tvg-name="Arena Sport 3" tvg-logo="/noicon.png" group-title="Sportski",Arena Sport 3 - Arena Sport 3
+http://stream1.tvit.ba:8088/live?channelId=3&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="5" tvg-name="BHT" tvg-logo="/noicon.png" group-title="Informativni",BHT - BHT
+http://stream1.tvit.ba:8088/live?channelId=5&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="8" tvg-name="HAYAT" tvg-logo="/noicon.png" group-title="Informativni",HAYAT - HAYAT
+http://stream1.tvit.ba:8088/live?channelId=8&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="30" tvg-name="RTRS" tvg-logo="/noicon.png" group-title="Informativni",RTRS - RTRS
+http://stream4.tvit.ba:8088/live?channelId=30&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="6" tvg-name="FTV" tvg-logo="/noicon.png" group-title="Informativni",FTV - FTV
+http://stream1.tvit.ba:8088/live?channelId=6&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="62" tvg-name="RTL 2 DE" tvg-logo="/noicon.png" group-title="German",RTL 2 DE - RTL 2 DE
+http://stream2.tvit.ba:80/live?channelId=62&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="194" tvg-name="ZDF" tvg-logo="/noicon.png" group-title="Filmski",ZDF - ZDF
+http://stream3.tvit.ba:8088/live?channelId=194&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="195" tvg-name="BN TV" tvg-logo="/noicon.png" group-title="Informativni",BN TV - BN TV
+http://stream1.tvit.ba:8088/live?channelId=195&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="67" tvg-name="HRT 1" tvg-logo="/noicon.png" group-title="Informativni",HRT 1 - HRT 1
+http://stream1.tvit.ba:8088/live?channelId=67&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="254" tvg-name="ULTRA TV" tvg-logo="/noicon.png" group-title="Djecji",ULTRA TV - ULTRA TV
+http://stream3.tvit.ba:8088/live?channelId=254&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="140" tvg-name="TLC" tvg-logo="/noicon.png" group-title="Dokumentarni",TLC - TLC
+http://stream1.tvit.ba:8088/live?channelId=140&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="68" tvg-name="HRT 2" tvg-logo="/noicon.png" group-title="Informativni",HRT 2 - HRT 2
+http://stream1.tvit.ba:8088/live?channelId=68&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="77" tvg-name="FACE TV" tvg-logo="/noicon.png" group-title="Informativni",FACE TV - FACE TV
+http://stream1.tvit.ba:8088/live?channelId=77&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="71" tvg-name="RTL HR Sat" tvg-logo="/noicon.png" group-title="Informativni",RTL HR Sat - RTL HR Sat
+http://stream1.tvit.ba:8088/live?channelId=71&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="249" tvg-name="BHT 1" tvg-logo="/noicon.png" group-title="Informativni",BHT 1 - BHT 1
+http://stream1.tvit.ba:8088/live?channelId=249&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="253" tvg-name="RTL HR" tvg-logo="/noicon.png" group-title="Filmski",RTL HR - RTL HR
+http://stream1.tvit.ba:8088/live?channelId=253&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="201" tvg-name="Hayatovci" tvg-logo="/noicon.png" group-title="Djecji",Hayatovci - Hayatovci
+http://stream4.tvit.ba:8088/live?channelId=201&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="34" tvg-name="HISTORY CHANNEL" tvg-logo="/noicon.png" group-title="Dokumentarni",HISTORY CHANNEL - HISTORY CHANNEL
+http://stream1.tvit.ba:8088/live?channelId=34&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="38" tvg-name="EUROSPORT" tvg-logo="/noicon.png" group-title="Sportski",EUROSPORT - EUROSPORT
+http://stream1.tvit.ba:8088/live?channelId=38&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="171" tvg-name="Prva" tvg-logo="/noicon.png" group-title="Informativni",Prva - Prva
+http://stream3.tvit.ba:8088/live?channelId=171&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="70" tvg-name="HRT 4" tvg-logo="/noicon.png" group-title="Informativni",HRT 4 - HRT 4
+http://stream1.tvit.ba:8088/live?channelId=70&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="7" tvg-name="TVSA" tvg-logo="/noicon.png" group-title="Informativni",TVSA - TV Sarajevo
+http://stream1.tvit.ba:8088/live?channelId=7&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="29" tvg-name="OTV VALENTINO" tvg-logo="/noicon.png" group-title="Muzicki",OTV VALENTINO - OTV VALENTINO
+http://stream1.tvit.ba:8088/live?channelId=29&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="231" tvg-name="Alfa TV" tvg-logo="/noicon.png" group-title="Informativni",Alfa TV - Alfa TV
+http://stream1.tvit.ba:8088/live?channelId=231&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="5" tvg-name="BHT" tvg-logo="/noicon.png" group-title="Informativni",BHT - BHT
+http://stream1.tvit.ba:8088/live?channelId=5&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="229" tvg-name="BHT HD" tvg-logo="/noicon.png" group-title="Informativni",BHT HD - BHT HD
+http://stream1.tvit.ba:8088/live?channelId=229&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="239" tvg-name="Eurosport 2" tvg-logo="/noicon.png" group-title="Sportski",Eurosport 2 - Eurosport 2
+http://stream3.tvit.ba:8088/live?channelId=239&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="240" tvg-name="Sport Klub 1 HD" tvg-logo="/noicon.png" group-title="Sportski",Sport Klub 1 HD - Sport Klub 1 HD
+http://stream3.tvit.ba:8088/live?channelId=240&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="241" tvg-name="Sport Klub 2 HD" tvg-logo="/noicon.png" group-title="Sportski",Sport Klub 2 HD - Sport Klub 2 HD
+http://stream3.tvit.ba:8088/live?channelId=241&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="188" tvg-name="RTS 1" tvg-logo="/noicon.png" group-title="Informativni",RTS 1 - RTS 1
+http://stream3.tvit.ba:8088/live?channelId=188&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="187" tvg-name="RTS 2" tvg-logo="/noicon.png" group-title="Informativni",RTS 2 - RTS 2
+http://stream3.tvit.ba:8088/live?channelId=187&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="10" tvg-name="PINK BiH" tvg-logo="/noicon.png" group-title="Informativni",PINK BiH - PINK BiH
+http://stream1.tvit.ba:8088/live?channelId=10&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="142" tvg-name="Viasat History" tvg-logo="/noicon.png" group-title="Dokumentarni",Viasat History - Viasat History
+http://stream1.tvit.ba:8088/live?channelId=142&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="73" tvg-name="ALJAZEERA Balkans" tvg-logo="/noicon.png" group-title="Informativni",ALJAZEERA Balkans - ALJAZEERA Balkans
+http://stream1.tvit.ba:8088/live?channelId=73&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="40" tvg-name="BN Music" tvg-logo="/noicon.png" group-title="Muzicki",BN Music - Music
+http://stream2.tvit.ba:80/live?channelId=40&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="24" tvg-name="OBN" tvg-logo="/noicon.png" group-title="Informativni",OBN - OBN
+http://stream2.tvit.ba:80/live?channelId=24&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="185" tvg-name="Pink Zabava" tvg-logo="/noicon.png" group-title="Muzicki",Pink Zabava - Pink Zabava
+http://stream4.tvit.ba:8088/live?channelId=185&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="129" tvg-name="Pink Pedia" tvg-logo="/noicon.png" group-title="Dokumentarni",Pink Pedia - Pink Pedia
+http://stream4.tvit.ba:8088/live?channelId=129&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="211" tvg-name="Pink Hits 2" tvg-logo="/noicon.png" group-title="Muzicki",Pink Hits 2 - Pink Hits 2
+http://stream4.tvit.ba:8088/live?channelId=211&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="210" tvg-name="Pink Koncert" tvg-logo="/noicon.png" group-title="Muzicki",Pink Koncert - Pink Koncert
+http://stream4.tvit.ba:8088/live?channelId=210&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="101" tvg-name="Pink Folk" tvg-logo="/noicon.png" group-title="Muzicki",Pink Folk - Pink Folk
+http://stream4.tvit.ba:8088/live?channelId=101&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="132" tvg-name="Pink Horor" tvg-logo="/noicon.png" group-title="Filmski",Pink Horor - Pink Horor
+http://stream4.tvit.ba:8088/live?channelId=132&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="208" tvg-name="Pink Romance" tvg-logo="/noicon.png" group-title="Filmski",Pink Romance - Pink Romance
+http://stream4.tvit.ba:8088/live?channelId=208&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="209" tvg-name="Pink Sci-Fi and Fantasy" tvg-logo="/noicon.png" group-title="Filmski",Pink Sci-Fi and Fantasy - Pink Sci-Fi and Fantasy
+http://stream4.tvit.ba:8088/live?channelId=209&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="186" tvg-name="Pink Reality" tvg-logo="/noicon.png" group-title="Muzicki",Pink Reality - Pink Reality
+http://stream3.tvit.ba:8088/live?channelId=186&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="93" tvg-name="Pink Premium" tvg-logo="/noicon.png" group-title="Filmski",Pink Premium - Pink Premium
+http://stream4.tvit.ba:8088/live?channelId=93&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="131" tvg-name="Pink Soap" tvg-logo="/noicon.png" group-title="Filmski",Pink Soap - Pink Soap
+http://stream4.tvit.ba:8088/live?channelId=131&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="163" tvg-name="CMC" tvg-logo="/noicon.png" group-title="Muzicki",CMC - CMC
+http://stream4.tvit.ba:8088/live?channelId=163&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="164" tvg-name="History Channel Sat" tvg-logo="/noicon.png" group-title="Dokumentarni",History Channel Sat - History Channel Sat
+http://stream4.tvit.ba:8088/live?channelId=164&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="76" tvg-name="FOX Sat" tvg-logo="/noicon.png" group-title="Filmski",FOX Sat - FOX Sat
+http://stream4.tvit.ba:8088/live?channelId=76&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="43" tvg-name="FOX LIFE sat" tvg-logo="/noicon.png" group-title="Filmski",FOX LIFE sat - FOX LIFE sat
+http://stream4.tvit.ba:8088/live?channelId=43&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="102" tvg-name="Pink Folk 2" tvg-logo="/noicon.png" group-title="Muzicki",Pink Folk 2 - Pink Folk 2
+http://stream4.tvit.ba:8088/live?channelId=102&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="32" tvg-name="NAT GEO" tvg-logo="/noicon.png" group-title="Dokumentarni",NAT GEO - NAT GEO
+http://stream4.tvit.ba:8088/live?channelId=32&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="33" tvg-name="NAT GEO Wild" tvg-logo="/noicon.png" group-title="Dokumentarni",NAT GEO Wild - NAT GEO Wild
+http://stream4.tvit.ba:8088/live?channelId=33&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="99" tvg-name="Pink Music" tvg-logo="/noicon.png" group-title="Muzicki",Pink Music - Pink Music
+http://stream2.tvit.ba:80/live?channelId=99&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="5" tvg-name="BHT" tvg-logo="/noicon.png" group-title="Informativni",BHT - BHT
+http://stream1.tvit.ba:8088/live?channelId=5&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="200" tvg-name="RTL DE" tvg-logo="/noicon.png" group-title="German",RTL DE - RTL DE
+http://stream1.tvit.ba:8088/live?channelId=200&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="238" tvg-name="ARENA 1 SR HD" tvg-logo="/noicon.png" group-title="Sportski",ARENA 1 SR HD - ARENA 1 SR HD
+http://stream3.tvit.ba:8088/live?channelId=238&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="235" tvg-name="ARENA 2 SR HD" tvg-logo="/noicon.png" group-title="Sportski",ARENA 2 SR HD - ARENA 2 SR HD
+http://stream3.tvit.ba:8088/live?channelId=235&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="203" tvg-name="Alternativna TV" tvg-logo="/noicon.png" group-title="Filmski",Alternativna TV - Alternativna TV
+http://stream1.tvit.ba:8088/live?channelId=203&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="174" tvg-name="Happy TV" tvg-logo="/noicon.png" group-title="Dokumentarni",Happy TV - Happy TV
+http://stream2.tvit.ba:80/live?channelId=174&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="198" tvg-name="SAT 1" tvg-logo="/noicon.png" group-title="Filmski",SAT 1 - SAT 1
+http://stream1.tvit.ba:8088/live?channelId=198&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="213" tvg-name="A 1" tvg-logo="/noicon.png" group-title="Informativni",A 1 - A 1
+http://stream4.tvit.ba:8088/live?channelId=213&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="189" tvg-name="Atlas TV" tvg-logo="/noicon.png" group-title="Informativni",Atlas TV - Atlas TV
+http://stream4.tvit.ba:8088/live?channelId=189&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="139" tvg-name="Kanal 6" tvg-logo="/noicon.png" group-title="Muzicki",Kanal 6 - Kanal 6
+http://stream1.tvit.ba:8088/live?channelId=139&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="197" tvg-name="SMART TV" tvg-logo="/noicon.png" group-title="Informativni",SMART TV - SMART TV
+http://stream1.tvit.ba:8088/live?channelId=197&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="12" tvg-name="TV 1" tvg-logo="/noicon.png" group-title="Informativni",TV 1 - TV 1
+http://stream1.tvit.ba:8088/live?channelId=12&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="191" tvg-name="TV Igman" tvg-logo="/noicon.png" group-title="Dokumentarni",TV Igman - TV Igman
+http://stream2.tvit.ba:80/live?channelId=191&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="193" tvg-name="TV TK" tvg-logo="/noicon.png" group-title="Informativni",TV TK - TV TK
+http://stream2.tvit.ba:80/live?channelId=193&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="190" tvg-name="RTV Novi Pazar" tvg-logo="/noicon.png" group-title="Informativni",RTV Novi Pazar - RTV Novi Pazar
+http://stream2.tvit.ba:80/live?channelId=190&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="212" tvg-name="Posavina TV" tvg-logo="/noicon.png" group-title="Informativni",Posavina TV - Posavina TV
+http://stream4.tvit.ba:8088/live?channelId=212&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="133" tvg-name="Pink Live" tvg-logo="/noicon.png" group-title="Muzicki",Pink Live - Pink Live
+http://stream1.tvit.ba:8088/live?channelId=133&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="182" tvg-name="Pink Movies 2" tvg-logo="/noicon.png" group-title="Filmski",Pink Movies 2 - Pink Movies 2
+http://stream1.tvit.ba:8088/live?channelId=182&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="215" tvg-name="Kopernikus 1" tvg-logo="/noicon.png" group-title="Informativni",Kopernikus 1 - Kopernikus 1
+http://stream3.tvit.ba:8088/live?channelId=215&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="233" tvg-name="FOX Crime" tvg-logo="/noicon.png" group-title="Filmski",FOX Crime - FOX Crime
+http://stream1.tvit.ba:8088/live?channelId=233&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="184" tvg-name="Pink Comedy" tvg-logo="/noicon.png" group-title="Filmski",Pink Comedy - Pink Comedy
+http://stream4.tvit.ba:8088/live?channelId=184&uid=201&deviceUser=usmirt&devicePass=iptv2224
+#EXTINF:-1 tvg-id="196" tvg-name="TRT 1" tvg-logo="/noicon.png" group-title="Informativni",TRT 1 - TRT 1
+http://stream2.tvit.ba:80/live?channelId=196&uid=201&deviceUser=usmirt&devicePass=iptv2224
+			
 #EXTINF:-1 tvg-logo="",IFC
 http://tvultimate.mx/tvultimate.php?id=164
 #EXTINF:-1 tvg-logo="",Food Network
