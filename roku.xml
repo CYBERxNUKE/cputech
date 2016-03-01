@@ -7,9 +7,9 @@
 <item> 
 <title>Azteca 13 HD</title> 
 <category>Streaming Video</category> 
-<description>Live Devotionals</description> 
+<description>Azteca 13 HD</description> 
 <streamformat>hls</streamformat>
-<media:content url="http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8"/> 
+<media:content url="http://stream2.tvit.ba:80/live?channelId=1&uid=201&deviceUser=usmirt&devicePass=iptv2224"/> 
 <media:thumbnail url="http://byui-web.github.io/BYU-I-Roku-Channel/images/live.png" /> 
 </item> 
 <item> 
