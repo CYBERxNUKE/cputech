@@ -173,7 +173,6 @@ http://tvultimate.mx/tvultimate.php?id=297
 #EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/tvultimate.png",Mundofox [COLOR orange]-NFPS-[/COLOR]
 http://tvultimate.mx/tvultimate.php?id=429
 
-
 #EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/natgeo wild hd.png",NatGeo Wild HD
 http://tvultimate.mx/stream/tvultimate.php?id=1511
 
@@ -207,9 +206,6 @@ http://tvultimate.mx/tvultimate.php?id=477
 #EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/tvultimate.png",Cine Dinamita [COLOR orange]-NFPS-[/COLOR]
 http://tvultimate.mx/tvultimate.php?id=3465
 
-
-
-
 #EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/cinecanal hd.png",Cinecanal HD
 http://tvultimate.mx/stream/tvultimate.php?id=1583
 
@@ -224,7 +220,6 @@ http://tvultimate.mx/stream/tvultimate.php?id=1620
 
 #EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/golden.png",Golden HD
 http://tvultimate.mx/stream/tvultimate.php?id=1591
-
 
 #EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/the film zone hd.png",The Film Zone HD
 http://tvultimate.mx/stream/tvultimate.php?id=1595
@@ -244,8 +239,6 @@ http://tvultimate.mx/stream/tvultimate.php?id=1632
 #EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/space hd.png",Space HD
 http://tvultimate.mx/stream/tvultimate.php?id=1607
 
-
-
 #EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/tvtultimate.png",Cinemax
 http://tvultimate.mx/stream/tvultimate.php?id=1616
 
@@ -258,6 +251,66 @@ http://tvultimate.mx/stream/tvultimate.php?id=1636
 
 #EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/sat.1 hd.png",I.Sat
 http://tvultimate.mx/stream/tvultimate.php?id=1640
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/fox 1 hd.png",Fox 1 HD  [COLOR orange]SD[/COLOR]
+http://tvultimate.mx/stream/tvultimate.php?id=1559
+
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/fox 1 hd.png",Fox 1 HD  [COLOR green]HD[/COLOR]
+http://tvultimate.mx/stream/tvultimate.php?id=1560
+
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/fox action.png",Fox Action HD   [COLOR orange]SD[/COLOR]
+http://tvultimate.mx/stream/tvultimate.php?id=1563
+
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/fox action.png",Fox Action HD   [COLOR green]HD[/COLOR]
+http://tvultimate.mx/stream/tvultimate.php?id=1564
+
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/fox movies HD.png",Fox Movies HD  [COLOR orange]SD[/COLOR]
+http://tvultimate.mx/stream/tvultimate.php?id=1567 
+
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/fox movies HD.png",Fox Movies HD   [COLOR green]HD[/COLOR]
+http://tvultimate.mx/stream/tvultimate.php?id=1568 
+
+
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/fox cinema.png",Fox Cinema 
+http://tvultimate.mx/stream/tvultimate.php?id=1572
+
+
+
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/fox cinema.png",Fox Classics
+http://tvultimate.mx/stream/tvultimate.php?id=1576
+
+
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/golden.png",Golden Premier [COLOR orange]-NFPS-[/COLOR]
+http://tvultimate.mx/tvultimate.php?id=4777
+
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/golden.png",Golden Premier2 [COLOR orange]-NFPS-[/COLOR]
+http://tvultimate.mx/tvultimate.php?id=4772
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/tvultimate.png" group-title="ULTIMATE PREMIUM",Max Prime [COLOR orange]-NFPS-[/COLOR]
+http://tvultimate.mx/tvultimate.php?id=377
+
+
+
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/HBO.png",HBO [COLOR orange]-NFPS-[/COLOR]
+http://tvultimate.mx/tvultimate.php?id=385
+
+
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/hbo2.png",HBO 2  [COLOR orange]-NFPS-[/COLOR]
+http://tvultimate.mx/tvultimate.php?id=365
+
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/HBO.png",HBO Family  [COLOR orange]-NFPS-[/COLOR]
+http://tvultimate.mx/tvultimate.php?id=449
+
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/HBO.png",HBO Signature  [COLOR orange]-NFPS-[/COLOR]
+http://tvultimate.mx/tvultimate.php?id=451
+
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/hbo plus.png",HBO Plus [COLOR orange]-NFPS-[/COLOR]
+http://tvultimate.mx/tvultimate.php?id=453
+
+
+
+
+
 
 
 #EXTINF:-1 tvg-id="1" tvg-name="Arena Sport 1" tvg-logo="/noicon.png" group-title="Sportski",Arena Sport 1 - Arena Sport 1
