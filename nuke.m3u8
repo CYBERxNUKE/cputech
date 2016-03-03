@@ -72,6 +72,194 @@ http://tvultimate.mx/tvultimate.php?id=1477
 #EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/tvultimate.png",Claro Sports   [COLOR green]-EXTERNO-[/COLOR]
 http://104.236.124.24:1583/claro/playlist.m3u8
 
+
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/Latino-FOX.png",Fox   [COLOR orange]SD[/COLOR]
+http://tvultimate.mx/stream/tvultimate.php?id=1327
+
+
+
+
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/sony.png",Sony HD  [COLOR orange]SD[/COLOR]
+http://tvultimate.mx/stream/tvultimate.php?id=1331
+
+
+
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/warner hd.png",Warner HD  [COLOR orange]SD[/COLOR]
+http://tvultimate.mx/stream/tvultimate.php?id=1335
+
+
+
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/universal hd.png",Universal HD  
+http://tvultimate.mx/stream/tvultimate.php?id=1339
+
+
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/Latino-FX-HD.png",FX HD
+http://tvultimate.mx/stream/tvultimate.php?id=1343
+
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/a&e.png",A&E 
+http://tvultimate.mx/stream/tvultimate.php?id=1347
+
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/axn.png",AXN HD
+http://tvultimate.mx/stream/tvultimate.php?id=1351
+
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/trutv.png",TruTV HD
+http://tvultimate.mx/stream/tvultimate.php?id=1355
+
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/Comedy Central HD (2).png",Comedy Central
+http://tvultimate.mx/stream/tvultimate.php?id=1359
+
+#EXTINF:0 tvg-logo="http://tvultimate.mx/logos/unicable.png",Unicable
+http://tvultimate.mx/stream/tvultimate.php?id=1363
+
+
+#EXTINF:0 tvg-logo="http://tvultimate.mx/logos/tvultimate.png",Hola TV
+http://tvultimate.mx/stream/tvultimate.php?id=1367
+
+#EXTINF:0 tvg-logo="http://tvultimate.mx/logos/tvultimate.png",Fashion TV
+http://tvultimate.mx/stream/tvultimate.php?id=1371
+
+#EXTINF:0 tvg-logo="http://tvultimate.mx/logos/tvultimate.png",Mas chic
+http://tvultimate.mx/stream/tvultimate.php?id=1375
+
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/bbc entertainment.png",BBC
+http://tvultimate.mx/stream/tvultimate.php?id=1387
+
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/!e.png",E! 
+http://tvultimate.mx/stream/tvultimate.php?id=1391
+
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/Latino-SYFY.png",SyFy
+http://tvultimate.mx/stream/tvultimate.php?id=1399
+
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/fx.png",FX
+http://tvultimate.mx/stream/tvultimate.php?id=1403
+
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/id.png",ID
+http://tvultimate.mx/stream/tvultimate.php?id=1407
+
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/infinito.png",TNT Series
+http://tvultimate.mx/stream/tvultimate.php?id=1411
+
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/el gourmet.png",El Gourmet  
+http://tvultimate.mx/stream/tvultimate.php?id=1416
+
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/tvultimate.png",Garaje TV
+http://tvultimate.mx/stream/tvultimate.php?id=1420
+
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/glitz.png",Glitz
+http://tvultimate.mx/stream/tvultimate.php?id=1424
+
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/fox life.png",Fox Life
+http://tvultimate.mx/stream/tvultimate.php?id=1427
+
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/Latino-DISTRITO- COMEDIA.png",Distrito Comedia
+http://tvultimate.mx/stream/tvultimate.php?id=1431 
+
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/tbs.png",TBS
+http://tvultimate.mx/stream/tvultimate.php?id=1435
+
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/tlnovelas.png",Tlnovelas [COLOR red]OFFLINE[/COLOR]
+http://tvultimate.mx/stream/tvultimate.php?id=186
+
+
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/discovery channel.png",DISCOVERY HD Teather 
+http://tvultimate.mx/stream/tvultimate.php?id=1503
+
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/history hd.png",History
+http://tvultimate.mx/stream/tvultimate.php?id=1507
+
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/history hd.png",History 2 [COLOR orange]-NFPS-[/COLOR]
+http://tvultimate.mx/tvultimate.php?id=297
+
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/tvultimate.png",Mundofox [COLOR orange]-NFPS-[/COLOR]
+http://tvultimate.mx/tvultimate.php?id=429
+
+
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/natgeo wild hd.png",NatGeo Wild HD
+http://tvultimate.mx/stream/tvultimate.php?id=1511
+
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/tlc hd.png",TLC HD
+http://tvultimate.mx/stream/tvultimate.php?id=1552
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/discovery channel.png",Discovery Channel
+http://tvultimate.mx/stream/tvultimate.php?id=1520
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/discovery channel.png",Discovery World
+http://tvultimate.mx/stream/tvultimate.php?id=1515
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/animal planet.png",Animal Planet
+http://tvultimate.mx/stream/tvultimate.php?id=1524
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/home and health.png",Home and Health
+http://tvultimate.mx/stream/tvultimate.php?id=1528 
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/natgeo.png",NatGeo
+http://tvultimate.mx/stream/tvultimate.php?id=1532
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/lifetime.png",Lifetime
+http://tvultimate.mx/stream/tvultimate.php?id=1536
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/discovery science.png",Discovery Science
+http://tvultimate.mx/stream/tvultimate.php?id=1540
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/discovery civilization.png",Discovery Civilization
+http://tvultimate.mx/stream/tvultimate.php?id=1544
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/turbo dis.png",Discovery Turbo
+http://tvultimate.mx/stream/tvultimate.php?id=1548
+
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/wobi tv.png",WOBI TV 
+http://tvultimate.mx/stream/tvultimate.php?id=1556
+
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/tvultimate.png",Cine Latino [COLOR orange]-NFPS-[/COLOR]
+http://tvultimate.mx/tvultimate.php?id=477
+
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/tvultimate.png",Cine Dinamita [COLOR orange]-NFPS-[/COLOR]
+http://tvultimate.mx/tvultimate.php?id=3465
+
+
+
+
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/cinecanal hd.png",Cinecanal HD
+http://tvultimate.mx/stream/tvultimate.php?id=1583
+
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/cinecanal hd.png",Cinecanal
+http://tvultimate.mx/stream/tvultimate.php?id=1612
+
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/tnt hd.png",TNT HD
+http://tvultimate.mx/stream/tvultimate.php?id=1587
+
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/tnt hd.png",TNT
+http://tvultimate.mx/stream/tvultimate.php?id=1620
+
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/golden.png",Golden HD
+http://tvultimate.mx/stream/tvultimate.php?id=1591
+
+
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/the film zone hd.png",The Film Zone HD
+http://tvultimate.mx/stream/tvultimate.php?id=1595
+
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/de pelicula hd.png",De Película HD
+http://tvultimate.mx/stream/tvultimate.php?id=1599
+
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/de pelicula hd.png",De Película Clasico [COLOR green]-EXTERNO-[/COLOR]
+http://104.131.39.88:1583/dpeliculaclasica/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/amc hd.png",AMC
+http://tvultimate.mx/stream/tvultimate.php?id=1603
+
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/space hd.png",Space
+http://tvultimate.mx/stream/tvultimate.php?id=1632
+
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/space hd.png",Space HD
+http://tvultimate.mx/stream/tvultimate.php?id=1607
+
+
+
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/tvtultimate.png",Cinemax
+http://tvultimate.mx/stream/tvultimate.php?id=1616
+
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/golden edge.png",Golden Edge 
+http://tvultimate.mx/stream/tvultimate.php?id=1624
+
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/studio universal.png",Studio Universal
+http://tvultimate.mx/stream/tvultimate.php?id=1636
+
+
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/sat.1 hd.png",I.Sat
+http://tvultimate.mx/stream/tvultimate.php?id=1640
+
+
 #EXTINF:-1 tvg-id="1" tvg-name="Arena Sport 1" tvg-logo="/noicon.png" group-title="Sportski",Arena Sport 1 - Arena Sport 1
 http://stream2.tvit.ba:80/live?channelId=1&uid=201&deviceUser=usmirt&devicePass=iptv2224
 #EXTINF:-1 tvg-id="2" tvg-name="Arena Sport 2" tvg-logo="/noicon.png" group-title="Sportski",Arena Sport 2 - Arena Sport 2
