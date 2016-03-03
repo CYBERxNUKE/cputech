@@ -1,25 +1,28 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="",Azteca 13 HD *
+
+#EXTINF:-1 tvg-logo="",Azteca 13 HD
 http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
+
 #EXTINF:-1 tvg-logo=""Azteca 13 HD opcion 2
 http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_1_av-b.m3u8
 
 #EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/fox sports hd.png",Fox Sports [COLOR orange]SD[/COLOR]
 http://tvultimate.mx/stream/tvultimate.php?id=1659
+
 #EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/fox sports hd.png",Fox Sports [COLOR green]HD[/COLOR]
 http://tvultimate.mx/stream/tvultimate.php?id=1660
 
-
 #EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/fox sports 2 hd.png",Fox Sports 2 [COLOR orange]SD[/COLOR]
 http://tvultimate.mx/stream/tvultimate.php?id=1663
+
 #EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/fox sports 2 hd.png",Fox Sports 2 [COLOR green]HD[/COLOR]
 http://tvultimate.mx/stream/tvultimate.php?id=1664
 
 #EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/tvultimate.png",PX TV [COLOR orange]SD[/COLOR]
 http://tvultimate.mx/stream/tvultimate.php?id=1667
+
 #EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/tvultimate.png",PX TV [COLOR green]HD[/COLOR]
 http://tvultimate.mx/stream/tvultimate.php?id=1668
-
 
 #EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/espn hd.png",ESPN +  [COLOR orange]SD[/COLOR]
 http://tvultimate.mx/stream/tvultimate.php?id=1651
@@ -53,11 +56,9 @@ http://tvultimate.mx/stream/tvultimate.php?id=1648
 
 #EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/TCM.png",Univision TDN  [COLOR orange]-NFPS-[/COLOR]
 http://tvultimate.mx/tvultimate.php?id=1483
+
 #EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/TCM.png",TDN [COLOR orange]-NFPS-[/COLOR]
 http://tvultimate.mx/tvultimate.php?id=1059
-
-
-
 
 #EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/tvultimate.png",UFC Network [COLOR orange]-NFPS-[/COLOR]
 http://tvultimate.mx/tvultimate.php?id=9628
@@ -70,9 +71,6 @@ http://tvultimate.mx/tvultimate.php?id=1477
 
 #EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/tvultimate.png",Claro Sports   [COLOR green]-EXTERNO-[/COLOR]
 http://104.236.124.24:1583/claro/playlist.m3u8
-
-
-
 
 #EXTINF:-1 tvg-id="1" tvg-name="Arena Sport 1" tvg-logo="/noicon.png" group-title="Sportski",Arena Sport 1 - Arena Sport 1
 http://stream2.tvit.ba:80/live?channelId=1&uid=201&deviceUser=usmirt&devicePass=iptv2224
