@@ -6,305 +6,305 @@ http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
 #EXTINF:-1 tvg-logo="",Azteca 13 HD opcion 2
 http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_1_av-b.m3u8
 
-#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/fox sports hd.png",Fox Sports [COLOR orange]SD[/COLOR]
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/tv/logos/fox sports hd.png",Fox Sports [COLOR orange]SD[/COLOR]
 http://tvultimate.mx/stream/tvultimate.php?id=1659
 
-#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/fox sports hd.png",Fox Sports [COLOR green]HD[/COLOR]
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/tv/logos/fox sports hd.png",Fox Sports [COLOR green]HD[/COLOR]
 http://tvultimate.mx/stream/tvultimate.php?id=1660
 
-#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/fox sports 2 hd.png",Fox Sports 2 [COLOR orange]SD[/COLOR]
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/tv/logos/fox sports 2 hd.png",Fox Sports 2 [COLOR orange]SD[/COLOR]
 http://tvultimate.mx/stream/tvultimate.php?id=1663
 
-#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/fox sports 2 hd.png",Fox Sports 2 [COLOR green]HD[/COLOR]
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/tv/logos/fox sports 2 hd.png",Fox Sports 2 [COLOR green]HD[/COLOR]
 http://tvultimate.mx/stream/tvultimate.php?id=1664
 
-#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/tvultimate.png",PX TV [COLOR orange]SD[/COLOR]
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/tv/logos/tvultimate.png",PX TV [COLOR orange]SD[/COLOR]
 http://tvultimate.mx/stream/tvultimate.php?id=1667
 
-#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/tvultimate.png",PX TV [COLOR green]HD[/COLOR]
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/tv/logos/tvultimate.png",PX TV [COLOR green]HD[/COLOR]
 http://tvultimate.mx/stream/tvultimate.php?id=1668
 
-#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/espn hd.png",ESPN +  [COLOR orange]SD[/COLOR]
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/tv/logos/espn hd.png",ESPN +  [COLOR orange]SD[/COLOR]
 http://tvultimate.mx/stream/tvultimate.php?id=1651
 
-#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/espn hd.png",ESPN +  [COLOR green]HD[/COLOR]
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/tv/logos/espn hd.png",ESPN +  [COLOR green]HD[/COLOR]
 http://tvultimate.mx/stream/tvultimate.php?id=1652
 
-#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/espn hd.png",ESPN  [COLOR orange]SD[/COLOR]
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/tv/logos/espn hd.png",ESPN  [COLOR orange]SD[/COLOR]
 http://tvultimate.mx/stream/tvultimate.php?id=1671
 
-#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/espn hd.png",ESPN  [COLOR green]HD[/COLOR]
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/tv/logos/espn hd.png",ESPN  [COLOR green]HD[/COLOR]
 http://tvultimate.mx/stream/tvultimate.php?id=1672
 
-#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/espn 2.png",ESPN2 [COLOR orange]SD[/COLOR]
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/tv/logos/espn 2.png",ESPN2 [COLOR orange]SD[/COLOR]
 http://tvultimate.mx/stream/tvultimate.php?id=1675
 
-#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/espn 2.png",ESPN2 [COLOR green]HD[/COLOR]
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/tv/logos/espn 2.png",ESPN2 [COLOR green]HD[/COLOR]
 http://tvultimate.mx/stream/tvultimate.php?id=1676
 
-#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/espn hd.png",ESPN3  [COLOR orange]SD[/COLOR]
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/tv/logos/espn hd.png",ESPN3  [COLOR orange]SD[/COLOR]
 http://tvultimate.mx/stream/tvultimate.php?id=1655
 
-#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/espn hd.png",ESPN3  [COLOR green]HD[/COLOR]
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/tv/logos/espn hd.png",ESPN3  [COLOR green]HD[/COLOR]
 http://tvultimate.mx/stream/tvultimate.php?id=1656
 
-#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/tvultimate.png",Formula1  [COLOR orange]SD[/COLOR]
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/tv/logos/tvultimate.png",Formula1  [COLOR orange]SD[/COLOR]
 http://tvultimate.mx/stream/tvultimate.php?id=1647
 
-#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/tvultimate.png",Formula1  [COLOR green]HD[/COLOR]
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/tv/logos/tvultimate.png",Formula1  [COLOR green]HD[/COLOR]
 http://tvultimate.mx/stream/tvultimate.php?id=1648
 
-#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/TCM.png",Univision TDN  [COLOR orange]-NFPS-[/COLOR]
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/tv/logos/TCM.png",Univision TDN  [COLOR orange]-NFPS-[/COLOR]
 http://tvultimate.mx/tvultimate.php?id=1483
 
-#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/TCM.png",TDN [COLOR orange]-NFPS-[/COLOR]
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/tv/logos/TCM.png",TDN [COLOR orange]-NFPS-[/COLOR]
 http://tvultimate.mx/tvultimate.php?id=1059
 
-#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/tvultimate.png",UFC Network [COLOR orange]-NFPS-[/COLOR]
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/tv/logos/tvultimate.png",UFC Network [COLOR orange]-NFPS-[/COLOR]
 http://tvultimate.mx/tvultimate.php?id=9628
 
-#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/tvultimate.png",BeinSports [COLOR orange]-NFPS-[/COLOR]
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/tv/logos/tvultimate.png",BeinSports [COLOR orange]-NFPS-[/COLOR]
 http://tvultimate.mx/tvultimate.php?id=2527
 
-#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/tvultimate.png",Planeta Futbol [COLOR orange]-NFPS-[/COLOR]
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/tv/logos/tvultimate.png",Planeta Futbol [COLOR orange]-NFPS-[/COLOR]
 http://tvultimate.mx/tvultimate.php?id=1477
 
-#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/tvultimate.png",Claro Sports   [COLOR green]-EXTERNO-[/COLOR]
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/tv/logos/tvultimate.png",Claro Sports   [COLOR green]-EXTERNO-[/COLOR]
 http://104.236.124.24:1583/claro/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/Latino-FOX.png",Fox   [COLOR orange]SD[/COLOR]
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/tv/logos/Latino-FOX.png",Fox   [COLOR orange]SD[/COLOR]
 http://tvultimate.mx/stream/tvultimate.php?id=1327
 
 
 
 
-#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/sony.png",Sony HD  [COLOR orange]SD[/COLOR]
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/tv/logos/sony.png",Sony HD  [COLOR orange]SD[/COLOR]
 http://tvultimate.mx/stream/tvultimate.php?id=1331
 
 
 
-#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/warner hd.png",Warner HD  [COLOR orange]SD[/COLOR]
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/tv/logos/warner hd.png",Warner HD  [COLOR orange]SD[/COLOR]
 http://tvultimate.mx/stream/tvultimate.php?id=1335
 
 
 
-#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/universal hd.png",Universal HD  
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/tv/logos/universal hd.png",Universal HD  
 http://tvultimate.mx/stream/tvultimate.php?id=1339
 
 
-#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/Latino-FX-HD.png",FX HD
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/tv/logos/Latino-FX-HD.png",FX HD
 http://tvultimate.mx/stream/tvultimate.php?id=1343
 
-#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/a&e.png",A&E 
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/tv/logos/a&e.png",A&E 
 http://tvultimate.mx/stream/tvultimate.php?id=1347
 
-#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/axn.png",AXN HD
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/tv/logos/axn.png",AXN HD
 http://tvultimate.mx/stream/tvultimate.php?id=1351
 
-#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/trutv.png",TruTV HD
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/tv/logos/trutv.png",TruTV HD
 http://tvultimate.mx/stream/tvultimate.php?id=1355
 
-#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/Comedy Central HD (2).png",Comedy Central
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/tv/logos/Comedy Central HD (2).png",Comedy Central
 http://tvultimate.mx/stream/tvultimate.php?id=1359
 
-#EXTINF:0 tvg-logo="http://tvultimate.mx/logos/unicable.png",Unicable
+#EXTINF:0 tvg-logo="http://tvultimate.mx/tv/logos/unicable.png",Unicable
 http://tvultimate.mx/stream/tvultimate.php?id=1363
 
 
-#EXTINF:0 tvg-logo="http://tvultimate.mx/logos/tvultimate.png",Hola TV
+#EXTINF:0 tvg-logo="http://tvultimate.mx/tv/logos/tvultimate.png",Hola TV
 http://tvultimate.mx/stream/tvultimate.php?id=1367
 
-#EXTINF:0 tvg-logo="http://tvultimate.mx/logos/tvultimate.png",Fashion TV
+#EXTINF:0 tvg-logo="http://tvultimate.mx/tv/logos/tvultimate.png",Fashion TV
 http://tvultimate.mx/stream/tvultimate.php?id=1371
 
-#EXTINF:0 tvg-logo="http://tvultimate.mx/logos/tvultimate.png",Mas chic
+#EXTINF:0 tvg-logo="http://tvultimate.mx/tv/logos/tvultimate.png",Mas chic
 http://tvultimate.mx/stream/tvultimate.php?id=1375
 
-#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/bbc entertainment.png",BBC
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/tv/logos/bbc entertainment.png",BBC
 http://tvultimate.mx/stream/tvultimate.php?id=1387
 
-#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/!e.png",E! 
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/tv/logos/!e.png",E! 
 http://tvultimate.mx/stream/tvultimate.php?id=1391
 
-#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/Latino-SYFY.png",SyFy
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/tv/logos/Latino-SYFY.png",SyFy
 http://tvultimate.mx/stream/tvultimate.php?id=1399
 
-#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/fx.png",FX
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/tv/logos/fx.png",FX
 http://tvultimate.mx/stream/tvultimate.php?id=1403
 
-#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/id.png",ID
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/tv/logos/id.png",ID
 http://tvultimate.mx/stream/tvultimate.php?id=1407
 
-#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/infinito.png",TNT Series
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/tv/logos/infinito.png",TNT Series
 http://tvultimate.mx/stream/tvultimate.php?id=1411
 
-#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/el gourmet.png",El Gourmet  
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/tv/logos/el gourmet.png",El Gourmet  
 http://tvultimate.mx/stream/tvultimate.php?id=1416
 
-#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/tvultimate.png",Garaje TV
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/tv/logos/tvultimate.png",Garaje TV
 http://tvultimate.mx/stream/tvultimate.php?id=1420
 
-#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/glitz.png",Glitz
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/tv/logos/glitz.png",Glitz
 http://tvultimate.mx/stream/tvultimate.php?id=1424
 
-#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/fox life.png",Fox Life
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/tv/logos/fox life.png",Fox Life
 http://tvultimate.mx/stream/tvultimate.php?id=1427
 
-#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/Latino-DISTRITO- COMEDIA.png",Distrito Comedia
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/tv/logos/Latino-DISTRITO- COMEDIA.png",Distrito Comedia
 http://tvultimate.mx/stream/tvultimate.php?id=1431 
 
-#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/tbs.png",TBS
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/tv/logos/tbs.png",TBS
 http://tvultimate.mx/stream/tvultimate.php?id=1435
 
-#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/tlnovelas.png",Tlnovelas [COLOR red]OFFLINE[/COLOR]
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/tv/logos/tlnovelas.png",Tlnovelas [COLOR red]OFFLINE[/COLOR]
 http://tvultimate.mx/stream/tvultimate.php?id=186
 
 
-#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/discovery channel.png",DISCOVERY HD Teather 
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/tv/logos/discovery channel.png",DISCOVERY HD Teather 
 http://tvultimate.mx/stream/tvultimate.php?id=1503
 
-#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/history hd.png",History
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/tv/logos/history hd.png",History
 http://tvultimate.mx/stream/tvultimate.php?id=1507
 
-#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/history hd.png",History 2 [COLOR orange]-NFPS-[/COLOR]
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/tv/logos/history hd.png",History 2 [COLOR orange]-NFPS-[/COLOR]
 http://tvultimate.mx/tvultimate.php?id=297
 
-#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/tvultimate.png",Mundofox [COLOR orange]-NFPS-[/COLOR]
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/tv/logos/tvultimate.png",Mundofox [COLOR orange]-NFPS-[/COLOR]
 http://tvultimate.mx/tvultimate.php?id=429
 
-#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/natgeo wild hd.png",NatGeo Wild HD
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/tv/logos/natgeo wild hd.png",NatGeo Wild HD
 http://tvultimate.mx/stream/tvultimate.php?id=1511
 
-#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/tlc hd.png",TLC HD
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/tv/logos/tlc hd.png",TLC HD
 http://tvultimate.mx/stream/tvultimate.php?id=1552
-#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/discovery channel.png",Discovery Channel
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/tv/logos/discovery channel.png",Discovery Channel
 http://tvultimate.mx/stream/tvultimate.php?id=1520
-#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/discovery channel.png",Discovery World
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/tv/logos/discovery channel.png",Discovery World
 http://tvultimate.mx/stream/tvultimate.php?id=1515
-#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/animal planet.png",Animal Planet
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/tv/logos/animal planet.png",Animal Planet
 http://tvultimate.mx/stream/tvultimate.php?id=1524
-#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/home and health.png",Home and Health
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/tv/logos/home and health.png",Home and Health
 http://tvultimate.mx/stream/tvultimate.php?id=1528 
-#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/natgeo.png",NatGeo
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/tv/logos/natgeo.png",NatGeo
 http://tvultimate.mx/stream/tvultimate.php?id=1532
-#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/lifetime.png",Lifetime
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/tv/logos/lifetime.png",Lifetime
 http://tvultimate.mx/stream/tvultimate.php?id=1536
-#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/discovery science.png",Discovery Science
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/tv/logos/discovery science.png",Discovery Science
 http://tvultimate.mx/stream/tvultimate.php?id=1540
-#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/discovery civilization.png",Discovery Civilization
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/tv/logos/discovery civilization.png",Discovery Civilization
 http://tvultimate.mx/stream/tvultimate.php?id=1544
-#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/turbo dis.png",Discovery Turbo
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/tv/logos/turbo dis.png",Discovery Turbo
 http://tvultimate.mx/stream/tvultimate.php?id=1548
 
-#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/wobi tv.png",WOBI TV 
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/tv/logos/wobi tv.png",WOBI TV 
 http://tvultimate.mx/stream/tvultimate.php?id=1556
 
-#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/tvultimate.png",Cine Latino [COLOR orange]-NFPS-[/COLOR]
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/tv/logos/tvultimate.png",Cine Latino [COLOR orange]-NFPS-[/COLOR]
 http://tvultimate.mx/tvultimate.php?id=477
 
-#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/tvultimate.png",Cine Dinamita [COLOR orange]-NFPS-[/COLOR]
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/tv/logos/tvultimate.png",Cine Dinamita [COLOR orange]-NFPS-[/COLOR]
 http://tvultimate.mx/tvultimate.php?id=3465
 
-#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/cinecanal hd.png",Cinecanal HD
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/tv/logos/cinecanal hd.png",Cinecanal HD
 http://tvultimate.mx/stream/tvultimate.php?id=1583
 
-#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/cinecanal hd.png",Cinecanal
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/tv/logos/cinecanal hd.png",Cinecanal
 http://tvultimate.mx/stream/tvultimate.php?id=1612
 
-#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/tnt hd.png",TNT HD
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/tv/logos/tnt hd.png",TNT HD
 http://tvultimate.mx/stream/tvultimate.php?id=1587
 
-#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/tnt hd.png",TNT
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/tv/logos/tnt hd.png",TNT
 http://tvultimate.mx/stream/tvultimate.php?id=1620
 
-#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/golden.png",Golden HD
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/tv/logos/golden.png",Golden HD
 http://tvultimate.mx/stream/tvultimate.php?id=1591
 
-#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/the film zone hd.png",The Film Zone HD
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/tv/logos/the film zone hd.png",The Film Zone HD
 http://tvultimate.mx/stream/tvultimate.php?id=1595
 
-#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/de pelicula hd.png",De Película HD
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/tv/logos/de pelicula hd.png",De Película HD
 http://tvultimate.mx/stream/tvultimate.php?id=1599
 
-#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/de pelicula hd.png",De Película Clasico [COLOR green]-EXTERNO-[/COLOR]
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/tv/logos/de pelicula hd.png",De Película Clasico [COLOR green]-EXTERNO-[/COLOR]
 http://104.131.39.88:1583/dpeliculaclasica/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/amc hd.png",AMC
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/tv/logos/amc hd.png",AMC
 http://tvultimate.mx/stream/tvultimate.php?id=1603
 
-#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/space hd.png",Space
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/tv/logos/space hd.png",Space
 http://tvultimate.mx/stream/tvultimate.php?id=1632
 
-#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/space hd.png",Space HD
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/tv/logos/space hd.png",Space HD
 http://tvultimate.mx/stream/tvultimate.php?id=1607
 
-#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/tvtultimate.png",Cinemax
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/tv/logos/tvtultimate.png",Cinemax
 http://tvultimate.mx/stream/tvultimate.php?id=1616
 
-#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/golden edge.png",Golden Edge 
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/tv/logos/golden edge.png",Golden Edge 
 http://tvultimate.mx/stream/tvultimate.php?id=1624
 
-#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/studio universal.png",Studio Universal
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/tv/logos/studio universal.png",Studio Universal
 http://tvultimate.mx/stream/tvultimate.php?id=1636
 
 
-#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/sat.1 hd.png",I.Sat
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/tv/logos/sat.1 hd.png",I.Sat
 http://tvultimate.mx/stream/tvultimate.php?id=1640
 
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/fox 1 hd.png",Fox 1 HD  [COLOR orange]SD[/COLOR]
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/tv/logos/fox 1 hd.png",Fox 1 HD  [COLOR orange]SD[/COLOR]
 http://tvultimate.mx/stream/tvultimate.php?id=1559
 
-#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/fox 1 hd.png",Fox 1 HD  [COLOR green]HD[/COLOR]
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/tv/logos/fox 1 hd.png",Fox 1 HD  [COLOR green]HD[/COLOR]
 http://tvultimate.mx/stream/tvultimate.php?id=1560
 
-#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/fox action.png",Fox Action HD   [COLOR orange]SD[/COLOR]
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/tv/logos/fox action.png",Fox Action HD   [COLOR orange]SD[/COLOR]
 http://tvultimate.mx/stream/tvultimate.php?id=1563
 
-#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/fox action.png",Fox Action HD   [COLOR green]HD[/COLOR]
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/tv/logos/fox action.png",Fox Action HD   [COLOR green]HD[/COLOR]
 http://tvultimate.mx/stream/tvultimate.php?id=1564
 
-#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/fox movies HD.png",Fox Movies HD  [COLOR orange]SD[/COLOR]
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/tv/logos/fox movies HD.png",Fox Movies HD  [COLOR orange]SD[/COLOR]
 http://tvultimate.mx/stream/tvultimate.php?id=1567 
 
-#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/fox movies HD.png",Fox Movies HD   [COLOR green]HD[/COLOR]
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/tv/logos/fox movies HD.png",Fox Movies HD   [COLOR green]HD[/COLOR]
 http://tvultimate.mx/stream/tvultimate.php?id=1568 
 
 
-#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/fox cinema.png",Fox Cinema 
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/tv/logos/fox cinema.png",Fox Cinema 
 http://tvultimate.mx/stream/tvultimate.php?id=1572
 
 
 
-#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/fox cinema.png",Fox Classics
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/tv/logos/fox cinema.png",Fox Classics
 http://tvultimate.mx/stream/tvultimate.php?id=1576
 
 
-#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/golden.png",Golden Premier [COLOR orange]-NFPS-[/COLOR]
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/tv/logos/golden.png",Golden Premier [COLOR orange]-NFPS-[/COLOR]
 http://tvultimate.mx/tvultimate.php?id=4777
 
-#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/golden.png",Golden Premier2 [COLOR orange]-NFPS-[/COLOR]
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/tv/logos/golden.png",Golden Premier2 [COLOR orange]-NFPS-[/COLOR]
 http://tvultimate.mx/tvultimate.php?id=4772
-#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/tvultimate.png" group-title="ULTIMATE PREMIUM",Max Prime [COLOR orange]-NFPS-[/COLOR]
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/tv/logos/tvultimate.png" group-title="ULTIMATE PREMIUM",Max Prime [COLOR orange]-NFPS-[/COLOR]
 http://tvultimate.mx/tvultimate.php?id=377
 
 
 
-#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/HBO.png",HBO [COLOR orange]-NFPS-[/COLOR]
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/tv/logos/HBO.png",HBO [COLOR orange]-NFPS-[/COLOR]
 http://tvultimate.mx/tvultimate.php?id=385
 
 
-#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/hbo2.png",HBO 2  [COLOR orange]-NFPS-[/COLOR]
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/tv/logos/hbo2.png",HBO 2  [COLOR orange]-NFPS-[/COLOR]
 http://tvultimate.mx/tvultimate.php?id=365
 
-#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/HBO.png",HBO Family  [COLOR orange]-NFPS-[/COLOR]
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/tv/logos/HBO.png",HBO Family  [COLOR orange]-NFPS-[/COLOR]
 http://tvultimate.mx/tvultimate.php?id=449
 
-#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/HBO.png",HBO Signature  [COLOR orange]-NFPS-[/COLOR]
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/tv/logos/HBO.png",HBO Signature  [COLOR orange]-NFPS-[/COLOR]
 http://tvultimate.mx/tvultimate.php?id=451
 
-#EXTINF:-1 tvg-logo="http://tvultimate.mx/logos/hbo plus.png",HBO Plus [COLOR orange]-NFPS-[/COLOR]
+#EXTINF:-1 tvg-logo="http://tvultimate.mx/tv/logos/hbo plus.png",HBO Plus [COLOR orange]-NFPS-[/COLOR]
 http://tvultimate.mx/tvultimate.php?id=453
 
 
