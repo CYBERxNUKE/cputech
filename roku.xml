@@ -50,7 +50,7 @@
 <description>FOX Sport HD</description> 
 <streamformat>hls</streamformat>
 <streamBitrate>0</streamBitrate>
-<media:content url="http://tvultimate.mx/stream/tvultimate.php?id=1660" /> 
+<media:content url="http://tvultimate.mx/stream/tvultimatevip.php?id=1660" /> 
 <media:thumbnail url="http://tvultimate.mx/tv/logos/fox%20sports%20hd.png" /> 
 </item> 
 <item> 
