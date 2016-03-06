@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?> 
-<rss version="2.0"> 
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss">
 <channel> 
 <title>####</title> 
 <link>http://www.####.com</link> 
@@ -9,32 +9,65 @@
 <category>Streaming Video</category> 
 <description>Azteca 13 HD</description> 
 <streamformat>hls</streamformat>
-<media:content url="http://stream2.tvit.ba:80/live?channelId=1&uid=201&deviceUser=usmirt&devicePass=iptv2224"/> 
-<media:thumbnail url="http://byui-web.github.io/BYU-I-Roku-Channel/images/live.png" /> 
+<media:content url="http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/master.m3u8"/> 
+<media:thumbnail url="http://unimastv.tv/tvc-static/images/channels/player/azteca13.png" /> 
 </item> 
 <item> 
-<title>91.5 FM</title> 
+<title>AZTECA 7</title> 
 <category>Streaming Video</category> 
-<description>91.5 Live Feed</description> 
+<description>test</description> 
 <streamformat>hls</streamformat>
-<media:content url="http://byui-lh.akamaihd.net/i/kbyr_1@186144/master.m3u8"/> 
-<media:thumbnail url="http://byui-web.github.io/BYU-I-Roku-Channel/images/91.png" /> 
+<media:content url="http://38.104.228.230:1938/info7/info7_512/playlist.m3u8" /> 
+<media:thumbnail url="http://unimastv.tv/tvc-static/images/channels/player/azteca7.png" /> 
 </item> 
 <item> 
-<title>94.3 FM</title> 
+<title>Anime Español</title> 
 <category>Streaming Video</category> 
 <description>94.3 Live Feed</description> 
 <streamformat>hls</streamformat>
-<media:content url="http://byui-lh.akamaihd.net/i/kbyi_1@186144/master.m3u8"/> 
-<media:thumbnail url="http://byui-web.github.io/BYU-I-Roku-Channel/images/94.png" /> 
+<media:content url="http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8" /> 
+<media:thumbnail url="https://image.roku.com/channels/images/05a0bb501cbc4d3bbc4e4aa639a8cd7d-hd.jpg" /> 
 </item> 
 <item> 
-<title>Online Radio</title> 
+<title>Universal Movies</title> 
 <category>Online Radio</category> 
 <description>Online Radio Live Feed</description> 
 <streamformat>hls</streamformat>
-<media:content url="http://byui-lh.akamaihd.net/i/onlinerad_1@186144/master.m3u8"/> 
-<media:thumbnail url="http://byui-web.github.io/BYU-I-Roku-Channel/images/online.png" /> 
+<media:content url="http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8" /> 
+<media:thumbnail url="https://upload.wikimedia.org/wikipedia/en/f/f4/Universal_Studios_Logo.png" /> 
+</item> 
+<item>
+<title>Telemundo</title> 
+<category>Online Radio</category> 
+<description>Telemundo</description> 
+<streamformat>hls</streamformat>
+<media:content url="http://iphone-streaming.ustream.tv/uhls/21733416/streams/live/iphone/playlist.m3u8" /> 
+<media:thumbnail url="https://lh5.ggpht.com/TEfYd1Bj_fniCwK0Tkufw6q8iVtsai66CooYGcE5JMIoZjfXo7Yj3Rjw66azuvyjCg=w300" /> 
+</item> 
+<item> 
+<title>FOX Sports HD</title> 
+<category>Online Radio</category> 
+<description>FOX Sport HD</description> 
+<streamformat>hls</streamformat>
+<streamBitrate>0</streamBitrate>
+<media:content url="http://tvultimate.mx/stream/tvultimate.php?id=1660" /> 
+<media:thumbnail url="http://tvultimate.mx/tv/logos/fox%20sports%20hd.png" /> 
+</item> 
+<item> 
+<title>Univision</title> 
+<category>Streaming Video</category> 
+<description>Univision</description> 
+<streamformat>hls</streamformat>
+<media:content url="http://iphone-streaming.ustream.tv/uhls/21680354/streams/live/iphone/playlist.m3u8"/> 
+<media:thumbnail url="http://unimastv.tv/tvc-static/images/channels/player/univision.png" /> 
+</item> 
+<item> 
+<title>Cinema Max</title> 
+<category>Streaming Video</category> 
+<description>Cinema Max</description> 
+<streamformat>hls</streamformat>
+<media:content url="http://www.dododge.net/roku/hd-test-streams/football.ts"/> 
+<media:thumbnail url="http://www.itver.cc/wp-content/uploads/2015/07/MTV-HD-670x300.jpg" /> 
 </item> 
 
 </channel> 
