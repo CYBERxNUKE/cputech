@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="",FOX Sports 2 HD
+plugin://plugin.video.tvultimate/?action=play&title=%5BCOLOR+red%5D%5BI%5D%5B%2FI%5D%5B%2FCOLOR%5D%5BCOLOR+white%5DFox+Sports+2+%5BCOLOR+green%5DHD%5B%2FCOLOR%5D+%5BCOLOR+blue%5D%5BHTTP%5D%5B%2FCOLOR%5D&url=http%3A%2F%2Ftvultimate.mx%2Fstream%2Ftvultimateoficial.php%3Fid%3D1664&thumbnail=http%3A%2F%2Ftvultimate.mx%2Flogos%2Ffox+sports+2+hd.png&plot=.&extra=list&page=
+
 #EXTINF:-1 tvg-logo="",Azteca 13 HD
 http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
 
