@@ -9,7 +9,11 @@ http://188.166.171.119/hls/live.m3u8
 #EXTINF:-1 tvg-logo="",Wrestlemania 32 HD
 http://188.166.171.117/hls/live.m3u8
 
+#EXTINF:-1 tvg-logo="",Wrestlemania 32 MQ
+http://104.131.92.74/hls/live.m3u8
 
+#EXTINF:-1 tvg-logo="",Wrestlemania 32 LQ
+http://139.59.251.81/hls/live.m3u8
 
 #EXTINF:-1 tvg-logo="",Azteca 13 HD
 http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
