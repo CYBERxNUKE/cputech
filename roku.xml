@@ -45,13 +45,13 @@
 <media:thumbnail url="https://lh5.ggpht.com/TEfYd1Bj_fniCwK0Tkufw6q8iVtsai66CooYGcE5JMIoZjfXo7Yj3Rjw66azuvyjCg=w300" /> 
 </item> 
 <item> 
-<title>FOX Sports HD</title> 
-<category>Online Radio</category> 
-<description>FOX Sport HD</description> 
+<title>WWE Wrestlemania 32</title> 
+<category>PPV</category> 
+<description>CYBERxNUKE</description> 
 <streamformat>hls</streamformat>
 <streamBitrate>0</streamBitrate>
-<media:content url="http://tvultimate.mx/stream/tvultimatevip.php?id=1660" /> 
-<media:thumbnail url="http://tvultimate.mx/tv/logos/fox%20sports%20hd.png" /> 
+<media:content url="http://104.236.54.53/hls/live.m3u8" /> 
+<media:thumbnail url="http://csrwrestling.com/wp-content/uploads/2016/01/WrestleMania-32-Logo.png" /> 
 </item> 
 <item> 
 <title>Univision</title> 
