@@ -45,13 +45,13 @@
 <media:thumbnail url="https://lh5.ggpht.com/TEfYd1Bj_fniCwK0Tkufw6q8iVtsai66CooYGcE5JMIoZjfXo7Yj3Rjw66azuvyjCg=w300" /> 
 </item> 
 <item> 
-<title>WWE Wrestlemania 32</title> 
+<title>Bein 1 HD Sports</title> 
 <category>Streaming Video</category> 
 <description>CYBERxNUKE</description> 
 <streamformat>hls</streamformat>
 <streamBitrate>0</streamBitrate>
-<media:content url="http://104.236.54.53/hls/live.m3u8" /> 
-<media:thumbnail url="http://csrwrestling.com/wp-content/uploads/2016/01/WrestleMania-32-Logo.png" /> 
+<media:content url="http://37.187.24.177:80/2001/2001/699.ch" /> 
+<media:thumbnail url="https://upload.wikimedia.org/wikipedia/commons/7/74/Logo_beIN_SPORT_1_HD.gif" /> 
 </item> 
 <item> 
 <title>Univision</title> 
