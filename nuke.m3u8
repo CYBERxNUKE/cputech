@@ -1,5 +1,3 @@
-http://66.151.244.79/sinsessionv1.php?canal=832&calidad=03&ip=237&f=.m3u8
-
 #EXTM3U
 #EXTINF:0, CBS NEWS
 http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key=563b80c1ae4ce359830f572d2496a947
@@ -223,3 +221,4 @@ http://66.151.244.79/sinsessionv1.php?canal=732&calidad=03&ip=237&f=.m3u8
 http://66.151.244.79/sinsessionv1.php?canal=733&calidad=03&ip=237&f=.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="",DOWN
 http://66.151.244.79/sinsessionv1.php?canal=998&calidad=03&ip=237&f=.m3u8
+
