@@ -1,0 +1,225 @@
+http://66.151.244.79/sinsessionv1.php?canal=832&calidad=03&ip=237&f=.m3u8
+
+#EXTM3U
+#EXTINF:0, CBS NEWS
+http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key=563b80c1ae4ce359830f572d2496a947
+#EXTINF:-1 tvg-name="" tvg-logo="",test playtv1
+https://raw.githubusercontent.com/CYBERxNUKE/cputech/master/test.m3u8
+#EXTINF:-1 tvg-name="nfl_now" tvg-logo="nfl.gif",NFL NOW
+http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="totalplay.gif",1 - TOTAL PLAY - BY CYBERxNUKE
+http://66.151.244.79/sinsessionv1.php?canal=1&calidad=03&ip=237&f=.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="az-noticias.gif",2 - AZ Noticias HD
+http://66.151.244.79/sinsessionv1.php?canal=2&calidad=03&ip=237&f=.m3u8
+#EXTINF:-1 tvg-name="El_Trece" tvg-logo="el-trece.gif",13 - El Trece HD
+http://66.151.244.79/sinsessionv1.php?canal=13&calidad=03&ip=237&f=.m3u8
+#EXTINF:-1 tvg-name="Azteca_7" tvg-logo="azteca-7.gif",17 - Azteca 7 HD
+http://66.151.244.79/sinsessionv1.php?canal=17&calidad=03&ip=237&f=.m3u8
+#EXTINF:-1 tvg-name="El_Trece" tvg-logo="el-trece.gif",23 - El Trece HD
+http://66.151.244.79/sinsessionv1.php?canal=23&calidad=03&ip=237&f=.m3u8
+#EXTINF:-1 tvg-name="Proyecto_40" tvg-logo="proyecto-40.gif",40 - Proyecto 40 HD
+http://66.151.244.79/sinsessionv1.php?canal=40&calidad=03&ip=237&f=.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="az-corazon.gif",45 - AZ Corazon
+http://66.151.244.79/sinsessionv1.php?canal=45&calidad=03&ip=237&f=.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="canal-2.gif",52 - Canal de las Estrellas
+http://66.151.244.79/sinsessionv1.php?canal=52&calidad=03&ip=237&f=.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="canal-5.gif",55 - Canal 5
+http://66.151.244.79/sinsessionv1.php?canal=55&calidad=03&ip=237&f=.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="canal-2-hd.gif",102 - Canal 2 HD
+http://66.151.244.79/sinsessionv1.php?canal=102&calidad=03&ip=237&f=.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="foro-tv-hd.gif",104 - FOROtv HD
+http://66.151.244.79/sinsessionv1.php?canal=104&calidad=03&ip=237&f=.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="canal-5-hd.gif",105 - Canal 5 HD
+http://66.151.244.79/sinsessionv1.php?canal=105&calidad=03&ip=237&f=.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="azteca-7.gif",107 - Azteca 7 HD
+http://66.151.244.79/sinsessionv1.php?canal=107&calidad=03&ip=237&f=.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="gala-tv.gif",109 - Gala TV HD
+http://66.151.244.79/sinsessionv1.php?canal=109&calidad=03&ip=237&f=.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="once-tv.gif",111 - Once TV HD
+http://66.151.244.79/sinsessionv1.php?canal=111&calidad=03&ip=237&f=.m3u8
+#EXTINF:-1 tvg-name="El_Trece" tvg-logo="el-trece.gif",113 - El Trece HD
+http://66.151.244.79/sinsessionv1.php?canal=113&calidad=03&ip=237&f=.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="proyecto-40.gif",140 - Proyecto 40 HD
+http://66.151.244.79/sinsessionv1.php?canal=140&calidad=03&ip=237&f=.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="teleformula.gif",161 - TeleFormula HD
+http://66.151.244.79/sinsessionv1.php?canal=161&calidad=03&ip=237&f=.m3u8
+#EXTINF:-1 tvg-name="Fox" tvg-logo="fox.gif",201 - FOX HD
+http://66.151.244.79/sinsessionv1.php?canal=201&calidad=03&ip=237&f=.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="sony.gif",203 - SONY HD
+http://66.151.244.79/sinsessionv1.php?canal=203&calidad=03&ip=237&f=.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="warner-channel.gif",205 - Warner HD
+http://66.151.244.79/sinsessionv1.php?canal=205&calidad=03&ip=237&f=.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="universal-channel.gif",207 - Universal HD 
+http://66.151.244.79/sinsessionv1.php?canal=207&calidad=03&ip=237&f=.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="fx.gif",209 - FX HD
+http://66.151.244.79/sinsessionv1.php?canal=209&calidad=03&ip=237&f=.m3u8
+#EXTINF:-1 tvg-name="A&E" tvg-logo="ae.gif",211 - A&E HD
+http://66.151.244.79/sinsessionv1.php?canal=211&calidad=03&ip=237&f=.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="axn.gif",213 - AXN HD
+http://66.151.244.79/sinsessionv1.php?canal=213&calidad=03&ip=237&f=.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="comedy-central.gif",217 - Comedy Central
+http://66.151.244.79/sinsessionv1.php?canal=217&calidad=03&ip=237&f=.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="fox.gif",251 - FOX HD
+http://66.151.244.79/sinsessionv1.php?canal=251&calidad=03&ip=237&f=.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="bbc-entertainment.gif",253 - BBC Entertainment HD
+http://66.151.244.79/sinsessionv1.php?canal=253&calidad=03&ip=237&f=.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="e-entertainment-television.gif",255 - E! HD
+http://66.151.244.79/sinsessionv1.php?canal=255&calidad=03&ip=237&f=.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="universal-hd.gif",256 - Universal HD
+http://66.151.244.79/sinsessionv1.php?canal=256&calidad=03&ip=237&f=.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="syfy.gif",257 - SyFy HD
+http://66.151.244.79/sinsessionv1.php?canal=257&calidad=03&ip=237&f=.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="fx.gif",258 - FX HD
+http://66.151.244.79/sinsessionv1.php?canal=258&calidad=03&ip=237&f=.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="",DOWN
+http://66.151.244.79/sinsessionv1.php?canal=261&calidad=03&ip=237&f=.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="tnt.gif",266 - TNT HD
+http://66.151.244.79/sinsessionv1.php?canal=266&calidad=03&ip=237&f=.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="",DOWN
+http://66.151.244.79/sinsessionv1.php?canal=267&calidad=03&ip=237&f=.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="el-gourmet.gif",268 - El Gourmet HD
+http://66.151.244.79/sinsessionv1.php?canal=268&calidad=03&ip=237&f=.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="glitz.gif",270 - Glitz HD
+http://66.151.244.79/sinsessionv1.php?canal=270&calidad=03&ip=237&f=.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="fox-life.gif",271 - FOX Life HD
+http://66.151.244.79/sinsessionv1.php?canal=271&calidad=03&ip=237&f=.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="distrito-comedia.gif",272 - Distrito Comedia HD
+http://66.151.244.79/sinsessionv1.php?canal=272&calidad=03&ip=237&f=.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="tbs.gif",273 - TBS HD
+http://66.151.244.79/sinsessionv1.php?canal=273&calidad=03&ip=237&f=.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="casa-club.gif",274 - Casa Club HD
+http://66.151.244.79/sinsessionv1.php?canal=274&calidad=03&ip=237&f=.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="tlnovelas.gif",275 - Tlnovelas HD
+http://66.151.244.79/sinsessionv1.php?canal=275&calidad=03&ip=237&f=.m3u8
+#EXTINF:-1 tvg-name="telemundo" tvg-logo="telemundo.gif",277 Telemundo
+http://streamup.global.ssl.fastly.net/app/telemundox2chivas_69s-stream/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="discovery-kids.gif",303 - Discovery Kids HD
+http://66.151.244.79/sinsessionv1.php?canal=303&calidad=03&ip=237&f=.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="cbeebies.gif",305 - CBeebies HD
+http://66.151.244.79/sinsessionv1.php?canal=305&calidad=03&ip=237&f=.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="disney-jr.gif",308 - Disney Jr HD
+http://66.151.244.79/sinsessionv1.php?canal=308&calidad=03&ip=237&f=.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="nick-jr.gif",310 - Nick JR HD
+http://66.151.244.79/sinsessionv1.php?canal=310&calidad=03&ip=237&f=.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="disney-channel.gif",312 - Disney Channel HD
+http://66.151.244.79/sinsessionv1.php?canal=312&calidad=03&ip=237&f=.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="nick-hd.gif",315 - Nick HD
+http://66.151.244.79/sinsessionv1.php?canal=315&calidad=03&ip=237&f=.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="nickelodeon-nick.gif",317 - Nickelodeon HD
+http://66.151.244.79/sinsessionv1.php?canal=317&calidad=03&ip=237&f=.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="cartoon-network.gif",320 - Cartoon Network HD
+http://66.151.244.79/sinsessionv1.php?canal=320&calidad=03&ip=237&f=.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="disney-xd.gif",322 - Disney XD HD
+http://66.151.244.79/sinsessionv1.php?canal=322&calidad=03&ip=237&f=.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="boomerang.gif",324 - Boomerang HD
+http://66.151.244.79/sinsessionv1.php?canal=324&calidad=03&ip=237&f=.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="tiin.gif",325 - TIIN HD
+http://66.151.244.79/sinsessionv1.php?canal=325&calidad=03&ip=237&f=.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="hd-theater.gif",351 - HD Theater
+http://66.151.244.79/sinsessionv1.php?canal=351&calidad=03&ip=237&f=.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="history-hd.gif",353 - History HD
+http://66.151.244.79/sinsessionv1.php?canal=353&calidad=03&ip=237&f=.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="natgeo-wild.gif",355 - NatGeo Wild HD
+http://66.151.244.79/sinsessionv1.php?canal=355&calidad=03&ip=237&f=.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="discovery-world-hd.gif",356 - Discovery World HD
+http://66.151.244.79/sinsessionv1.php?canal=356&calidad=03&ip=237&f=.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="discovery-channel.gif",371 - Discovery Channel HD
+http://66.151.244.79/sinsessionv1.php?canal=371&calidad=03&ip=237&f=.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="animal-planet.gif",373 - Animal Planet HD
+http://66.151.244.79/sinsessionv1.php?canal=373&calidad=03&ip=237&f=.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="home-and-health.gif",374 - Home and Health HD
+http://66.151.244.79/sinsessionv1.php?canal=374&calidad=03&ip=237&f=.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="natgeo.gif",377 - NatGeo HD
+http://66.151.244.79/sinsessionv1.php?canal=377&calidad=03&ip=237&f=.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="lifetime.gif",379 - Lifetime HD
+http://66.151.244.79/sinsessionv1.php?canal=379&calidad=03&ip=237&f=.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="discovery-science.gif",381 - Discovery Science HD
+http://66.151.244.79/sinsessionv1.php?canal=381&calidad=03&ip=237&f=.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="discovery-civilization.gif",382 - Discovery Civilization HD
+http://66.151.244.79/sinsessionv1.php?canal=382&calidad=03&ip=237&f=.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="tlc.gif",386 - TLC HD
+http://66.151.244.79/sinsessionv1.php?canal=386&calidad=03&ip=237&f=.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="wobi-tv.gif",387 - WOBI TV HD
+http://66.151.244.79/sinsessionv1.php?canal=387&calidad=03&ip=237&f=.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="",DOWN
+http://66.151.244.79/sinsessionv1.php?canal=414&calidad=03&ip=237&f=.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="fox-1-hd.gif",415 - Fox 1 HD
+http://66.151.244.79/sinsessionv1.php?canal=415&calidad=03&ip=237&f=.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="fox-action.gif",416 - Fox Action HD
+http://66.151.244.79/sinsessionv1.php?canal=416&calidad=03&ip=237&f=.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="fox-movies.gif",417 - Fox Movies HD
+http://66.151.244.79/sinsessionv1.php?canal=417&calidad=03&ip=237&f=.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="cinecanal-hd.gif",430 - Cinecanal HD
+http://66.151.244.79/sinsessionv1.php?canal=430&calidad=03&ip=237&f=.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="tnt-hd.gif",435 - TNT HD
+http://66.151.244.79/sinsessionv1.php?canal=435&calidad=03&ip=237&f=.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="golden-hd.gif",436 - Golden HD
+http://66.151.244.79/sinsessionv1.php?canal=436&calidad=03&ip=237&f=.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="the-film-zone-hd.gif",440 - The Film Zone HD
+http://66.151.244.79/sinsessionv1.php?canal=440&calidad=03&ip=237&f=.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="de-pelicula-hd.gif",442 - De Pelicula HD
+http://66.151.244.79/sinsessionv1.php?canal=442&calidad=03&ip=237&f=.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="amc-hd.gif",444 - AMC HD
+http://66.151.244.79/sinsessionv1.php?canal=444&calidad=03&ip=237&f=.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="space-hd.gif",445 - Space HD
+http://66.151.244.79/sinsessionv1.php?canal=445&calidad=03&ip=237&f=.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="",DOWN
+http://66.151.244.79/sinsessionv1.php?canal=460&calidad=03&ip=237&f=.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="",DOWN
+http://66.151.244.79/sinsessionv1.php?canal=461&calidad=03&ip=237&f=.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="",DOWN
+http://66.151.244.79/sinsessionv1.php?canal=462&calidad=03&ip=237&f=.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="",DOWN
+http://66.151.244.79/sinsessionv1.php?canal=463&calidad=03&ip=237&f=.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="",DOWN
+http://66.151.244.79/sinsessionv1.php?canal=468&calidad=03&ip=237&f=.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="fox-cinema.gif",472 - FOX Cinema HD
+http://66.151.244.79/sinsessionv1.php?canal=472&calidad=03&ip=237&f=.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="fox-family.gif",475 - FOX Family HD
+http://66.151.244.79/sinsessionv1.php?canal=475&calidad=03&ip=237&f=.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="fox-classics.gif",478 - FOX Classics HD
+http://66.151.244.79/sinsessionv1.php?canal=478&calidad=03&ip=237&f=.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="cinecanal-hd.gif",480 - Cinecanal HD
+http://66.151.244.79/sinsessionv1.php?canal=480&calidad=03&ip=237&f=.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="cinemax-w.gif",481 - Cinemax W HD
+http://66.151.244.79/sinsessionv1.php?canal=481&calidad=03&ip=237&f=.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="tnt-hd.gif",482 - TNT HD
+http://66.151.244.79/sinsessionv1.php?canal=482&calidad=03&ip=237&f=.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="golden-edge.gif",484 - Golden Edge HD
+http://66.151.244.79/sinsessionv1.php?canal=484&calidad=03&ip=237&f=.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="amc-hd.gif",490 - AMC HD
+http://66.151.244.79/sinsessionv1.php?canal=490&calidad=03&ip=237&f=.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="studio-universal.gif",492 - Studio Universal HD
+http://66.151.244.79/sinsessionv1.php?canal=492&calidad=03&ip=237&f=.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="tcm.gif",496 - TCM HD
+http://66.151.244.79/sinsessionv1.php?canal=496&calidad=03&ip=237&f=.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="espn-hd.gif",516 - ESPN HD
+http://66.151.244.79/sinsessionv1.php?canal=516&calidad=03&ip=237&f=.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="fox-sports.gif",522 - FOX Sports HD
+http://66.151.244.79/sinsessionv1.php?canal=522&calidad=03&ip=237&f=.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="fox-sports-2.gif",527 - Fox Sports 2 HD
+http://66.151.244.79/sinsessionv1.php?canal=527&calidad=03&ip=237&f=.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="espn-hd.gif",558 - ESPN
+http://66.151.244.79/sinsessionv1.php?canal=558&calidad=03&ip=237&f=.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="espn-2.gif",561 - ESPN 2
+http://66.151.244.79/sinsessionv1.php?canal=561&calidad=03&ip=237&f=.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="mtv-live-hd.gif",701 - MTV Live HD
+http://66.151.244.79/sinsessionv1.php?canal=701&calidad=03&ip=237&f=.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="telehit-hd.gif",702 - Telehit HD
+http://66.151.244.79/sinsessionv1.php?canal=702&calidad=03&ip=237&f=.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="vh1-hd.gif",703 - VH1 HD
+http://66.151.244.79/sinsessionv1.php?canal=703&calidad=03&ip=237&f=.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="mtv.gif",726 - MTV HD
+http://66.151.244.79/sinsessionv1.php?canal=726&calidad=03&ip=237&f=.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="mtv-hits.gif",727 - MTV Hits HD
+http://66.151.244.79/sinsessionv1.php?canal=727&calidad=03&ip=237&f=.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="vh1-classics.gif",728 - VH1 Classics HD
+http://66.151.244.79/sinsessionv1.php?canal=731&calidad=03&ip=237&f=.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="ritomoson-latino.gif",731 - Ritmoson Latino HD
+http://66.151.244.79/sinsessionv1.php?canal=726&calidad=03&ip=237&f=.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="bandamax.gif",732 - Bandamax HD
+http://66.151.244.79/sinsessionv1.php?canal=732&calidad=03&ip=237&f=.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="",DOWN
+http://66.151.244.79/sinsessionv1.php?canal=733&calidad=03&ip=237&f=.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="",DOWN
+http://66.151.244.79/sinsessionv1.php?canal=998&calidad=03&ip=237&f=.m3u8
