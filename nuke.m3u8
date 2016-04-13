@@ -109,7 +109,7 @@ http://66.151.244.79/sinsessionv1.php?canal=322&calidad=03&ip=237&f=.m3u8
 http://66.151.244.79/sinsessionv1.php?canal=324&calidad=03&ip=237&f=.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="tiin.gif",325 - TIIN HD
 http://66.151.244.79/sinsessionv1.php?canal=325&calidad=03&ip=237&f=.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="hd-theater.gif",351 - HD Theater
+#EXTINF:-1 tvg-name="" tvg-logo="discovery-theater-hdgif",351 - HD Theater
 http://66.151.244.79/sinsessionv1.php?canal=351&calidad=03&ip=237&f=.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="history-hd.gif",353 - History HD
 http://66.151.244.79/sinsessionv1.php?canal=353&calidad=03&ip=237&f=.m3u8
