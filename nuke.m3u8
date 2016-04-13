@@ -1,10 +1,6 @@
 #EXTM3U
-#EXTINF:0, CBS NEWS
+#EXTINF:-1, CBS NEWS
 http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key=563b80c1ae4ce359830f572d2496a947
-#EXTINF:-1 tvg-name="" tvg-logo="",test playtv1
-https://raw.githubusercontent.com/CYBERxNUKE/cputech/master/test.m3u8
-#EXTINF:-1 tvg-name="nfl_now" tvg-logo="nfl.gif",NFL NOW
-http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="totalplay.gif",1 - TOTAL PLAY - BY CYBERxNUKE
 http://66.151.244.79/sinsessionv1.php?canal=1&calidad=03&ip=237&f=.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="az-noticias.gif",2 - AZ Noticias HD
