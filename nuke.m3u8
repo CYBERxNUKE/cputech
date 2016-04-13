@@ -13,7 +13,7 @@ http://66.151.244.79/sinsessionv1.php?canal=17&calidad=03&ip=237&f=.m3u8
 http://66.151.244.79/sinsessionv1.php?canal=23&calidad=03&ip=237&f=.m3u8
 #EXTINF:-1 tvg-name="Proyecto_40" tvg-logo="proyecto-40.gif",40 - Proyecto 40 HD
 http://66.151.244.79/sinsessionv1.php?canal=40&calidad=03&ip=237&f=.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="az-corazon.gif",45 - AZ Corazon
+#EXTINF:-1 tvg-name="Az Corazon" tvg-logo="az-corazon.gif",45 - AZ Corazon
 http://66.151.244.79/sinsessionv1.php?canal=45&calidad=03&ip=237&f=.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="canal-2.gif",52 - Canal de las Estrellas
 http://66.151.244.79/sinsessionv1.php?canal=52&calidad=03&ip=237&f=.m3u8
