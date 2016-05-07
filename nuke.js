@@ -5,7 +5,7 @@ window.channels = [
     "image": "http://www.streamtvbox.com/site/placeholder.png",
     "sources": [
       {
-        "file": "plugin://program.plexus/?url=13139e30694a4902cc4bc8e0859d64c9851c80cb",
+        "file": "plugin://program.plexus/?url=13139e30694a4902cc4bc8e0859d64c9851c80cb&mode=1&name=CYBERxNUKE+Channel&mode=12",
         "default": "true",
         "type": "rtmp"
       }
@@ -15,7 +15,7 @@ window.channels = [
     "image": "http://nowwatchtvlive.me/wp-content/uploads/2015/09/amc_acestream.png",
     "sources": [
       {
-        "file": "plugin://program.plexus/?url=9d490c73b8376b3410d67bbe302947f2d3ab9baa",
+        "file": "plugin://program.plexus/?url=9d490c73b8376b3410d67bbe302947f2d3ab9baa&mode=1&name=CYBERxNUKE+Channel&mode=12",
         "default": "true",
         "type": "rtmp"
       }
