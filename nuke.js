@@ -19,8 +19,7 @@ window.channels = [
         "default": "true",
         "type": "rtmp"
       }
-  },
-
+  }
 ];
 window.channels.sort( function(a,b) 
 {
