@@ -15,11 +15,12 @@ window.channels = [
     "image": "http://nowwatchtvlive.me/wp-content/uploads/2015/09/amc_acestream.png",
     "sources": [
       {
-        "file": "acestream://9d490c73b8376b3410d67bbe302947f2d3ab9baa",
+        "file": "9d490c73b8376b3410d67bbe302947f2d3ab9baa",
         "default": "true",
         "type": "rtmp"
       }
-  }
+  },
+
 ];
 window.channels.sort( function(a,b) 
 {
