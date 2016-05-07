@@ -15,7 +15,7 @@ window.channels = [
     "image": "http://nowwatchtvlive.me/wp-content/uploads/2015/09/amc_acestream.png",
     "sources": [
       {
-        "file": "plugin%3A%2F%2Fprogram.plexus%2F%3Furl%3F9d490c73b8376b3410d67bbe302947f2d3ab9baa",
+        "file": "plugin%3A%2F%2Fprogram.plexus%2F%3Furl%3D9d490c73b8376b3410d67bbe302947f2d3ab9baa",
         "default": "true",
         "type": "rtmp"
       }
