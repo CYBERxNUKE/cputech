@@ -1,6 +1,6 @@
 window.channels = [
   {
-    "title": "Sportsnet World HD",
+    "title": "TSN 1",
 	"mediaid": "Sports HD",
     "image": "http://www.streamtvbox.com/site/placeholder.png",
     "sources": [
@@ -11,7 +11,7 @@ window.channels = [
       }
   },{
     "title": "AMC - Acestream",
-	"mediaid": "AMC",
+	"mediaid": "Sports HD",
     "image": "http://nowwatchtvlive.me/wp-content/uploads/2015/09/amc_acestream.png",
     "sources": [
       {
