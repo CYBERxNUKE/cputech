@@ -10,12 +10,12 @@ window.channels = [
         "type": "rtmp"
       }
   },{
-    "title": "CTV",
-	"mediaid": "Canadian",
-    "image": "http://e0.365dm.com/12/02/660x350/Sky-Sports-Living-For-Sport_2722560.jpg?20120222160959",
+    "title": "AMC - Acestream",
+	"mediaid": "AMC",
+    "image": "http://nowwatchtvlive.me/wp-content/uploads/2015/09/amc_acestream.png",
     "sources": [
       {
-        "file": "rtmp://192.99.128.85:1935/liveedge?wmsAuthSign=" + urlkey1 + "/ctv.stream",
+        "file": "acestream://9d490c73b8376b3410d67bbe302947f2d3ab9baa",
         "default": "true",
         "type": "rtmp"
       }
