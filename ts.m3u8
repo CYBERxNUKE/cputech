@@ -1,14 +1,11 @@
-#EXT-X-VERSION:3
 #EXTM3U
-#EXT-X-TARGETDURATION:30
-#EXT-X-MEDIA-SEQUENCE:1
-# Old-style integer duration; avoid for newer clients.
-#EXTINF:30,
+#EXT-X-MEDIA-SEQUENCE:1240780828
+#EXT-X-TARGETDURATION:10
+#EXTINF:12,
 http://camerta.com:8000/live/4197/4197/1309.ts
-# New-style floating-point duration; use for modern clients.
-#EXTINF:30.0,
+#EXTINF:10,
 http://camerta.com:8000/live/4197/4197/1309.ts
-#EXTINF:30,
+#EXTINF:10,
 http://camerta.com:8000/live/4197/4197/1309.ts
-#EXT-X-ENDLIST
+
  
