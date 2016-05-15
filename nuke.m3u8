@@ -179,6 +179,8 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL475/PROFILE03.m3u8?%2F.ts
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL478/PROFILE03.m3u8?%2F.ts
 #EXTINF:-1 tvg-name="" tvg-logo="cinecanal-hd.gif",480 - Cinecanal HD
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL480/PROFILE03.m3u8?%2F.ts
+#EXTINF:-1 tvg-name="" tvg-logo="cinemax.gif",481 - CineMAX HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL481/PROFILE03.m3u8?%2F.ts
 #EXTINF:-1 tvg-name="" tvg-logo="tnt-hd.gif",482 - TNT HD
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL482/PROFILE03.m3u8?%2F.ts
 #EXTINF:-1 tvg-name="" tvg-logo="golden-edge.gif",484 - Golden Edge HD
