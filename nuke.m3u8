@@ -1,6 +1,8 @@
 #EXTM3U
-#EXTINF:-1,UFC - Overeem vs Arlovski  2016 May 8 Sun 
+#EXTINF:-1,FOX Sports 1 
 http://ooyalahd2-f.akamaihd.net/i/eslax17_delivery@349499/master.m3u8
+#EXTINF:-1,UFC 198 - Saturday 14 
+http://cdn.sportlive.ws/hls/G22mQ1UYfbkrqNWh2M0aBw/1463285563/btsport2.m3u8
 #EXTINF:-1,Para television Mexicana
 http://
 #EXTINF:-1,Ve a Programs 
