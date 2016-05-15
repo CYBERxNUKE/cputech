@@ -1,0 +1,30 @@
+#EXT-X-VERSION:3
+ 
+#EXTM3U
+ 
+#EXT-X-TARGETDURATION:30
+ 
+#EXT-X-MEDIA-SEQUENCE:1
+ 
+ 
+ 
+# Old-style integer duration; avoid for newer clients.
+ 
+#EXTINF:10,
+ 
+http://tvservice.webhop.me:80/live/angelostoooc/MARIOSTOC/413.ts
+ 
+ 
+ 
+# New-style floating-point duration; use for modern clients.
+ 
+#EXTINF:10.0,
+ 
+http://tvservice.webhop.me:80/live/angelostoooc/MARIOSTOC/413.ts
+ 
+#EXTINF:9.5,
+ 
+http://tvservice.webhop.me:80/live/angelostoooc/MARIOSTOC/413.ts
+ 
+#EXT-X-ENDLIST
+ 
