@@ -1,23 +1,341 @@
 #EXTM3U
-#EXTINF:-1,FOX Sports 1 
-http://ooyalahd2-f.akamaihd.net/i/eslax17_delivery@349499/master.m3u8
-#EXTINF:-1,UFC 198 - Saturday 14 
-http://github.com/CYBERxNUKE/cputech/raw/master/ts.m3u8
-#EXTINF:-1,Para television Mexicana
-http://
-#EXTINF:-1,Ve a Programs 
-http://
-#EXTINF:-1,luego a Program Addons
-http:// 
-#EXTINF:-1,luego a Computertechs Installer
-http://
-#EXTINF:-1,luego a Spanish TV Addon.
-http://
-#EXTINF:-1,Presione Yes
-http://
-#EXTINF:-1,Regrese al inicio
-http://
-#EXTINF:-1,Presione AdryanList
-http://
-#EXTINF:-1,Luego a TotalPlay
-http://
+
+#EXTINF:-1, [COLOR yellow]Actualizado 6/7/2016 @ 10:20 PM  (MEXICO)[/COLOR]    
+http://t.tvultimate.mx
+
+#EXTINF:-1,WOBI TV
+http://149.56.19.12:8000/live/tvultimate/tvultimate/222.ts
+#EXTINF:-1,Win Sport
+http://149.56.19.12:8000/live/tvultimate/tvultimate/274.ts
+#EXTINF:-1,Warner HD
+http://149.56.19.12:8000/live/tvultimate/tvultimate/185.ts
+#EXTINF:-1,Vevo 2
+http://149.56.19.12:8000/live/tvultimate/tvultimate/294.ts
+#EXTINF:-1,Vevo 1
+http://149.56.19.12:8000/live/tvultimate/tvultimate/293.ts
+#EXTINF:-1,Univision
+http://149.56.19.12:8000/live/tvultimate/tvultimate/278.ts
+#EXTINF:-1,Universal Channel
+http://149.56.19.12:8000/live/tvultimate/tvultimate/186.ts
+#EXTINF:-1,Unicable
+http://149.56.19.12:8000/live/tvultimate/tvultimate/192.ts
+#EXTINF:-1,TYC Sport
+http://149.56.19.12:8000/live/tvultimate/tvultimate/270.ts
+#EXTINF:-1,TruTV HD
+http://149.56.19.12:8000/live/tvultimate/tvultimate/190.ts
+#EXTINF:-1,Tooncast
+http://149.56.19.12:8000/live/tvultimate/tvultimate/263.ts
+#EXTINF:-1,TNT Series
+http://149.56.19.12:8000/live/tvultimate/tvultimate/201.ts
+#EXTINF:-1,TNT HD
+http://149.56.19.12:8000/live/tvultimate/tvultimate/225.ts
+#EXTINF:-1,TNT
+http://149.56.19.12:8000/live/tvultimate/tvultimate/226.ts
+#EXTINF:-1,TLC
+http://149.56.19.12:8000/live/tvultimate/tvultimate/212.ts
+#EXTINF:-1,TIIN
+http://149.56.19.12:8000/live/tvultimate/tvultimate/264.ts
+#EXTINF:-1,The Film Zone HD
+http://149.56.19.12:8000/live/tvultimate/tvultimate/228.ts
+#EXTINF:-1,Telemundo
+http://149.56.19.12:8000/live/tvultimate/tvultimate/279.ts
+#EXTINF:-1,TBS
+http://149.56.19.12:8000/live/tvultimate/tvultimate/207.ts
+#EXTINF:-1,SyFy
+http://149.56.19.12:8000/live/tvultimate/tvultimate/198.ts
+#EXTINF:-1,Studio Universal
+http://149.56.19.12:8000/live/tvultimate/tvultimate/235.ts
+#EXTINF:-1,Space HD
+http://149.56.19.12:8000/live/tvultimate/tvultimate/232.ts
+#EXTINF:-1,Space
+http://149.56.19.12:8000/live/tvultimate/tvultimate/231.ts
+#EXTINF:-1,Sony HD
+http://149.56.19.12:8000/live/tvultimate/tvultimate/184.ts
+#EXTINF:-1,PX TV
+http://149.56.19.12:8000/live/tvultimate/tvultimate/241.ts
+#EXTINF:-1,Proyecto 40 SD
+http://149.56.19.12:8000/live/tvultimate/tvultimate/277.ts
+#EXTINF:-1,Proyecto 40
+http://149.56.19.12:8000/live/tvultimate/tvultimate/181.ts
+#EXTINF:-1,NickToons
+http://149.56.19.12:8000/live/tvultimate/tvultimate/257.ts
+#EXTINF:-1,Nickelodeon (Nick)
+http://149.56.19.12:8000/live/tvultimate/tvultimate/259.ts
+#EXTINF:-1,Nick Jr
+http://149.56.19.12:8000/live/tvultimate/tvultimate/255.ts
+#EXTINF:-1,Nick HD
+http://149.56.19.12:8000/live/tvultimate/tvultimate/258.ts
+#EXTINF:-1,NatGeo Wild HD
+http://149.56.19.12:8000/live/tvultimate/tvultimate/211.ts
+#EXTINF:-1,NatGeo
+http://149.56.19.12:8000/live/tvultimate/tvultimate/217.ts
+#EXTINF:-1,MIMUSICA HD
+http://149.56.19.12:8000/live/tvultimate/tvultimate/292.ts
+#EXTINF:-1,MÃ¡s chic
+http://149.56.19.12:8000/live/tvultimate/tvultimate/195.ts
+#EXTINF:-1,Lifetime
+http://149.56.19.12:8000/live/tvultimate/tvultimate/218.ts
+#EXTINF:-1,Investigacion Discovery
+http://149.56.19.12:8000/live/tvultimate/tvultimate/200.ts
+#EXTINF:-1,I.Sat
+http://149.56.19.12:8000/live/tvultimate/tvultimate/236.ts
+#EXTINF:-1,Home and Health
+http://149.56.19.12:8000/live/tvultimate/tvultimate/216.ts
+#EXTINF:-1,Hola TV
+http://149.56.19.12:8000/live/tvultimate/tvultimate/193.ts
+#EXTINF:-1,History Channel
+http://149.56.19.12:8000/live/tvultimate/tvultimate/210.ts
+#EXTINF:-1,Golden HD
+http://149.56.19.12:8000/live/tvultimate/tvultimate/227.ts
+#EXTINF:-1,Golden Edge
+http://149.56.19.12:8000/live/tvultimate/tvultimate/234.ts
+#EXTINF:-1,Glitz
+http://149.56.19.12:8000/live/tvultimate/tvultimate/204.ts
+#EXTINF:-1,Garaje TV
+http://149.56.19.12:8000/live/tvultimate/tvultimate/203.ts
+#EXTINF:-1,FX HD
+http://149.56.19.12:8000/live/tvultimate/tvultimate/187.ts
+#EXTINF:-1,FX
+http://149.56.19.12:8000/live/tvultimate/tvultimate/199.ts
+#EXTINF:-1,Fox Sports 2
+http://149.56.19.12:8000/live/tvultimate/tvultimate/239.ts
+#EXTINF:-1,Fox Sports
+http://149.56.19.12:8000/live/tvultimate/tvultimate/237.ts
+#EXTINF:-1,Fox Movies HD
+http://149.56.19.12:8000/live/tvultimate/tvultimate/267.ts
+#EXTINF:-1,Fox Life
+http://149.56.19.12:8000/live/tvultimate/tvultimate/205.ts
+#EXTINF:-1,Fox Classics
+http://149.56.19.12:8000/live/tvultimate/tvultimate/269.ts
+#EXTINF:-1,Fox CinÃ©ma
+http://149.56.19.12:8000/live/tvultimate/tvultimate/268.ts
+#EXTINF:-1,Fox Action HD
+http://149.56.19.12:8000/live/tvultimate/tvultimate/266.ts
+#EXTINF:-1,Fox 1 HD
+http://149.56.19.12:8000/live/tvultimate/tvultimate/265.ts
+#EXTINF:-1,Fox
+http://149.56.19.12:8000/live/tvultimate/tvultimate/183.ts
+#EXTINF:-1,Foro TV HD
+http://149.56.19.12:8000/live/tvultimate/tvultimate/182.ts
+#EXTINF:-1,Fashion TV
+http://149.56.19.12:8000/live/tvultimate/tvultimate/194.ts
+#EXTINF:-1,ESPN 3
+http://149.56.19.12:8000/live/tvultimate/tvultimate/248.ts
+#EXTINF:-1,ESPN 2
+http://149.56.19.12:8000/live/tvultimate/tvultimate/246.ts
+#EXTINF:-1,ESPN
+http://149.56.19.12:8000/live/tvultimate/tvultimate/243.ts
+#EXTINF:-1,El Trece HD
+http://149.56.19.12:8000/live/tvultimate/tvultimate/179.ts
+#EXTINF:-1,El Trece
+http://149.56.19.12:8000/live/tvultimate/tvultimate/276.ts
+#EXTINF:-1,El Gourmet
+http://149.56.19.12:8000/live/tvultimate/tvultimate/202.ts
+#EXTINF:-1,E! Entertainment Television
+http://149.56.19.12:8000/live/tvultimate/tvultimate/197.ts
+#EXTINF:-1,Distrito Comedia
+http://149.56.19.12:8000/live/tvultimate/tvultimate/206.ts
+#EXTINF:-1,Disney XD
+http://149.56.19.12:8000/live/tvultimate/tvultimate/261.ts
+#EXTINF:-1,Disney Jr
+http://149.56.19.12:8000/live/tvultimate/tvultimate/253.ts
+#EXTINF:-1,Disney Channel
+http://149.56.19.12:8000/live/tvultimate/tvultimate/256.ts
+#EXTINF:-1,Discovery World HD
+http://149.56.19.12:8000/live/tvultimate/tvultimate/214.ts
+#EXTINF:-1,Discovery Turbo
+http://149.56.19.12:8000/live/tvultimate/tvultimate/221.ts
+#EXTINF:-1,Discovery Theater HD
+http://149.56.19.12:8000/live/tvultimate/tvultimate/209.ts
+#EXTINF:-1,Discovery Science
+http://149.56.19.12:8000/live/tvultimate/tvultimate/219.ts
+#EXTINF:-1,Discovery Kids
+http://149.56.19.12:8000/live/tvultimate/tvultimate/252.ts
+#EXTINF:-1,Discovery Civilization
+http://149.56.19.12:8000/live/tvultimate/tvultimate/220.ts
+#EXTINF:-1,Discovery Channel
+http://149.56.19.12:8000/live/tvultimate/tvultimate/213.ts
+#EXTINF:-1,De Pelicula HD
+http://149.56.19.12:8000/live/tvultimate/tvultimate/229.ts
+#EXTINF:-1,Comedy Central
+http://149.56.19.12:8000/live/tvultimate/tvultimate/191.ts
+#EXTINF:-1,Cinemax (W)
+http://149.56.19.12:8000/live/tvultimate/tvultimate/233.ts
+#EXTINF:-1,Cinecanal HD
+http://149.56.19.12:8000/live/tvultimate/tvultimate/223.ts
+#EXTINF:-1,Cinecanal (W)
+http://149.56.19.12:8000/live/tvultimate/tvultimate/224.ts
+#EXTINF:-1,Cbeebies
+http://149.56.19.12:8000/live/tvultimate/tvultimate/254.ts
+#EXTINF:-1,Cartoon Network
+http://149.56.19.12:8000/live/tvultimate/tvultimate/260.ts
+#EXTINF:-1,Canal F1
+http://149.56.19.12:8000/live/tvultimate/tvultimate/250.ts
+#EXTINF:-1,Canal 5 HD
+http://149.56.19.12:8000/live/tvultimate/tvultimate/176.ts
+#EXTINF:-1,Canal 2 HD
+http://149.56.19.12:8000/live/tvultimate/tvultimate/175.ts
+#EXTINF:-1,Canal 2
+http://149.56.19.12:8000/live/tvultimate/tvultimate/275.ts
+#EXTINF:-1,Boomerang
+http://149.56.19.12:8000/live/tvultimate/tvultimate/262.ts
+#EXTINF:-1,BBC Entertainment
+http://149.56.19.12:8000/live/tvultimate/tvultimate/196.ts
+#EXTINF:-1,Azteca 7
+http://149.56.19.12:8000/live/tvultimate/tvultimate/177.ts
+#EXTINF:-1,AZNoticias
+http://149.56.19.12:8000/live/tvultimate/tvultimate/180.ts
+#EXTINF:-1,Az CorazÃ³n
+http://149.56.19.12:8000/live/tvultimate/tvultimate/178.ts
+#EXTINF:-1,AXN HD
+http://149.56.19.12:8000/live/tvultimate/tvultimate/189.ts
+#EXTINF:-1,Animal Planet
+http://149.56.19.12:8000/live/tvultimate/tvultimate/215.ts
+#EXTINF:-1,AMC
+http://149.56.19.12:8000/live/tvultimate/tvultimate/230.ts
+#EXTINF:-1,A&E
+http://149.56.19.12:8000/live/tvultimate/tvultimate/188.ts
+
+
+
+
+
+
+#EXTINF:-1,[COLOR red]----------[/COLOR][COLOR blue]Canales[/COLOR][COLOR skyblue] España[/COLOR][COLOR red]--------------[/COLOR]
+http://t.tvultimate.mx
+
+#EXTINF:-1 tvg-logo="tvultimate.png",Antena 3
+http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/master.m3u8
+
+#EXTINF:-1, tvg-name="España 1" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/347.png", España 1
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0748_av-p.m3u8
+#EXTINF:-1, tvg-name="España 2" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/351.png", España 2
+http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8
+#EXTINF:-1, tvg-name="España 3" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/349.png", España 3
+http://corporacionextremena-live.hls.adaptive.level3.net/hls-live/corporacionextremena-channel02/_definst_/live.m3u8
+#EXTINF:-1, tvg-name="España 4" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1351.png", España 4
+http://live-hls.rtvcm.stream.flumotion.com/rtvcm/hls-multi/main.m3u8
+#EXTINF:-1, tvg-name="España 5" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1353.png", España 5
+http://cls.todostreaming.eu/huelvatv/livestream/playlist.m3u8
+#EXTINF:-1, tvg-name="España 6" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1355.png", España 6
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/chunklist_b798000.m3u8
+#EXTINF:-1, tvg-name="España 7" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1357.png", España 7
+http://cdns724ste1010.multistream.net/tgsietelive/amlst:tvgranada/playlist_b750000.m3u8
+#EXTINF:-1, tvg-name="España 8" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1359.png", España 8
+rtmp://corporacionextremenaocclivefs.fplive.net/corporacionextremenalive-live/stream1
+#EXTINF:-1, tvg-name="España 9" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1361.png", España 9
+rtmp://media3.crtvg.es:80/live/tvge
+#EXTINF:-1, tvg-name="España 10" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1363.png", España 10
+rtmp://62.210.141.18:1935/directo/lancelot.television
+#EXTINF:-1, tvg-name="España 11" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1365.png", España 11
+http://teledifusion.tv:1935/informaciontvlive/informaciontvlive/.m3u8
+#EXTINF:-1, tvg-name="España 12" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1367.png", España 12
+http://cls.todostreaming.eu/azahara/lepevision/chunklist.m3u8
+#EXTINF:-1, tvg-name="España 13" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1369.png", España 13
+rtmp://cdn.s3.eu.nice264.com:1935/niceLiveServer/NTV_livenatvmb_MB_478ext
+#EXTINF:-1, tvg-name="España 14" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1371.png", España 14
+http://iphone-streaming.ustream.tv/uhls/14420271/streams/live/iphone/playlist.m3u8
+#EXTINF:-1, tvg-name="España 15" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1373.png", España 15
+http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,[COLOR red]----------[/COLOR][COLOR blue]Canales[/COLOR][COLOR skyblue]Peliculas 24/7[/COLOR][COLOR red]--------------[/COLOR]
+http://t.tvultimate.mx
+#EXTINF:-1 tvg-logo="tvultimate.png",Peliculas 
+http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8
+
+
+#EXTINF:-1,[COLOR red]----------[/COLOR][COLOR blue]Canales[/COLOR][COLOR skyblue]Puerto Rico[/COLOR][COLOR red]--------------[/COLOR]
+http://t.tvultimate.mx
+#EXTINF:-1 tvg-logo="telemundo.png",Telemundo  [COLOR orange]-NFPS-[/COLOR]
+http://tvultimate.mx/tvultimate.php?id=8469
+#EXTINF:-1, tvg-name="Deportes 13" tvg-logo="tvultimate.png", Deportes 13 [COLOR orange]-NFPS-[/COLOR]
+http://tvultimate.mx/tvultimate.php?id=8449
+#EXTINF:-1, tvg-name="Wapa2" tvg-logo="tvultimate.png", Wapa2 [COLOR orange]-NFPS-[/COLOR]
+http://tvultimate.mx/tvultimate.php?id=8471
+#EXTINF:-1, tvg-name="Punto 2" tvg-logo="tvultimate.png", Punto 2 [COLOR orange]-NFPS-[/COLOR]
+http://tvultimate.mx/tvultimate.php?id=8656
+#EXTINF:-1, tvg-name="Telemundo Puerto Rico" tvg-logo="tvultimate.png", Telemundo Puerto Rico [COLOR orange]-NFPS-[/COLOR]
+http://tvultimate.mx/tvultimate.php?id=8469
+#EXTINF:-1, tvg-name="Wapa" tvg-logo="tvultimate.png", Wapa [COLOR orange]-NFPS-[/COLOR]
+http://tvultimate.mx/tvultimate.php?id=8476
+#EXTINF:-1, tvg-name="Univision Puerto Rico" tvg-logo="tvultimate.png", Univision Puerto Rico [COLOR orange]-NFPS-[/COLOR]
+http://tvultimate.mx/tvultimate.php?id=8474
+#EXTINF:-1, tvg-name="Mundo Max Puerto Rico" tvg-logo="tvultimate.png", Mundo Max Puerto Rico [COLOR orange]-NFPS-[/COLOR]
+http://tvultimate.mx/tvultimate.php?id=8461
+#EXTINF:-1, tvg-name="Mega TV" tvg-logo="tvultimate.png", Mega TV [COLOR orange]-NFPS-[/COLOR]
+http://tvultimate.mx/tvultimate.php?id=8454
+#EXTINF:-1, tvg-name="ABC 5 Puerto Rico" tvg-logo="tvultimate.png", ABC 5 Puerto Rico [COLOR orange]-NFPS-[/COLOR]
+http://tvultimate.mx/tvultimate.php?id=8574
+
+
+
+
+#EXTINF:-1,[COLOR red]----------[/COLOR][COLOR blue]Donacion por Paypal[/COLOR][COLOR red]--------------[/COLOR]
+http://tvultimate.mx
+#EXTINF:-1,[COLOR red]----------[/COLOR][COLOR skyblue]Amor231120@hotmail.com[/COLOR][COLOR red]--------------[/COLOR]
+http://tvultimate.mx
+
+
+
+#EXTINF:-1,[COLOR red]----------[/COLOR][COLOR blue]Canales[/COLOR][COLOR skyblue]Musica[/COLOR][COLOR red]--------------[/COLOR]
+http://t.tvultimate.mx
+#EXTINF:-1 tvg-logo="musica.png" group-title="Audio - Radio",80's USA
+http://buecrplb01.cienradios.com.ar/Los_Numero_1_de_los_80_USA_32000.aac
+#EXTINF:-1 tvg-logo="musica.png" group-title="Audio - Radio",90's Internacional
+http://buecrplb01.cienradios.com.ar/90_Internacional_32000.aac
+#EXTINF:-1 tvg-logo="musica.png" group-title="Audio - Radio",Baladas
+http://buecrplb01.cienradios.com.ar/Power_Ballads_32000.aac
+#EXTINF:-1 tvg-logo="musica.png" group-title="Audio - Radio",Chillout
+http://buecrplb01.cienradios.com.ar/Chillout_32000.aac
+#EXTINF:-1 tvg-logo="musica.png" group-title="Audio - Radio",Clasica
+http://buecrplb01.cienradios.com.ar/Clasica_32000.aac
+#EXTINF:-1 tvg-logo="musica.png",Clasica Cine
+http://buecrplb01.cienradios.com.ar/Classic_Cinema_32000.aac
+#EXTINF:-1 tvg-logo="musica.png" group-title="Audio - Radio",Estrenos
+http://buecrplb01.cienradios.com.ar/Estrenos_32000.aac
+#EXTINF:-1 tvg-logo="musica.png" group-title="Audio - Radio",Electronica
+http://buecrplb01.cienradios.com.ar/Electronico_32000.aac
+#EXTINF:-1 tvg-logo="musica.png" group-title="Audio - Radio",Fiesta Dance
+http://buecrplb01.cienradios.com.ar/Fiesta_Dance_32000.aac
+#EXTINF:-1 tvg-logo="musica.png" group-title="Audio - Radio"",Lentos
+http://buecrplb01.cienradios.com.ar/Lentos_32000.aac
+#EXTINF:-1 tvg-logo="musica.png" group-title="Audio - Radio",Live music
+http://buecrplb01.cienradios.com.ar/Vivo_32000.aac
+#EXTINF:-1 tvg-logo="musica.png" group-title="Audio - Radio",Top 40
+http://buecrplb01.cienradios.com.ar/Top_40_32000.aac
+#EXTINF:-1 tvg-logo="musica.png" group-title="Audio - Radio",Top Europa
+http://buecrplb01.cienradios.com.ar/Top_Europa_32000.aac
+#EXTINF:-1 tvg-logo="musica.png",Movie Soundtracks
+http://pub1.radiotunes.com:80/radiotunes_soundtracks?c99c0d59b19e3b7c9f99d515
+#EXTINF:-1 tvg-logo="musica.png",Best of the 60's
+http://pub7.radiotunes.com:80/radiotunes_hit60s?c99c0d59b19e3b7c9f99d515
+#EXTINF:-1 tvg-logo="musica.png",Classic Hip-Hop
+http://pub8.radiotunes.com:80/radiotunes_classicrap?c99c0d59b19e3b7c9f99d515
+#EXTINF:-1 tvg-logo="musica.png"1,90's R&B1
+http://pub2.radiotunes.com:80/radiotunes_90srnb?c99c0d59b19e3b7c9f99d515
+#EXTINF:1 tvg-logo="musica.png",Romantica
+http://pub2.radiotunes.com:80/radiotunes_romantica?c99c0d59b19e3b7c9f99d515
+#EXTINF:1 tvg-logo="musica.png",Dance Hits
+http://pub1.radiotunes.com:80/radiotunes_dancehits?c99c0d59b19e3b7c9f99d515
+#EXTINF:1 tvg-logo="musica.png",Hit 70's
+http://pub6.radiotunes.com:80/radiotunes_hit70s?c99c0d59b19e3b7c9f99d515
+#EXTINF:1 tvg-logo="musica.png",60's Rock
+http://pub7.radiotunes.com:80/radiotunes_60srock?c99c0d59b19e3b7c9f99d515
+#EXTINF:1 tvg-logo="musica.png",Oldies
+http://pub7.radiotunes.com:80/radiotunes_oldies?c99c0d59b19e3b7c9f99d515
+#EXTINF:1 tvg-logo="musica.png",Best of the 80's
+http://pub7.radiotunes.com:80/radiotunes_the80s?c99c0d59b19e3b7c9f99d515
+#EXTINF:1 tvg-logo="musica.png",Country
+http://pub8.radiotunes.com:80/radiotunes_country?c99c0d59b19e3b7c9f99d515
+#EXTINF:1 tvg-logo="musica.png",World
+http://pub8.radiotunes.com:80/radiotunes_world?c99c0d59b19e3b7c9f99d515
+
