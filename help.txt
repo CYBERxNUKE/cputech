@@ -1,4 +1,4 @@
-name="Install All Plugins - 2016"
+name="Install All Plugins - JULY2016"
 url="http://github.com/CYBERxNUKE/cputech/raw/master/XBMC9.zip"
 img="http://computertechs.org/xbmc/warning.png"
 fanart="http://computertechs.org/xbmc/omfg.jpg"
