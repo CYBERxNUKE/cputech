@@ -1,0 +1,16 @@
+{ "version" : "5", "time" : "1461399147.98", "genres" : {  
+"*" : {"alias":"All", "title":"All"}, 
+"1" : {"alias":"information", "title":"information"}, 
+"2" : {"alias":"entertainments", "title":"entertainments"}, 
+"3" : {"alias":"children's", "title":"children's"}, 
+"4" : {"alias":"cinema", "title":"cinema"}, 
+"5" : {"alias":"science", "title":"science"}, 
+"6" : {"alias":"sports", "title":"sports"}, 
+"7" : {"alias":"music", "title":"music"}, 
+"8" : {"alias":"business", "title":"business"}, 
+"9" : {"alias":"culture", "title":"culture"}, 
+"10" : {"alias":"for adults", "title":"for adults"}, 
+"11" : {"alias":"Indian", "title":"Indian"}, 
+"12" : {"alias":"South Indian", "title":"South Indian"}, 
+"13" : {"alias":"Pakistani", "title":"Pakistani"}
+}}
