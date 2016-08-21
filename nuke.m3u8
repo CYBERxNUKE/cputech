@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1,test 201687
-http://192.168.1.136:6878/ace/getstream?id=2b3079d2f266299f61d9523dbf4bd77b6dcc5900&spv=0&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+#EXTINF:-1,test ufc
+http://192.168.1.136:8080/ufc
 
 
 #EXTINF:0,Noticias Total play
