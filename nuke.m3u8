@@ -4,6 +4,9 @@
 http://192.168.0.136:8080/ufc
 
 
+#EXTINF:-1,test ufc1
+http://azubuhlspull-a.akamaihd.net/06f40e086d7a75d816b6daefda7f5c63/eu-west-1/video385044CHnokia23/master.m3u8
+
 #EXTINF:0,Noticias Total play
 http://tvultimate.mx/live/addon.php?id=1004&key=M7QwMjIzNLI0NAEA
 #EXTINF:0,Az Noticias
