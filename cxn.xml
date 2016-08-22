@@ -92,85 +92,13 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-  <title>Sawlive Test | URL=http://sawlive.tv/embed/zunoxomega</title>
-  <link><![CDATA[rtmp://$doregex[server]/flash playpath=$doregex[path1]?$doregex[path2]$doregex[path3] swfVfy=1 swfUrl=http://static3.sawlive.tv/player.swf live=1 timeout=15 pageUrl=http://sawlive.tv/embed/watch/$doregex[page1]/$doregex[page2]]]></link>
-
-  <regex>
-  <name>server</name>
-  <expres>var st2tas.*?['\"]([^\']+)';</expres>
-  <page>$doregex[getpacked]</page>
-  <referer>http://zunoxide.net/</referer>
-  <accept>*/*;q=0.8</accept>
-  <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
-  <cookieJar></cookieJar>
-  </regex>
-  
-  <regex>
-  <name>path1</name>
-  <expres>var flile.*?["\'](\d\d\d\d\d)</expres>
-  <page>$doregex[getpacked]</page>
-  <referer>http://zunoxide.net/</referer>
-  <accept>*/*;q=0.8</accept>
-  <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
-  <cookieJar></cookieJar>
-  </regex>
-  
-  <regex>
-  <name>path2</name>
-  <expres>flile.r[\d\D]*?var.+?'([^\']+)</expres>
-  <page>$doregex[getpacked]</page>
-  <referer>http://zunoxide.net/</referer>
-  <accept>*/*;q=0.8</accept>
-  <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
-  <cookieJar></cookieJar>
-  </regex>
-  
-  <regex>
-  <name>path3</name>
-  <expres>$pyFunction:urllib.unquote('$doregex[unescape]')</expres>
-  <page>$doregex[getpacked]</page>
-  <referer>http://zunoxide.net/</referer>
-  <accept>*/*;q=0.8</accept>
-  <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
-  <cookieJar></cookieJar>
-  </regex>
-  
-  <regex>
-  <name>unescape</name>
-  <expres>var bmakz.*?'([^\']+)</expres>
-  <page>$doregex[getpacked]</page>
-  <referer>http://zunoxide.net/</referer>
-  <accept>*/*;q=0.8</accept>
-  <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
-  <cookieJar></cookieJar>
-
-  <regex>
-  <name>getpacked</name>
-  <expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)')</expres>
-  <page>http://sawlive.tv/embed/watch/$doregex[page1]/$doregex[page2]</page>
-  <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
-  <referer>http://zunoxide.net/</referer>
-  <accept>*/*</accept>
-  <cookieJar></cookieJar>
-</regex>
-
+ <title>Canal 2</title>
+ <link>$doregex[url]></link>
  <regex>
-  <name>page1</name>
-  <expres>iframe[\d\D][^\|]+[\|].*?[\|](.*?)[\|].*?[\|]</expres>
-  <page>http://sawlive.tv/embed/zunoxomega</page>
-  <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
-  <referer>http://zunoxide.net/</referer>
-  <accept>*/*</accept>
-  <cookieJar></cookieJar>
-  </regex>
-  
-  <regex>
-  <name>page2</name>
-  <expres>iframe[\d\D][^\|]+[\|].*?[\|].*?[\|].*?[\|](.*?)[\|]</expres>
-  <page>http://sawlive.tv/embed/zunoxomega</page>
-  <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
-  <referer>http://zunoxide.net/</referer>
-  <accept>*/*</accept>
-  <cookieJar></cookieJar>
-</regex>
-</item>
+ <name>url</name>
+ <expres>source: '(.*?)'</expres>
+ <page>http://tumarcador.xyz/canal2.php</page>
+ <referer>http://tumarcador.xyz/canal2.php</referer>
+ <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
+ </regex>
+ </item>
