@@ -3,6 +3,9 @@
 #EXTINF:-1,test WWE Summerslam
 http://azubuhlspull-a.akamaihd.net/358c967ccfa7af6d76b057a764cef66a/eu-west-1/video385570CHmaepeadr/2400/index.m3u8
 
+#EXTINF:-1,test WWE Summerslam 2
+http://azubuhlspull-a.akamaihd.net/31bd29e354fc62e4104f71794982db7a/eu-west-1/video385614CHtaiwotea/master.m3u8
+
 
 #EXTINF:-1,test ufc1
 http://azubuhlspull-a.akamaihd.net/06f40e086d7a75d816b6daefda7f5c63/eu-west-1/video385044CHnokia23/master.m3u8
