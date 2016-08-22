@@ -69,7 +69,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <name>makelist</name>
 <listrepeat><![CDATA[
 <item><title> [makelist.param2] [makelist.param4] [makelist.param5]  </title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Adryanlist+Arenavision</link>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=My+acestream+channel</link>
 			<regex>
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
