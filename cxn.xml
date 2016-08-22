@@ -61,6 +61,12 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <externallink>http://raw.githubusercontent.com/cyberxnuke/cputech/master/new.xml</externallink>
 </item>
 
+<item>
+<title>Total Play</title>
+<link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/deportes.jpg</thumbnail>
+<fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
+<externallink>http://raw.githubusercontent.com/cyberxnuke/cputech/master/tp.xml</externallink>
+</item>
 
 <item>
 <title>     [B]Arenavision[/B] AGENDA / SCHEDULE </title>
@@ -106,26 +112,28 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 <item>
 <title>TES5rsa</title>
-<link>$doregex[get_RTMP] playpath=$doregex[get_Path] token=$doregex[get_Token] swfUrl=http://ssl.p.jwpcdn.com/player/v/7.3.6/jwplayer.flash.swf swfVfy=1 live=1 timeout=13  pageUrl=http://yotv.co/embedo.php?live=cricone&amp;vw=620&amp;vh=490</link>
+<link>https://forums.tvaddons.ag/$doregex[get_RTMP] playpath=$doregex[get_Path] token=$doregex[get_Token] swfUrl=http://ssl.p.jwpcdn.com/player/v/7.3.6/jwplayer.flash.swf swfVfy=1 live=1 timeout=13  pageUrl=http://yotv.co/embedo.php?live=cricone&vw=620&vh=490</link>
 <regex>
 <name>get_RTMP</name>
 <expres>file: [",']([^"]+)\/</expres>
-<page>http://yotv.co/embedo.php?live=cricone&amp;vw=620&amp;vh=490</page>
+<page>http://yotv.co/embedo.php?live=cricone&vw=620&vh=490</page>
 <referer>http://cricfree.sx/update/snone.php</referer>
 <agent>Mozilla/5.0</agent>
 </regex>
 <regex>
 <name>get_Path</name>
 <expres>file: [",'].*\/([^"]+)[",']</expres>
-<page>http://yotv.co/embedo.php?live=cricone&amp;vw=620&amp;vh=490</page>
+<page>http://yotv.co/embedo.php?live=cricone&vw=620&vh=490</page>
 <referer>http://cricfree.sx/update/snone.php</referer>
 <agent>Mozilla/5.0</agent>
 </regex>
 <regex>
 <name>get_Token</name>
 <expres>securetoken: [",']([^"]+)[",']</expres>
-<page>http://yotv.co/embedo.php?live=cricone&amp;vw=620&amp;vh=490</page>
+<page>http://yotv.co/embedo.php?live=cricone&vw=620&vh=490</page>
 <referer>http://cricfree.sx/update/snone.php</referer>
 <agent>Mozilla/5.0</agent>
 </regex> 
 </item>
+
+
