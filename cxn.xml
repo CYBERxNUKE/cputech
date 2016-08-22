@@ -159,8 +159,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
                  if hasattr(e, 'reason'):
                          print " " + str(e.reason)
  ]]></expres>
- <page>http://wizhdsports.to/live/stream[makelist2.param1].php</page>
- <referer>http://wizhdsports.to/</referer>
+ <page>http://wizhdsports.be/live/stream[makelist2.param1].php</page>
+ <referer>http://wizhdsports.be/</referer>
  <agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0</agent>
  <cookieJar></cookieJar>
  </regex>
