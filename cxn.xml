@@ -102,3 +102,35 @@ def GetLSProData(page_data,Cookie_Jar,m):
  <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
  </regex>
  </item>
+
+
+<item>
+<title>test</title>
+<link>$doregex[URL]</link>
+<regex>
+<name>URL</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+    import requests
+    import re
+    import base64
+
+    id = re.findall("javascript.*?id='(.*?)'", page_data)[0]
+    url = 'http://bro.adca.st/stream.php?id=' + id + '&width=640&height=480'
+    headers = {'User-Agent': 'Mozilla/5.0 (X11 Linux i686 rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Referer': 'http://wizhdsports.to/live/stream1.php'}
+    source = requests.get(url, headers = headers)
+    curl = re.findall('curl = "(.*?)"', source.text)[0]
+    m3u8 = base64.b64decode(curl)
+
+    url2 = 'http://bro.adca.st/getToken.php'    
+    headers2 = {'User-Agent': 'Mozilla/5.0 (X11 Linux i686 rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Referer': url, 'X-Requested-With': 'XMLHttpRequest'}
+    source2 = requests.get(url2, headers = headers2)
+    token = re.findall('"token":"(.*?)"', source2.text)[0]
+
+    return m3u8 + token + '|Referer=http://cdn.bro.adca.st/jwplayer.flash.swf&User-Agent=Mozilla/5.0 (X11 Linux i686 rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0'
+]]></expres>
+<page>http://wizhdsports.to/live/stream1.php</page>
+<referer>http://wizhdsports.to</referer>
+</regex>
+<thumbnail></thumbnail>
+</item>
