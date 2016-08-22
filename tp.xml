@@ -1,4 +1,5 @@
 <channels>
+
 <channel>
     <name>[COLOR lime]•  [/COLOR][COLOR skyblue]TEST [/COLOR]  </name>
     <thumbnail>http://y.cdn.entutele.com/media/channels/big/http://i.imgur.com/MWSXNtp.png.gif</thumbnail>
@@ -54,19 +55,7 @@
 <item><title>Azteca CORAZON</title><link>http://adryanlist.org/adryan/adryantotal.php?id=250&amp;profile=3</link><thumbnail>http://y.cdn.entutele.com/media/channels/big/az-corazon.gif</thumbnail></item>
 <item><title>Azteca CINEMA</title><link>http://adryanlist.org/adryan/adryantotal.php?id=425&amp;profile=3</link><thumbnail>http://y.cdn.entutele.com/media/channels/big/az-cinema.gif</thumbnail></item>
 <item><title>Azteca NOTICIAS</title><link>http://adryanlist.org/adryan/adryantotal.php?id=703&amp;profile=3</link><thumbnail>http://y.cdn.entutele.com/media/channels/big/az-noticias.gif</thumbnail></item>
-
-
-
-http://y.cdn.entutele.com/media/channels/medium/amc-hd
-
-
-
-
-
-
-
-<item><title>CANAL DE LAS ESTRELLAS(test)<link>http://200.76.77.231/LIVE/H01/CANAL102/PROFILE01.m3u8</link><thumbnail>http://y.cdn.entutele.com/media/channels/big/canal-2-hd.gif</thumbnail></item>
-<item><title>CANAL DE LAS ESTRELLAS</title><link>http://adryanlist.org/adryan/adryantotal.php?id=102/PROFILE01.m3u8</link><thumbnail>http://y.cdn.entutele.com/media/channels/big/canal-2-hd.gif</thumbnail></item>
+<item><title>CANAL DE LAS ESTRELLAS</title><link>http://adryanlist.org/adryan/adryantotal.php?id=102&amp;profile=3</link><thumbnail>http://y.cdn.entutele.com/media/channels/big/canal-2-hd.gif</thumbnail></item>
 <item><title>FORO TV</title><link>http://adryanlist.org/adryan/adryantotal.php?id=104&amp;profile=3</link><thumbnail>http://y.cdn.entutele.com/media/channels/big/foro-tv.gif</thumbnail></item>
 <item><title>CANAL 5</title><link>http://adryanlist.org/adryan/adryantotal.php?id=105&amp;profile=3</link><thumbnail>http://y.cdn.entutele.com/media/channels/big/canal-5-hd.gif</thumbnail></item>
 <item><title>AZTECA 7</title><link>http://adryanlist.org/adryan/adryantotal.php?id=107&amp;profile=3</link><thumbnail>http://y.cdn.entutele.com/media/channels/big/azteca-7.gif</thumbnail></item>
