@@ -1,7 +1,7 @@
 #EXTM3U tvg-shift=3
 
 #EXTINF:-1,[COLOR red]REQUIRES NEW ADDON PLEXUS ADDON[/COLOR]  
-plugin://plugin.video.p2p-streams/?url=acestream://7dcf3c8daaad0efbef55af2d74d52a5f8f65783c&mode=1&name=acestream+moneysports
+plugin://program.plexus/?url=acestream://7dcf3c8daaad0efbef55af2d74d52a5f8f65783c&mode=1&name=acestream+moneysports
 
 #EXTINF:-1,Bloozeed-
 plugin://program.plexus/?mode=1&url=acestream://42fe51591598d905ab011a9c8339150f8391dfa7&name=My+acestream+channel
