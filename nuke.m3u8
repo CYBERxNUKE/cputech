@@ -1,12 +1,9 @@
 #EXTM3U
 
 #EXTINF:-1,test WWE Summerslam
-http://azubuhlspull-a.akamaihd.net/358c967ccfa7af6d76b057a764cef66a/eu-west-1/video385570CHmaepeadr/2400/master.m3u8
-
-#EXTINF:-1,test WWE Summerslam 2
 http://azubuhlspull-a.akamaihd.net/31bd29e354fc62e4104f71794982db7a/eu-west-1/video385614CHtaiwotea/master.m3u8
 
-#EXTINF:-1,test WWE Summerslam 3
+#EXTINF:-1,test WWE Summerslam 2
 http://cdn.widestream.io:8081/wideedge/push-u3qvbl0/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMi8yMDE2IDE6MzA6MjggQU0maGFzaF92YWx1ZT1hcG1uYzQ5TXlBZjloOG5LVXFBM3l3PT0mdmFsaWRtaW51dGVzPTIw
 
 #EXTINF:-1,test WWE Summerslam 4
@@ -14,3 +11,4 @@ http://cdn.widestream.io:8081/wideedge/push-u3qvbl0/playlist.m3u8?wmsAuthSign=c2
 
 #EXTINF:-1,test ufc1
 http://azubuhlspull-a.akamaihd.net/06f40e086d7a75d816b6daefda7f5c63/eu-west-1/video385044CHnokia23/master.m3u8
+
