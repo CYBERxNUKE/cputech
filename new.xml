@@ -1,7 +1,5 @@
 #EXTM3U
-
 plugin://plugin.video.p2p-streams/?url=acestream://                      &mode=1&name=acestream+moneysports            
-
 #EXTINF:-1,[COLOR red]REQUIRES NEW ADDON PLEXUS ADDON[/COLOR]  
 plugin://plugin.video.p2p-streams/?url=acestream://7dcf3c8daaad0efbef55af2d74d52a5f8f65783c&mode=1&name=acestream+moneysports
 
