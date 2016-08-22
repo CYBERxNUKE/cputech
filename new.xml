@@ -3,9 +3,11 @@
 #EXTINF:-1,[COLOR red]REQUIRES NEW ADDON PLEXUS ADDON[/COLOR]  
 plugin://program.plexus/?url=acestream://7dcf3c8daaad0efbef55af2d74d52a5f8f65783c&mode=1&name=acestream+moneysports
 
-#EXTINF:-1,Bloozeed-
+#EXTINF:-1,Bloodzeed-
 plugin://program.plexus/?mode=1&url=acestream://42fe51591598d905ab011a9c8339150f8391dfa7&name=My+acestream+channel
 
+#EXTINF:-1,PPV 1200kpbs
+plugin://program.plexus/?mode=1&url=acestream://d7929e602cfc97b34c11864e6a5dd8131098e276&name=My+acestream+channel
 
 #EXTINF:-1,SKY SPORTS 1-
 plugin://program.plexus/?mode=1&url=acestream://7dcf3c8daaad0efbef55af2d74d52a5f8f65783c&name=My+acestream+channel
