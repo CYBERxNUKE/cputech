@@ -107,7 +107,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
  <listrepeat><![CDATA[ 
    <title>[makelist.param2]--[makelist.param1]</title>
    <link>$doregex[makelist2]</link>
-   <referer>http://wizhdsports.com</referer>
+   <referer>http://wizhdsports.to</referer>
  ]]></listrepeat>
  <expres><![CDATA[(?s)class="match".+?class="name">\s*(.+?)\s*<.*?margin.*?>([\d:\s-]+).+?channel.+?>(.+?)<script]]></expres>
  <page>http://wizhdsports.com/</page>
@@ -159,8 +159,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
                  if hasattr(e, 'reason'):
                          print " " + str(e.reason)
  ]]></expres>
- <page>http://wizhdsports.com/live/stream[makelist2.param1].php</page>
- <referer>http://wizhdsports.com/</referer>
+ <page>http://wizhdsports.to/live/stream[makelist2.param1].php</page>
+ <referer>http://wizhdsports.to/</referer>
  <agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0</agent>
  <cookieJar></cookieJar>
  </regex>
