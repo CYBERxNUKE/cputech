@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<!----------------------
+					WELCOME TO CYBERxNUKE List
+					www.CYBERxNUKE.com
+-->
+
+
+
+
+<item>
+<title>                     [B]    CYBERxNUKE ADD-ON[/B]   </title>
+<link>$doregex[openDialog]</link>
+<regex>
+<name>openDialog</name>
+<expres><![CDATA[#$pyFunction
+import xbmcaddon
+import xbmcgui
+def GetLSProData(page_data,Cookie_Jar,m):
+    __addon__ = xbmcaddon.Addon()
+    __addonname__ = __addon__.getAddonInfo('name')     
+    line1 = "Welcome to CYBERxNUKE ADD-ON"
+    xbmcgui.Dialog().ok(__addonname__, line1)
+    return 
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://adryanlist.org/adryan/img/adryanlist.jpg</thumbnail>
+<fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
+</item>
+
+<item>
+<title>                   Updated: August 20th 2016      </title>
+<link>$doregex[openDialog]</link>
+<regex>
+<name>openDialog</name>
+<expres><![CDATA[#$pyFunction
+import xbmcaddon
+import xbmcgui
+def GetLSProData(page_data,Cookie_Jar,m):
+    __addon__ = xbmcaddon.Addon()
+    __addonname__ = __addon__.getAddonInfo('name')     
+    line1 = "            CYBERxNUKE "
+    xbmcgui.Dialog().ok(__addonname__, line1)
+    return 
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex><thumbnail>http://adryanlist.org/adryan/img/updated.jpg</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<item>
+<title>•  Deportes (Sports) </title>
+<link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/deportes.jpg</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
+<externallink>http://adryanlist.org/adryan/deportes_adryan_list.xml</externallink>
+</item>
+
+
+<tem>
+<title>•  [B]ExtraTime[/B] [I]  Eventos del dia[/I]</title>
+<link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/extratime.jpg</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
+<externallink>http://adryanlist.org/adryan/multicanales.xml</externallink>
+</item>
+
+<item>
+<title>•  [B]Peliculas[/B]  (Movies) </title>
+<link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/peliculas.jpg</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
+<externallink>http://adryanlist.org/adryan/pyt_vod.xml</externallink>
+</item>
+
+
+<item>
+<title>•  [B]Series de TV[/B]  (TV-Shows) </title>
+<link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/series.jpg</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
+<externallink>http://adryanlist.org/adryan/gnula.xml</externallink>
+</item>
+
+<item>
+<title>•  [B]FUTMEX[/B] [I]by TV Online 2016[/I]</title>
+<link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/futmex_-21.jpg</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
+<externallink>http://adryanlist.org/adryan/futmex.xml</externallink>
+</item>
+
+<item>
+<title>•  España </title>
+<link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/esp.jpg</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
+<externallink>http://adryanlist.org/adryan/esp.xml</externallink>
+</item>
+
+<item>
+<title>•  Mexico </title>
+<link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/mexico.jpg</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
+<externallink>http://adryanlist.org/adryan/mx.xml</externallink>
+</item>
+
+<item>
+<title>•  TotalPlay    </title>
+<link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/tp.jpg</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
+<externallink>http://adryanlist.org/adryan/totalp.xml</externallink>
+</item>
+
+<item>
+<title>•]  [B]IPTV[/B]   [B][World Servers Updated Daily][/B] </title>
+<link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/iptv.jpg</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
+<externallink>http://adryanlist.org/adryan/iptv.xml</externallink>
+</item>
+
+
+
+
+
+<item>
+<title>•  Entretenimiento     </title>
+<link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/entretenimiento.jpg</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
+<externallink>http://adryanlist.org/adryan/ent.xml</externallink>
+</item>
+
+
+
+<em>
+<title>•  [B]Television 24/7[/B] ] </title>
+<thumbnail>http://adryanlist.org/adryan/img/247.jpg</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg/fanart>
+</externallink>http://adryanlist.org/adryan/p247.xml</externallink>
+<link>NA</link>
+</item>
+
+
+
+<tem>
+<title>•  Musica  (Music) </title>
+<link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/musica.jpg</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
+<externallink>http://adryanlist.org/adryan/music.xml</externallink>
+</item>
+
+<item>
+<title>•  Paises </title>
+<link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/paises.jpg</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
+<externallink>http://adryanlist.org/adryan/paises.xml</externallink>
+</item>
+<item>
+<title>•  Internacionales </title>
+<link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/internacional.jpg</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
+<externallink>http://adryanlist.org/adryan/inter.xml</externallink>
+</item>
+
+
+<item>
+<title>•  Mas Listas  </title>
+<link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/listas.jpg</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
+<externallink>http://adryanlist.org/adryan/lists.xml</externallink>
+</item>
+
+
+
+
+
+
