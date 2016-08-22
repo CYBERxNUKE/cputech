@@ -99,7 +99,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
  </items_info>
 
  <item>
- <title>Schedule</title>
+ <title>WizHDSports</title>
  <link>$doregex[makelist]</link>
 
  <regex>
