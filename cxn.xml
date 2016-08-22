@@ -112,7 +112,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 <item>
 <title>TES5rsa</title>
-<link>https://forums.tvaddons.ag/$doregex[get_RTMP] playpath=$doregex[get_Path] token=$doregex[get_Token] swfUrl=http://ssl.p.jwpcdn.com/player/v/7.3.6/jwplayer.flash.swf swfVfy=1 live=1 timeout=13  pageUrl=http://yotv.co/embedo.php?live=cricone&vw=620&vh=490</link>
+<link>$doregex[get_RTMP] playpath=$doregex[get_Path] token=$doregex[get_Token] swfUrl=http://ssl.p.jwpcdn.com/player/v/7.3.6/jwplayer.flash.swf swfVfy=1 live=1 timeout=13  pageUrl=http://yotv.co/embedo.php?live=cricone&vw=620&vh=490</link>
 <regex>
 <name>get_RTMP</name>
 <expres>file: [",']([^"]+)\/</expres>
