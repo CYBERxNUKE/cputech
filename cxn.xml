@@ -110,7 +110,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
    <referer>http://wizhdsports.to</referer>
  ]]></listrepeat>
  <expres><![CDATA[(?s)class="match".+?class="name">\s*(.+?)\s*<.*?margin.*?>([\d:\s-]+).+?channel.+?>(.+?)<script]]></expres>
- <page>http://wizhdsports.com/</page>
+ <page>http://wizhdsports.to/</page>
  <agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0</agent>
  <cookieJar></cookieJar>
  </regex>
