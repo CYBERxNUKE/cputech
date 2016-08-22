@@ -53,125 +53,33 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <item>
 <title>•  Deportes (Sports) </title>
 <link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/deportes.jpg</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
-<externallink>http://adryanlist.org/adryan/deportes_adryan_list.xml</externallink>
-</item>
-
-
-<tem>
-<title>•  [B]ExtraTime[/B] [I]  Eventos del dia[/I]</title>
-<link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/extratime.jpg</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
-<externallink>http://adryanlist.org/adryan/multicanales.xml</externallink>
-</item>
-
-<item>
-<title>•  [B]Peliculas[/B]  (Movies) </title>
-<link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/peliculas.jpg</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
-<externallink>http://adryanlist.org/adryan/pyt_vod.xml</externallink>
+<externallink>new.xml</externallink>
 </item>
 
 
 <item>
-<title>•  [B]Series de TV[/B]  (TV-Shows) </title>
-<link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/series.jpg</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
-<externallink>http://adryanlist.org/adryan/gnula.xml</externallink>
+<title>     [B]Arenavision[/B] AGENDA / SCHEDULE </title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<item><title> [makelist.param2] [makelist.param4] [makelist.param5]  </title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Adryanlist+Arenavision</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://www.arenavision.in/AV[makelist.param6]</page>
+			<referer>http://www.arenavision.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			<thumbnail>http://adryanlist.org/adryan/img/deportes.jpg</thumbnail>
+</item>	
+]]></listrepeat>
+<expres>190px">(.*?)<[\w\W\s]{0,45}182px">(.*?)<[\w\W\s]{0,45}188px">(.*?)<[\w\W\s]{0,45}283px">(.*?)<[\w\W\s]{0,45}685px">(.*?)<[\w\W\s]{0,45}317px">(.*?)-</expres>
+<page>http://arenavision.in/agenda</page>
+<Agent>Mozilla</Agent>
+</regex><thumbnail>http://adryanlist.org/adryan/img/deportes.jpg</thumbnail>
 </item>
-
-<item>
-<title>•  [B]FUTMEX[/B] [I]by TV Online 2016[/I]</title>
-<link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/futmex_-21.jpg</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
-<externallink>http://adryanlist.org/adryan/futmex.xml</externallink>
-</item>
-
-<item>
-<title>•  España </title>
-<link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/esp.jpg</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
-<externallink>http://adryanlist.org/adryan/esp.xml</externallink>
-</item>
-
-<item>
-<title>•  Mexico </title>
-<link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/mexico.jpg</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
-<externallink>http://adryanlist.org/adryan/mx.xml</externallink>
-</item>
-
-<item>
-<title>•  TotalPlay    </title>
-<link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/tp.jpg</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
-<externallink>http://adryanlist.org/adryan/totalp.xml</externallink>
-</item>
-
-<item>
-<title>•]  [B]IPTV[/B]   [B][World Servers Updated Daily][/B] </title>
-<link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/iptv.jpg</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
-<externallink>http://adryanlist.org/adryan/iptv.xml</externallink>
-</item>
-
-
-
-
-
-<item>
-<title>•  Entretenimiento     </title>
-<link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/entretenimiento.jpg</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
-<externallink>http://adryanlist.org/adryan/ent.xml</externallink>
-</item>
-
-
-
-<em>
-<title>•  [B]Television 24/7[/B] ] </title>
-<thumbnail>http://adryanlist.org/adryan/img/247.jpg</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg/fanart>
-</externallink>http://adryanlist.org/adryan/p247.xml</externallink>
-<link>NA</link>
-</item>
-
-
-
-<tem>
-<title>•  Musica  (Music) </title>
-<link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/musica.jpg</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
-<externallink>http://adryanlist.org/adryan/music.xml</externallink>
-</item>
-
-<item>
-<title>•  Paises </title>
-<link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/paises.jpg</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
-<externallink>http://adryanlist.org/adryan/paises.xml</externallink>
-</item>
-<item>
-<title>•  Internacionales </title>
-<link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/internacional.jpg</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
-<externallink>http://adryanlist.org/adryan/inter.xml</externallink>
-</item>
-
-
-<item>
-<title>•  Mas Listas  </title>
-<link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/listas.jpg</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
-<externallink>http://adryanlist.org/adryan/lists.xml</externallink>
-</item>
-
-
-
-
-
-
