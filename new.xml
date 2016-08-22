@@ -1,39 +1,1486 @@
-<?xml version="1.0" encoding="utf-8"?>
-<channels version="Mon, 22 Aug 2016 06:35:22.134 GMT" domain=".scpd.live" info_time="Thu, 05 Apr 2007 09:19:03 GMT"><group id="3" type="1" en="News &amp; Education" cn="???????" description="News &amp; Education">News &amp; Education [???????]<channel id="9761" type="0" btype="0" language="en"><name en="CCTV-4(h)" cn="CCTV-4(h)">CCTV-4</name><status>2</status><region en="China" cn="??">CN</region><class en="News" cn="???">6</class><user_count>3</user_count><sn>4126</sn><visit_count>2353212</visit_count><start_from>Tue, 09 Aug 2016 11:36:20 GMT</start_from><stream_type>mpeg-ts</stream_type><kbps>800</kbps><qs>100</qs><qc>70</qc><sop_address><item>sop://124.232.150.188:3920/5191</item></sop_address><description cn="">New</description></channel></group><group id="4" type="1" en="Entertainment  Channels" cn="" description="Description:?????? Entertainmnet  &amp; Comedy  Channels
-Channels
-Schedule:24*7
-Type:Fully Public   
+<?xml version="1.0" encoding="UTF-8"?>
+
+<channels info_time="Thu, 05 Apr 2007 09:19:03 GMT" domain=".scpd.live" version="Mon, 22 Aug 2016 06:35:22.134 GMT">
 
 
-">Entertainment  Channels<channel id="12921" type="0" btype="0" language="en"><name en="Shanghai TV" cn="????">Shanghai TV [????]</name><status>2</status><region en="United States" cn="??">US</region><class en="Entertainmnet" cn="???">1</class><user_count>3</user_count><sn>4123</sn><visit_count>2020416</visit_count><start_from>Tue, 28 Apr 2015 12:42:57 GMT</start_from><stream_type>mpeg-ts</stream_type><kbps>800</kbps><qs>100</qs><qc>89</qc><sop_address><item>sop://124.232.150.188:3920/5195</item></sop_address><description cn="">??????(h)</description></channel><channel id="14297" type="1" btype="0" language="en"><name en="????(h)" cn="????(h)">????(h) [????(h)]</name><status>2</status><region en="United States" cn="??">US</region><class en="News" cn="???">6</class><user_count>3</user_count><sn>4122</sn><visit_count>604438</visit_count><start_from>Tue, 09 Aug 2016 11:36:23 GMT</start_from><stream_type>mpeg-ts</stream_type><kbps>0</kbps><qs>100</qs><qc>98</qc><sop_address><item>sop://124.232.150.188:3920/5192</item></sop_address><description cn="">????(h)</description></channel></group><group id="5" type="1" en="Movies Group" cn="?????" description="Movies Group">Movies Group [?????]<channel id="25752" type="0" btype="0" language="en"><name en="Zhejiang TV" cn="????">Zhejiang TV [????]</name><status>2</status><region en="China" cn="??">CN</region><class en="General" cn="???">3</class><user_count>3</user_count><sn>4123</sn><visit_count>218814</visit_count><start_from>Tue, 09 Aug 2016 11:36:33 GMT</start_from><stream_type>mpeg-ts</stream_type><kbps>800</kbps><qs>100</qs><qc>99</qc><sop_address><item>sop://124.232.150.188:3920/5194</item></sop_address><description cn="????:
-????:24×7
-Email:user@your.com">zjtv</description></channel><channel id="25753" type="0" btype="0" language="en"><name en="Zhujiang TV" cn="???">????</name><status>2</status><region en="China" cn="??">CN</region><class en="Movies" cn="??">9</class><user_count>3</user_count><sn>4123</sn><visit_count>1374278</visit_count><start_from>Fri, 29 Jul 2016 06:22:49 GMT</start_from><stream_type>mpeg-ts</stream_type><kbps>800</kbps><qs>99</qs><qc>99</qc><sop_address><item>sop://124.232.150.188:3920/5185</item></sop_address><description cn="????:
-????:24×7
-Email:user@your.com">Zhujiang TV</description></channel></group><group id="7" type="0" en="H264 Channel" cn="" description="Description:News, entertainment, sports, documentory
+<group description="News & Education" cn="???????" en="News & Education" type="1" id="3">
+News & Education [???????]
+
+<channel language="en" type="0" id="9761" btype="0">
+
+<name cn="CCTV-4(h)" en="CCTV-4(h)">CCTV-4</name>
+
+<status>2</status>
+
+<region cn="??" en="China">CN</region>
+
+<class cn="???" en="News">6</class>
+
+<user_count>3</user_count>
+
+<sn>4126</sn>
+
+<visit_count>2353212</visit_count>
+
+<start_from>Tue, 09 Aug 2016 11:36:20 GMT</start_from>
+
+<stream_type>mpeg-ts</stream_type>
+
+<kbps>800</kbps>
+
+<qs>100</qs>
+
+<qc>70</qc>
 
 
+<sop_address>
 
-">H264 Channel<channel id="8891" type="1" btype="0" language="zh_CN"><name en="????(h)" cn="????(h)">?????</name><status>2</status><region en="China" cn="??">CN</region><class en="Entertainmnet" cn="???">1</class><user_count>4</user_count><sn>4128</sn><visit_count>690110</visit_count><start_from>Thu, 18 Aug 2016 20:14:30 GMT</start_from><stream_type>mpeg-ts</stream_type><kbps>800</kbps><qs>100</qs><qc>97</qc><sop_address><item>sop://124.232.150.188:3920/5186</item></sop_address><description cn="">????(h)</description></channel><channel id="8892" type="1" btype="0" language="en"><name en="????(h)" cn="????(h)">????</name><status>2</status><region en="China" cn="??">CN</region><class en="Education" cn="???">8</class><user_count>3</user_count><sn>4123</sn><visit_count>481860</visit_count><start_from>Thu, 18 Aug 2016 20:15:00 GMT</start_from><stream_type>mpeg-ts</stream_type><kbps>800</kbps><qs>100</qs><qc>94</qc><sop_address><item>sop://124.232.150.188:3920/5188</item></sop_address><description cn="">DongSen</description></channel><channel id="8893" type="0" btype="0" language="en"><name en="CCTV-1(h)" cn="CCTV-1(h)">CCTV-1</name><status>2</status><region en="United States" cn="??">US</region><class en="General" cn="???">3</class><user_count>3</user_count><sn>4125</sn><visit_count>2103780</visit_count><start_from>Tue, 09 Aug 2016 11:36:23 GMT</start_from><stream_type>mpeg-ts</stream_type><kbps>800</kbps><qs>100</qs><qc>89</qc><sop_address><item>sop://124.232.150.188:3920/5190</item></sop_address><description cn="">satellitetvtopc.com</description></channel><channel id="9761" type="0" btype="0" language="en"><name en="CCTV-4(h)" cn="CCTV-4(h)">CCTV-4</name><status>2</status><region en="China" cn="??">CN</region><class en="News" cn="???">6</class><user_count>3</user_count><sn>4126</sn><visit_count>2353212</visit_count><start_from>Tue, 09 Aug 2016 11:36:20 GMT</start_from><stream_type>mpeg-ts</stream_type><kbps>800</kbps><qs>100</qs><qc>70</qc><sop_address><item>sop://124.232.150.188:3920/5191</item></sop_address><description cn="">New</description></channel><channel id="11266" type="0" btype="0" language="en"><name en="Beijing TV" cn="????">Beijing TV [????]</name><status>2</status><region en="Hong Kong SAR" cn="???????">HK</region><class en="Sports" cn="???">2</class><user_count>3</user_count><sn>4123</sn><visit_count>1411440</visit_count><start_from>Mon, 01 Jun 2015 09:52:33 GMT</start_from><stream_type>mpeg-ts</stream_type><kbps>800</kbps><qs>100</qs><qc>95</qc><sop_address><item>sop://124.232.150.188:3920/5193</item></sop_address><description cn="">????:
-????:24×7
-Email:hk12990@hotmail.com</description></channel><channel id="12921" type="0" btype="0" language="en"><name en="Shanghai TV" cn="????">Shanghai TV [????]</name><status>2</status><region en="United States" cn="??">US</region><class en="Entertainmnet" cn="???">1</class><user_count>3</user_count><sn>4123</sn><visit_count>2020416</visit_count><start_from>Tue, 28 Apr 2015 12:42:57 GMT</start_from><stream_type>mpeg-ts</stream_type><kbps>800</kbps><qs>100</qs><qc>89</qc><sop_address><item>sop://124.232.150.188:3920/5195</item></sop_address><description cn="">??????(h)</description></channel><channel id="14297" type="1" btype="0" language="en"><name en="????(h)" cn="????(h)">????(h) [????(h)]</name><status>2</status><region en="United States" cn="??">US</region><class en="News" cn="???">6</class><user_count>3</user_count><sn>4122</sn><visit_count>604438</visit_count><start_from>Tue, 09 Aug 2016 11:36:23 GMT</start_from><stream_type>mpeg-ts</stream_type><kbps>0</kbps><qs>100</qs><qc>98</qc><sop_address><item>sop://124.232.150.188:3920/5192</item></sop_address><description cn="">????(h)</description></channel><channel id="108790" type="0" btype="0" language="en"><name en="IMPACT TV" cn="">IMPACT TV</name><status>2</status><region en="Romania" cn="????">RO</region><class en="Entertainmnet" cn="???">1</class><user_count>4</user_count><sn>4128</sn><visit_count>2935320</visit_count><start_from>Sat, 20 Aug 2016 05:04:08 GMT</start_from><stream_type>mpeg-ts</stream_type><kbps>1511</kbps><qs>100</qs><qc>90</qc><sop_address><item>sop://151.80.76.190:3912/108790</item></sop_address><description cn="">IMPACT TV Manele ROMANIA
-www.radioimpact.net</description></channel></group><group id="9" type="0" en="Comic | Game | Music" cn="?? |  ?? | ??" description="Comic | Game | Music |  ?? |  ?? | ??
-">Comic | Game | Music [?? |  ?? | ??]<channel id="25762" type="0" btype="0" language="en"><name en="TLC" cn="??????">TLC</name><status>2</status><region en="Taiwan" cn="??">TW</region><class en="Entertainmnet" cn="???">1</class><user_count>3</user_count><sn>4125</sn><visit_count>1998369</visit_count><start_from>Fri, 18 Mar 2016 22:06:29 GMT</start_from><stream_type>mpeg-ts</stream_type><kbps>600</kbps><qs>100</qs><qc>95</qc><sop_address><item>sop://124.232.150.188:3920/5701</item></sop_address><description cn="test">test</description></channel><channel id="141796" type="0" btype="0" language="en"><name en="(WAM)tv" cn="??????????">(WAM)tv</name><status>2</status><region en="United States" cn="??">US</region><class en="Others" cn="??">99</class><user_count>3</user_count><sn>4125</sn><visit_count>2304166</visit_count><start_from>Sun, 21 Aug 2016 06:38:28 GMT</start_from><stream_type>wmv</stream_type><kbps>288</kbps><qs>53</qs><qc>68</qc><sop_address><item>sop://151.80.76.190:3912/141796</item></sop_address><description cn="????????
-?????????
-WAM.tv@gmx.com">Biblical Truth Driven TV
-For The Glory of Jesus Christ
-WAM.tv@gmx.com</description></channel></group><group id="13" type="0" en="tw channels" cn="tw channels" description="test">tw channels [tw channels]<channel id="25757" type="0" btype="0" language="en"><name en="TTV" cn="??">TTV</name><status>2</status><region en="Taiwan" cn="??">TW</region><class en="Entertainmnet" cn="???">1</class><user_count>3</user_count><sn>4126</sn><visit_count>4805417</visit_count><start_from>Sat, 11 Jun 2016 23:06:49 GMT</start_from><stream_type>mpeg-ts</stream_type><kbps>600</kbps><qs>100</qs><qc>91</qc><sop_address><item>sop://124.232.150.188:3920/5696</item></sop_address><description cn="test">test</description></channel><channel id="25758" type="0" btype="0" language="en"><name en="VL SPORTS" cn="?????">VLSPORTS</name><status>2</status><region en="Taiwan" cn="??">TW</region><class en="Entertainmnet" cn="???">1</class><user_count>3</user_count><sn>4123</sn><visit_count>3044069</visit_count><start_from>Sat, 18 Jun 2016 09:55:44 GMT</start_from><stream_type>mpeg-ts</stream_type><kbps>600</kbps><qs>100</qs><qc>93</qc><sop_address><item>sop://124.232.150.188:3920/5697</item></sop_address><description cn="test">test</description></channel><channel id="25761" type="0" btype="0" language="en"><name en="Discovery" cn="Discovery">Discovery</name><status>2</status><region en="Taiwan" cn="??">TW</region><class en="Entertainmnet" cn="???">1</class><user_count>3</user_count><sn>4126</sn><visit_count>4646619</visit_count><start_from>Sun, 17 Jul 2016 23:35:55 GMT</start_from><stream_type>mpeg-ts</stream_type><kbps>600</kbps><qs>100</qs><qc>96</qc><sop_address><item>sop://124.232.150.188:3920/5700</item></sop_address><description cn="test">test</description></channel><channel id="25765" type="0" btype="0" language="en"><name en="VL ENT" cn="?????">VLEntertainment</name><status>2</status><region en="Taiwan" cn="??">TW</region><class en="Entertainmnet" cn="???">1</class><user_count>4</user_count><sn>4129</sn><visit_count>2439171</visit_count><start_from>Mon, 22 Aug 2016 02:02:24 GMT</start_from><stream_type>mpeg-ts</stream_type><kbps>600</kbps><qs>100</qs><qc>90</qc><sop_address><item>sop://124.232.150.188:3920/5704</item></sop_address><description cn="test">test</description></channel><channel id="25770" type="0" btype="0" language="en"><name en="Cti Entertainment" cn="?????">CtiEntertainment</name><status>2</status><region en="Taiwan" cn="??">TW</region><class en="Entertainmnet" cn="???">1</class><user_count>3</user_count><sn>4123</sn><visit_count>2443325</visit_count><start_from>Fri, 15 Jul 2016 01:32:40 GMT</start_from><stream_type>mpeg-ts</stream_type><kbps>600</kbps><qs>100</qs><qc>94</qc><sop_address><item>sop://124.232.150.188:3920/5709</item></sop_address><description cn="test">test</description></channel><channel id="25771" type="0" btype="0" language="en"><name en="VL Drama" cn="?????">VLDrama</name><status>2</status><region en="Taiwan" cn="??">TW</region><class en="Entertainmnet" cn="???">1</class><user_count>3</user_count><sn>4125</sn><visit_count>1827877</visit_count><start_from>Mon, 25 Jul 2016 14:06:42 GMT</start_from><stream_type>mpeg-ts</stream_type><kbps>600</kbps><qs>100</qs><qc>90</qc><sop_address><item>sop://124.232.150.188:3920/5710</item></sop_address><description cn="test">test</description></channel><channel id="25772" type="0" btype="0" language="en"><name en="NextTV NEWS" cn="?????">NextTVNEWS</name><status>2</status><region en="Taiwan" cn="??">TW</region><class en="Entertainmnet" cn="???">1</class><user_count>6</user_count><sn>4146</sn><visit_count>8123003</visit_count><start_from>Sun, 07 Aug 2016 20:55:44 GMT</start_from><stream_type>mpeg-ts</stream_type><kbps>600</kbps><qs>100</qs><qc>93</qc><sop_address><item>sop://124.232.150.188:3920/5711</item></sop_address><description cn="test">test</description></channel><channel id="25780" type="0" btype="0" language="en"><name en="EBC FNC" cn="???????">EBCFNC</name><status>2</status><region en="Taiwan" cn="??">TW</region><class en="Entertainmnet" cn="???">1</class><user_count>5</user_count><sn>4136</sn><visit_count>4736155</visit_count><start_from>Tue, 31 May 2016 10:30:48 GMT</start_from><stream_type>mpeg-ts</stream_type><kbps>600</kbps><qs>100</qs><qc>97</qc><sop_address><item>sop://124.232.150.188:3920/5719</item></sop_address><description cn="test">test</description></channel><channel id="25788" type="0" btype="0" language="en"><name en="VL SPORT" cn="?????">VLSPORTS</name><status>2</status><region en="Taiwan" cn="??">TW</region><class en="Entertainmnet" cn="???">1</class><user_count>3</user_count><sn>4122</sn><visit_count>974359</visit_count><start_from>Mon, 15 Aug 2016 11:00:12 GMT</start_from><stream_type>mpeg-ts</stream_type><kbps>600</kbps><qs>100</qs><qc>89</qc><sop_address><item>sop://124.232.150.188:3920/5727</item></sop_address><description cn="test">test</description></channel><channel id="25791" type="0" btype="0" language="en"><name en="FOX Sports 2" cn="????2?">FOXSPORTS2</name><status>2</status><region en="Taiwan" cn="??">TW</region><class en="Entertainmnet" cn="???">1</class><user_count>3</user_count><sn>4123</sn><visit_count>8044593</visit_count><start_from>Sun, 31 Jul 2016 09:12:14 GMT</start_from><stream_type>mpeg-ts</stream_type><kbps>600</kbps><qs>100</qs><qc>88</qc><sop_address><item>sop://124.232.150.188:3920/5730</item></sop_address><description cn="test">test</description></channel><channel id="25794" type="0" btype="0" language="en"><name en="VL Japan" cn="?????">VLJapan</name><status>2</status><region en="Taiwan" cn="??">TW</region><class en="Entertainmnet" cn="???">1</class><user_count>4</user_count><sn>4128</sn><visit_count>3882953</visit_count><start_from>Sun, 21 Aug 2016 18:57:08 GMT</start_from><stream_type>mpeg-ts</stream_type><kbps>600</kbps><qs>100</qs><qc>80</qc><sop_address><item>sop://124.232.150.188:3920/5733</item></sop_address><description cn="test">test</description></channel></group><group id="14" type="0" en="Test Channel Group" cn="?????" description="Test Channel Group">Test Channel Group [?????]<channel id="108790" type="0" btype="0" language="en"><name en="IMPACT TV" cn="">IMPACT TV</name><status>2</status><region en="Romania" cn="????">RO</region><class en="Entertainmnet" cn="???">1</class><user_count>4</user_count><sn>4128</sn><visit_count>2935320</visit_count><start_from>Sat, 20 Aug 2016 05:04:08 GMT</start_from><stream_type>mpeg-ts</stream_type><kbps>1511</kbps><qs>100</qs><qc>90</qc><sop_address><item>sop://151.80.76.190:3912/108790</item></sop_address><description cn="">IMPACT TV Manele ROMANIA
-www.radioimpact.net</description></channel></group><group id="326" type="0" en="TURKISH TV" cn="" description="Description:
-Schedule:
-Type:
-">TURKISH TV<channel id="262633" type="0" btype="0" language="tr"><name en="Galatasaray - Karabükspor" cn="">Galatasaray - Karabükspor</name><status>2</status><region en="Turkey" cn="???">TR</region><class en="Sports" cn="???">2</class><user_count>4</user_count><sn>4131</sn><visit_count>148</visit_count><start_from>Mon, 22 Aug 2016 05:48:29 GMT</start_from><stream_type>mpeg-ts</stream_type><kbps>1200</kbps><qs>100</qs><qc>98</qc><sop_address><item>sop://151.80.76.190:3912/262633</item></sop_address><description cn="">Galatasaray - Karabükspor </description></channel></group><group id="460" type="0" en="USA" cn="" description="USA">USA<channel id="141796" type="0" btype="0" language="en"><name en="(WAM)tv" cn="??????????">(WAM)tv</name><status>2</status><region en="United States" cn="??">US</region><class en="Others" cn="??">99</class><user_count>3</user_count><sn>4125</sn><visit_count>2304166</visit_count><start_from>Sun, 21 Aug 2016 06:38:28 GMT</start_from><stream_type>wmv</stream_type><kbps>288</kbps><qs>53</qs><qc>68</qc><sop_address><item>sop://151.80.76.190:3912/141796</item></sop_address><description cn="????????
-?????????
-WAM.tv@gmx.com">Biblical Truth Driven TV
-For The Glory of Jesus Christ
-WAM.tv@gmx.com</description></channel></group><group id="671" type="0" en="Christian Broadcasting" cn="" description="Christian Broadcasting">Christian Broadcasting<channel id="141796" type="0" btype="0" language="en"><name en="(WAM)tv" cn="??????????">(WAM)tv</name><status>2</status><region en="United States" cn="??">US</region><class en="Others" cn="??">99</class><user_count>3</user_count><sn>4125</sn><visit_count>2304166</visit_count><start_from>Sun, 21 Aug 2016 06:38:28 GMT</start_from><stream_type>wmv</stream_type><kbps>288</kbps><qs>53</qs><qc>68</qc><sop_address><item>sop://151.80.76.190:3912/141796</item></sop_address><description cn="????????
-?????????
-WAM.tv@gmx.com">Biblical Truth Driven TV
-For The Glory of Jesus Christ
-WAM.tv@gmx.com</description></channel></group><group id="948" type="0" en="Sports Channel" cn="" description="Sports Channel">Sports Channel<channel id="147569" type="1" btype="0" language="ru"><name en="channel" cn="channel">channel</name><status>2</status><region en="Ukraine" cn="???">UA</region><class en="Sports" cn="???">2</class><user_count>2</user_count><sn>4118</sn><visit_count>1165856</visit_count><start_from>Mon, 22 Aug 2016 02:46:22 GMT</start_from><stream_type>mpeg-ts</stream_type><kbps>96</kbps><qs>100</qs><qc>77</qc><sop_address><item>sop://151.80.76.190:3912/147569</item></sop_address><description cn="">Football games</description></channel></group><group id="1852" type="0" en="Romania" cn="" description="Romania">Romania<channel id="108790" type="0" btype="0" language="en"><name en="IMPACT TV" cn="">IMPACT TV</name><status>2</status><region en="Romania" cn="????">RO</region><class en="Entertainmnet" cn="???">1</class><user_count>4</user_count><sn>4128</sn><visit_count>2935320</visit_count><start_from>Sat, 20 Aug 2016 05:04:08 GMT</start_from><stream_type>mpeg-ts</stream_type><kbps>1511</kbps><qs>100</qs><qc>90</qc><sop_address><item>sop://151.80.76.190:3912/108790</item></sop_address><description cn="">IMPACT TV Manele ROMANIA
-www.radioimpact.net</description></channel></group><group id="6008" type="0" en="VietNam" cn="" description="VietNam">VietNam<channel id="128572" type="0" btype="0" language="en"><name en="Truyen hinh Lang Son" cn="">Truyen hinh Lang Son</name><status>2</status><region en="Vietnam" cn="??">VN</region><class en="News" cn="???">6</class><user_count>1</user_count><sn>4117</sn><visit_count>1419316</visit_count><start_from>Mon, 22 Aug 2016 09:55:21 GMT</start_from><stream_type>mpeg-ts</stream_type><kbps>888</kbps><qs>100</qs><qc>100</qc><sop_address><item>sop://151.80.76.190:3912/128572</item></sop_address><description cn="">LangSon Radio and Television</description></channel></group><group id="22280" type="1" en="OurLocalChannels" cn="" description="OurLocalChannels.com
+<item>sop://124.232.150.188:3920/5191</item>
 
-">OurLocalChannels<channel id="145090" type="0" btype="0" language="en"><name en="TrumpTV" cn="">TrumpTV</name><status>2</status><region en="United States" cn="??">US</region><class en="News" cn="???">6</class><user_count>2</user_count><sn>4120</sn><visit_count>275324</visit_count><start_from>Wed, 17 Aug 2016 16:37:57 GMT</start_from><stream_type>mpeg-ts</stream_type><kbps>384</kbps><qs>95</qs><qc>85</qc><sop_address><item>sop://151.80.76.190:3912/145090</item></sop_address><description cn="">ThinkTV</description></channel><channel id="145091" type="0" btype="0" language="en"><name en="WNTS Television" cn="">WNTS Television</name><status>2</status><region en="United States" cn="??">US</region><class en="News" cn="???">6</class><user_count>2</user_count><sn>4118</sn><visit_count>617748</visit_count><start_from>Thu, 18 Aug 2016 17:41:43 GMT</start_from><stream_type>mpeg-ts</stream_type><kbps>512</kbps><qs>100</qs><qc>100</qc><sop_address><item>sop://151.80.76.190:3912/145091</item></sop_address><description cn="">WNTS Television</description></channel><channel id="149800" type="0" btype="0" language="en"><name en="Satilla Faith Channel 22" cn="">Satilla Faith Channel 22</name><status>2</status><region en="United States" cn="??">US</region><class en="Others" cn="??">99</class><user_count>2</user_count><sn>4118</sn><visit_count>127314</visit_count><start_from>Sun, 21 Aug 2016 22:44:06 GMT</start_from><stream_type>mpeg-ts</stream_type><kbps>512</kbps><qs>0</qs><qc>40</qc><sop_address><item>sop://151.80.76.190:3912/149800</item></sop_address><description cn="">Satilla Faith Channel 22</description></channel></group><group id="22912" type="0" en="pro tv" cn="" description="romania">pro tv<channel id="258046" type="0" btype="0" language="en"><name en="Big Bear Lake" cn="">Big Bear Lake</name><status>2</status><region en="United States" cn="??">US</region><class en="Entertainmnet" cn="???">1</class><user_count>2</user_count><sn>4120</sn><visit_count>343934</visit_count><start_from>Thu, 18 Aug 2016 17:40:37 GMT</start_from><stream_type>mpeg-ts</stream_type><kbps>512</kbps><qs>100</qs><qc>100</qc><sop_address><item>sop://151.80.76.190:3912/258046</item></sop_address><description cn="">Big Bear Lake</description></channel></group></channels>
+</sop_address>
+
+<description cn="">New</description>
+
+</channel>
+
+</group>
+
+
+<group description="Description:?????? Entertainmnet & Comedy Channels Channels Schedule:24*7 Type:Fully Public " cn="" en="Entertainment Channels" type="1" id="4">
+Entertainment Channels
+
+<channel language="en" type="0" id="12921" btype="0">
+
+<name cn="????" en="Shanghai TV">Shanghai TV [????]</name>
+
+<status>2</status>
+
+<region cn="??" en="United States">US</region>
+
+<class cn="???" en="Entertainmnet">1</class>
+
+<user_count>3</user_count>
+
+<sn>4123</sn>
+
+<visit_count>2020416</visit_count>
+
+<start_from>Tue, 28 Apr 2015 12:42:57 GMT</start_from>
+
+<stream_type>mpeg-ts</stream_type>
+
+<kbps>800</kbps>
+
+<qs>100</qs>
+
+<qc>89</qc>
+
+
+<sop_address>
+
+<item>sop://124.232.150.188:3920/5195</item>
+
+</sop_address>
+
+<description cn="">??????(h)</description>
+
+</channel>
+
+
+<channel language="en" type="1" id="14297" btype="0">
+
+<name cn="????(h)" en="????(h)">????(h) [????(h)]</name>
+
+<status>2</status>
+
+<region cn="??" en="United States">US</region>
+
+<class cn="???" en="News">6</class>
+
+<user_count>3</user_count>
+
+<sn>4122</sn>
+
+<visit_count>604438</visit_count>
+
+<start_from>Tue, 09 Aug 2016 11:36:23 GMT</start_from>
+
+<stream_type>mpeg-ts</stream_type>
+
+<kbps>0</kbps>
+
+<qs>100</qs>
+
+<qc>98</qc>
+
+
+<sop_address>
+
+<item>sop://124.232.150.188:3920/5192</item>
+
+</sop_address>
+
+<description cn="">????(h)</description>
+
+</channel>
+
+</group>
+
+
+<group description="Movies Group" cn="?????" en="Movies Group" type="1" id="5">
+Movies Group [?????]
+
+<channel language="en" type="0" id="25752" btype="0">
+
+<name cn="????" en="Zhejiang TV">Zhejiang TV [????]</name>
+
+<status>2</status>
+
+<region cn="??" en="China">CN</region>
+
+<class cn="???" en="General">3</class>
+
+<user_count>3</user_count>
+
+<sn>4123</sn>
+
+<visit_count>218814</visit_count>
+
+<start_from>Tue, 09 Aug 2016 11:36:33 GMT</start_from>
+
+<stream_type>mpeg-ts</stream_type>
+
+<kbps>800</kbps>
+
+<qs>100</qs>
+
+<qc>99</qc>
+
+
+<sop_address>
+
+<item>sop://124.232.150.188:3920/5194</item>
+
+</sop_address>
+
+<description cn="????: ????:24×7 Email:user@your.com">zjtv</description>
+
+</channel>
+
+
+<channel language="en" type="0" id="25753" btype="0">
+
+<name cn="???" en="Zhujiang TV">????</name>
+
+<status>2</status>
+
+<region cn="??" en="China">CN</region>
+
+<class cn="??" en="Movies">9</class>
+
+<user_count>3</user_count>
+
+<sn>4123</sn>
+
+<visit_count>1374278</visit_count>
+
+<start_from>Fri, 29 Jul 2016 06:22:49 GMT</start_from>
+
+<stream_type>mpeg-ts</stream_type>
+
+<kbps>800</kbps>
+
+<qs>99</qs>
+
+<qc>99</qc>
+
+
+<sop_address>
+
+<item>sop://124.232.150.188:3920/5185</item>
+
+</sop_address>
+
+<description cn="????: ????:24×7 Email:user@your.com">Zhujiang TV</description>
+
+</channel>
+
+</group>
+
+
+<group description="Description:News, entertainment, sports, documentory " cn="" en="H264 Channel" type="0" id="7">
+H264 Channel
+
+<channel language="zh_CN" type="1" id="8891" btype="0">
+
+<name cn="????(h)" en="????(h)">?????</name>
+
+<status>2</status>
+
+<region cn="??" en="China">CN</region>
+
+<class cn="???" en="Entertainmnet">1</class>
+
+<user_count>4</user_count>
+
+<sn>4128</sn>
+
+<visit_count>690110</visit_count>
+
+<start_from>Thu, 18 Aug 2016 20:14:30 GMT</start_from>
+
+<stream_type>mpeg-ts</stream_type>
+
+<kbps>800</kbps>
+
+<qs>100</qs>
+
+<qc>97</qc>
+
+
+<sop_address>
+
+<item>sop://124.232.150.188:3920/5186</item>
+
+</sop_address>
+
+<description cn="">????(h)</description>
+
+</channel>
+
+
+<channel language="en" type="1" id="8892" btype="0">
+
+<name cn="????(h)" en="????(h)">????</name>
+
+<status>2</status>
+
+<region cn="??" en="China">CN</region>
+
+<class cn="???" en="Education">8</class>
+
+<user_count>3</user_count>
+
+<sn>4123</sn>
+
+<visit_count>481860</visit_count>
+
+<start_from>Thu, 18 Aug 2016 20:15:00 GMT</start_from>
+
+<stream_type>mpeg-ts</stream_type>
+
+<kbps>800</kbps>
+
+<qs>100</qs>
+
+<qc>94</qc>
+
+
+<sop_address>
+
+<item>sop://124.232.150.188:3920/5188</item>
+
+</sop_address>
+
+<description cn="">DongSen</description>
+
+</channel>
+
+
+<channel language="en" type="0" id="8893" btype="0">
+
+<name cn="CCTV-1(h)" en="CCTV-1(h)">CCTV-1</name>
+
+<status>2</status>
+
+<region cn="??" en="United States">US</region>
+
+<class cn="???" en="General">3</class>
+
+<user_count>3</user_count>
+
+<sn>4125</sn>
+
+<visit_count>2103780</visit_count>
+
+<start_from>Tue, 09 Aug 2016 11:36:23 GMT</start_from>
+
+<stream_type>mpeg-ts</stream_type>
+
+<kbps>800</kbps>
+
+<qs>100</qs>
+
+<qc>89</qc>
+
+
+<sop_address>
+
+<item>sop://124.232.150.188:3920/5190</item>
+
+</sop_address>
+
+<description cn="">satellitetvtopc.com</description>
+
+</channel>
+
+
+<channel language="en" type="0" id="9761" btype="0">
+
+<name cn="CCTV-4(h)" en="CCTV-4(h)">CCTV-4</name>
+
+<status>2</status>
+
+<region cn="??" en="China">CN</region>
+
+<class cn="???" en="News">6</class>
+
+<user_count>3</user_count>
+
+<sn>4126</sn>
+
+<visit_count>2353212</visit_count>
+
+<start_from>Tue, 09 Aug 2016 11:36:20 GMT</start_from>
+
+<stream_type>mpeg-ts</stream_type>
+
+<kbps>800</kbps>
+
+<qs>100</qs>
+
+<qc>70</qc>
+
+
+<sop_address>
+
+<item>sop://124.232.150.188:3920/5191</item>
+
+</sop_address>
+
+<description cn="">New</description>
+
+</channel>
+
+
+<channel language="en" type="0" id="11266" btype="0">
+
+<name cn="????" en="Beijing TV">Beijing TV [????]</name>
+
+<status>2</status>
+
+<region cn="???????" en="Hong Kong SAR">HK</region>
+
+<class cn="???" en="Sports">2</class>
+
+<user_count>3</user_count>
+
+<sn>4123</sn>
+
+<visit_count>1411440</visit_count>
+
+<start_from>Mon, 01 Jun 2015 09:52:33 GMT</start_from>
+
+<stream_type>mpeg-ts</stream_type>
+
+<kbps>800</kbps>
+
+<qs>100</qs>
+
+<qc>95</qc>
+
+
+<sop_address>
+
+<item>sop://124.232.150.188:3920/5193</item>
+
+</sop_address>
+
+<description cn="">????: ????:24×7 Email:hk12990@hotmail.com</description>
+
+</channel>
+
+
+<channel language="en" type="0" id="12921" btype="0">
+
+<name cn="????" en="Shanghai TV">Shanghai TV [????]</name>
+
+<status>2</status>
+
+<region cn="??" en="United States">US</region>
+
+<class cn="???" en="Entertainmnet">1</class>
+
+<user_count>3</user_count>
+
+<sn>4123</sn>
+
+<visit_count>2020416</visit_count>
+
+<start_from>Tue, 28 Apr 2015 12:42:57 GMT</start_from>
+
+<stream_type>mpeg-ts</stream_type>
+
+<kbps>800</kbps>
+
+<qs>100</qs>
+
+<qc>89</qc>
+
+
+<sop_address>
+
+<item>sop://124.232.150.188:3920/5195</item>
+
+</sop_address>
+
+<description cn="">??????(h)</description>
+
+</channel>
+
+
+<channel language="en" type="1" id="14297" btype="0">
+
+<name cn="????(h)" en="????(h)">????(h) [????(h)]</name>
+
+<status>2</status>
+
+<region cn="??" en="United States">US</region>
+
+<class cn="???" en="News">6</class>
+
+<user_count>3</user_count>
+
+<sn>4122</sn>
+
+<visit_count>604438</visit_count>
+
+<start_from>Tue, 09 Aug 2016 11:36:23 GMT</start_from>
+
+<stream_type>mpeg-ts</stream_type>
+
+<kbps>0</kbps>
+
+<qs>100</qs>
+
+<qc>98</qc>
+
+
+<sop_address>
+
+<item>sop://124.232.150.188:3920/5192</item>
+
+</sop_address>
+
+<description cn="">????(h)</description>
+
+</channel>
+
+
+<channel language="en" type="0" id="108790" btype="0">
+
+<name cn="" en="IMPACT TV">IMPACT TV</name>
+
+<status>2</status>
+
+<region cn="????" en="Romania">RO</region>
+
+<class cn="???" en="Entertainmnet">1</class>
+
+<user_count>4</user_count>
+
+<sn>4128</sn>
+
+<visit_count>2935320</visit_count>
+
+<start_from>Sat, 20 Aug 2016 05:04:08 GMT</start_from>
+
+<stream_type>mpeg-ts</stream_type>
+
+<kbps>1511</kbps>
+
+<qs>100</qs>
+
+<qc>90</qc>
+
+
+<sop_address>
+
+<item>sop://151.80.76.190:3912/108790</item>
+
+</sop_address>
+
+<description cn="">IMPACT TV Manele ROMANIA www.radioimpact.net</description>
+
+</channel>
+
+</group>
+
+
+<group description="Comic | Game | Music | ?? | ?? | ?? " cn="?? | ?? | ??" en="Comic | Game | Music" type="0" id="9">
+Comic | Game | Music [?? | ?? | ??]
+
+<channel language="en" type="0" id="25762" btype="0">
+
+<name cn="??????" en="TLC">TLC</name>
+
+<status>2</status>
+
+<region cn="??" en="Taiwan">TW</region>
+
+<class cn="???" en="Entertainmnet">1</class>
+
+<user_count>3</user_count>
+
+<sn>4125</sn>
+
+<visit_count>1998369</visit_count>
+
+<start_from>Fri, 18 Mar 2016 22:06:29 GMT</start_from>
+
+<stream_type>mpeg-ts</stream_type>
+
+<kbps>600</kbps>
+
+<qs>100</qs>
+
+<qc>95</qc>
+
+
+<sop_address>
+
+<item>sop://124.232.150.188:3920/5701</item>
+
+</sop_address>
+
+<description cn="test">test</description>
+
+</channel>
+
+
+<channel language="en" type="0" id="141796" btype="0">
+
+<name cn="??????????" en="(WAM)tv">(WAM)tv</name>
+
+<status>2</status>
+
+<region cn="??" en="United States">US</region>
+
+<class cn="??" en="Others">99</class>
+
+<user_count>3</user_count>
+
+<sn>4125</sn>
+
+<visit_count>2304166</visit_count>
+
+<start_from>Sun, 21 Aug 2016 06:38:28 GMT</start_from>
+
+<stream_type>wmv</stream_type>
+
+<kbps>288</kbps>
+
+<qs>53</qs>
+
+<qc>68</qc>
+
+
+<sop_address>
+
+<item>sop://151.80.76.190:3912/141796</item>
+
+</sop_address>
+
+<description cn="???????? ????????? WAM.tv@gmx.com">Biblical Truth Driven TV For The Glory of Jesus Christ WAM.tv@gmx.com</description>
+
+</channel>
+
+</group>
+
+
+<group description="test" cn="tw channels" en="tw channels" type="0" id="13">
+tw channels [tw channels]
+
+<channel language="en" type="0" id="25757" btype="0">
+
+<name cn="??" en="TTV">TTV</name>
+
+<status>2</status>
+
+<region cn="??" en="Taiwan">TW</region>
+
+<class cn="???" en="Entertainmnet">1</class>
+
+<user_count>3</user_count>
+
+<sn>4126</sn>
+
+<visit_count>4805417</visit_count>
+
+<start_from>Sat, 11 Jun 2016 23:06:49 GMT</start_from>
+
+<stream_type>mpeg-ts</stream_type>
+
+<kbps>600</kbps>
+
+<qs>100</qs>
+
+<qc>91</qc>
+
+
+<sop_address>
+
+<item>sop://124.232.150.188:3920/5696</item>
+
+</sop_address>
+
+<description cn="test">test</description>
+
+</channel>
+
+
+<channel language="en" type="0" id="25758" btype="0">
+
+<name cn="?????" en="VL SPORTS">VLSPORTS</name>
+
+<status>2</status>
+
+<region cn="??" en="Taiwan">TW</region>
+
+<class cn="???" en="Entertainmnet">1</class>
+
+<user_count>3</user_count>
+
+<sn>4123</sn>
+
+<visit_count>3044069</visit_count>
+
+<start_from>Sat, 18 Jun 2016 09:55:44 GMT</start_from>
+
+<stream_type>mpeg-ts</stream_type>
+
+<kbps>600</kbps>
+
+<qs>100</qs>
+
+<qc>93</qc>
+
+
+<sop_address>
+
+<item>sop://124.232.150.188:3920/5697</item>
+
+</sop_address>
+
+<description cn="test">test</description>
+
+</channel>
+
+
+<channel language="en" type="0" id="25761" btype="0">
+
+<name cn="Discovery" en="Discovery">Discovery</name>
+
+<status>2</status>
+
+<region cn="??" en="Taiwan">TW</region>
+
+<class cn="???" en="Entertainmnet">1</class>
+
+<user_count>3</user_count>
+
+<sn>4126</sn>
+
+<visit_count>4646619</visit_count>
+
+<start_from>Sun, 17 Jul 2016 23:35:55 GMT</start_from>
+
+<stream_type>mpeg-ts</stream_type>
+
+<kbps>600</kbps>
+
+<qs>100</qs>
+
+<qc>96</qc>
+
+
+<sop_address>
+
+<item>sop://124.232.150.188:3920/5700</item>
+
+</sop_address>
+
+<description cn="test">test</description>
+
+</channel>
+
+
+<channel language="en" type="0" id="25765" btype="0">
+
+<name cn="?????" en="VL ENT">VLEntertainment</name>
+
+<status>2</status>
+
+<region cn="??" en="Taiwan">TW</region>
+
+<class cn="???" en="Entertainmnet">1</class>
+
+<user_count>4</user_count>
+
+<sn>4129</sn>
+
+<visit_count>2439171</visit_count>
+
+<start_from>Mon, 22 Aug 2016 02:02:24 GMT</start_from>
+
+<stream_type>mpeg-ts</stream_type>
+
+<kbps>600</kbps>
+
+<qs>100</qs>
+
+<qc>90</qc>
+
+
+<sop_address>
+
+<item>sop://124.232.150.188:3920/5704</item>
+
+</sop_address>
+
+<description cn="test">test</description>
+
+</channel>
+
+
+<channel language="en" type="0" id="25770" btype="0">
+
+<name cn="?????" en="Cti Entertainment">CtiEntertainment</name>
+
+<status>2</status>
+
+<region cn="??" en="Taiwan">TW</region>
+
+<class cn="???" en="Entertainmnet">1</class>
+
+<user_count>3</user_count>
+
+<sn>4123</sn>
+
+<visit_count>2443325</visit_count>
+
+<start_from>Fri, 15 Jul 2016 01:32:40 GMT</start_from>
+
+<stream_type>mpeg-ts</stream_type>
+
+<kbps>600</kbps>
+
+<qs>100</qs>
+
+<qc>94</qc>
+
+
+<sop_address>
+
+<item>sop://124.232.150.188:3920/5709</item>
+
+</sop_address>
+
+<description cn="test">test</description>
+
+</channel>
+
+
+<channel language="en" type="0" id="25771" btype="0">
+
+<name cn="?????" en="VL Drama">VLDrama</name>
+
+<status>2</status>
+
+<region cn="??" en="Taiwan">TW</region>
+
+<class cn="???" en="Entertainmnet">1</class>
+
+<user_count>3</user_count>
+
+<sn>4125</sn>
+
+<visit_count>1827877</visit_count>
+
+<start_from>Mon, 25 Jul 2016 14:06:42 GMT</start_from>
+
+<stream_type>mpeg-ts</stream_type>
+
+<kbps>600</kbps>
+
+<qs>100</qs>
+
+<qc>90</qc>
+
+
+<sop_address>
+
+<item>sop://124.232.150.188:3920/5710</item>
+
+</sop_address>
+
+<description cn="test">test</description>
+
+</channel>
+
+
+<channel language="en" type="0" id="25772" btype="0">
+
+<name cn="?????" en="NextTV NEWS">NextTVNEWS</name>
+
+<status>2</status>
+
+<region cn="??" en="Taiwan">TW</region>
+
+<class cn="???" en="Entertainmnet">1</class>
+
+<user_count>6</user_count>
+
+<sn>4146</sn>
+
+<visit_count>8123003</visit_count>
+
+<start_from>Sun, 07 Aug 2016 20:55:44 GMT</start_from>
+
+<stream_type>mpeg-ts</stream_type>
+
+<kbps>600</kbps>
+
+<qs>100</qs>
+
+<qc>93</qc>
+
+
+<sop_address>
+
+<item>sop://124.232.150.188:3920/5711</item>
+
+</sop_address>
+
+<description cn="test">test</description>
+
+</channel>
+
+
+<channel language="en" type="0" id="25780" btype="0">
+
+<name cn="???????" en="EBC FNC">EBCFNC</name>
+
+<status>2</status>
+
+<region cn="??" en="Taiwan">TW</region>
+
+<class cn="???" en="Entertainmnet">1</class>
+
+<user_count>5</user_count>
+
+<sn>4136</sn>
+
+<visit_count>4736155</visit_count>
+
+<start_from>Tue, 31 May 2016 10:30:48 GMT</start_from>
+
+<stream_type>mpeg-ts</stream_type>
+
+<kbps>600</kbps>
+
+<qs>100</qs>
+
+<qc>97</qc>
+
+
+<sop_address>
+
+<item>sop://124.232.150.188:3920/5719</item>
+
+</sop_address>
+
+<description cn="test">test</description>
+
+</channel>
+
+
+<channel language="en" type="0" id="25788" btype="0">
+
+<name cn="?????" en="VL SPORT">VLSPORTS</name>
+
+<status>2</status>
+
+<region cn="??" en="Taiwan">TW</region>
+
+<class cn="???" en="Entertainmnet">1</class>
+
+<user_count>3</user_count>
+
+<sn>4122</sn>
+
+<visit_count>974359</visit_count>
+
+<start_from>Mon, 15 Aug 2016 11:00:12 GMT</start_from>
+
+<stream_type>mpeg-ts</stream_type>
+
+<kbps>600</kbps>
+
+<qs>100</qs>
+
+<qc>89</qc>
+
+
+<sop_address>
+
+<item>sop://124.232.150.188:3920/5727</item>
+
+</sop_address>
+
+<description cn="test">test</description>
+
+</channel>
+
+
+<channel language="en" type="0" id="25791" btype="0">
+
+<name cn="????2?" en="FOX Sports 2">FOXSPORTS2</name>
+
+<status>2</status>
+
+<region cn="??" en="Taiwan">TW</region>
+
+<class cn="???" en="Entertainmnet">1</class>
+
+<user_count>3</user_count>
+
+<sn>4123</sn>
+
+<visit_count>8044593</visit_count>
+
+<start_from>Sun, 31 Jul 2016 09:12:14 GMT</start_from>
+
+<stream_type>mpeg-ts</stream_type>
+
+<kbps>600</kbps>
+
+<qs>100</qs>
+
+<qc>88</qc>
+
+
+<sop_address>
+
+<item>sop://124.232.150.188:3920/5730</item>
+
+</sop_address>
+
+<description cn="test">test</description>
+
+</channel>
+
+
+<channel language="en" type="0" id="25794" btype="0">
+
+<name cn="?????" en="VL Japan">VLJapan</name>
+
+<status>2</status>
+
+<region cn="??" en="Taiwan">TW</region>
+
+<class cn="???" en="Entertainmnet">1</class>
+
+<user_count>4</user_count>
+
+<sn>4128</sn>
+
+<visit_count>3882953</visit_count>
+
+<start_from>Sun, 21 Aug 2016 18:57:08 GMT</start_from>
+
+<stream_type>mpeg-ts</stream_type>
+
+<kbps>600</kbps>
+
+<qs>100</qs>
+
+<qc>80</qc>
+
+
+<sop_address>
+
+<item>sop://124.232.150.188:3920/5733</item>
+
+</sop_address>
+
+<description cn="test">test</description>
+
+</channel>
+
+</group>
+
+
+<group description="Test Channel Group" cn="?????" en="Test Channel Group" type="0" id="14">
+Test Channel Group [?????]
+
+<channel language="en" type="0" id="108790" btype="0">
+
+<name cn="" en="IMPACT TV">IMPACT TV</name>
+
+<status>2</status>
+
+<region cn="????" en="Romania">RO</region>
+
+<class cn="???" en="Entertainmnet">1</class>
+
+<user_count>4</user_count>
+
+<sn>4128</sn>
+
+<visit_count>2935320</visit_count>
+
+<start_from>Sat, 20 Aug 2016 05:04:08 GMT</start_from>
+
+<stream_type>mpeg-ts</stream_type>
+
+<kbps>1511</kbps>
+
+<qs>100</qs>
+
+<qc>90</qc>
+
+
+<sop_address>
+
+<item>sop://151.80.76.190:3912/108790</item>
+
+</sop_address>
+
+<description cn="">IMPACT TV Manele ROMANIA www.radioimpact.net</description>
+
+</channel>
+
+</group>
+
+
+<group description="Description: Schedule: Type: " cn="" en="TURKISH TV" type="0" id="326">
+TURKISH TV
+
+<channel language="tr" type="0" id="262633" btype="0">
+
+<name cn="" en="Galatasaray - Karabükspor">Galatasaray - Karabükspor</name>
+
+<status>2</status>
+
+<region cn="???" en="Turkey">TR</region>
+
+<class cn="???" en="Sports">2</class>
+
+<user_count>4</user_count>
+
+<sn>4131</sn>
+
+<visit_count>148</visit_count>
+
+<start_from>Mon, 22 Aug 2016 05:48:29 GMT</start_from>
+
+<stream_type>mpeg-ts</stream_type>
+
+<kbps>1200</kbps>
+
+<qs>100</qs>
+
+<qc>98</qc>
+
+
+<sop_address>
+
+<item>sop://151.80.76.190:3912/262633</item>
+
+</sop_address>
+
+<description cn="">Galatasaray - Karabükspor </description>
+
+</channel>
+
+</group>
+
+
+<group description="USA" cn="" en="USA" type="0" id="460">
+USA
+
+<channel language="en" type="0" id="141796" btype="0">
+
+<name cn="??????????" en="(WAM)tv">(WAM)tv</name>
+
+<status>2</status>
+
+<region cn="??" en="United States">US</region>
+
+<class cn="??" en="Others">99</class>
+
+<user_count>3</user_count>
+
+<sn>4125</sn>
+
+<visit_count>2304166</visit_count>
+
+<start_from>Sun, 21 Aug 2016 06:38:28 GMT</start_from>
+
+<stream_type>wmv</stream_type>
+
+<kbps>288</kbps>
+
+<qs>53</qs>
+
+<qc>68</qc>
+
+
+<sop_address>
+
+<item>sop://151.80.76.190:3912/141796</item>
+
+</sop_address>
+
+<description cn="???????? ????????? WAM.tv@gmx.com">Biblical Truth Driven TV For The Glory of Jesus Christ WAM.tv@gmx.com</description>
+
+</channel>
+
+</group>
+
+
+<group description="Christian Broadcasting" cn="" en="Christian Broadcasting" type="0" id="671">
+Christian Broadcasting
+
+<channel language="en" type="0" id="141796" btype="0">
+
+<name cn="??????????" en="(WAM)tv">(WAM)tv</name>
+
+<status>2</status>
+
+<region cn="??" en="United States">US</region>
+
+<class cn="??" en="Others">99</class>
+
+<user_count>3</user_count>
+
+<sn>4125</sn>
+
+<visit_count>2304166</visit_count>
+
+<start_from>Sun, 21 Aug 2016 06:38:28 GMT</start_from>
+
+<stream_type>wmv</stream_type>
+
+<kbps>288</kbps>
+
+<qs>53</qs>
+
+<qc>68</qc>
+
+
+<sop_address>
+
+<item>sop://151.80.76.190:3912/141796</item>
+
+</sop_address>
+
+<description cn="???????? ????????? WAM.tv@gmx.com">Biblical Truth Driven TV For The Glory of Jesus Christ WAM.tv@gmx.com</description>
+
+</channel>
+
+</group>
+
+
+<group description="Sports Channel" cn="" en="Sports Channel" type="0" id="948">
+Sports Channel
+
+<channel language="ru" type="1" id="147569" btype="0">
+
+<name cn="channel" en="channel">channel</name>
+
+<status>2</status>
+
+<region cn="???" en="Ukraine">UA</region>
+
+<class cn="???" en="Sports">2</class>
+
+<user_count>2</user_count>
+
+<sn>4118</sn>
+
+<visit_count>1165856</visit_count>
+
+<start_from>Mon, 22 Aug 2016 02:46:22 GMT</start_from>
+
+<stream_type>mpeg-ts</stream_type>
+
+<kbps>96</kbps>
+
+<qs>100</qs>
+
+<qc>77</qc>
+
+
+<sop_address>
+
+<item>sop://151.80.76.190:3912/147569</item>
+
+</sop_address>
+
+<description cn="">Football games</description>
+
+</channel>
+
+</group>
+
+
+<group description="Romania" cn="" en="Romania" type="0" id="1852">
+Romania
+
+<channel language="en" type="0" id="108790" btype="0">
+
+<name cn="" en="IMPACT TV">IMPACT TV</name>
+
+<status>2</status>
+
+<region cn="????" en="Romania">RO</region>
+
+<class cn="???" en="Entertainmnet">1</class>
+
+<user_count>4</user_count>
+
+<sn>4128</sn>
+
+<visit_count>2935320</visit_count>
+
+<start_from>Sat, 20 Aug 2016 05:04:08 GMT</start_from>
+
+<stream_type>mpeg-ts</stream_type>
+
+<kbps>1511</kbps>
+
+<qs>100</qs>
+
+<qc>90</qc>
+
+
+<sop_address>
+
+<item>sop://151.80.76.190:3912/108790</item>
+
+</sop_address>
+
+<description cn="">IMPACT TV Manele ROMANIA www.radioimpact.net</description>
+
+</channel>
+
+</group>
+
+
+<group description="VietNam" cn="" en="VietNam" type="0" id="6008">
+VietNam
+
+<channel language="en" type="0" id="128572" btype="0">
+
+<name cn="" en="Truyen hinh Lang Son">Truyen hinh Lang Son</name>
+
+<status>2</status>
+
+<region cn="??" en="Vietnam">VN</region>
+
+<class cn="???" en="News">6</class>
+
+<user_count>1</user_count>
+
+<sn>4117</sn>
+
+<visit_count>1419316</visit_count>
+
+<start_from>Mon, 22 Aug 2016 09:55:21 GMT</start_from>
+
+<stream_type>mpeg-ts</stream_type>
+
+<kbps>888</kbps>
+
+<qs>100</qs>
+
+<qc>100</qc>
+
+
+<sop_address>
+
+<item>sop://151.80.76.190:3912/128572</item>
+
+</sop_address>
+
+<description cn="">LangSon Radio and Television</description>
+
+</channel>
+
+</group>
+
+
+<group description="OurLocalChannels.com " cn="" en="OurLocalChannels" type="1" id="22280">
+OurLocalChannels
+
+<channel language="en" type="0" id="145090" btype="0">
+
+<name cn="" en="TrumpTV">TrumpTV</name>
+
+<status>2</status>
+
+<region cn="??" en="United States">US</region>
+
+<class cn="???" en="News">6</class>
+
+<user_count>2</user_count>
+
+<sn>4120</sn>
+
+<visit_count>275324</visit_count>
+
+<start_from>Wed, 17 Aug 2016 16:37:57 GMT</start_from>
+
+<stream_type>mpeg-ts</stream_type>
+
+<kbps>384</kbps>
+
+<qs>95</qs>
+
+<qc>85</qc>
+
+
+<sop_address>
+
+<item>sop://151.80.76.190:3912/145090</item>
+
+</sop_address>
+
+<description cn="">ThinkTV</description>
+
+</channel>
+
+
+<channel language="en" type="0" id="145091" btype="0">
+
+<name cn="" en="WNTS Television">WNTS Television</name>
+
+<status>2</status>
+
+<region cn="??" en="United States">US</region>
+
+<class cn="???" en="News">6</class>
+
+<user_count>2</user_count>
+
+<sn>4118</sn>
+
+<visit_count>617748</visit_count>
+
+<start_from>Thu, 18 Aug 2016 17:41:43 GMT</start_from>
+
+<stream_type>mpeg-ts</stream_type>
+
+<kbps>512</kbps>
+
+<qs>100</qs>
+
+<qc>100</qc>
+
+
+<sop_address>
+
+<item>sop://151.80.76.190:3912/145091</item>
+
+</sop_address>
+
+<description cn="">WNTS Television</description>
+
+</channel>
+
+
+<channel language="en" type="0" id="149800" btype="0">
+
+<name cn="" en="Satilla Faith Channel 22">Satilla Faith Channel 22</name>
+
+<status>2</status>
+
+<region cn="??" en="United States">US</region>
+
+<class cn="??" en="Others">99</class>
+
+<user_count>2</user_count>
+
+<sn>4118</sn>
+
+<visit_count>127314</visit_count>
+
+<start_from>Sun, 21 Aug 2016 22:44:06 GMT</start_from>
+
+<stream_type>mpeg-ts</stream_type>
+
+<kbps>512</kbps>
+
+<qs>0</qs>
+
+<qc>40</qc>
+
+
+<sop_address>
+
+<item>sop://151.80.76.190:3912/149800</item>
+
+</sop_address>
+
+<description cn="">Satilla Faith Channel 22</description>
+
+</channel>
+
+</group>
+
+
+<group description="romania" cn="" en="pro tv" type="0" id="22912">
+pro tv
+
+<channel language="en" type="0" id="258046" btype="0">
+
+<name cn="" en="Big Bear Lake">Big Bear Lake</name>
+
+<status>2</status>
+
+<region cn="??" en="United States">US</region>
+
+<class cn="???" en="Entertainmnet">1</class>
+
+<user_count>2</user_count>
+
+<sn>4120</sn>
+
+<visit_count>343934</visit_count>
+
+<start_from>Thu, 18 Aug 2016 17:40:37 GMT</start_from>
+
+<stream_type>mpeg-ts</stream_type>
+
+<kbps>512</kbps>
+
+<qs>100</qs>
+
+<qc>100</qc>
+
+
+<sop_address>
+
+<item>sop://151.80.76.190:3912/258046</item>
+
+</sop_address>
+
+<description cn="">Big Bear Lake</description>
+
+</channel>
+
+</group>
+
+</channels>
