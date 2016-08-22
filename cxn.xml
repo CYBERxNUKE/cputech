@@ -40,7 +40,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>                   [COLOR lightslategray]update: [COLOR slategray][B]20[/B][/COLOR] • Agosto • 2016[/COLOR]      </title>
+<title>                   Updated: August 20th 2016      </title>
 <link>$doregex[openDialog]</link>
 <regex>
 <name>openDialog</name>
@@ -50,10 +50,8 @@ import xbmcgui
 def GetLSProData(page_data,Cookie_Jar,m):
     __addon__ = xbmcaddon.Addon()
     __addonname__ = __addon__.getAddonInfo('name')     
-    line1 = "            Adryanlist "
-    line2 = "    actualizado al dia 10 de Agosto 2016 "
-    line3 = "dudas y Ayuda - http://telegram.me/adryanlist" 
-    xbmcgui.Dialog().ok(__addonname__, line1, line2, line3)
+    line1 = "            CYBERxNUKE "
+    xbmcgui.Dialog().ok(__addonname__, line1)
     return 
 ]]></expres>
 <page></page>
@@ -81,57 +79,57 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  Deportes[/COLOR] [COLOR lightslategray](Sports) [/COLOR]</title>
+<title>•  Deportes (Sports) </title>
 <link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/deportes.jpg</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
 <externallink>http://adryanlist.org/adryan/deportes_adryan_list.xml</externallink>
 </item>
 
 
 <tem>
-<title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  [B]ExtraTime[/COLOR][/B] [COLOR lightslategray][I]  Eventos del dia[/I][/COLOR]</title>
+<title>•  [B]ExtraTime[/B] [I]  Eventos del dia[/I]</title>
 <link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/extratime.jpg</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
 <externallink>http://adryanlist.org/adryan/multicanales.xml</externallink>
 </item>
 
 <item>
-<title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  [B]Peliculas[/B] [/COLOR] [COLOR lightslategray](Movies) [/COLOR]</title>
+<title>•  [B]Peliculas[/B]  (Movies) </title>
 <link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/peliculas.jpg</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
 <externallink>http://adryanlist.org/adryan/pyt_vod.xml</externallink>
 </item>
 
 
 <item>
-<title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  [B]Series de TV[/B] [/COLOR] [COLOR lightslategray](TV-Shows) [/COLOR]</title>
+<title>•  [B]Series de TV[/B]  (TV-Shows) </title>
 <link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/series.jpg</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
 <externallink>http://adryanlist.org/adryan/gnula.xml</externallink>
 </item>
 
 <item>
-<title>[COLOR lime]•[/COLOR][COLOR skyblue]  [B]FUTMEX[/B][/COLOR] [COLOR lightslategray][I]by TV Online 2016[/I][/COLOR]</title>
+<title>•  [B]FUTMEX[/B] [I]by TV Online 2016[/I]</title>
 <link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/futmex_-21.jpg</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
 <externallink>http://adryanlist.org/adryan/futmex.xml</externallink>
 </item>
 
 <item>
-<title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  España [/COLOR]</title>
+<title>•  España </title>
 <link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/esp.jpg</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
 <externallink>http://adryanlist.org/adryan/esp.xml</externallink>
 </item>
 
 <item>
-<title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  Mexico[/COLOR] </title>
+<title>•  Mexico </title>
 <link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/mexico.jpg</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
 <externallink>http://adryanlist.org/adryan/mx.xml</externallink>
 </item>
 
 <item>
-<title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  TotalPlay [/COLOR] [COLOR lightslategray][/COLOR]  </title>
+<title>•  TotalPlay    </title>
 <link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/tp.jpg</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
 <externallink>http://adryanlist.org/adryan/totalp.xml</externallink>
 </item>
 
 <item>
-<title>[COLOR lime]•[/COLOR][COLOR lightgreen]  [B]IPTV[/B]   [/COLOR][COLOR lightslategray][B][World Servers Updated Daily][/B][/COLOR] </title>
+<title>•]  [B]IPTV[/B]   [B][World Servers Updated Daily][/B] </title>
 <link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/iptv.jpg</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
 <externallink>http://adryanlist.org/adryan/iptv.xml</externallink>
 </item>
@@ -141,7 +139,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  Entretenimiento[/COLOR]  [COLOR skyblue][/COLOR]   </title>
+<title>•  Entretenimiento     </title>
 <link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/entretenimiento.jpg</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
 <externallink>http://adryanlist.org/adryan/ent.xml</externallink>
 </item>
@@ -149,7 +147,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <em>
-<title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  [B]Television [COLOR skyblue]24/7[/COLOR][/B][/COLOR] [COLOR lightgreen] [/COLOR]</title>
+<title>•  [B]Television 24/7[/B] ] </title>
 <thumbnail>http://adryanlist.org/adryan/img/247.jpg</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg/fanart>
 </externallink>http://adryanlist.org/adryan/p247.xml</externallink>
 <link>NA</link>
@@ -158,25 +156,25 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <tem>
-<title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  Musica[/COLOR]  [COLOR lightslategray](Music) [/COLOR]</title>
+<title>•  Musica  (Music) </title>
 <link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/musica.jpg</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
 <externallink>http://adryanlist.org/adryan/music.xml</externallink>
 </item>
 
 <item>
-<title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  Paises[/COLOR] </title>
+<title>•  Paises </title>
 <link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/paises.jpg</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
 <externallink>http://adryanlist.org/adryan/paises.xml</externallink>
 </item>
 <item>
-<title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  Internacionales[/COLOR] </title>
+<title>•  Internacionales </title>
 <link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/internacional.jpg</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
 <externallink>http://adryanlist.org/adryan/inter.xml</externallink>
 </item>
 
 
 <item>
-<title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  Mas Listas[/COLOR]  </title>
+<title>•  Mas Listas  </title>
 <link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/listas.jpg</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
 <externallink>http://adryanlist.org/adryan/lists.xml</externallink>
 </item>
