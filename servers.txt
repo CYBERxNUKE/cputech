@@ -1,0 +1,305 @@
+
+Server:"[COLOR lightyellow] -------   August 23  -------[/COLOR]" URL="http://adryanlist.info";
+
+Server:"365 [COLOR lightslategray]***[/COLOR]" URL="http://149.202.195.182:2500/get.php?username=Jacques2&password=Jacques2&type=m3u"; 
+Server:"366 [COLOR lightslategray]***[/COLOR]" URL="http://s1.finoip.com:20000/get.php?username=s1-00330&password=h9VEcI9IEl&type=m3u"; 
+Server:"367 [COLOR lightslategray][/COLOR]" URL="http://iptv-world.ddns.me:8000/get.php?username=luca&password=luca&type=m3u";  
+Server:"368 [COLOR lightslategray][/COLOR]" URL="http://iptv-world.ddns.me:8000/get.php?username=manuele&password=manuele&type=m3u";  
+Server:"369 [COLOR lightslategray][/COLOR]" URL="http://ksportiptv.com:1557/get.php?username=mix230&password=2lfERqrTOL&type=m3u"; 
+Server:"370 [COLOR lightslategray]***[/COLOR]" URL="http://cp.dmbshare.net:8000/get.php?username=mentor&password=mentor&type=m3u"; 
+Server:"371 [COLOR lightslategray]***[/COLOR]" URL="http://cp.dmbshare.net:8000/get.php?username=melih&password=melih&type=m3u"; 
+Server:"372 [COLOR lightslategray][/COLOR]" URL="http://cp.dmbshare.net:8000/get.php?username=mark2&password=mark2&type=m3u"; 
+Server:"373 [COLOR lightslategray]***[/COLOR]" URL="http://cp.dmbshare.net:8000/get.php?username=kalan&password=kalan&type=m3u"; 
+Server:"374 [COLOR lightslategray][/COLOR]" URL="http://cp.dmbshare.net:8000/get.php?username=juha&password=juha&type=m3u"; 
+Server:"375 [COLOR lightslategray][/COLOR]" URL="http://62-210-214-31.rev.poneytelecom.eu:5890/get.php?username=101158&password=101158&type=m3u";
+Server:"376 [COLOR lightslategray]***[/COLOR]" URL="http://iptv-supplier.com:8000/get.php?username=210070886404&password=566a94fd44fc2&type=m3u"; 
+
+
+
+Server:"[COLOR lightyellow] -------   August 22  -------[/COLOR]" URL="http://adryanlist.info";
+Server:"342 [COLOR lightslategray][/COLOR]" URL="http://163.172.52.61:8000/get.php?username=pJ1ZXSrH3r&password=HTmUxxIgNT&type=m3u"; 
+Server:"343 [COLOR lightslategray][/COLOR]" URL="http://ksportiptv.com:1557/get.php?username=mix22&password=mIJJQYlRbm&type=m3u"; 
+Server:"344 [COLOR lightslategray][/COLOR]" URL="http://212.129.54.196:8000/get.php?username=angel1&password=angel1&type=m3u";
+Server:"345 [COLOR lightslategray][/COLOR]" URL="http://hd.guardatv.eu:8000/get.php?username=nameskype&password=dreambox.share&type=m3u";  
+Server:"346 [COLOR lightslategray]dmb[/COLOR]" URL="http://cp.dmbshare.net:8000/get.php?username=daniel1&password=daniel1&type=m3u"; 
+Server:"347 [COLOR lightslategray]dmb[/COLOR]" URL="http://cp.dmbshare.net:8000/get.php?username=support&password=support&type=m3u"; 
+Server:"348 [COLOR lightslategray]dmb[/COLOR]" URL="http://cp.dmbshare.net:8000/get.php?username=elliottburrows&password=elliottburrows&type=m3u"; 
+Server:"349 [COLOR lightslategray]dmb[/COLOR]" URL="http://cp.dmbshare.net:8000/get.php?username=ioannis&password=ioannis&type=m3u"; 
+Server:"350 [COLOR lightslategray]dmb[/COLOR]" URL="http://cp.dmbshare.net:8000/get.php?username=holzman&password=holzman&type=m3u"; 
+Server:"351 [COLOR lightslategray]dmb[/COLOR]" URL="http://cp.dmbshare.net:8000/get.php?username=hatz&password=hatz&type=m3u"; 
+Server:"352 [COLOR lightslategray]dmb[/COLOR]" URL="http://cp.dmbshare.net:8000/get.php?username=gianfranco&password=gianfranco&type=m3u"; 
+Server:"353 [COLOR lightslategray]dmb ***[/COLOR]" URL="http://cp.dmbshare.net:8000/get.php?username=george2&password=george2&type=m3u"; 
+Server:"354 [COLOR lightslategray][/COLOR]" URL="http://s1.finoip.com:20000/get.php?username=s1-00330&password=h9VEcI9IEl&type=m3u"; 
+Server:"355 [COLOR lightslategray][/COLOR]" URL="http://wodiptv.dyndns.org:8000/get.php?username=sisqo&password=sisqo&type=m3u";
+Server:"356 [COLOR lightslategray][/COLOR]" URL="http://163.172.52.61:8000/get.php?username=pJ1ZXSrH3r&password=HTmUxxIgNT&type=m3u";
+Server:"357 [COLOR lightslategray][/COLOR]" URL="http://sidosat.iptv.re:8000/get.php?username=test&password=test&type=m3u"; 
+Server:"358 [COLOR lightslategray][/COLOR]" URL="http://topchantv.net:3456/get.php?username=IPTV&password=21082016&type=m3u"; 
+Server:"359 [COLOR lightslategray][/COLOR]" URL="http://iptv.proff.co:15003/get.php?username=l5&password=l5&type=m3u"; 
+Server:"360 [COLOR lightslategray][/COLOR]" URL="http://greenppv-hd.dynu.com:12580/get.php?username=19testANDMI3&password=GAjK10DuRC&type=m3u"; 
+Server:"361 [COLOR lightslategray][/COLOR]" URL="http://iptv.proff.co:15003/get.php?username=l6&password=l6&type=m3u";
+Server:"362 [COLOR lightslategray][/COLOR]" URL="http://iptv.proff.co:15003/get.php?username=l3&password=l3&type=m3u"; 
+Server:"363 [COLOR lightslategray][/COLOR]" URL="http://iptv.proff.co:15003/get.php?username=l2&password=l2&type=m3u";
+Server:"364 [COLOR lightslategray][/COLOR]" URL="http://royal-iptv.noip.me:2052/get.php?username=Testline0&password=Testline0&type=m3u";   
+
+
+
+
+
+
+
+
+Server:"[COLOR lightyellow] -------   August 19  -------[/COLOR]" URL="http://adryanlist.info";
+Server:"333 [COLOR lightslategray]orbit[/COLOR]" URL="http://orbit-iptv.com:2500/get.php?username=wxsAOfFxLy&password=uJhm975sw2&type=m3u"; 
+Server:"334 [COLOR lightslategray][/COLOR]" URL="http://iptvserver.noip.me:8000/get.php?username=tesde4&password=testd23e&type=m3u"; 
+Server:"335 [COLOR lightslategray]dmb[/COLOR]" URL="http://cp.dmbshare.net:8000/get.php?username=geoffrey&password=geoffrey&type=m3u"; 
+Server:"336 [COLOR lightslategray]dmb[/COLOR]" URL="http://cp.dmbshare.net:8000/get.php?username=dano6570&password=dano6570&type=m3u"; 
+Server:"337 [COLOR lightslategray]dmb[/COLOR]" URL="http://cp.dmbshare.net:8000/get.php?username=dan&password=dan&type=m3u"; 
+Server:"338 [COLOR lightslategray]dmb[/COLOR]" URL="http://cp.dmbshare.net:8000/get.php?username=alopecia&password=alopecia&type=m3u"; 
+Server:"339 [COLOR lightslategray][/COLOR]" URL="http://iptv.amrocomputers.com:8000/get.php?username=nail&password=khairani&type=m3u";
+Server:"340 [COLOR lightslategray][/COLOR]" URL="http://royal-iptv.noip.me:2052/get.php?username=Testroyal676&password=Testroyal676&type=m3u";
+Server:"341 [COLOR lightslategray][/COLOR]" URL="http://IPTVFREE1.COM:6969/get.php?username=facebook.com/groups/iptvfree&password=11&type=m3u";
+
+
+
+Server:"[COLOR lightyellow] -------   August 18  -------[/COLOR]" URL="http://adryanlist.info";
+
+Server:"327 [COLOR lightslategray][/COLOR]" URL="http://149.202.202.101:1557/get.php?username=enigma19&password=ljiBXMh5rL&type=m3u"; 
+Server:"328 [COLOR lightslategray][/COLOR]" URL="http://149.202.202.101:1557/get.php?username=SPARK19&password=rZNN6Cco6I&type=m3u"; 
+Server:"329 [COLOR lightslategray][/COLOR]" URL="http://149.202.202.101:1557/get.php?username=dreambox19&password=h1xhsIDex6&type=m3u"; 
+Server:"330 [COLOR lightslategray][/COLOR]" URL="http://149.202.202.101:1557/get.php?username=ARIVA19&password=0JZe88lYua&type=m3u"; 
+Server:"331 [COLOR lightslategray][/COLOR]" URL="http://ercole.zapto.org:8000/get.php?username=a1&password=a2&type=m3u";
+Server:"332 [COLOR lightslategray]orbit[/COLOR]" URL="http://orbit-iptv.com:2500/get.php?username=melvin&password=melvin&type=m3u"; 
+
+
+
+
+Server:"[COLOR lightyellow] -------   August 17  -------[/COLOR]" URL="http://adryanlist.info";
+Server:"320 [COLOR lightslategray][/COLOR]" URL="http://wodiptv.dyndns.org:8000/get.php?username=mio&password=mio&type=m3u";
+Server:"321 [COLOR lightslategray][/COLOR]" URL="http://vip.tuguj.net:8000/get.php?username=test11&password=test11&type=m3u"; 
+Server:"322 [COLOR lightslategray]dmb[/COLOR]" URL="http://cp.dmbshare.net:8000/get.php?username=shane1&password=shane1&type=m3u"; 
+Server:"323 [COLOR lightslategray]dmb[/COLOR]" URL="http://cp.dmbshare.net:8000/get.php?username=horn&password=horn&type=m3u"; 
+Server:"324 [COLOR lightslategray]dmb[/COLOR]" URL="http://cp.dmbshare.net:8000/get.php?username=jukka&password=jukka&type=m3u"; 
+Server:"325 [COLOR lightslategray]dmb[/COLOR]" URL="http://cp.dmbshare.net:8000/get.php?username=obor&password=obor&type=m3u"; 
+Server:"326 [COLOR lightslategray][/COLOR]" URL="http://topchantv.net:3456/get.php?username=IPTV&password=160816&type=m3u"; 
+
+
+
+
+
+Server:"[COLOR lightyellow] -------   August 16  -------[/COLOR]" URL="http://adryanlist.info";
+Server:"318 [COLOR lightslategray][/COLOR]" URL="http://83.149.125.90:8000/get.php?username=h0FpfEsesi&password=hTHo1iTF34&type=m3u"; 
+Server:"319 [COLOR lightslategray][/COLOR]" URL="http://ilililililililmaqililili.duxmedia.org/playlist?type=m3u&deviceUser=aa&devicePass=aaa";  
+
+
+
+Server:"[COLOR lightyellow] -------   Agosto 15  -------[/COLOR]" URL="http://adryanlist.info";
+Server:"306 [COLOR lightslategray][/COLOR]" URL="http://iptvfullhd.info:8000/get.php?username=chris28de&password=TNKXmSgQSn&type=m3u"; 
+Server:"307 [COLOR lightslategray][/COLOR]" URL="http://wodiptv.dyndns.org:8000/get.php?username=vitotre&password=46Y6LppmGe&type=m3u"; 
+Server:"311 [COLOR lightslategray]Sport[/COLOR]" URL="http://swebstreamer.hopto.me:2709/get.php?username=Seil001apo&password=8mc9Z6c9yB&type=m3u";
+Server:"312 [COLOR lightslategray][/COLOR]" URL="http://iptvportal.online:2500/get.php?username=mana&password=mana&type=m3u"; 
+Server:"313 [COLOR lightslategray]***[/COLOR]" URL="http://ns3045782.ip-5-135-142.eu:8000/get.php?username=sYKADDaJs2&password=SnoQc6v4hZ&type=m3u"; 
+Server:"314 [COLOR lightslategray][/COLOR]" URL="http://iptvportal.online:2500/get.php?username=zakir&password=zakir&type=m3u"; 
+Server:"315 [COLOR lightslategray][/COLOR]" URL="http://arabic1.mickypizza1.com:80/get.php?username=baba&password=baba&type=m3u"; 
+Server:"316 [COLOR lightslategray][/COLOR]" URL="http://arabic1.mickypizza1.com:80/get.php?username=clinic&password=clinic&type=m3u";  
+Server:"317 [COLOR lightslategray][/COLOR]" URL="http://arabic1.mickypizza1.com:80/get.php?username=mama&password=mama&type=m3u";
+
+
+
+Server:"[COLOR lightyellow] -------   Agosto 12  -------[/COLOR]" URL="http://adryanlist.info";
+Server:"301 [COLOR lightslategray][/COLOR]" URL="http://37.187.250.2:8000/get.php?username=M52gYS2qoC&password=WkT0hSRMEr&type=m3u";
+Server:"302 [COLOR lightslategray][/COLOR]" URL="http://swebstreamer.hopto.me:2709/get.php?username=Seil001apo&password=8mc9Z6c9yB&type=m3u";  
+Server:"303 [COLOR lightslategray][/COLOR]" URL="http://iptvportal.online:2500/get.php?username=zakir&password=zakir&type=m3u"; 
+Server:"304 [COLOR lightslategray][/COLOR]" URL="http://mainstream.dyndns.tv:8000/get.php?username=oADdzK6f4W&password=UswG3exEgXxcXx&type=m3u"; 
+Server:"305 [COLOR lightslategray][/COLOR]" URL="http://s0.streaming-hub.tv:25461/get.php?username=jamal&password=jamal&type=m3u"; 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Server:"[COLOR lightyellow] -------   Agosto 11  -------[/COLOR]" URL="http://adryanlist.info";
+Server:"294 [COLOR lightslategray]ks[/COLOR]" URL="http://ksportiptv.com:1557/get.php?username=12.08&password=16.08&type=m3u"; 
+Server:"295 [COLOR lightslategray]global ***[/COLOR]" URL="http://globiptv.com:8000/get.php?username=saib&password=fares&type=m3u"; 
+Server:"296 [COLOR lightslategray]PT[/COLOR]" URL="http://iptvx.starynos.com:8000/get.php?username=portughesezaza&password=tvstarcccam.com&type=m3u"; 
+Server:"297 [COLOR lightslategray][/COLOR]" URL="http://91.134.217.235:1557/get.php?username=gh&password=gh&type=m3u"; 
+Server:"298 [COLOR lightslategray][/COLOR]" URL="http://iptv24.zapto.org:4600/get.php?username=yassin&password=yassin&type=m3u"; 
+Server:"299 [COLOR lightslategray][/COLOR]" URL="http://tv.supertv4u.eu:8000/get.php?username=Patricia&password=Patricia&type=m3u"; 
+Server:"300 [COLOR lightslategray][/COLOR]" URL="http://namiptv.ddns.net:6969/get.php?username=facebook.com/groups/iptvfree&password=10&type=m3u"; 
+Server:"[COLOR lightyellow] -------   Agosto 11  -------[/COLOR]" URL="http://adryanlist.info";
+Server:"291 [COLOR lightslategray][/COLOR]" URL="http://topiptv.net:5890/get.php?username=adamo3&password=adamo3&type=m3u"; 
+Server:"292 [COLOR lightslategray][/COLOR]" URL="http://cp.dmbshare.net:8000/get.php?username=uapgodi&password=uapgodi&type=m3u";
+Server:"293 [COLOR lightslategray][/COLOR]" URL="http://cp.dmbshare.net:8000/get.php?username=gwyndaf&password=gwyndaf&type=m3u";
+Server:"[COLOR lightyellow] -------   Agosto 10  -------[/COLOR]" URL="http://adryanlist.info";
+Server:"282 [COLOR lightslategray][/COLOR]" URL="http://d4life.dtdns.net:8000/get.php?username=services.remote&password=skype&type=m3u"; 
+Server:"286 [COLOR lightslategray][/COLOR]" URL="http://yayin.canlitvplay.com:8000/get.php?username=testyayin&password=testyayin&type=m3u";
+Server:"[COLOR lightyellow] -------   Agosto 9  -------[/COLOR]" URL="http://adryanlist.info";
+Server:"271 [COLOR lightslategray][/COLOR]" URL="http://151.80.101.14:8000/get.php?username=00009&password=00009&type=m3u";  
+Server:"278 [COLOR lightslategray]Cam[/COLOR]" URL="http://camerta.com:8000/get.php?username=riadh1681&password=chaaben1681&type=m3u"; regex"ES-"
+Server:"[COLOR lightyellow]Agosto 8[/COLOR]" URL="http://adryanlist.info";
+Server:"262 [COLOR lightslategray]globaliptv[/COLOR]" URL="http://globiptv.com:8000/get.php?username=saib&password=fares&type=m3u"; 
+Server:"264 [COLOR lightslategray][/COLOR]" URL="http://topiptv.net:5890/get.php?username=adil&password=adil2016&type=m3u"; 
+Server:"266 [COLOR lightslategray]Sports[/COLOR]" URL="http://live1.livetvindia.co.in:8000/get.php?username=SportsTv132&password=sports145214&type=m3u";
+Server:"267 [COLOR lightslategray][/COLOR]" URL="http://cp.dmbshare.net:8000/get.php?username=trevor&password=trevor&type=m3u";
+Server:"268 [COLOR lightslategray]globaliptv[/COLOR]" URL="http://globiptv.com:8000/get.php?username=saib&password=fares&type=m3u"; 
+Server:"[COLOR lightyellow]Agosto 6[/COLOR]" URL="http://adryanlist.info";
+Server:"250 [COLOR lightslategray][/COLOR]" URL="http://iptv-supplier.com:8000/get.php?username=210070886404&password=566a94fd44fc2&type=m3u"; 
+Server:"253 [COLOR lightslategray]orbit[/COLOR]" URL="http://orbit-iptv.com:2500/get.php?username=Jacques2&password=Jacques2&type=m3u"; 
+Server:"255 [COLOR lightslategray]dmb[/COLOR]" URL="http://cp.dmbshare.net:8000/get.php?username=trevor&password=trevor&type=m3u";
+Server:"256 [COLOR lightslategray]dmb[/COLOR]" URL="http://cp.dmbshare.net:8000/get.php?username=steven&password=steven&type=m3u"; 
+Server:"257 [COLOR lightslategray]dmb[/COLOR]" URL="http://cp.dmbshare.net:8000/get.php?username=maurizio&password=maurizio&type=m3u"; 
+Server:"[COLOR lightyellow]Agosto 3[/COLOR]" URL="http://adryanlist.info";
+Server:"246 [COLOR lightslategray]dmb[/COLOR]" URL="http://cp.dmbshare.net:8000/get.php?username=trevor&password=trevor&type=m3u"; 
+Server:"247 [COLOR lightslategray]dmb[/COLOR]" URL="http://cp.dmbshare.net:8000/get.php?username=steven&password=steven&type=m3u";
+Server:"248 [COLOR lightslategray]dmb[/COLOR]" URL="http://cp.dmbshare.net:8000/get.php?username=maurizio&password=maurizio&type=m3u"; 
+Server:"[COLOR lightyellow]Agosto 2[/COLOR]" URL="http://adryanlist.info";
+Server:"224 [COLOR lightslategray][/COLOR]" URL="http://178.33.237.109:8600/get.php?username=lexar&password=lexar&type=m3u";
+Server:"227 [COLOR lightslategray]cam[/COLOR]" URL="http://camerta.com:8000/get.php?username=55239&password=55239&type=m3u"; regex"ES-"
+Server:"228 [COLOR lightslategray][/COLOR]" URL="http://globiptv.com:8000/get.php?username=CLIENTX103&password=65sijod&type=m3u"; 
+Server:"229 [COLOR lightslategray][/COLOR]" URL="http://topiptv.net:5890/get.php?username=adamo3&password=adamo3&type=m3u"; 
+Server:"234 [COLOR lightslategray][/COLOR]" URL="http://62-210-214-31.rev.poneytelecom.eu:5890/get.php?username=es2&password=es2&type=m3u"; 
+Server:"237 [COLOR lightslategray]dmb[/COLOR]" URL="http://cp.dmbshare.net:8000/get.php?username=tullio&password=tullio&type=m3u";
+Server:"238 [COLOR lightslategray]dmb[/COLOR]" URL="http://cp.dmbshare.net:8000/get.php?username=francesco&password=francesco&type=m3u";
+Server:"239 [COLOR lightslategray]dmb[/COLOR]" URL="http://cp.dmbshare.net:8000/get.php?username=ramon&password=ramon&type=m3u";
+Server:"240 [COLOR lightslategray]dmb[/COLOR]" URL="http://cp.dmbshare.net:8000/get.php?username=fernando&password=fernando&type=m3u";
+Server:"241 [COLOR lightslategray]dmb[/COLOR]" URL="http://cp.dmbshare.net:8000/get.php?username=viktor12&password=viktor12&type=m3u";
+Server:"[COLOR lightyellow]Agosto 1[/COLOR]" URL="http://adryanlist.info";
+Server:"217 [COLOR lightslategray]dmb[/COLOR]" URL="http://89.163.148.31:8000/get.php?username=zitouni&password=zitouni&type=m3u"; 
+Server:"223 [COLOR lightslategray][/COLOR]" URL="http://151.80.25.132:8000/get.php?username=nour3&password=nour3&type=m3u";
+
+
+
+http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_h.m3u8|User-Agent=Version/4.0 Mobile Safari/534.30
+http://149.255.152.110/cnn/index.m3u8
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8|User-Agent=iPhone
+
+
+
+
+Server:"[COLOR lightgreen]------------------ July ----------------- [/COLOR]" URL="http://adryanlist.info";
+Server:"208 [COLOR lightslategray][/COLOR]" URL="http://gtv.tn:8000/get.php?username=nour3&password=nour3&type=m3u";
+Server:"210 [COLOR lightslategray][/COLOR]" URL="http://149.202.194.36:8000/get.php?username=dary&password=dary&type=m3u";
+Server:"196 [COLOR lightslategray]TopIPTV[/COLOR]" URL="http://topiptv.net:5890/get.php?username=es4&password=es4&type=m3u"; 
+Server:"198 [COLOR lightslategray]dmb[/COLOR]" URL="http://cp.dmbshare.net:8000/get.php?username=stakenborg&password=stakenborg&type=m3u";
+Server:"199 [COLOR lightslategray]dmb[/COLOR]" URL="http://cp.dmbshare.net:8000/get.php?username=josok&password=josok&type=m3u";
+Server:"200 [COLOR lightslategray]IT-FR[/COLOR]" URL="http://178.33.237.109:8600/get.php?username=lexar&password=lexar&type=m3u";
+Server:"202 [COLOR lightslategray]BeinPack[/COLOR]" URL="http://iptv.am000.tv:8000/get.php?username=naser1&password=naser1&type=m3u";
+Server:"191 [COLOR lightslategray][/COLOR]" URL="http://149.202.201.221:8000/get.php?username=fr443500&password=75019pa&type=m3u"; 
+Server:"192 [COLOR lightslategray]IT[/COLOR]" URL="http://212.129.54.196:8000/get.php?username=luca&password=luca&type=m3u";
+Server:"194 [COLOR lightslategray]IT[/COLOR]" URL="http://212.129.54.196:8000/get.php?username=capurso&password=capurso&type=m3u";
+Server:"174 [COLOR lightslategray][/COLOR]" URL="http://37.59.19.124:88/get.php?username=2kYd4PRkfv&password=fsqMs9m8pg&type=m3u"; 
+Server:"176 [COLOR lightslategray]global[/COLOR]" URL="http://globiptv.com:8000/get.php?username=CLIENTX484&password=3222065487&type=m3u"; 
+Server:"166 [COLOR lightslategray][/COLOR]" URL="http://globiptv.com:8000/get.php?username=CLIENTX484&password=3222065487&type=m3u"; 
+Server:"168 [COLOR lightslategray][/COLOR]" URL="http://176.222.67.2:9001/playlist.m3u8"; 
+Server:"169 [COLOR lightslategray][/COLOR]" URL="http://149.202.201.221:8000/get.php?username=fr443500&password=75019pa&type=m3u"; 
+Server:"170 [COLOR lightslategray]all[/COLOR]" URL="http://62-210-214-31.rev.poneytelecom.eu:5890/get.php?username=es2&password=es2&type=m3u"; 
+Server:"171 [COLOR lightslategray][/COLOR]" URL="http://iptv-world.ddns.me:8000/get.php?username=luca&password=luca&type=m3u"; 
+Server:"172 [COLOR lightslategray][/COLOR]" URL="http://iptv-world.ddns.me:8000/get.php?username=manuele&password=manuele&type=m3u";
+Server:"157 [COLOR lightslategray]grandiptv[/COLOR]" URL="http://grandiptv.myftp.org:8000/get.php?username=5grandiptv915&password=67863345&type=m3u"; regex"ESP:"
+Server:"160 [COLOR lightslategray][/COLOR]" URL="http://151.80.102.59:8000/get.php?username=5grandiptv915&password=67863345&type=m3u"; 
+Server:"162 [COLOR lightslategray]satligneteam[/COLOR]" URL="http://satligneteam.hopto.org:8000/get.php?username=khalid&password=khalid&type=m3u"; 
+Server:"148" URL="http://ju031.jupiter.fastwebserver.de:8000/get.php?username=master99&password=master99&type=m3u";
+Server:"126" URL="http://iptv.nbrz.ru:9705/get.php?username=fcb:ALB_TV_SYSTEMS&password=TESTIPVFULL.&type=m3u";
+Server:"128" URL="http://satligneteam.hopto.org:8000/get.php?username=PT8rYBh64m&password=4cSXLNRppe&type=m3u"; 
+Server:"130" URL="http://iptv.re:80/get.php?username=YioryosPlakas&password=YioryosPlakas&type=m3u"; 
+Server:"131" URL="http://globiptv.com:8000/get.php?username=cardsharing&password=yg4tdh&type=m3u"; 
+Server:"132" URL="http://iptv.re:80/get.php?username=YioryosPlakas&password=YioryosPlakas&type=m3u"; 
+Server:"106" URL="http://cp.dmbshare.net:8000/get.php?username=eminem61&password=eminem61&type=m3u";
+Server:"107" URL="http://cp.dmbshare.net:8000/get.php?username=siman&password=siman&type=m3u";
+Server:"108" URL="http://cp.dmbshare.net:8000/get.php?username=hemen1&password=hemen1&type=m3u";
+Server:"109 Astrovida" URL="http://service1.astrovida.tv:8000/get.php?username=testa&password=testa&type=m3u"; 
+Server:"112 Latinos" URL="http://199.180.114.174:8000/get.php?username=pHLNcv9ov1&password=Vs49hliLxi&type=m3u"; 
+Server:"113" URL="http://cp.dmbshare.net:8000/get.php?username=dano6570&password=dano6570&type=m3u";
+Server:"114" URL="http://cp.dmbshare.net:8000/get.php?username=eminem61&password=eminem61&type=m3u";
+Server:"116" URL="http://ju031.jupiter.fastwebserver.de:8000/get.php?username=holzman&password=holzman&type=m3u";
+Server:"117" URL="http://ju031.jupiter.fastwebserver.de:8000/get.php?username=master99&password=master99&type=m3u";
+Server:"095 astrovida" URL="http://51.254.42.220:8000/get.php?username=ncxGSWShRz5&password=NJCVhLk302p&type=m3u"; 
+Server:"078" URL="http://cp.dmbshare.net:8000/get.php?username=master99&password=master99&type=m3u"; 
+Server:"083" URL="http://ju031.jupiter.fastwebserver.de:8000/get.php?username=alopecia&password=alopecia&type=m3u";
+Server:"073" URL="http://151.80.101.14:8000/get.php?username=00003&password=00003&type=m3u";
+Server:"074" URL="http://151.80.101.14:8000/get.php?username=00006&password=00006&type=m3u";
+Server:"077" URL="http://cp.dmbshare.net:8000/get.php?username=tayo&password=tayo&type=m3u";
+Server:"066" URL="http://89.163.148.31:8000/get.php?username=tomeko&password=tomeko&type=m3u";
+Server:"067" URL="http://89.163.148.31:8000/get.php?username=mark2&password=mark2&type=m3u";
+Server:"068" URL="http://ju031.jupiter.fastwebserver.de:8000/get.php?username=alopecia&password=alopecia&type=m3u";
+Server:"069" URL="http://ju031.jupiter.fastwebserver.de:8000/get.php?username=gianfranco&password=gianfranco&type=m3u";
+Server:"070" URL="http://ju031.jupiter.fastwebserver.de:8000/get.php?username=saban&password=saban&type=m3u";
+Server:"072" URL="http://pro.panel2cc101.us:8000/get.php?username=mahmutbilge4&password=23082015&type=m3u";
+Server:"051" URL="http://iptv.re:80/get.php?username=YioryosPlakas&password=YioryosPlakas&type=m3u"; 
+Server:"052" URL="http://globiptv.com:8000/get.php?username=cardsharing&password=yg4tdh&type=m3u"; 
+Server:"053" URL="http://www.q7t1.com:8000/get.php?username=sYKADDaJs2&password=SnoQc6v4hZ&type=m3u"; 
+Server:"033" URL="http://cp.dmbshare.net:8000/get.php?username=zitouni&password=zitouni&type=m3u";
+Server:"047" URL="http://bb1.sendevric.com:8000/get.php?username=marksat380&password=mQS7OiuFY9&type=m3u"; 
+Server:"048" URL="http://www.q7t1.com:8000/get.php?username=sliti&password=dmV9FUkIpn&type=m3u"; 
+Server:"023" URL="http://89.163.148.31:8000/get.php?username=mark2&password=mark2&type=m3u";
+Server:"024" URL="http://37.187.175.177:8000/get.php?username=thomas&password=thomas&type=m3u"; regex"ES-"
+Server:"007" URL="http://iptv.re:80/get.php?username=ricardo&password=ricardo&type=m3u"; 
+Server:"015" URL="http://pro.panel2cc101.us:8080/get.php?username=ozg1&password=ozg1&type=m3u";
+Server:"018" URL="http://globiptv.com:8000/get.php?username=cardsharing&password=yg4tdh&type=m3u"; 
+Server:"005" URL="http://look01.vipid.org:8000/get.php?username=test1&password=test1&type=m3u"; 
+Server:"006" URL="http://www.q7t1.com:8000/get.php?username=sYKADDaJs2&password=SnoQc6v4hZ&type=m3u"; 
+
+
+
+
+
+
+
+broadcast:"Chivas vs Gallos Qro" url="http://capobns.blogspot.mx/2016/07/x1.html" referer="http://capobns.blogspot.mx";
+broadcast:"Tigres vs Jaguares" url="http://tuttosportweb.com/update/ch37.html" referer="http://tuttosportweb.com";
+broadcast:"UFC Preliminares - FightNight 92 - Rodriguez - Caceres" url="http://tuttosportweb.com/update/ch22.html" referer="http://tuttosportweb.com";
+broadcast:"KozReload01" url="http://tv1.kozreload.eu/" referer="http://tv1.kozreload.eu/";
+broadcast:"KozReload02" url="http://tv2.kozreload.eu/" referer="http://tv2.kozreload.eu/";
+broadcast:"KozReload03" url="http://tv3.kozreload.eu/" referer="http://tv3.kozreload.eu/";
+broadcast:"Formula 1 Gran Premio de Alemania" url="http://rivx8.me.la/2v.html" referer="http://rivx8.me.la";
+
+broadcast:"GoDeportes SkyF1" url="http://tv.godeportestv.net/p/goskyf1.html" referer="http://tv.godeportestv.net";
+
+broadcast:"tuttosport: Formula 1 FR" url="http://tuttosportweb.com/update/ch6.html" referer="http://tuttosportweb.com";
+broadcast:"tuttosport: Formula 1 EN" url="http://tuttosportweb.com/update/ch18.html" referer="http://tuttosportweb.com";
+broadcast:"tuttosport: Formula 1 IT" url="http://tuttosportweb.com/update/ch4.html" referer="http://tuttosportweb.com";
+
+broadcast:"tuttosport: WWE EN" url="http://tuttosportweb.com/update/ch1.html" referer="http://tuttosportweb.com";
+
+
+
+
+
+iguide:"[COLOR lightyellow]Formula 1: German GP[/COLOR]" url="http://megasportv.org/p/1.php";
+iguide:"[COLOR lightyellow]Formula 1: German GP[/COLOR]" url="http://megasportv.org/p/3.php";
+iguide:"Maxdeportes 2: Formula 1: German GP" url="http://maxdeportv.net/indexa.php?canal=2";
+iguide:"Maxdeportes 3: Formula 1: German GP" url="http://maxdeportv.net/indexa.php?canal=12";
+
+
+iguide:"[COLOR lightslategray]LIGAMX: America - Tigres[/COLOR]" url="http://maxdeportv.net/indexa.php?canal=5";
+iguide:"[COLOR lightslategray]LIGAMX: [/COLOR]" url="http://anfredfut.blogspot.cl/p/can09.html";
+iguide:"[COLOR lightslategray]LIGAMX: [/COLOR]" url="http://www.fandfba.ml/p/igui.html";
+
+iguide:"Bullanguero: Futbol Sudamerica (Argentina-Chile-Colombia)" url="http://fffpmxx.blogspot.cl/";
+
+iguide:"Maxdeportes 6" url="http://maxdeportv.net/indexa.php?canal=6";
+iguide:"Maxdeportes 9" url="http://maxdeportv.net/indexa.php?canal=9";
+iguide:"Maxdeportes 12" url="http://maxdeportv.net/indexa.php?canal=12";
+iguide:"Maxdeportes 14" url="http://maxdeportv.net/indexa.php?canal=12";
+iguide:"MegaSports" url="http://megasportv.org/p/1.php";
+iguide:"FutbolAndres 09" url="http://anfredfut.blogspot.mx/p/can09.html";
+iguide:"FutbolAndres 01" url="http://www.fandfba.ml/p/igui.html";
+iguide:"FutbolAndres 01" url="http://www.fandfba.ml/p/iguidarriba.html";
+iguide:"millox" url="http://liomilox.blogspot.com/p/ch13.html";
+
+
+
+
