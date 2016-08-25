@@ -60,7 +60,12 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
 <externallink>http://raw.githubusercontent.com/cyberxnuke/cputech/master/new.xml</externallink>
 </item>
-
+<item>
+<title>IPTV</title>
+<link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/deportes.jpg</thumbnail>
+<fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
+<externallink>http://raw.githubusercontent.com/cyberxnuke/cputech/master/iptv.xml</externallink>
+</item>
 <item>
 <title>Total Play</title>
 <link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/deportes.jpg</thumbnail>
