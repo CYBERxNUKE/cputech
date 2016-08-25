@@ -146,7 +146,7 @@
  <thumbnail>http://adryanlist.org/adryan/img/iptv.jpg</thumbnail>
  ]]></listrepeat>
 <expres>Server:"(.*?)" URL="(.*?)"; regex"(.*?)"</expres>
-<page>http://adryanlist.org/adryan/servers.txt</page>
+<page>http://raw.githubusercontent.com/cyberxnuke/cputech/master/servers.txt</page>
 <agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
 </regex>
 
