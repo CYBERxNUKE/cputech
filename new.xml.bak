@@ -10,7 +10,7 @@ plugin://program.plexus/?mode=1&url=acestream://42fe51591598d905ab011a9c8339150f
 plugin://program.plexus/?mode=1&url=acestream://d7929e602cfc97b34c11864e6a5dd8131098e276&name=My+acestream+channel
 
 #EXTINF:-1,PPV 3000kpbs
-plugin://program.plexus/?mode=1&url=acestream://c4e6e9e86196be7580665b51302bcb71ba5bb40d&name=My+acestream+channel
+plugin://program.plexus/?mode=1&url=acestream://5c06a652a5285a2f49c1f29a323ca8d7d3861083&name=My+acestream+channel
 
 #EXTINF:-1,PPV 6000kpbs
 plugin://program.plexus/?mode=1&url=acestream://461329d2bffe05f5a2998a98435461310aba093d&name=My+acestream+channel
