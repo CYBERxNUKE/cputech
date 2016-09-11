@@ -15,6 +15,12 @@ plugin://program.plexus/?mode=1&url=acestream://efa6cc6221f2c7732a6b187b6053b5eb
 #EXTINF:-1,UFC PPV 3 3000kpbs
 plugin://program.plexus/?mode=1&url=acestream://a5ba2691efee2adad80e3ce15145cb5391977791&name=My+acestream+channel
 
+#EXTINF:-1,UFC PPV 4 3000kpbs
+plugin://program.plexus/?mode=1&url=acestream://af8fe29864843fb68a6c39c7f14af77f15609847&name=My+acestream+channel
+
+#EXTINF:-1,UFC PPV 5 3000kpbs
+plugin://program.plexus/?mode=1&url=acestream://ed69c7c384cb0fd514c9c0684cf47de2c319ecc1&name=My+acestream+channel
+
 #EXTINF:-1,UFC PPV HTTP
 http://azubuhlspull-a.akamaihd.net/0c77937257e658c37935243a1a0a587c/eu-west-1/video399305CHfizs/master.m3u8
 
