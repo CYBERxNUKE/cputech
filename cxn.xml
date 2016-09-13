@@ -163,7 +163,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </regex> 
 </item>
 
-<items>
  <item>
  <title>Wizwig</title>
  <sportsdevil>http://wiz1.net/channel37</sportsdevil>
