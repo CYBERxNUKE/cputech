@@ -48,28 +48,3 @@ plugin://program.plexus/?mode=1&url=acestream://df339a39e2f5fec4087579353be01ef6
 #EXTINF:-1, NFL
 plugin://program.plexus/?mode=1&url=acestream://fe61ac72a97c70f466b816531a0c54a76c5a57db&name=My+acestream+channel 
 
-<item>
-<title>NUKE Test / Sawlive</title> 
-<link>$doregex[rtmp] swfUrl=http://static3.sawlive.tv/player.swf pageUrl=http://sawlive.tv live=1 timeout=15</link> 
-<regex>
-<name>rtmp</name>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m,url='http://www3.sawlive.tv/embed/lag93c2'):
-	import requests
-	import re
-	referer = 'http://zunox.hk/'
-	headers = {'Referer': referer}
-	source = requests.get(url, headers=headers)
-	embedpath1 = re.search(r'var.*?="(.*?)".*="(.*?)".*="(.*?)".*="(.*?)".*?"".*?""', source.text)
-	embedpath2 = re.findall('var.*?=\'(.*?)\'', source.text)[0]
-	embedurl= 'http://sawlive.tv/embed/watch/' + embedpath1.group(1) + embedpath1.group(2) + embedpath1.group(3) + embedpath1.group(4)+ '/' + embedpath2
-	strsrc = requests.get(embedurl, headers=headers)
-	streamer = re.findall('streamer\', \'(.*?)\'', strsrc.text)[0]
-	playpath = re.findall('file\', \'(.*?)\'', strsrc.text)[0]
-	rtmppath = streamer + ' playpath=' + playpath
-	return rtmppath
-]]></expres>
-<page></page>
-</regex>
-<thumbnail></thumbnail>
-</item>
