@@ -6,6 +6,9 @@ plugin://program.plexus/?url=acestream://7dcf3c8daaad0efbef55af2d74d52a5f8f65783
 #EXTINF:-1,Bloodzeed-
 plugin://program.plexus/?mode=1&url=acestream://42fe51591598d905ab011a9c8339150f8391dfa7&name=My+acestream+channel
 
+#EXTINF:-1,Kingtiger 4000kpbs
+plugin://program.plexus/?mode=1&url=acestream://61f414d8cb2171a357165c7c34bced86b387d12d&name=My+acestream+channel
+
 #EXTINF:-1,UFC PPV 1 3000kpbs
 plugin://program.plexus/?mode=1&url=acestream://5c06a652a5285a2f49c1f29a323ca8d7d3861083&name=My+acestream+channel
 
@@ -24,8 +27,23 @@ plugin://program.plexus/?mode=1&url=acestream://ed69c7c384cb0fd514c9c0684cf47de2
 #EXTINF:-1,UFC PPV HTTP
 http://azubuhlspull-a.akamaihd.net/0c77937257e658c37935243a1a0a587c/eu-west-1/video399305CHfizs/master.m3u8
 
+#EXTINF:-1,UFC PPV HTTP 2
+rtmpe://75.126.0.213/flash playpath=21366 swfUrl=http://static2.sawlive.tv/player.swf pageUrl=http://www3.sawlive.tv/embed/watch/M3NDU2OTgzZGM0MGQ2NDc1Yjc1OWI4Yw__/bGFnYzcyczozYjVlM2FmZTY4N2JlYjE1MmRkZDYyODgxMmQ0MjUxMzo1MDNiNjQ0MW
+
 #EXTINF:-1,WWE Network
 http://cp.dmbshare.net:8000/live/dano6570/dano6570/6983.ts
 
-#EXTINF:-1,UFC PPV HTTP 2
-rtmpe://75.126.0.213/flash playpath=21366 swfUrl=http://static2.sawlive.tv/player.swf pageUrl=http://www3.sawlive.tv/embed/watch/M3NDU2OTgzZGM0MGQ2NDc1Yjc1OWI4Yw__/bGFnYzcyczozYjVlM2FmZTY4N2JlYjE1MmRkZDYyODgxMmQ0MjUxMzo1MDNiNjQ0MW
+#EXTINF:-1,Texans Vs Bears
+http://play-pico-cl1.fs.anvato.net/m3u8/pico702-otas-wnyw/master.m3u8
+
+#EXTINF:-1,Cowboys vs Giants
+http://play-pico-cl1.fs.anvato.net/m3u8/pico706-otas-kdfw/master.m3u8
+
+#EXTINF:-1,Cowboys vs Giants HD
+plugin://program.plexus/?mode=1&url=acestream://771370c477b9768c03e935cabe21a8027251dddc&name=My+acestream+channel
+
+#EXTINF:-1,WWE 
+plugin://program.plexus/?mode=1&url=acestream://df339a39e2f5fec4087579353be01ef6e023267f&name=My+acestream+channel 
+
+#EXTINF:-1, NFL
+plugin://program.plexus/?mode=1&url=acestream://fe61ac72a97c70f466b816531a0c54a76c5a57db&name=My+acestream+channel 
