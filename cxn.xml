@@ -165,7 +165,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 <item>
 <title>NUKE Test / Sawlive</title> 
-<link>$doregex[rtmp] swfUrl=http://static3.sawlive.tv/player.swf pageUrl=http://sawlive.tv live=1 timeout=15</link> 
+<link>$doregex[rtmp] swfUrl=http://static2.sawlive.tv/player.swf pageUrl=http://sawlive.tv live=1 timeout=15</link> 
 <regex>
 <name>rtmp</name>
 <expres><![CDATA[#$pyFunction
@@ -188,3 +188,5 @@ def GetLSProData(page_data,Cookie_Jar,m,url='http://www.sawlive.tv/embed/lag93c2
 </regex>
 <thumbnail></thumbnail>
 </item>
+
+rtmp://204.45.157.98/flash playpath=19025 swfurl=http://static2.sawlive.tv/player.swf pageUrl=http://sawlive.tv/ live=1</sublink><sublink>rtmp://94.242.228.110/ app=liveedge playpath=mootembein2 
