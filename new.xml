@@ -21,13 +21,13 @@ http://3.therugbyfaction.xyz/swf/5435.m3u8?sf=d2l6aWkxMg==&token=reDU29UX-_u5BH-
 #EXTINF:-1,Canelo Vs Smith 7
 http://livestream-f.akama.net/i/13237440_6234094_90903491_1@319357/master.m3u8?dw=100&hdnea=st=1474160260~exp=1474162060~acl=/i/13237440_6234094_90903491_1@319357/*~hmac=ea22952dbf183a79170667f695cdc3af553ae1408538ceb3eb2f7198215d9738
 
-#EXTINF:-1,Canelo Vs Smith 4000kpbs - ACESTREAM REQUIERED
+#EXTINF:-1,Canelo Vs Smith 4000kbps - ACESTREAM REQUIRED
 plugin://program.plexus/?mode=1&url=acestream://c80d6bfbd67dc9344acaa9fe6986995de720f70d&name=My+acestream+channel
 
-#EXTINF:-1,Canelo Vs Smith 4000kpbs - ACESTREAM REQUIERED
+#EXTINF:-1,Canelo Vs Smith 4000kbps - ACESTREAM REQUIRED
 plugin://program.plexus/?mode=1&url=acestream://f14d07c1f9ed66e915019e3331f580844da1c062&name=My+acestream+channel
 
-#EXTINF:-1,Canelo Vs Smith 4000kpbs - ACESTREAM REQUIERED
+#EXTINF:-1,Canelo Vs Smith 4000kbps - ACESTREAM REQUIRED
 plugin://program.plexus/?mode=1&url=acestream://29480b9e868fa66d5890ced8852b0c5e392ce7ee&name=My+acestream+channel
 
 #EXTINF:-1,-------------------------------------------------------
