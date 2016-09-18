@@ -7,10 +7,16 @@ http://livestream-f.akamaihd.net/i/21541271_6360419_lsib3k5kk8f7fuaze4i_1@306000
 http://3.therugbyfaction.xyz/swf/5435.m3u8?sf=d2l6aWkxMg==&token=reDU29UX-_u5BH-dAQI05Q
 
 #EXTINF:-1,Canelo Vs Smith 3
-http://livestream-f.akamaihd.net/i/13237440_6234094_90903491_1@319357/master.m3u8?dw=100&hdnea=st=1474160260~exp=1474162060~acl=/i/13237440_6234094_90903491_1@319357/*~hmac=ea22952dbf183a79170667f695cdc3af553ae1408538ceb3eb2f7198215d9738
+http://livestream-f.akama.net/i/13237440_6234094_90903491_1@319357/master.m3u8?dw=100&hdnea=st=1474160260~exp=1474162060~acl=/i/13237440_6234094_90903491_1@319357/*~hmac=ea22952dbf183a79170667f695cdc3af553ae1408538ceb3eb2f7198215d9738
 
 #EXTINF:-1,Canelo Vs Smith 4000kpbs - ACESTREAM REQUIERED
 plugin://program.plexus/?mode=1&url=acestream://61f414d8cb2171a357165c7c34bced86b387d12d&name=My+acestream+channel
+
+#EXTINF:-1,Canelo Vs Smith 4000kpbs - ACESTREAM REQUIERED
+plugin://program.plexus/?mode=1&url=acestream://f14d07c1f9ed66e915019e3331f580844da1c062&name=My+acestream+channel
+
+#EXTINF:-1,Canelo Vs Smith 4000kpbs - ACESTREAM REQUIERED
+plugin://program.plexus/?mode=1&url=acestream://29480b9e868fa66d5890ced8852b0c5e392ce7ee&name=My+acestream+channel
 
 #EXTINF:-1,-------------------------------------------------------
 plugin://program.plexus/?mode=1&url=acestream://61f414d8cb2171a357165c7c34bced86b387d12d&name=My+acestream+channel
