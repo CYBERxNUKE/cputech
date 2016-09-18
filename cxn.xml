@@ -52,14 +52,14 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>Steelers vs Bengals 12</title>
+<title>Steelers vs Bengals 123</title>
 <link>https://forums.tvaddons.ag/$doregex[cosmix] swfUrl=http://player.hdcast.org/jws/jwplayer.flash.swf flashver=WIN/2020,0,0,267 token=**** timeout=15 live=true swfVfy=1 pageUrl=http://www.hdcast.org/</link>
 <thumbnail></thumbnail>
 <regex>
 <name>cosmix</name>
 <expres>file:'([^']*)</expres>
-<page>http://hdcast.org/embedlive.php?u=llive8z&vw=100%&vh=100%</page>
-<referer>http://mamahd.com/live/front_embed_997.html</referer>
+<page>http://hdcast.org/embedlive1.php?u=mamahdvch8&vw=680&vh=490</page>
+<referer>http://mamahd.com/pittsburgh-steelers-live-stream-1.html</referer>
 </regex>
 </item>
 
