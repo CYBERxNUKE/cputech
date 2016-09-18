@@ -3,10 +3,20 @@
 #EXTINF:-1,[COLOR red]REQUIRES NEW ADDON PLEXUS ADDON[/COLOR]  
 plugin://program.plexus/?url=acestream://7dcf3c8daaad0efbef55af2d74d52a5f8f65783c&mode=1&name=acestream+moneysports
 
-#EXTINF:-1,Bloodzeed-
-plugin://program.plexus/?mode=1&url=acestream://42fe51591598d905ab011a9c8339150f8391dfa7&name=My+acestream+channel
+#EXTINF:-1,Canelo Vs Smith 
+http://livestream-f.akamaihd.net/i/21541271_6360419_lsib3k5kk8f7fuaze4i_1@306000/master.m3u8?__b__=678&dw=100&hdnea=st=1474159507~exp=1474161307~acl=/i/21541271_6360419_lsib3k5kk8f7fuaze4i_1@306000/*~hmac=06c1c26a5bb7dbe54bbf3c8c66d8924e7a61df70fef41c94799fa369f5ac28c2&__a__=off
 
-#EXTINF:-1,Kingtiger 4000kpbs
+#EXTINF:-1,Canelo Vs Smith 
+http://livestream-f.akamaihd.net/i/21541271_6360419_lsib3k5kk8f7fuaze4i_1@306000/master.m3u8?__b__=678&dw=100&hdnea=st=1474159507~exp=1474161307~acl=/i/21541271_6360419_lsib3k5kk8f7fuaze4i_1@306000/*~hmac=06c1c26a5bb7dbe54bbf3c8c66d8924e7a61df70fef41c94799fa369f5ac28c2&__a__=off
+
+#EXTINF:-1,Canelo Vs Smith 
+http://livestream-f.akamaihd.net/i/21541271_6360419_lsib3k5kk8f7fuaze4i_1@306000/master.m3u8?__b__=678&dw=100&hdnea=st=1474159507~exp=1474161307~acl=/i/21541271_6360419_lsib3k5kk8f7fuaze4i_1@306000/*~hmac=06c1c26a5bb7dbe54bbf3c8c66d8924e7a61df70fef41c94799fa369f5ac28c2&__a__=off
+
+
+#EXTINF:-1,Canelo Vs Smith 4000kpbs - ACESTREAM REQUIERED
+plugin://program.plexus/?mode=1&url=acestream://61f414d8cb2171a357165c7c34bced86b387d12d&name=My+acestream+channel
+
+#EXTINF:-1,-------------------------------------------------------
 plugin://program.plexus/?mode=1&url=acestream://61f414d8cb2171a357165c7c34bced86b387d12d&name=My+acestream+channel
 
 #EXTINF:-1,UFC PPV 1 3000kpbs
@@ -48,3 +58,5 @@ plugin://program.plexus/?mode=1&url=acestream://df339a39e2f5fec4087579353be01ef6
 #EXTINF:-1, NFL
 plugin://program.plexus/?mode=1&url=acestream://fe61ac72a97c70f466b816531a0c54a76c5a57db&name=My+acestream+channel 
 
+#EXTINF:-1,Bloodzeed-
+plugin://program.plexus/?mode=1&url=acestream://42fe51591598d905ab011a9c8339150f8391dfa7&name=My+acestream+channel
