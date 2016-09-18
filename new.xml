@@ -1,8 +1,5 @@
 #EXTM3U tvg-shift=3
 
-#EXTINF:-1,[COLOR red]REQUIRES NEW ADDON PLEXUS ADDON[/COLOR]  
-plugin://program.plexus/?url=acestream://7dcf3c8daaad0efbef55af2d74d52a5f8f65783c&mode=1&name=acestream+moneysports
-
 #EXTINF:-1,Canelo Vs Smith 
 http://livestream-f.akamaihd.net/i/21541271_6360419_lsib3k5kk8f7fuaze4i_1@306000/master.m3u8?__b__=678&dw=100&hdnea=st=1474159507~exp=1474161307~acl=/i/21541271_6360419_lsib3k5kk8f7fuaze4i_1@306000/*~hmac=06c1c26a5bb7dbe54bbf3c8c66d8924e7a61df70fef41c94799fa369f5ac28c2&__a__=off
 
