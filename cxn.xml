@@ -74,7 +74,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <title>Total Play - NUKE</title>
 <link>http://ignorame</link><thumbnail></thumbnail>
 <fanart></fanart>
-<externallink>http://raw.githubusercontent.com/cyberxnuke/cputech/master/nukeold.m3u8.xml</externallink>
+<externallink>http://raw.githubusercontent.com/cyberxnuke/cputech/master/nukeold.m3u8</externallink>
 </item>
 
 <item>
