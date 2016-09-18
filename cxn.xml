@@ -26,12 +26,12 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <page></page>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://adryanlist.org/adryan/img/adryanlist.jpg</thumbnail>
-<fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
+<thumbnail></thumbnail>
+<fanart></fanart>
 </item>
 
 <item>
-<title>                   Updated: September 14th 2016      </title>
+<title>                   Updated: September 17th 2016      </title>
 <link>$doregex[openDialog]</link>
 <regex>
 <name>openDialog</name>
@@ -47,8 +47,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 ]]></expres>
 <page></page>
 <cookieJar></cookieJar>
-</regex><thumbnail>http://adryanlist.org/adryan/img/updated.jpg</thumbnail>
-<fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
+</regex><thumbnail></thumbnail>
+<fanart></fanart>
 </item>
 
 
@@ -56,20 +56,20 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 <item>
 <title>Sports </title>
-<link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/deportes.jpg</thumbnail>
-<fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
+<link>http://ignorame</link><thumbnail></thumbnail>
+<fanart></fanart>
 <externallink>http://raw.githubusercontent.com/cyberxnuke/cputech/master/new.xml</externallink>
 </item>
 <item>
 <title>IPTV</title>
-<link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/deportes.jpg</thumbnail>
-<fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
+<link>http://ignorame</link><thumbnail></thumbnail>
+<fanart></fanart>
 <externallink>http://raw.githubusercontent.com/cyberxnuke/cputech/master/iptv.xml</externallink>
 </item>
 <item>
 <title>Total Play</title>
-<link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/deportes.jpg</thumbnail>
-<fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
+<link>http://ignorame</link><thumbnail></thumbnail>
+<fanart></fanart>
 <externallink>http://raw.githubusercontent.com/cyberxnuke/cputech/master/tp.xml</externallink>
 </item>
 
@@ -88,14 +88,14 @@ def GetLSProData(page_data,Cookie_Jar,m):
 			<referer>http://www.arenavision.in</referer>
 			<setcookie>beget=begetok</setcookie>
 			</regex>
-			<thumbnail>http://adryanlist.org/adryan/img/deportes.jpg</thumbnail>
+			<thumbnail></thumbnail>
 </item>	
 ]]></listrepeat>
 <expres>190px">(.*?)<[\w\W\s]{0,45}182px">(.*?)<[\w\W\s]{0,45}188px">(.*?)<[\w\W\s]{0,45}283px">(.*?)<[\w\W\s]{0,45}685px">(.*?)<[\w\W\s]{0,45}317px">(.*?)-</expres>
 <page>http://arenavision.in/agenda</page>
 <Agent>Mozilla</Agent>
 </regex>
-<thumbnail>http://adryanlist.org/adryan/img/deportes.jpg</thumbnail>
+<thumbnail></thumbnail>
 </item>
 
 
