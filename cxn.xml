@@ -53,16 +53,31 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>Steelers vs Bengals</title>
+<title>Steelers vs Bengals1</title>
 <sportsdevil>http://hdcast.org/embedlive.php?u=llive8z&vw=100%&vh=100%</sportsdevil>
 <referer>http://hdcast.org/</referer>
 </item>
 
+<item>
+<title>Steelers Vs Bengals 1</title>
+<link>
+<sublink>http://185.23.213.216:8081/hls10/llive8z swfUrl=http://player.hdcast.org/jwplayer.flash.swf flashver=WIN/2020,0,0,267 token=SECURET0KEN#yw%.?()@W! timeout=15 live=true swfVfy=1 pageUrl=http://hdcast.org/embedlive.php?u=llive8z&vw=100%&vh=100%</sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
 
 <item>
-<title>Steelers vs Bengals</title>
+<title>Steelers vs Bengals2</title>
 <sportsdevil>http://hdcast.org/embedlive.php?u=hdcasthd8&vw=100%&vh=100%</sportsdevil>
 <referer>http://hdcast.org/</referer>
+</item>
+
+<item>
+<title>Steelers Vs Bengals 2</title>
+<link>
+<sublink>http://80.82.64.233:8081/live/hdcasthd8 swfUrl=http://player.hdcast.org/jwplayer.flash.swf flashver=WIN/2020,0,0,267 token=SECURET0KEN#yw%.?()@W! timeout=15 live=true swfVfy=1 pageUrl=http://hdcast.org/embedlive.php?u=llive8z&vw=100%&vh=100%</sublink>
+</link>
+<thumbnail></thumbnail>
 </item>
 
 
