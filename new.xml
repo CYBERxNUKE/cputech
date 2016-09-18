@@ -1,7 +1,7 @@
 #EXTM3U tvg-shift=3
 
 #EXTINF:-1,Canelo Vs Smith 1
-http://livestream-f.akamaihd.net/i/21541271_6360419_lsib3k5kk8f7fuaze4i_1@306000/master.m3u8?__b__=678&dw=100&hdnea=st=1474159507~exp=1474161307~acl=/i/21541271_6360419_lsib3k5kk8f7fuaze4i_1@306000/*~hmac=06c1c26a5bb7dbe54bbf3c8c66d8924e7a61df70fef41c94799fa369f5ac28c2&__a__=off
+http://livestream-f.akamaihd.net/i/21539435_6359885_lsir9fdvn4id5p9vecl_1@306200/master.m3u8?__b__=678&dw=100&hdnea=st=1474161652~exp=1474163452~acl=/i/21539435_6359885_lsir9fdvn4id5p9vecl_1@306200/*~hmac=65bc6af092c40d7d303bdf371bbb4d1859f6c7b2f3dd10dbed818d4db118b41a&__a__=off
 
 #EXTINF:-1,Canelo Vs Smith 2
 http://royal-iptv.noip.me:2052/live/cosmix@unseen.is/w9A6wz8fI1/6975.ts
@@ -20,7 +20,6 @@ http://3.therugbyfaction.xyz/swf/5435.m3u8?sf=d2l6aWkxMg==&token=reDU29UX-_u5BH-
 
 #EXTINF:-1,Canelo Vs Smith 7
 http://livestream-f.akama.net/i/13237440_6234094_90903491_1@319357/master.m3u8?dw=100&hdnea=st=1474160260~exp=1474162060~acl=/i/13237440_6234094_90903491_1@319357/*~hmac=ea22952dbf183a79170667f695cdc3af553ae1408538ceb3eb2f7198215d9738
-
 #EXTINF:-1,Canelo Vs Smith 4000kpbs - ACESTREAM REQUIERED
 plugin://program.plexus/?mode=1&url=acestream://61f414d8cb2171a357165c7c34bced86b387d12d&name=My+acestream+channel
 
