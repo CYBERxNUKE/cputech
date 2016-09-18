@@ -12,6 +12,13 @@ fanart="http://github.com/CYBERxNUKE/cputech/raw/master/omfg.jpg"
 description="UPDATE shortcuts for KODI!"
 type="main"
 
+name="Heavy"
+url="http://github.com/CYBERxNUKE/cputech/raw/master/XBMC13.zip"
+img="http://github.com/CYBERxNUKE/cputech/raw/master/omfg.jpg"
+fanart="http://github.com/CYBERxNUKE/cputech/raw/master/omfg.jpg"
+description="UPDATE for Heavy!"
+type="main"
+
 name="TESTING - DO NOT TOUCH - Erase everything"
 url="http://github.com/CYBERxNUKE/cputech/raw/master/XBMC11.zip"
 img="http://github.com/CYBERxNUKE/cputech/raw/master/omfg.jpg"
