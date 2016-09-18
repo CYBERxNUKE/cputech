@@ -51,6 +51,18 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart></fanart>
 </item>
 
+<item>
+<title>Steelers vs Bengals 12</title>
+<link>https://forums.tvaddons.ag/$doregex[cosmix] swfUrl=http://player.hdcast.org/jws/jwplayer.flash.swf flashver=WIN/2020,0,0,267 token=**** timeout=15 live=true swfVfy=1 pageUrl=http://www.hdcast.org/</link>
+<thumbnail></thumbnail>
+<regex>
+<name>cosmix</name>
+<expres>file:'([^']*)</expres>
+<page>http://hdcast.org/embedlive.php?u=llive8z&vw=100%&vh=100%</page>
+<referer>http://mamahd.com/live/front_embed_997.html</referer>
+</regex>
+</item>
+
 
 <item>
 <title>Steelers vs Bengals 1</title>
