@@ -53,7 +53,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>Steelers vs Bengals1</title>
+<title>Steelers vs Bengals 1</title>
 <sportsdevil>http://hdcast.org/embedlive.php?u=llive8z&vw=100%&vh=100%</sportsdevil>
 <referer>http://hdcast.org/</referer>
 </item>
@@ -82,7 +82,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>Steelers vs Bengals2</title>
+<title>Steelers vs Bengals 3</title>
 <sportsdevil>http://streamhd.eu/nfl/cincinnati-bengals-vs-pittsburgh-steelers-live-stream-196.php</sportsdevil>
 <referer>
 http://streamhd.eu/</referer>
