@@ -63,6 +63,13 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </regex>
 </item>
 
+
+<item>
+<title>Steelers vs Bengals 1</title>
+<sportsdevil>http://mamahd.com/pittsburgh-steelers-live-stream-1.html</sportsdevil>
+<referer>http://hdcast.org/</referer>
+</item>
+
 <item>
 <title>Steelers vs Bengals 1</title>
 <sportsdevil>http://hdcast.org/embedlive.php?u=llive8z</sportsdevil>
