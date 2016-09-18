@@ -71,6 +71,13 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
+<title>Total Play - NUKE</title>
+<link>http://ignorame</link><thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>http://raw.githubusercontent.com/cyberxnuke/cputech/master/nukeold.m3u8.xml</externallink>
+</item>
+
+<item>
 <title>     [B]Arenavision[/B] AGENDA / SCHEDULE </title>
 <link>$doregex[makelist]</link>
 <regex>
