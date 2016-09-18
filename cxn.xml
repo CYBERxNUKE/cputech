@@ -65,7 +65,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 <item>
 <title>Steelers vs Bengals 1</title>
-<sportsdevil>http://hdcast.org/embedlive.php?u=llive8z&vw=100%&vh=100%</sportsdevil>
+<sportsdevil>http://hdcast.org/embedlive.php?u=llive8z</sportsdevil>
 <referer>http://hdcast.org/</referer>
 </item>
 
