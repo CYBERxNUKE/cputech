@@ -52,17 +52,16 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>Steelers vs Bengals 123</title>
-<link>https://forums.tvaddons.ag/$doregex[cosmix] swfUrl=http://player.hdcast.org/jws/jwplayer.flash.swf flashver=WIN/2020,0,0,267 token=**** timeout=15 live=true swfVfy=1 pageUrl=http://www.hdcast.org/</link>
+<title>Steelers</title>
+<link>$doregex[cosmix] swfUrl=http://player.hdcast.org/jws/jwplayer.flash.swf flashver=WIN/2020,0,0,267 token=**** timeout=15 live=true swfVfy=1 pageUrl=http://www.hdcast.org/embedlive1.php?u=mamahdskysportsf1&vw=854&vh=480</link>
 <thumbnail></thumbnail>
 <regex>
 <name>cosmix</name>
 <expres>file:'([^']*)</expres>
 <page>http://hdcast.org/embedlive1.php?u=mamahdvch8&vw=680&vh=490</page>
-<referer>http://mamahd.com/pittsburgh-steelers-live-stream-1.html</referer>
+<referer>http://mamahd.com/watch-sky-sports-formula-1-live-streaming-1.html</referer>
 </regex>
 </item>
-
 
 <item>
 <title>Steelers vs Bengals 1</title>
