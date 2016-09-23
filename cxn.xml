@@ -7,14 +7,6 @@
 
 
 <item>
-<title>Baby TV</title>
-<link>http://89.163.148.31:8000/live/claire/claire/8329.ts</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-
-<item>
 <title>                     [B]    CYBERxNUKE ADD-ON[/B]   </title>
 <link>$doregex[openDialog]</link>
 <regex>
@@ -54,6 +46,13 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <page></page>
 <cookieJar></cookieJar>
 </regex><thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Baby TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://89.163.148.31:8000/live/claire/claire/8329.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=AdryanList</link>
+<thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
