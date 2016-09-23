@@ -1,16 +1,13 @@
 #EXTM3U tvg-shift=3
 
-#EXTINF:-1,Canelo Vs Smith 1
-http://livestream-f.akamaihd.net/i/21539435_6359885_lsi3v1rybxz72of091o_1@305542/master.m3u8?__b__=678&dw=100&hdnea=st=1474172003~exp=1474173803~acl=/i/21539435_6359885_lsi3v1rybxz72of091o_1@305542/*~hmac=21ace2aaa1c6814d1cddf9a06667a2a3387f62bf4d141f77c30715f4c553212e&__a__=off
-
-#EXTINF:-1,Canelo Vs Smith 2
+#EXTINF:-1,Box Nation
 http://royal-iptv.noip.me:2052/live/cosmix@unseen.is/w9A6wz8fI1/6975.ts
+
+#EXTINF:-1,WWE HD
+http://51.255.70.112:8000/live/pg/pg/1903.ts
 
 #EXTINF:-1,Canelo Vs Smith 3
 http://royal-iptv.noip.me:2052/live/R7x59xfSg2/LdNmfhdIrj/6975.ts
-
-#EXTINF:-1,Canelo Vs Smith 4
-http://www.streamhd.eu/box/canelo-alvarez-vs-liam-smith-live-stream-415.php
 
 #EXTINF:-1,Canelo Vs Smith 5
 http://51.255.70.112:8000/live/pg/pg/1842.ts
