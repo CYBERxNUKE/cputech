@@ -1,5 +1,9 @@
 #EXTM3U tvg-shift=3
 
+
+#EXTINF:-1,Trance Energy Radio
+http://staff.trance-energy.org:8000/trance.m3u
+
 #EXTINF:-1,Box Nation
 http://royal-iptv.noip.me:2052/live/cosmix@unseen.is/w9A6wz8fI1/6975.ts
 #http://royal-iptv.noip.me:2052/get.php?username=cosmix@unseen.is&password=w9A6wz8fI1&type=m3u
