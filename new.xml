@@ -5,75 +5,75 @@
 http://staff.trance-energy.org:8000/trance.m3u
 
 #EXTINF:-1,Box Nation
-http://royal-iptv.noip.me:2052/live/cosmix@unseen.is/w9A6wz8fI1/6975.ts
+#http://royal-iptv.noip.me:2052/live/cosmix@unseen.is/w9A6wz8fI1/6975.ts
 #http://royal-iptv.noip.me:2052/get.php?username=cosmix@unseen.is&password=w9A6wz8fI1&type=m3u
 
 #EXTINF:-1,WWE HD
-plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/1903.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=AdryanList
+#plugin://plugin.video.f4mTester/?url=http://51.255.70.112:8000/live/pg/pg/1903.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=AdryanList
 #http://51.255.70.112:8000/get.php?username=pg&password=pg&type=m3u
 
 #EXTINF:-1,Canelo Vs Smith 3
-http://royal-iptv.noip.me:2052/live/R7x59xfSg2/LdNmfhdIrj/6975.ts
+#http://royal-iptv.noip.me:2052/live/R7x59xfSg2/LdNmfhdIrj/6975.ts
 
 #EXTINF:-1,Canelo Vs Smith 5
-http://51.255.70.112:8000/live/pg/pg/1842.ts
+#http://51.255.70.112:8000/live/pg/pg/1842.ts
 
 #EXTINF:-1,Canelo Vs Smith 6
-http://3.therugbyfaction.xyz/swf/5435.m3u8?sf=d2l6aWkxMg==&token=reDU29UX-_u5BH-dAQI05Q
+#http://3.therugbyfaction.xyz/swf/5435.m3u8?sf=d2l6aWkxMg==&token=reDU29UX-_u5BH-dAQI05Q
 
 #EXTINF:-1,Canelo Vs Smith 7
-http://livestream-f.akama.net/i/13237440_6234094_90903491_1@319357/master.m3u8?dw=100&hdnea=st=1474160260~exp=1474162060~acl=/i/13237440_6234094_90903491_1@319357/*~hmac=ea22952dbf183a79170667f695cdc3af553ae1408538ceb3eb2f7198215d9738
+#http://livestream-f.akama.net/i/13237440_6234094_90903491_1@319357/master.m3u8?dw=100&hdnea=st=1474160260~exp=1474162060~acl=/i/13237440_6234094_90903491_1@319357/*~hmac=ea22952dbf183a79170667f695cdc3af553ae1408538ceb3eb2f7198215d9738
 
 #EXTINF:-1,Canelo Vs Smith 4000kbps - ACESTREAM REQUIRED
-plugin://program.plexus/?mode=1&url=acestream://c80d6bfbd67dc9344acaa9fe6986995de720f70d&name=My+acestream+channel
+#plugin://program.plexus/?mode=1&url=acestream://c80d6bfbd67dc9344acaa9fe6986995de720f70d&name=My+acestream+channel
 
 #EXTINF:-1,Canelo Vs Smith 4000kbps - ACESTREAM REQUIRED
-plugin://program.plexus/?mode=1&url=acestream://f14d07c1f9ed66e915019e3331f580844da1c062&name=My+acestream+channel
+#plugin://program.plexus/?mode=1&url=acestream://f14d07c1f9ed66e915019e3331f580844da1c062&name=My+acestream+channel
 
 #EXTINF:-1,Canelo Vs Smith 4000kbps - ACESTREAM REQUIRED
-plugin://program.plexus/?mode=1&url=acestream://29480b9e868fa66d5890ced8852b0c5e392ce7ee&name=My+acestream+channel
+#plugin://program.plexus/?mode=1&url=acestream://29480b9e868fa66d5890ced8852b0c5e392ce7ee&name=My+acestream+channel
 
 #EXTINF:-1,-------------------------------------------------------
-plugin://program.plexus/?mode=1&url=acestream://61f414d8cb2171a357165c7c34bced86b387d12d&name=My+acestream+channel
+#plugin://program.plexus/?mode=1&url=acestream://61f414d8cb2171a357165c7c34bced86b387d12d&name=My+acestream+channel
 
 #EXTINF:-1,UFC PPV 1 3000kpbs
-plugin://program.plexus/?mode=1&url=acestream://5c06a652a5285a2f49c1f29a323ca8d7d3861083&name=My+acestream+channel
+#plugin://program.plexus/?mode=1&url=acestream://5c06a652a5285a2f49c1f29a323ca8d7d3861083&name=My+acestream+channel
 
 #EXTINF:-1,UFC PPV 2 3000kpbs
-plugin://program.plexus/?mode=1&url=acestream://efa6cc6221f2c7732a6b187b6053b5eb3ab8b2ef&name=My+acestream+channel
+#plugin://program.plexus/?mode=1&url=acestream://efa6cc6221f2c7732a6b187b6053b5eb3ab8b2ef&name=My+acestream+channel
 
 #EXTINF:-1,UFC PPV 3 3000kpbs
-plugin://program.plexus/?mode=1&url=acestream://a5ba2691efee2adad80e3ce15145cb5391977791&name=My+acestream+channel
+#plugin://program.plexus/?mode=1&url=acestream://a5ba2691efee2adad80e3ce15145cb5391977791&name=My+acestream+channel
 
 #EXTINF:-1,UFC PPV 4 3000kpbs
-plugin://program.plexus/?mode=1&url=acestream://af8fe29864843fb68a6c39c7f14af77f15609847&name=My+acestream+channel
+#plugin://program.plexus/?mode=1&url=acestream://af8fe29864843fb68a6c39c7f14af77f15609847&name=My+acestream+channel
 
 #EXTINF:-1,UFC PPV 5 3000kpbs
-plugin://program.plexus/?mode=1&url=acestream://ed69c7c384cb0fd514c9c0684cf47de2c319ecc1&name=My+acestream+channel
+#plugin://program.plexus/?mode=1&url=acestream://ed69c7c384cb0fd514c9c0684cf47de2c319ecc1&name=My+acestream+channel
 
 #EXTINF:-1,UFC PPV HTTP
-http://azubuhlspull-a.akamaihd.net/0c77937257e658c37935243a1a0a587c/eu-west-1/video399305CHfizs/master.m3u8
+#http://azubuhlspull-a.akamaihd.net/0c77937257e658c37935243a1a0a587c/eu-west-1/video399305CHfizs/master.m3u8
 
 #EXTINF:-1,UFC PPV HTTP 2
-rtmpe://75.126.0.213/flash playpath=21366 swfUrl=http://static2.sawlive.tv/player.swf pageUrl=http://www3.sawlive.tv/embed/watch/M3NDU2OTgzZGM0MGQ2NDc1Yjc1OWI4Yw__/bGFnYzcyczozYjVlM2FmZTY4N2JlYjE1MmRkZDYyODgxMmQ0MjUxMzo1MDNiNjQ0MW
+#rtmpe://75.126.0.213/flash playpath=21366 swfUrl=http://static2.sawlive.tv/player.swf pageUrl=http://www3.sawlive.tv/embed/watch/M3NDU2OTgzZGM0MGQ2NDc1Yjc1OWI4Yw__/bGFnYzcyczozYjVlM2FmZTY4N2JlYjE1MmRkZDYyODgxMmQ0MjUxMzo1MDNiNjQ0MW
 
 #EXTINF:-1,WWE Network
-http://cp.dmbshare.net:8000/live/dano6570/dano6570/6983.ts
+#http://cp.dmbshare.net:8000/live/dano6570/dano6570/6983.ts
 
 #EXTINF:-1,Texans Vs Bears
-http://play-pico-cl1.fs.anvato.net/m3u8/pico702-otas-wnyw/master.m3u8
+#http://play-pico-cl1.fs.anvato.net/m3u8/pico702-otas-wnyw/master.m3u8
 
 #EXTINF:-1,Cowboys vs Giants
-http://play-pico-cl1.fs.anvato.net/m3u8/pico706-otas-kdfw/master.m3u8
+#http://play-pico-cl1.fs.anvato.net/m3u8/pico706-otas-kdfw/master.m3u8
 
 #EXTINF:-1,Cowboys vs Giants HD
-plugin://program.plexus/?mode=1&url=acestream://771370c477b9768c03e935cabe21a8027251dddc&name=My+acestream+channel
+#plugin://program.plexus/?mode=1&url=acestream://771370c477b9768c03e935cabe21a8027251dddc&name=My+acestream+channel
 
 #EXTINF:-1,WWE 
-plugin://program.plexus/?mode=1&url=acestream://df339a39e2f5fec4087579353be01ef6e023267f&name=My+acestream+channel 
+#plugin://program.plexus/?mode=1&url=acestream://df339a39e2f5fec4087579353be01ef6e023267f&name=My+acestream+channel 
 
 #EXTINF:-1, NFL
-plugin://program.plexus/?mode=1&url=acestream://fe61ac72a97c70f466b816531a0c54a76c5a57db&name=My+acestream+channel 
+#plugin://program.plexus/?mode=1&url=acestream://fe61ac72a97c70f466b816531a0c54a76c5a57db&name=My+acestream+channel 
 
 #EXTINF:-1,Bloodzeed-
-plugin://program.plexus/?mode=1&url=acestream://42fe51591598d905ab011a9c8339150f8391dfa7&name=My+acestream+channel
+#plugin://program.plexus/?mode=1&url=acestream://42fe51591598d905ab011a9c8339150f8391dfa7&name=My+acestream+channel
