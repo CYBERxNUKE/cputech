@@ -184,3 +184,10 @@ def GetLSProData(page_data,Cookie_Jar,m):
  <sportsdevil>http://wiz1.net/ch95</sportsdevil>
  <referer>http://wiz1.net/</referer>
  </item>
+
+ <item>
+ <title>Manny</title>
+ <sportsdevil>http://www.vipboxtv.me/boxing/429911/1/top-rank---boxnation:-manny-pacquiao-vs-jessie-vargas-live-online.html</sportsdevil>
+ <referer>http://vipboxtv.me/</referer>
+ </item>
+
