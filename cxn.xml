@@ -50,8 +50,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>Trance Energy Radio</title>
-<link>http://staff.trance-energy.org:8000/trance</link>
+<title>UFC</title>
+<link>http://89.40.123.123/live/stream1.m3u8?token=c2VydmVyX3RpbWU9MTEvNS8yMDE2IDExOjUwOjA3IFBNJmhhc2hfdmFsdWU9cGozQTVNcGMwSUk0YTVseHRLQkl6dz09JnZhbGlkbWludXRlcz02MA==</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
