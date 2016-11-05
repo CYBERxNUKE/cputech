@@ -29,7 +29,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>                   Updated: October 1st 2016      </title>
+<title>                   Updated: 11-5-2016      </title>
 <link>$doregex[openDialog]</link>
 <regex>
 <name>openDialog</name>
