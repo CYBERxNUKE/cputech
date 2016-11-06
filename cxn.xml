@@ -70,6 +70,12 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart></fanart>
 </item>
 
+<item>
+<title>PAQUIAO VS VARGAS 3</title>
+<link>plugin://program.plexus/?url=acestream://75495b030175229976bf2f619684ce12f61ee959&amp;mode=1&amp;name=My+acestream+channel</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
 
 <item>
 <title>Baby TV</title>
