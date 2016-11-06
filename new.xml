@@ -10,4 +10,4 @@ plugin://program.plexus/?mode=1&url=acestream://33d3c9ca2cb81a2aaf5562793676e75e
 #http://play-pico-cl1.fs.anvato.net/m3u8/pico706-otas-kdfw/master.m3u8
 
 #EXTINF:-1,Bloodzeed-
-#plugin://program.plexus/?mode=1&url=acestream://42fe51591598d905ab011a9c8339150f8391dfa7&name=My+acestream+channel
+plugin://program.plexus/?mode=1&url=acestream://42fe51591598d905ab011a9c8339150f8391dfa7&name=My+acestream+channel
