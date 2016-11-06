@@ -58,14 +58,14 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 <item>
 <title>PAQUIAO VS VARGAS</title>
-<link>acestream://75495b030175229976bf2f619684ce12f61ee959/</link>
+<link>plugin://program.plexus/?url=acestream://75495b030175229976bf2f619684ce12f61ee959&amp;mode=1&amp;name=My+acestream+channel</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>PAQUIAO VS VARGAS 2</title>
-<link>acestream://4d0e8adbe3f332d24467873cd4831e6992ea465c/</link>
+<link>plugin://program.plexus/?url=acestream://4d0e8adbe3f332d24467873cd4831e6992ea465c&amp;mode=1&amp;name=My+acestream+channel</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
