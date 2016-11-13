@@ -49,6 +49,12 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart></fanart>
 </item>
 
+<item>
+<title>UFC 205</title>
+<externallink>http://livestream-f.akamaihd.net/i/22274912_6603787_lsitbleqt2l9k5gff8h_1@408220/master.m3u8?__b__=2596&dw=100&hdnea=st=1479015523~exp=1479016123~acl=/i/22274912_6603787_lsitbleqt2l9k5gff8h_1@408220/*~hmac=85b4c8cba12040b0523ee71aec308619b4a05b6a23d1470765856d9d963e0b87&__a__=off</externallink>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
 
 <item>
 <title>UFC 205</title>
