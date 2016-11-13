@@ -29,7 +29,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>                   Updated: 11-5-2016      </title>
+<title>                   Updated: 11-12-2016      </title>
 <link>$doregex[openDialog]</link>
 <regex>
 <name>openDialog</name>
@@ -50,7 +50,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>UFC 205</title>
+<title>UFC 205 web</title>
 <externallink>http://livestream-f.akamaihd.net/i/22274912_6603787_lsitbleqt2l9k5gff8h_1@408220/master.m3u8?__b__=2596&dw=100&hdnea=st=1479015523~exp=1479016123~acl=/i/22274912_6603787_lsitbleqt2l9k5gff8h_1@408220/*~hmac=85b4c8cba12040b0523ee71aec308619b4a05b6a23d1470765856d9d963e0b87&__a__=off</externallink>
 <thumbnail></thumbnail>
 <fanart></fanart>
