@@ -49,36 +49,30 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart></fanart>
 </item>
 
-<item>
-<title>UFC</title>
-<link>http://213.152.168.84:8081/live/mamahdvch1.m3u8?e=1478415510&st=StbHiRwUSkkuZl_QaXe2-w</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
 
 <item>
-<title>PAQUIAO VS VARGAS</title>
-<link>plugin://program.plexus/?url=acestream://1d0452bd9a0836c1c6dbc8dc89aefcf71c0dac75&amp;mode=1&amp;name=My+acestream+channel</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>PAQUIAO VS VARGAS 2</title>
-<link>plugin://program.plexus/?url=acestream://4d0e8adbe3f332d24467873cd4831e6992ea465c&amp;mode=1&amp;name=My+acestream+channel</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>PAQUIAO VS VARGAS 3</title>
+<title>UFC 205</title>
 <link>plugin://program.plexus/?url=acestream://75495b030175229976bf2f619684ce12f61ee959&amp;mode=1&amp;name=My+acestream+channel</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>PAQUIAO VS VARGAS 4</title>
+<title>UFC 2</title>
+<link>plugin://program.plexus/?url=acestream://4d0e8adbe3f332d24467873cd4831e6992ea465c&amp;mode=1&amp;name=My+acestream+channel</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>UFC 3</title>
+<link>plugin://program.plexus/?url=acestream://75495b030175229976bf2f619684ce12f61ee959&amp;mode=1&amp;name=My+acestream+channel</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>UFC 4</title>
 <link>plugin://program.plexus/?url=acestream://42fe51591598d905ab011a9c8339150f8391dfa7&amp;mode=1&amp;name=My+acestream+channel</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
