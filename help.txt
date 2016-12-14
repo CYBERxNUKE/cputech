@@ -1,5 +1,5 @@
 name="Install All Plugins - Jan 2017"
-url="http://cyberxnuke.com/xbmc/XBMC9.zip"
+url="http://cyberxnuke.com/xbmc/XBMC9.zip*"
 img="http://github.com/CYBERxNUKE/cputech/raw/master/warning.png"
 fanart="http://github.com/CYBERxNUKE/cputech/raw/master/omfg.jpg"
 description="Configure KODI!"
