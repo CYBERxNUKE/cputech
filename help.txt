@@ -1,4 +1,4 @@
-name="PLUGINS - Jan 2017*"
+name="PLUGINS - Jan 2017"
 url="http://cyberxnuke.com/xbmc/XBMC9.zip"
 img="http://github.com/CYBERxNUKE/cputech/raw/master/warning.png"
 fanart="http://github.com/CYBERxNUKE/cputech/raw/master/omfg.jpg"
