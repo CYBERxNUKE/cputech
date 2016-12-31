@@ -50,37 +50,22 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>UFC 205 web 1</title>
-<link>http://http://livestream-f.akamaihd.net/i/22274912_6603787_lsitbleqt2l9k5gff8h_1@408220/master.m3u8?__b__=2596&dw=100&hdnea=st=1479015523~exp=1479016123~acl=/i/22274912_6603787_lsitbleqt2l9k5gff8h_1@408220/*~hmac=85b4c8cba12040b0523ee71aec308619b4a05b6a23d1470765856d9d963e0b87&__a__=off</link>
-<externallink>http://livestream-f.akamaihd.net/i/22274912_6603787_lsitbleqt2l9k5gff8h_1@408220/master.m3u8?__b__=2596&dw=100&hdnea=st=1479015523~exp=1479016123~acl=/i/22274912_6603787_lsitbleqt2l9k5gff8h_1@408220/*~hmac=85b4c8cba12040b0523ee71aec308619b4a05b6a23d1470765856d9d963e0b87&__a__=off</externallink>
+<title>UFC 207 Henno</title>
+<link>plugin://program.plexus/?url=acestream://79ac50ad2b19b36d66c724b495ade17c7a9608a7&amp;mode=1&amp;name=My+acestream+channel</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>UFC 205</title>
-<link>plugin://program.plexus/?url=acestream://75495b030175229976bf2f619684ce12f61ee959&amp;mode=1&amp;name=My+acestream+channel</link>
+<title>UFC 207 Henno 2</title>
+<link>plugin://program.plexus/?url=acestream://e7f0863df5045ef318364ad2f66126f0f7c9ebb2&amp;mode=1&amp;name=My+acestream+channel</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>UFC 2</title>
-<link>plugin://program.plexus/?url=acestream://4d0e8adbe3f332d24467873cd4831e6992ea465c&amp;mode=1&amp;name=My+acestream+channel</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>UFC 3</title>
-<link>plugin://program.plexus/?url=acestream://75495b030175229976bf2f619684ce12f61ee959&amp;mode=1&amp;name=My+acestream+channel</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>UFC 4</title>
-<link>plugin://program.plexus/?url=acestream://42fe51591598d905ab011a9c8339150f8391dfa7&amp;mode=1&amp;name=My+acestream+channel</link>
+<title>UFC 207</title>
+<link>plugin://program.plexus/?url=acestream://e5bc146f1c2f1415e97aabf3f376395267d9b451&amp;mode=1&amp;name=My+acestream+channel</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
