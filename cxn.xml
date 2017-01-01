@@ -56,6 +56,14 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart></fanart>
 </item>
 
+
+<item>
+<title>AH FM EOYC 2</title>
+<link>http://us2.ah.fm:443</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
 <item>
 <title>UFC 207 Henno</title>
 <link>plugin://program.plexus/?url=acestream://79ac50ad2b19b36d66c724b495ade17c7a9608a7&amp;mode=1&amp;name=My+acestream+channel</link>
