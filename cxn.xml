@@ -50,8 +50,15 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>FEB 18 2017 UTRECHT ASOT FESTIVAL!</title>
+<title>FEB 18 2017 UTRECHT ASOT FESTIVAL - Live Video</title>
 <link>https://www.youtube.com/watch?v=P31uJHKxgiY</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>FEB 18 2017 UTRECHT ASOT FESTIVAL - Live Audio</title>
+<link>http://prem1.di.fm:80/trance_hi?f6e6cc098b680694781c4599</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
