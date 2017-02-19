@@ -52,8 +52,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 <title>FEB 18 2017 UTRECHT ASOT FESTIVAL - Live Video</title>
 <sportsdevil>https://www.youtube.com/watch?v=P31uJHKxgiY</sportsdevil>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<referer>http://asot.tv/</referer>
 </item>
 
 <item>
