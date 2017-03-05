@@ -79,22 +79,22 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>UFC 207 Henno</title>
+<title>Henno</title>
 <link>plugin://program.plexus/?url=acestream://79ac50ad2b19b36d66c724b495ade17c7a9608a7&amp;mode=1&amp;name=My+acestream+channel</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>UFC 207 Henno 2</title>
+<title>Henno 2</title>
 <link>plugin://program.plexus/?url=acestream://e7f0863df5045ef318364ad2f66126f0f7c9ebb2&amp;mode=1&amp;name=My+acestream+channel</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>UFC 207</title>
-<link>plugin://program.plexus/?url=acestream://e5bc146f1c2f1415e97aabf3f376395267d9b451&amp;mode=1&amp;name=My+acestream+channel</link>
+<title>Bloodzeed</title>
+<link>plugin://program.plexus/?url=acestream://42fe51591598d905ab011a9c8339150f8391dfa7&amp;mode=1&amp;name=My+acestream+channel</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
