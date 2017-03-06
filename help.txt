@@ -19,3 +19,12 @@ fanart="http://github.com/CYBERxNUKE/cputech/raw/master/omfg.jpg"
 description="UPDATE for Heavy!"
 type="main"
 
+
+
+name="RESET"
+url="http://github.com/CYBERxNUKE/cputech/raw/master/XBMC12.zip"
+img="http://github.com/CYBERxNUKE/cputech/raw/master/omfg.jpg"
+fanart="http://github.com/CYBERxNUKE/cputech/raw/master/omfg.jpg"
+description="remove eberything"
+type="main"
+
