@@ -107,6 +107,13 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
+<title>BoxNation1</title>
+<link>plugin://program.plexus/?url=acestream://007f2edec880eb03b2c00eb4ffda20200e6c611a&amp;mode=1&amp;name=My+acestream+channel</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>BoxNation2</title>
 <link>plugin://program.plexus/?url=acestream://3c4bfbb75bbe0c71962077278722a6734aa5dcc5&amp;mode=1&amp;name=My+acestream+channel</link>
 <thumbnail></thumbnail>
