@@ -98,6 +98,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
+
 <item>
 <title>BoxNation</title>
 <link>plugin://program.plexus/?url=acestream://9c9aefe02c21b0ea2be7b7e83d804d37e6c7427a&amp;mode=1&amp;name=My+acestream+channel</link>
@@ -105,6 +106,30 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart></fanart>
 </item>
 
+<item>
+<title>BoxNation2</title>
+<link>plugin://program.plexus/?url=acestream://3c4bfbb75bbe0c71962077278722a6734aa5dcc5&amp;mode=1&amp;name=My+acestream+channel</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>BoxNation3</title>
+<link>plugin://program.plexus/?url=acestream://9b418047648083fe518f9e79c290f401fe303fdf&amp;mode=1&amp;name=My+acestream+channel</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>BoxNation4</title>
+<link>plugin://program.plexus/?url=acestream://ae1f4846d3714d27f8b074457f6f36ed1d5f12a1&amp;mode=1&amp;name=My+acestream+channel</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>BoxNation5</title>
+<link>plugin://program.plexus/?url=acestream://c3921e21b245c0b8acb1756517e747325e271389&amp;mode=1&amp;name=My+acestream+channel</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
 <item>
 <title>Baby TV</title>
 <link>plugin://plugin.video.f4mTester/?url=http://89.163.148.31:8000/live/claire/claire/8329.ts&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=AdryanList</link>
