@@ -98,6 +98,12 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
+<item>
+<title>BoxNation</title>
+<link>plugin://program.plexus/?url=acestream://9c9aefe02c21b0ea2be7b7e83d804d37e6c7427a&amp;mode=1&amp;name=My+acestream+channel</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
 
 <item>
 <title>Baby TV</title>
