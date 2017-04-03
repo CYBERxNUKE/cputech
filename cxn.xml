@@ -261,8 +261,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
  <item>
- <title>WWE 33</title>
- <sportsdevil>http://www.wiz1.net/channel1</sportsdevil>
+ <title>WWE 33!</title>
+ <link>plugin://plugin.video.SportsDevil/?url=http://www.wiz1.net/channel1&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=NUKE</link>
  <referer>http://wiz1.net/</referer>
  </item>
 
