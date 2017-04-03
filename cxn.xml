@@ -267,6 +267,12 @@ def GetLSProData(page_data,Cookie_Jar,m):
  </item>
 
  <item>
+ <title>WWE 33!</title>
+ <link>plugin://plugin.video.prosport/?url=http%3A%2F%2Fwww.streamhd.eu%2Fwwe%2Fwwe-wrestlemania-live-stream-574.php&mode=play&orig=%5B7PM+ET%2F+4PM+PT%5D+Wrestlemania+33+Main+Show+Official+Thread</link>
+ <referer>http://wiz1.net/</referer>
+ </item>
+
+ <item>
  <title>WWE 33!!</title>
 <sportsdevil>http://streamendous.com/ch_a.php?1</sportsdevil>
  <referer>http://wiz1.net/</referer>
