@@ -261,8 +261,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
  <item>
- <title>WWE 33!!</title>
- <link>plugin://plugin.video.SportsDevil/?item=title.tmp=Skysports+1&catcher=streams&title=Sky+Sports+1&url=http://wiz1.net/channel1&videoTitle=WWE&director=mamahd.com&genre=TV&referer=http%3A%2F%2Fmamahd.com&definedIn=tv%2Fmamahd.com.cfg&icon.tmp=http%3A%2F%2Fmamahd.com%2Fimages%2Fchannels%2Fsky.png&type=rss&icon=http://metalkettle.co/logos/logos2/DSAT/Glossy/TV/Sky Sports 1.png&amp;mode=1</link>
+ <title>WWE 33!!!</title>
+ <link>plugin://plugin.video.SportsDevil/?item=title.tmp=Skysports+1&catcher=streams&title=Sky+Sports+1&url=http://wiz1.net/ch1&videoTitle=WWE&director=mamahd.com&genre=TV&referer=http%3A%2F%2Fmamahd.com&definedIn=tv%2Fmamahd.com.cfg&icon.tmp=http%3A%2F%2Fmamahd.com%2Fimages%2Fchannels%2Fsky.png&type=rss&icon=http://metalkettle.co/logos/logos2/DSAT/Glossy/TV/Sky Sports 1.png&amp;mode=1</link>
  <referer>http://wiz1.net/</referer>
  </item>
 
