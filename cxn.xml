@@ -143,6 +143,13 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
+<item>
+<title>New Other </title>
+<link>http://ignorame</link><thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://github.com/Carlesto/TV-Digital/raw/master/movistar.xml</externallink>
+</item>
+
 
 <item>
 <title>Sports </title>
