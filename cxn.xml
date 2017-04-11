@@ -50,8 +50,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>Baby TV</title>
-<f4m>http://edge14.livesports.pw/live/verbabytve2cfc81fabe8a061/index.m3u8</f4m>
+<title>Baby TV SD</title>
+<sportsdevils>http://edge14.livesports.pw/live/verbabytve2cfc81fabe8a061/index.m3u8</sportsdevils>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
