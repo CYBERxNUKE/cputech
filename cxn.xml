@@ -138,8 +138,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart></fanart>
 </item>
 <item>
-<title>Baby TV 2</title>
-<link>http://edge14.livesports.pw/live/verbabytve2cfc81fabe8a061/index.m3u8</link>
+<title>Baby TV 12</title>
+<link>plugin://plugin.video.f4mTester/?url=http://edge14.livesports.pw/live/verbabytve2cfc81fabe8a061/index.m3u8&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=AdryanList</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
