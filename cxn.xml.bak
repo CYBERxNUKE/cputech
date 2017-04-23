@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<!----------------------
+					WELCOME TO CYBERxNUKE List
+					www.CYBERxNUKE.com
+-->
+
+
+
+
+<item>
+<title>                     [B]    CYBERxNUKE ADD-ON[/B]   </title>
+<link>$doregex[openDialog]</link>
+<regex>
+<name>openDialog</name>
+<expres><![CDATA[#$pyFunction
+import xbmcaddon
+import xbmcgui
+def GetLSProData(page_data,Cookie_Jar,m):
+    __addon__ = xbmcaddon.Addon()
+    __addonname__ = __addon__.getAddonInfo('name')     
+    line1 = "Welcome to CYBERxNUKE ADD-ON"
+    xbmcgui.Dialog().ok(__addonname__, line1)
+    return 
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>                   Updated: September 17th 2016      </title>
+<link>$doregex[openDialog]</link>
+<regex>
+<name>openDialog</name>
+<expres><![CDATA[#$pyFunction
+import xbmcaddon
+import xbmcgui
+def GetLSProData(page_data,Cookie_Jar,m):
+    __addon__ = xbmcaddon.Addon()
+    __addonname__ = __addon__.getAddonInfo('name')     
+    line1 = "            CYBERxNUKE "
+    xbmcgui.Dialog().ok(__addonname__, line1)
+    return 
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex><thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>Canelo Vs Smith</title>
+<sportsdevil>http://streamhdeu.com/player1/stream1.php</sportsdevil>
+<referer>http://streamhd.eu/</referer>
+</item>
+
+<item>
+<title>Sports </title>
+<link>http://ignorame</link><thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>http://raw.githubusercontent.com/cyberxnuke/cputech/master/new.xml</externallink>
+</item>
+<item>
+<title>IPTV</title>
+<link>http://ignorame</link><thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>http://raw.githubusercontent.com/cyberxnuke/cputech/master/iptv.xml</externallink>
+</item>
+<item>
+<title>Total Play</title>
+<link>http://ignorame</link><thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>http://raw.githubusercontent.com/cyberxnuke/cputech/master/tp.xml</externallink>
+</item>
+
+<item>
+<title>     [B]Arenavision[/B] AGENDA / SCHEDULE </title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<item><title> [makelist.param2] [makelist.param4] [makelist.param5]  </title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=My+acestream+channel</link>
+			<regex>
+			<name>hash</name> 
+			<expres>this.loadPlayer\("(.*?)"</expres>
+			<page>http://www.arenavision.in/AV[makelist.param6]</page>
+			<referer>http://www.arenavision.in</referer>
+			<setcookie>beget=begetok</setcookie>
+			</regex>
+			<thumbnail></thumbnail>
+</item>	
+]]></listrepeat>
+<expres>190px">(.*?)<[\w\W\s]{0,45}182px">(.*?)<[\w\W\s]{0,45}188px">(.*?)<[\w\W\s]{0,45}283px">(.*?)<[\w\W\s]{0,45}685px">(.*?)<[\w\W\s]{0,45}317px">(.*?)-</expres>
+<page>http://arenavision.in/agenda</page>
+<Agent>Mozilla</Agent>
+</regex>
+<thumbnail></thumbnail>
+</item>
+
+
+
+
+<item>
+ <title>Canal 1</title>
+ <link>$doregex[url]></link>
+ <regex>
+ <name>url</name>
+ <expres>source: '(.*?)'</expres>
+ <page>http://tumarcador.xyz/canal1.php</page>
+ <referer>http://tumarcador.xyz/canal1.php</referer>
+ <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
+ </regex>
+ </item>
+
+<item>
+ <title>Canal 2</title>
+ <link>$doregex[url]></link>
+ <regex>
+ <name>url</name>
+ <expres>source: '(.*?)'</expres>
+ <page>http://tumarcador.xyz/canal2.php</page>
+ <referer>http://tumarcador.xyz/canal2.php</referer>
+ <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
+ </regex>
+ </item>
+
+<item>
+ <title>Canal 3</title>
+ <link>$doregex[url]></link>
+ <regex>
+ <name>url</name>
+ <expres>source: '(.*?)'</expres>
+ <page>http://tumarcador.xyz/canal3.php</page>
+ <referer>http://tumarcador.xyz/canal3.php</referer>
+ <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
+ </regex>
+ </item>
+
+<item>
+<title>TEST5rsa</title>
+<link>$doregex[get_RTMP] playpath=$doregex[get_Path] token=$doregex[get_Token] swfUrl=http://ssl.p.jwpcdn.com/player/v/7.3.6/jwplayer.flash.swf swfVfy=1 live=1 timeout=13  pageUrl=http://yotv.co/embedo.php?live=cricone&vw=620&vh=490</link>
+<regex>
+<name>get_RTMP</name>
+<expres>file: [",']([^"]+)\/</expres>
+<page>http://yotv.co/embedo.php?live=cricone&vw=620&vh=490</page>
+<referer>http://cricfree.sx/update/snone.php</referer>
+<agent>Mozilla/5.0</agent>
+</regex>
+<regex>
+<name>get_Path</name>
+<expres>file: [",'].*\/([^"]+)[",']</expres>
+<page>http://yotv.co/embedo.php?live=cricone&vw=620&vh=490</page>
+<referer>http://cricfree.sx/update/snone.php</referer>
+<agent>Mozilla/5.0</agent>
+</regex>
+<regex>
+<name>get_Token</name>
+<expres>securetoken: [",']([^"]+)[",']</expres>
+<page>http://yotv.co/embedo.php?live=cricone&vw=620&vh=490</page>
+<referer>http://cricfree.sx/update/snone.php</referer>
+<agent>Mozilla/5.0</agent>
+</regex> 
+</item>
+
+ <item>
+ <title>Wizwig</title>
+ <sportsdevil>http://wiz1.net/ch95</sportsdevil>
+ <referer>http://wiz1.net/</referer>
+ </item>

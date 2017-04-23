@@ -1,0 +1,177 @@
+﻿
+<item>
+<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B] Server DmbShare[/B] [/COLOR][COLOR lightblue][I]IT • DE • UK • USA • AR • FR • EXYU[/I][/COLOR]</title>
+<thumbnail>http://adryanlist.org/adryan/img/iptv.jpg</thumbnail><fanart>http://adryanlist.org/fanart.jpg</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+     <title>[COLOR lightgreen]Server[/COLOR]    [COLOR lightslategray][I]([makelist.param1])[/I][/COLOR]  </title>
+    <link>NA</link>
+    <externallink>[makelist.param1][DE]$$TSDOWNLOADER$$</externallink>
+]]></listrepeat>
+<expres>(http:\/\/cp.dmbshare.net:8000\/.*?get.php.*?)&lt;</expres>
+<page>http://www.m3uliste.pw/</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B] Server Orbit[/B] [/COLOR][COLOR lightblue][I]IT • FR • DE • USA • ES[/I][/COLOR]</title>
+<thumbnail>http://adryanlist.org/adryan/img/iptv.jpg</thumbnail><fanart>http://adryanlist.org/fanart.jpg</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+     <title>[COLOR lightgreen]Server[/COLOR]    [COLOR lightslategray][I]([makelist.param1])[/I][/COLOR]  </title>
+    <link>NA</link>
+    <externallink>[makelist.param1][DE]$$TSDOWNLOADER$$</externallink>
+]]></listrepeat>
+<expres>(http:\/\/orbit-iptv.com:2500\/.*?get.php.*?)&lt;</expres>
+<page>http://www.m3uliste.pw/</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B] Oneplaylist[/B] [/COLOR][COLOR lightblue][I]IT • FR • DE • USA • ES[/I][/COLOR]</title>
+<thumbnail>http://adryanlist.org/adryan/img/iptv.jpg</thumbnail><fanart>http://adryanlist.org/fanart.jpg</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+     <title>[COLOR lightgreen]Server[/COLOR]    [COLOR lightslategray][I]([makelist.param1])[/I][/COLOR]  </title>
+    <link>NA</link>
+    <externallink>[makelist.param1][DE]$$TSDOWNLOADER$$</externallink>
+]]></listrepeat>
+<expres>(http:\/\/.*\/.*?get.php.*?)&lt;</expres>
+<page>http://www.oneplaylist.eu.pn/</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+
+
+<item>
+<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B] Server KSportsIPTV[/B] [/COLOR][COLOR lightblue][I][/I][/COLOR]</title>
+<thumbnail>http://adryanlist.org/adryan/img/iptv.jpg</thumbnail><fanart>http://adryanlist.org/fanart.jpg</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+     <title>[COLOR lightgreen]Server[/COLOR]    [COLOR lightslategray][I]([makelist.param1])[/I][/COLOR]  </title>
+    <link>NA</link>
+    <externallink>[makelist.param1][DE]$$TSDOWNLOADER$$</externallink>
+	<thumbnail>http://adryanlist.org/adryan/img/iptv.jpg</thumbnail>
+]]></listrepeat>
+<expres>(http:\/\/ksportiptv.com:1557\/.*?get.php.*?)&lt;</expres>
+<page>http://www.m3uliste.pw/</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+
+
+<tem>
+<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B] Server 91[/B] [/COLOR][COLOR lightblue][I][/I][/COLOR]</title>
+<thumbnail>http://adryanlist.org/adryan/img/iptv.jpg</thumbnail><fanart>http://adryanlist.org/fanart.jpg</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+     <title>[COLOR lightgreen]Server[/COLOR]    [COLOR lightslategray][I]([makelist.param1])[/I][/COLOR]  </title>
+    <link>NA</link>
+    <externallink>[makelist.param1][DE]$$TSDOWNLOADER$$</externallink>
+	<thumbnail>http://adryanlist.org/adryan/img/iptv.jpg</thumbnail>
+]]></listrepeat>
+<expres>(http:\/\/91.134.217.235:1557\/.*?get.php.*?)&lt;</expres>
+<page>http://www.m3uliste.pw/</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+
+<item>
+<title> [COLOR lime]•[/COLOR]    [COLOR skyblue][B] FTA[/B] [/COLOR][COLOR lightblue][I]Free to Air[/I][/COLOR]</title>
+<link>NA</link>
+<externallink>http://adryanlist.org/adryan/fta.m3u</externallink>
+</item>
+
+
+<item>
+<title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue][B] More Servers[/B] [/COLOR][COLOR lightblue][I][Updated Daily][/I][/COLOR]</title>
+<link>$doregex[makelist2]</link>
+
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+ <title>Server [makelist2.param1]</title>
+ <link>$doregex[makelist]</link>
+ <thumbnail>http://adryanlist.org/adryan/img/iptv.jpg</thumbnail>
+ ]]></listrepeat>
+<expres>Server:"(.*?)" URL="(.*?)";</expres>
+<page>http://raw.githubusercontent.com/cyberxnuke/cputech/master/servers.txt</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+ <title>[makelist.param1]</title>
+ <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=[COLOR lightblue]AdryanList[/COLOR] [makelist.param1] [COLOR lightslategray](server [makelist2.param1])[/COLOR] </link>
+ <thumbnail>http://adryanlist.org/adryan/img/iptv.jpg</thumbnail>
+ ]]></listrepeat>
+<expres>#EXTINF:-1,(.*?)\n(.*)</expres>
+<page>[makelist2.param2]</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+</item>
+
+
+
+<item>
+<title> [COLOR lime]•[/COLOR]    [COLOR deepskyblue][B] Servers[/B] [/COLOR][COLOR lightblue][I][C/Canales Españoles][/I][/COLOR]</title>
+<link>$doregex[makelist2]</link>
+
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+ <title>[COLOR lightblue]Server[/COLOR][COLOR lightgreen] [makelist2.param1][/COLOR]</title>
+ <link>$doregex[makelist]</link>
+ <thumbnail>http://adryanlist.org/adryan/img/iptv.jpg</thumbnail>
+ ]]></listrepeat>
+<expres>Server:"(.*?)" URL="(.*?)"; regex"(.*?)"</expres>
+<page>http://raw.githubusercontent.com/cyberxnuke/cputech/master/servers.txt</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+ <title>[COLOR skyblue][makelist.param1][/COLOR]</title>
+ <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=[COLOR lightblue]AdryanList[/COLOR] [makelist.param1] [COLOR lightslategray](server [makelist2.param1])[/COLOR] </link>
+ <thumbnail>http://adryanlist.org/adryan/img/iptv.jpg</thumbnail>
+ ]]></listrepeat>
+<expres>#EXTINF:-1,[makelist2.param3](.*?)\n(.*)</expres>
+<page>[makelist2.param2]</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
