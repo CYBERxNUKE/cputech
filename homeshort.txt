@@ -1,6 +1,0 @@
-shortcut="HomeVideosButton1,plugin.video.salts"
-shortcut="HomeVideosButton2,plugin.video.phstreams"
-shortcut="HomeVideosButton3,plugin.video.SportsDevil"
-shortcut="HomeVideosButton4,plugin.video.prosport"
-shortcut="HomeVideosButton5,plugin.video.exodus"
-shortcut="HomeProgramButton1,plugin.video.nukewizard"
