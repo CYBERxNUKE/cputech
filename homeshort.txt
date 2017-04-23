@@ -1,6 +1,14 @@
 shortcut="HomeVideosButton1,plugin.video.salts"
+shortcut="HomeVideosButton5,plugin.video.exodus"
 shortcut="HomeVideosButton2,plugin.video.phstreams"
 shortcut="HomeVideosButton3,plugin.video.SportsDevil"
 shortcut="HomeVideosButton4,plugin.video.prosport"
-shortcut="HomeVideosButton5,plugin.video.exodus"
+
+shortcut="HomeMusicButton1,plugin.audio.radio_de"
+shortcut="HomeMusicButton2,plugin.video.itunes_podcasts"
+shortcut="HomeMusicButton3,plugin.audio.di.fm"
+shortcut="HomeMusicButton4,plugin.audio.radioreference"
+shortcut="HomeMusicButton5,plugin.audio.soundcloud"
+
 shortcut="HomeProgramButton1,plugin.video.nukewizard"
+shortcut="HomeProgramButton2,script.navi-x"
