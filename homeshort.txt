@@ -11,4 +11,3 @@ shortcut="HomeMusicButton4,plugin.audio.radioreference"
 shortcut="HomeMusicButton5,plugin.audio.soundcloud"
 
 shortcut="HomeProgramButton1,plugin.video.nukewizard"
-shortcut="HomeProgramButton2,script.navi-x"
