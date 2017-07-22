@@ -59,7 +59,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 <item>
 <title>Tomorrowland 2017 - Main Stage</title>
-<link>https://tomorrowland-live.secure.footprint.net/hls-live/Tomorrowland-main/_definst_/live/stream7.m3u8</link>
+<link>https://tomorrowland-live.secure.footprint.net/hls-live/Tomorrowland-main/_definst_/live/stream6.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
@@ -75,7 +75,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 <item>
 <title>Tomorrowland 2017 - Rose Garden Stage</title>
-<link>https://tomorrowland-live.secure.footprint.net/hls-live/Tomorrowland-channel3/_definst_/live/stream7.m3u8</link>
+<link>https://tomorrowland-live.secure.footprint.net/hls-live/Tomorrowland-channel3/_definst_/live/stream6.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
@@ -83,7 +83,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 <item>
 <title>Tomorrowland 2017 - In The Woods Stage</title>
-<link>https://tomorrowland-live.secure.footprint.net/hls-live/Tomorrowland-channel4/_definst_/live/stream7.m3u8</link>
+<link>https://tomorrowland-live.secure.footprint.net/hls-live/Tomorrowland-channel4/_definst_/live/stream6.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
