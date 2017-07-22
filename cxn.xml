@@ -56,6 +56,40 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart></fanart>
 </item>
 <item>
+
+<item>
+<title>Tomorrowland 2017 - Main Stage</title>
+<f4m>https://tomorrowland-live.secure.footprint.net/hls-live/Tomorrowland-main/_definst_/live/stream7.m3u8</f4m>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+
+<item>
+<title>Tomorrowland 2017 - Freedom Stage</title>
+<f4m>https://tomorrowland-live.secure.footprint.net/hls-live/Tomorrowland-freedom/_definst_/live/stream7.m3u8</f4m>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+
+<item>
+<title>Tomorrowland 2017 - Rose Garden Stage</title>
+<f4m>https://tomorrowland-live.secure.footprint.net/hls-live/Tomorrowland-channel3/_definst_/live/stream7.m3u8</f4m>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+
+<item>
+<title>Tomorrowland 2017 - In The Woods Stage</title>
+<f4m>https://tomorrowland-live.secure.footprint.net/hls-live/Tomorrowland-channel4/_definst_/live/stream7.m3u8</f4m>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+
+
 <title>New Other </title>
 <link>http://ignorame</link><thumbnail></thumbnail>
 <fanart></fanart>
