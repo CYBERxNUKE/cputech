@@ -58,6 +58,13 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 
 <item>
+<title>Sara Anime</title>
+<link>http://ignorame</link><thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>http://raw.githubusercontent.com/cyberxnuke/cputech/master/sara.xml</externallink>
+</item>
+
+<item>
 <title>Tomorrowland 2017 - Main Stage</title>
 <link>https://tomorrowland-live.secure.footprint.net/hls-live/Tomorrowland-main/_definst_/live/stream6.m3u8</link>
 <thumbnail></thumbnail>
