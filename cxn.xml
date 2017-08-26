@@ -66,6 +66,15 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 
 <item>
+<title>Mayweather vs McGregor 2</title>
+<f4m>http://31.220.0.134:8081/live/abceu1/chunks.m3u8?nimblesessionid=1651617&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNi8yMDE3IDk6MDA6MDggUE0maGFzaF92YWx1ZT03dU00cUU5N2xhUnQ1MUMwazVYTGJBPT0mdmFsaWRtaW51dGVzPTEyMA==</f4m>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+<item>
+
+
+<item>
 <title>Mayweather vs McGregor - Acestream 1080P</title>
 <link>plugin://program.plexus/?url=acestream://5bf109a5d618d4e80277c0b75f5a6abe74059723&amp;mode=1&amp;name=My+acestream+channel</link>
 <thumbnail></thumbnail>
