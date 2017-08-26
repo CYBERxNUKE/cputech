@@ -66,6 +66,13 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 
 <item>
+<title>Mayweather vs McGregor - Acestream</title>
+<link>plugin://program.plexus/?url=acestream://5bf109a5d618d4e80277c0b75f5a6abe74059723&amp;mode=1&amp;name=My+acestream+channel</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
 <title>Sara Anime</title>
 <link>http://ignorame</link><thumbnail></thumbnail>
 <fanart></fanart>
