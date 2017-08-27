@@ -55,7 +55,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
-<item>
 
 <item>
 <title>Mayweather vs McGregor 1.</title>
@@ -63,11 +62,17 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
-<item>
 
 <item>
 <title>Mayweather vs McGregor 2.</title>
-<f4m>http://stream-05.dc3.dailymotion.com/58/dm/3/x5ycy3s/live.m3u8?e=1503969457&st=9AkdWuiADvc2ONXWQ10XBg</f4m>
+<link>https://live59.vkuserlive.com/639902/live/RVITdPFDfO0/playlist.m3u8/link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Mayweather vs McGregor 3.</title>
+<link>http://stream-05.dc3.dailymotion.com/58/dm/3/x5ycy3s/live.m3u8?e=1503969457&st=9AkdWuiADvc2ONXWQ10XBg</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
