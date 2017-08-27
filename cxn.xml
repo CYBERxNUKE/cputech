@@ -72,7 +72,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 <item>
 <title>Mayweather vs McGregor 3</title>
-<link>http://nlds209.cdnak.neulion.com/nlds/ufc/camera0/as/live/camera0_hd_1600_ipad.m3u8</link>
+<f4m>http://nlds209.cdnak.neulion.com/nlds/ufc/camera0/as/live/camera0_hd_1600_ipad.m3u8</f4m>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
