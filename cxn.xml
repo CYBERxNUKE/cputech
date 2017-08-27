@@ -76,7 +76,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
-
+http://nlds209.cdnak.neulion.com/nlds/ufc/camera0/as/live/camera0_hd_ipad.m3u8
 http://www.vipbox.live/boxing/485533/8/money-belt-:-floyd-mayweather-vs-conor-mcgregor-12-rounds-super-welterweight-live-stream-online.html
 
 <item>
@@ -95,7 +95,7 @@ http://www.vipbox.live/boxing/485533/8/money-belt-:-floyd-mayweather-vs-conor-mc
 <item>
 
 <title>Mayweather vs McGregor - Acestream 3</title>
-<link>plugin://program.plexus/?url=acestream://daa813de1a854fa47f2d03c80452ffb6c2f49afa&amp;mode=1&amp;name=My+acestream+channel</link>
+<link>plugin://program.plexus/?url=acestream://35b398cd46e2fbc5fbdec32004abbb8e8ce4a7f0&amp;mode=1&amp;name=My+acestream+channel</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
