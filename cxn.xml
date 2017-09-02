@@ -57,15 +57,15 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>Mayweather vs McGregor 1.</title>
-<link>https://live75.vkuserlive.com/620009/live/FhhZJ_dDfOs/playlist.m3u8</link>
+<title>MD Vs Texas</title>
+<link>http://194.67.210.70/cavscampeon/252137.m3u8?wmsAuthSign2=NTk0NTY2YWQ2ZWM5ZQ==&token=c2VydmVyX3RpbWU9MTUwNDM3MzY5MSZoYXNoX3ZhbHVlPURtdkw1cVV0R3Rpb2hlYzFHZ3NPaGc9PSZ2YWxpZG1pbnV0ZXM9MTAw</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>Mayweather vs McGregor 2.</title>
-<link>https://live59.vkuserlive.com/639902/live/RVITdPFDfO0/playlist.m3u8</link>
+<title>MD Vs Texas 2.</title>
+<link>plugin://program.plexus/?url=acestream://748309408aeb852c1a40c1a8e3e8b36b311855ac/&amp;mode=1&amp;name=My+acestream+channel</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
@@ -79,7 +79,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 <item>
 <title>Mayweather vs McGregor - Acestream 1</title>
-<link>plugin://program.plexus/?url=acestream://a6a7ad56b4ef0c6e3847a0e823ab518b550ade11&amp;mode=1&amp;name=My+acestream+channel</link>
+<link>plugin://program.plexus/?url=acestream://748309408aeb852c1a40c1a8e3e8b36b311855ac/&amp;mode=1&amp;name=My+acestream+channel</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
