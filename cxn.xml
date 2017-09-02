@@ -43,14 +43,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 <item>
 <title>MD Vs Texas..645.</title>
-<link>plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=JEw2wN7BWg8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>MD Vs Texas 2..</title>
-<link>plugin://program.plexus/?url=acestream://da7740e77423971fcb8e2edcdfc212ec6f3960fc/&amp;mode=1&amp;name=My+acestream+channel</link>
+<link>plugin://plugin.video.youtube/play/?video_id=JEw2wN7BWg8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
