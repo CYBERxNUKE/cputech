@@ -64,8 +64,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>MD Vs Texas 2.</title>
-<link>plugin://program.plexus/?url=acestream://afa3058aa9760251c2adf43989d48ed09a1f908e/&amp;mode=1&amp;name=My+acestream+channel</link>
+<title>MD Vs Texas 2</title>
+<link>plugin://program.plexus/?url=acestream://3a61b020617854beda5a907669bfbd50ab21fbfb/&amp;mode=1&amp;name=My+acestream+channel</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
