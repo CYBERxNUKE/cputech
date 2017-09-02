@@ -29,23 +29,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>                   Updated: 08-26-2017      </title>
+<title>                   Updated: 09-02-2017      </title>
 <link>$doregex[openDialog]</link>
-<regex>
-<name>openDialog</name>
-<expres><![CDATA[#$pyFunction
-import xbmcaddon
-import xbmcgui
-def GetLSProData(page_data,Cookie_Jar,m):
-    __addon__ = xbmcaddon.Addon()
-    __addonname__ = __addon__.getAddonInfo('name')     
-    line1 = "            CYBERxNUKE "
-    xbmcgui.Dialog().ok(__addonname__, line1)
-    return 
-]]></expres>
-<page></page>
-<cookieJar></cookieJar>
-</regex><thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
