@@ -89,7 +89,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <link>plugin://program.plexus/?url=[makelist.param2]&amp;mode=1&amp;name=Adryanlist</link>
 </item>	
 ]]></listrepeat>
-<expres>channel":"(.+?)".*?acestream:\\\/\\\/(.*?)".*?language":"(.*?)"</expres>
+<expres>canal":"(.+?)".*?acestream:\\\/\\\/(.*?)".*?idioma":"(.*?)"</expres>
 <page>http://arenavision.esy.es/json.php?action=listado_canales&amp;evento=[makelist2.param1]</page>
 </regex><thumbnail></thumbnail>
 </item>
