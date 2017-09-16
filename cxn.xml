@@ -83,7 +83,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <info></info>
 </item>	
 ]]></listrepeat>
-<expres><![CDATA[230px">(.*?)<[\w\W\s]{0,50}px">(.*?)CEST[\w\W\s]{0,53}px">(.*?)<[\w\W\s]{0,53}(.*?)[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">([0-9]+)]]></expres>
+<expres><![CDATA[230px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">([0-9]+).* (\[.*?\])<]]></expres>
 <page>http://arenavision2017.tk/iguide</page>
 <Agent>Mozilla</Agent>
 <referer>http://arenavision2017.tk/iguide</referer>
