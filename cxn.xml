@@ -57,7 +57,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>Arenavision - Acestreams</title>
+<title>Arenavision - Acestreams-</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
