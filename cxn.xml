@@ -90,7 +90,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <setcookie>beget=begetok</setcookie>
 </regex>
 
-<thumbnail>http://adryanlist.org/adryan/img/laliga.png</thumbnail>
+<thumbnail></thumbnail>
 </item>
 
 
