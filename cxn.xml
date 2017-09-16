@@ -42,33 +42,18 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart></fanart>
 </item>
 
-
-
-
 <item>
 <title>Sports </title>
 <link>http://ignorame</link><thumbnail></thumbnail>
 <fanart></fanart>
 <externallink>http://raw.githubusercontent.com/cyberxnuke/cputech/master/new.xml</externallink>
 </item>
+
 <item>
 <title>IPTV</title>
 <link>http://ignorame</link><thumbnail></thumbnail>
 <fanart></fanart>
 <externallink>http://raw.githubusercontent.com/cyberxnuke/cputech/master/iptv.xml</externallink>
-</item>
-<item>
-<title>Total Play</title>
-<link>http://ignorame</link><thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>http://raw.githubusercontent.com/cyberxnuke/cputech/master/tp.xml</externallink>
-</item>
-
-<item>
-<title>Total Play - NUKE</title>
-<link>http://ignorame</link><thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>http://raw.githubusercontent.com/cyberxnuke/cputech/master/nukeold.m3u8</externallink>
 </item>
 
 <item>
@@ -185,3 +170,4 @@ def GetLSProData(page_data,Cookie_Jar,m):
  <referer>http://vipboxtv.me/</referer>
  </item>
 
+http://www.arenavision.in/schedule
