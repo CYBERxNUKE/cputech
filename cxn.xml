@@ -41,12 +41,12 @@ def GetLSProData(page_data,Cookie_Jar,m):
 #<fanart></fanart>
 #</item>
 
-<item>
-<title>FX - Live</title>
-<f4m>http://best-anonymous.eu:8000/live/filippo1/carmine/27516.ts</f4m>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
+#<item>
+#<title>FX - Live</title>
+#<f4m>http://best-anonymous.eu:8000/live/filippo1/carmine/27516.ts</f4m>
+#<thumbnail></thumbnail>
+#<fanart></fanart>
+#</item>
 
 <item>
 <title>Canelo Vs Golovkin</title>
