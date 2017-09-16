@@ -49,165 +49,82 @@ def GetLSProData(page_data,Cookie_Jar,m):
 #</item>
 
 <item>
-<title>Canelo Vs Golovkin</title>
+<title>Canelo Vs Golovkin - CYBERxNUKE</title>
 <link>https://live104.vkuserlive.com/637611/live/07X04slDfNWTEZ4C/playlist.m3u8</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
-<item>
-<title>MD vs Texas 2</title>
-<f4m>http://fox-foxsports1.live.sonytv.adaptive.level3.net/PROD11/sony/FOX_FOXSPORTS1/live/master_wired.m3u8</f4m>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
 
 <item>
 <title>Mayweather vs McGregor - Acestream 1</title>
-<link>plugin://program.plexus/?url=acestream://748309408aeb852c1a40c1a8e3e8b36b311855ac/&amp;mode=1&amp;name=My+acestream+channel</link>
+<link>plugin://program.plexus/?url=acestream://748309408aeb852c1a40c1a8e3e8b36b311855ac/&amp;mode=1&amp;name=CYBERxNUKE</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
-<item>
-<title>Mayweather vs McGregor - Acestream 2</title>
-<link>plugin://program.plexus/?url=acestream://99e4657478e7b768ace5281ece419f9899e663e2&amp;mode=1&amp;name=My+acestream+channel</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-<item>
-
-<title>Mayweather vs McGregor - Acestream 3.</title>
-<link>plugin://program.plexus/?url=acestream://35b398cd46e2fbc5fbdec32004abbb8e8ce4a7f0&amp;mode=1&amp;name=My+acestream+channel</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>Sara Anime</title>
-<link>http://ignorame</link><thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>http://raw.githubusercontent.com/cyberxnuke/cputech/master/sara.xml</externallink>
-</item>
-
-<item>
-<title>Tomorrowland 2017 - Main Stage</title>
-<link>https://tomorrowland-live.secure.footprint.net/hls-live/Tomorrowland-main/_definst_/live/stream6.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-<item>
-
-<item>
-<title>Tomorrowland 2017 - Freedom Stage</title>
-<link>https://tomorrowland-live.secure.footprint.net/hls-live/Tomorrowland-freedom/_definst_/live/stream6.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-<item>
-
-<item>
-<title>Tomorrowland 2017 - Rose Garden Stage</title>
-<link>https://tomorrowland-live.secure.footprint.net/hls-live/Tomorrowland-channel3/_definst_/live/stream6.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-<item>
-
-<item>
-<title>Tomorrowland 2017 - In The Woods Stage</title>
-<link>https://tomorrowland-live.secure.footprint.net/hls-live/Tomorrowland-channel4/_definst_/live/stream6.m3u8</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-<item>
-
-
-<item>
-<title>FEB 18 2017 UTRECHT ASOT FESTIVAL - Live Video</title>
-<sportsdevil>https://www.youtube.com/watch?v=P31uJHKxgiY</sportsdevil>
-<referer>http://asot.tv/</referer>
-</item>
-
-<item>
-<title>FEB 18 2017 UTRECHT ASOT FESTIVAL - Live Audio</title>
-<link>http://prem1.di.fm:80/trance_hi?f6e6cc098b680694781c4599</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-
-<item>
-<title>AH FM EOYC</title>
-<link>http://ah.fm/192k.m3u</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-
-<item>
-<title>AH FM EOYC 2</title>
-<link>http://us2.ah.fm:443</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
+\\<item>
+\\<title>FEB 18 2017 UTRECHT ASOT FESTIVAL - Live Video</title>
+\\<sportsdevil>https://www.youtube.com/watch?v=P31uJHKxgiY</sportsdevil>
+\\<referer>http://asot.tv/</referer>
+\\</item>
 
 <item>
 <title>Fight GGG</title>
-<link>plugin://program.plexus/?url=acestream://9c9aefe02c21b0ea2be7b7e83d804d37e6c7427a&amp;mode=1&amp;name=My+acestream+channel</link>
+<link>plugin://program.plexus/?url=acestream://9c9aefe02c21b0ea2be7b7e83d804d37e6c7427a&amp;mode=1&amp;name=CYBERxNUKE</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>Henno 2</title>
-<link>plugin://program.plexus/?url=acestream://e7f0863df5045ef318364ad2f66126f0f7c9ebb2&amp;mode=1&amp;name=My+acestream+channel</link>
+<link>plugin://program.plexus/?url=acestream://e7f0863df5045ef318364ad2f66126f0f7c9ebb2&amp;mode=1&amp;name=CYBERxNUKE</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>Bloodzeed</title>
-<link>plugin://program.plexus/?url=acestream://42fe51591598d905ab011a9c8339150f8391dfa7&amp;mode=1&amp;name=My+acestream+channel</link>
+<link>plugin://program.plexus/?url=acestream://42fe51591598d905ab011a9c8339150f8391dfa7&amp;mode=1&amp;name=CYBERxNUKE</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>BoxNation</title>
-<link>plugin://program.plexus/?url=acestream://9c9aefe02c21b0ea2be7b7e83d804d37e6c7427a&amp;mode=1&amp;name=My+acestream+channel</link>
+<link>plugin://program.plexus/?url=acestream://9c9aefe02c21b0ea2be7b7e83d804d37e6c7427a&amp;mode=1&amp;name=CYBERxNUKE</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>BoxNation1</title>
-<link>plugin://program.plexus/?url=acestream://007f2edec880eb03b2c00eb4ffda20200e6c611a&amp;mode=1&amp;name=My+acestream+channel</link>
+<link>plugin://program.plexus/?url=acestream://007f2edec880eb03b2c00eb4ffda20200e6c611a&amp;mode=1&amp;name=CYBERxNUKE</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>BoxNation2</title>
-<link>plugin://program.plexus/?url=acestream://3c4bfbb75bbe0c71962077278722a6734aa5dcc5&amp;mode=1&amp;name=My+acestream+channel</link>
+<link>plugin://program.plexus/?url=acestream://3c4bfbb75bbe0c71962077278722a6734aa5dcc5&amp;mode=1&amp;name=CYBERxNUKE</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 <item>
 <title>BoxNation3</title>
-<link>plugin://program.plexus/?url=acestream://9b418047648083fe518f9e79c290f401fe303fdf&amp;mode=1&amp;name=My+acestream+channel</link>
+<link>plugin://program.plexus/?url=acestream://9b418047648083fe518f9e79c290f401fe303fdf&amp;mode=1&amp;name=CYBERxNUKE</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 <item>
 <title>BoxNation4</title>
-<link>plugin://program.plexus/?url=acestream://ae1f4846d3714d27f8b074457f6f36ed1d5f12a1&amp;mode=1&amp;name=My+acestream+channel</link>
+<link>plugin://program.plexus/?url=acestream://ae1f4846d3714d27f8b074457f6f36ed1d5f12a1&amp;mode=1&amp;name=CYBERxNUKE</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 <item>
 <title>BoxNation5</title>
-<link>plugin://program.plexus/?url=acestream://c3921e21b245c0b8acb1756517e747325e271389&amp;mode=1&amp;name=My+acestream+channel</link>
+<link>plugin://program.plexus/?url=acestream://c3921e21b245c0b8acb1756517e747325e271389&amp;mode=1&amp;name=CYBERxNUKE</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
@@ -247,7 +164,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <name>makelist</name>
 <listrepeat><![CDATA[
 <item><title> [makelist.param2] [makelist.param4] [makelist.param5]  </title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=My+acestream+channel</link>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=CYBERxNUKE</link>
 			<regex>
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
