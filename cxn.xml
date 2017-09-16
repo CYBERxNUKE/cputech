@@ -57,41 +57,43 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>Arenavision - Acestreams-</title>
+<title>Arenavision Sports</title>
+<SetViewMode>55</SetViewMode>
+<link>$doregex[makelist3]</link>
+
+<regex>
+<name>makelist3</name>
+<listrepeat><![CDATA[
+<SetViewMode>55</SetViewMode>
+<title>[makelist3.param1] [[makelist3.param2]]</title>
+<link>$doregex[makelist2]</link>
+]]></listrepeat>
+<expres>categoria":"(.*?)","items":"(.*?)"</expres>
+<page>http://arenavision.esy.es/json.php</page>
+
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+<SetwatchMode>55</SetwatchMode>
+<title>[makelist2.param2] [makelist2.param3] [makelist2.param5]</title>
 <link>$doregex[makelist]</link>
+]]></listrepeat>
+<expres>"id":"(.*?)","fecha":"(.*?)","hora":"(.*?)","categoria":"(.*?)","titulo":"(.*?)"</expres>
+<page>http://arenavision.esy.es/json.php?action=listado_eventos&amp;cat=[makelist3.param1]</page>
+
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-<SetViewMode>55</SetViewMode>
-<title>[COLOR lightgreen][makelist.param1] [COLOR silver] [makelist.param2]  [COLOR skyblue] [makelist.param4][/COLOR][/COLOR][/COLOR]  [COLOR deepskyblue] [makelist.param5][/COLOR] </title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=CYBERxNUKE+[makelist.param4]</link>
-			<regex>
-			<name>hash</name> 
-			<expres>this.loadPlayer\("(.*?)"</expres>
-			<page>http://arenavision2017.tk/$doregex[canal]</page>
-			<referer>http://arenavision2017.tk/</referer>
-			<setcookie>beget=begetok</setcookie>
-			</regex>
-			<regex>
-			<name>canal</name> 
-			<expres>$pyFunction:'[makelist.param5]'.replace('1','01').replace('2','02').replace('3','03').replace('4','04').replace('5','05').replace('6','06').replace('7','07').replace('8','08').replace('9','09')</expres>
-			<page></page>
-			</regex>
-			
-			<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
+<SetwatchMode>55</SetwatchMode>
+<title>[makelist2.param5] Channel  [makelist.param1]  Language:[makelist.param3] [/I]</title>
+<link>plugin://program.plexus/?url=[makelist.param2]&amp;mode=1&amp;name=Adryanlist</link>
 </item>	
 ]]></listrepeat>
-<expres><![CDATA[230px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">([0-9]+).* (\[.*?\])<]]></expres>
-<page>http://arenavision2017.tk/iguide</page>
-<Agent>Mozilla</Agent>
-<referer>http://arenavision2017.tk/iguide</referer>
-<setcookie>beget=begetok</setcookie>
-</regex>
-
-<thumbnail></thumbnail>
+<expres>channel":"(.+?)".*?acestream:\\\/\\\/(.*?)".*?language":"(.*?)"</expres>
+<page>http://arenavision.esy.es/json.php?action=listado_canales&amp;evento=[makelist2.param1]</page>
+</regex><thumbnail></thumbnail>
 </item>
+
 
 
 
