@@ -34,7 +34,12 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart></fanart>
 </item>
 
-06f344843f2328326750d90874c3f5fc4aa175cb
+<item>
+<title>GGG vs Canelo - CYBERxNUKE - Youtube</title>
+<link>https://manifest.googlevideo.com/api/manifest/hls_playlist/id/U15p0KlWaps.1~23701774/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/cmbypass/yes/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r5---sn-q4fl6ns7.googlevideo.com/ei/kbC9WbuhD8eprwa2xZ_ADg/playlist_type/LIVE/gcr/us/mm/32/mn/sn-q4fl6ns7/ms/lv/mv/m/pl/15/dover/6/mt/1505603652/ip/24.243.134.191/ipbits/0/expire/1505625328/sparams/ip,ipbits,expire,id,itag,source,requiressl,ratebypass,live,cmbypass,goi,sgoap,sgovp,hls_chunk_host,ei,playlist_type,gcr,mm,mn,ms,mv,pl/signature/0389F04ABA67C36E5E7576496E8F416A09396FEF.3761E2871A44B81F9D733BF0CDF6D0A01502D575/key/dg_yt0/playlist/index.m3u8</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
 
 
 <item>
@@ -50,7 +55,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
-
 
 <item>
 <title>Fight Night - CYBERxNUKE</title>
