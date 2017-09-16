@@ -74,14 +74,12 @@ def GetLSProData(page_data,Cookie_Jar,m):
 			<thumbnail></thumbnail>
 </item>	
 ]]></listrepeat>
-<expres>190px">(.*?)<[\w\W\s]{0,45}182px">(.*?)<[\w\W\s]{0,45}188px">(.*?)<[\w\W\s]{0,45}283px">(.*?)<[\w\W\s]{0,45}685px">(.*?)<[\w\W\s]{0,45}317px">(.*?)-</expres>
+<expres>215px">(.*?)<[\w\W\s]{0,45}230px">(.*?)<[\w\W\s]{0,45}215px">(.*?)<[\w\W\s]{0,45}418px">(.*?)<[\w\W\s]{0,45}897px">(.*?)<[\w\W\s]{0,45}489px">(.*?)-</expres>
 <page>http://www.arenavision.in/iguide</page>
 <Agent>Mozilla</Agent>
 </regex>
 <thumbnail></thumbnail>
 </item>
-
-
 
 
 <item>
