@@ -34,6 +34,23 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart></fanart>
 </item>
 
+06f344843f2328326750d90874c3f5fc4aa175cb
+
+
+<item>
+<title>GGG vs Canelo - CYBERxNUKE - Acestream</title>
+<link>plugin://program.plexus/?url=acestream://06f344843f2328326750d90874c3f5fc4aa175cb&amp;mode=1&amp;name=CYBERxNUKE</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>GGG vs Canelo 2- CYBERxNUKE - Acestream</title>
+<link>plugin://program.plexus/?url=acestream://30a9951d7d5909ab2039fb9c941f998cc0133b00&amp;mode=1&amp;name=CYBERxNUKE</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
 
 <item>
 <title>Fight Night - CYBERxNUKE</title>
