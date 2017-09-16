@@ -34,19 +34,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart></fanart>
 </item>
 
-#<item>
-#<title>Baby TV SD</title>
-#<f4m>http://edge14.livesports.pw/live/verbabytve2cfc81fabe8a061/index.m3u8</f4m>
-#<thumbnail></thumbnail>
-#<fanart></fanart>
-#</item>
-
-#<item>
-#<title>FX - Live</title>
-#<f4m>http://best-anonymous.eu:8000/live/filippo1/carmine/27516.ts</f4m>
-#<thumbnail></thumbnail>
-#<fanart></fanart>
-#</item>
 
 <item>
 <title>Canelo Vs Golovkin - CYBERxNUKE</title>
@@ -55,79 +42,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart></fanart>
 </item>
 
-
-<item>
-<title>Mayweather vs McGregor - Acestream 1</title>
-<link>plugin://program.plexus/?url=acestream://748309408aeb852c1a40c1a8e3e8b36b311855ac/&amp;mode=1&amp;name=CYBERxNUKE</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-\\<item>
-\\<title>FEB 18 2017 UTRECHT ASOT FESTIVAL - Live Video</title>
-\\<sportsdevil>https://www.youtube.com/watch?v=P31uJHKxgiY</sportsdevil>
-\\<referer>http://asot.tv/</referer>
-\\</item>
-
-<item>
-<title>Fight GGG</title>
-<link>plugin://program.plexus/?url=acestream://9c9aefe02c21b0ea2be7b7e83d804d37e6c7427a&amp;mode=1&amp;name=CYBERxNUKE</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>Henno 2</title>
-<link>plugin://program.plexus/?url=acestream://e7f0863df5045ef318364ad2f66126f0f7c9ebb2&amp;mode=1&amp;name=CYBERxNUKE</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>Bloodzeed</title>
-<link>plugin://program.plexus/?url=acestream://42fe51591598d905ab011a9c8339150f8391dfa7&amp;mode=1&amp;name=CYBERxNUKE</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>BoxNation</title>
-<link>plugin://program.plexus/?url=acestream://9c9aefe02c21b0ea2be7b7e83d804d37e6c7427a&amp;mode=1&amp;name=CYBERxNUKE</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>BoxNation1</title>
-<link>plugin://program.plexus/?url=acestream://007f2edec880eb03b2c00eb4ffda20200e6c611a&amp;mode=1&amp;name=CYBERxNUKE</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>BoxNation2</title>
-<link>plugin://program.plexus/?url=acestream://3c4bfbb75bbe0c71962077278722a6734aa5dcc5&amp;mode=1&amp;name=CYBERxNUKE</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>BoxNation3</title>
-<link>plugin://program.plexus/?url=acestream://9b418047648083fe518f9e79c290f401fe303fdf&amp;mode=1&amp;name=CYBERxNUKE</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>BoxNation4</title>
-<link>plugin://program.plexus/?url=acestream://ae1f4846d3714d27f8b074457f6f36ed1d5f12a1&amp;mode=1&amp;name=CYBERxNUKE</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>BoxNation5</title>
-<link>plugin://program.plexus/?url=acestream://c3921e21b245c0b8acb1756517e747325e271389&amp;mode=1&amp;name=CYBERxNUKE</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
 
 
 
@@ -168,7 +82,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 			<regex>
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
-			<page>http://www.arenavision.in/AV[makelist.param6]</page>
+			<page>http://www.arenavision.in/[makelist.param6]</page>
 			<referer>http://www.arenavision.in</referer>
 			<setcookie>beget=begetok</setcookie>
 			</regex>
