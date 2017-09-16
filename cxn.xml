@@ -57,28 +57,40 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>Arenavision Schedule 56</title>
+<title>Arenavision - Acestreams</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-<item><title> [makelist.param2] [makelist.param4] [makelist.param5]  </title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=CYBERxNUKE</link>
+<SetViewMode>55</SetViewMode>
+<title>[COLOR lightgreen][makelist.param1] [COLOR silver] [makelist.param2]  [COLOR skyblue] [makelist.param4][/COLOR][/COLOR][/COLOR]  [COLOR deepskyblue] [makelist.param5][/COLOR] </title>
+<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=CYBERxNUKE+[makelist.param4]</link>
 			<regex>
 			<name>hash</name> 
 			<expres>this.loadPlayer\("(.*?)"</expres>
-			<page>http://arenavision.in/[makelist.param6]</page>
-			<referer>http://arenavision.in</referer>
+			<page>http://arenavision2017.tk/$doregex[canal]</page>
+			<referer>http://arenavision2017.tk/</referer>
 			<setcookie>beget=begetok</setcookie>
 			</regex>
+			<regex>
+			<name>canal</name> 
+			<expres>$pyFunction:'[makelist.param5]'.replace('1','01').replace('2','02').replace('3','03').replace('4','04').replace('5','05').replace('6','06').replace('7','07').replace('8','08').replace('9','09')</expres>
+			<page></page>
+			</regex>
+			
 			<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
 </item>	
 ]]></listrepeat>
-<expres><![CDATA[230px">(.*?)<[\w\W\s]{0,45}215px">(.*?)<[\w\W\s]{0,45}291px">(.*?)<[\w\W\s]{0,45}418px">(.*?)<[\w\W\s]{0,45}897px">(.*?)<[\w\W\s]{0,45}489px">(.*?)-></expres>
-<page>http://arenavision.in/iguide</page>
+<expres><![CDATA[230px">(.*?)<[\w\W\s]{0,50}px">(.*?)CEST[\w\W\s]{0,53}px">(.*?)<[\w\W\s]{0,53}(.*?)[\w\W\s]{0,50}px">(.*?)<[\w\W\s]{0,50}px">([0-9]+)]]></expres>
+<page>http://arenavision2017.tk/iguide</page>
 <Agent>Mozilla</Agent>
+<referer>http://arenavision2017.tk/iguide</referer>
+<setcookie>beget=begetok</setcookie>
 </regex>
-<thumbnail></thumbnail>
+
+<thumbnail>http://adryanlist.org/adryan/img/laliga.png</thumbnail>
 </item>
 
 
