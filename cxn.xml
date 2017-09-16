@@ -86,7 +86,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <listrepeat><![CDATA[
 <SetwatchMode>55</SetwatchMode>
 <title>[makelist.param3] ch:[makelist.param1] - [makelist2.param5]</title>
-<link>plugin://program.plexus/?url=[makelist.param2]&amp;mode=1&amp;name=Adryanlist</link>
+<link>plugin://program.plexus/?url=[makelist.param2]&amp;mode=1&amp;name=CYBERxNUKE</link>
 </item>	
 ]]></listrepeat>
 <expres>canal":"(.+?)".*?acestream:\\\/\\\/(.*?)".*?idioma":"(.*?)"</expres>
@@ -182,5 +182,3 @@ def GetLSProData(page_data,Cookie_Jar,m):
  <sportsdevil>http://www.atdhe.cc/boxing/stream-4a67b8-ufc-fight-night-98-early-prelims?l=2892001640</sportsdevil>
  <referer>http://vipboxtv.me/</referer>
  </item>
-
-http://www.arenavision.in/schedule
