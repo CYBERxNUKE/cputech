@@ -85,7 +85,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <name>makelist</name>
 <listrepeat><![CDATA[
 <SetwatchMode>55</SetwatchMode>
-<title>[makelist2.param5] Channel  [makelist.param1]  Language:[makelist.param3] [/I]</title>
+<title>[makelist.param3] ch:[makelist.param1] - [makelist2.param5]</title>
 <link>plugin://program.plexus/?url=[makelist.param2]&amp;mode=1&amp;name=Adryanlist</link>
 </item>	
 ]]></listrepeat>
