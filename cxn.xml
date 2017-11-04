@@ -51,8 +51,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 <title>UFC 127 - CYBERxNUKE - WEB</title>
 <sportsdevil>http://buffstreamz.com/watch/mma.php</sportsdevil>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<referer>http://wiz1.net/</referer>
 </item>
 
 <item>
