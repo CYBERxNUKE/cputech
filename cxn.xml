@@ -35,27 +35,15 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>XFN 344 - USA vs. Mexico Free Live Stream - CYBERxNUKE 1</title>
-<link>https://fitetv.akamaized.net/xtremefightnight22Oct2017_abr/live/xtremefightnight22Oct2017/live_722/chunks.m3u8</link>
-<referer>http://vipboxtv.me/</referer>
-</item>
-
-<item>
-<title>XFN 344 - USA vs. Mexico Free Live Stream 2 - CYBERxNUKE</title>
-<link>https://fitetv.akamaized.net/xtremefightnight22Oct2017_abr/live/playlist.m3u8?hdnts=st=1508638829~exp=1508638919~acl=%2fxtremefightnight22Oct2017_abr%2flive%2a~hmac=24cce661c180580f079bddaeaf78b994b2f1ea733d506ac8921c1ba923e18be4</link>
-<referer>http://vipboxtv.me/</referer>
-</item>
-
-<item>
-<title>GGG vs Canelo - CYBERxNUKE - Acestream</title>
-<link>plugin://program.plexus/?url=acestream://06f344843f2328326750d90874c3f5fc4aa175cb&amp;mode=1&amp;name=CYBERxNUKE</link>
+<title>UFC 127 - CYBERxNUKE - Acestream</title>
+<link>plugin://program.plexus/?url=acestream://e51372d60260e19a382f8083dad032e756d24d9c&amp;mode=1&amp;name=CYBERxNUKE</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>GGG vs Canelo 2- CYBERxNUKE - Acestream</title>
-<link>plugin://program.plexus/?url=acestream://30a9951d7d5909ab2039fb9c941f998cc0133b00&amp;mode=1&amp;name=CYBERxNUKE</link>
+<title>UFC 127 2- CYBERxNUKE - Acestream</title>
+<link>plugin://program.plexus/?url=acestream://716ac3bc7712402cee1d68b37655944ca69106f2&amp;mode=1&amp;name=CYBERxNUKE</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
