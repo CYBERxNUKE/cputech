@@ -57,6 +57,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 <title>UFC 127 1 - CYBERxNUKE - WEB</title><sportsdevil>http://101sportz.com/hds.html</sportsdevil><referer>http://wiz1.net/</referer>
 </item>
+
+
 <item>
 <title>UFC 127 2 - CYBERxNUKE - WEB</title><sportsdevil>http://buffstreamz.com/watch/mma.php</sportsdevil><referer>http://wiz1.net/</referer>
 </item>
@@ -119,9 +121,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 <item>
 <title>UFC 127 22 - CYBERxNUKE - WEB</title><sportsdevil>http://strimi.world/s/bts2.html</sportsdevil><referer>http://wiz1.net/</referer>
-</item>
-<item>
-<title>UFC 127 23 - CYBERxNUKE - WEB</title><sportsdevil>http://www</sportsdevil><referer>http://wiz1.net/</referer>
 </item>
 <item>
 <title>UFC 127 24 - CYBERxNUKE - WEB</title><sportsdevil>http://www.720pstream.me/ufc-217-stream</sportsdevil><referer>http://wiz1.net/</referer>
