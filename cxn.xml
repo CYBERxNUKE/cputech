@@ -42,13 +42,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>WWE SURVIVOR SERIES  2- CYBERxNUKE - Acestream</title>
-<link>plugin://program.plexus/?url=acestream://716ac3bc7712402cee1d68b37655944ca69106f2&amp;mode=1&amp;name=CYBERxNUKE</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
 <title>WWE SURVIVOR SERIES  - CYBERxNUKE - WEB</title>
 <sportsdevil>http://buffstreamz.com/watch/mma.php</sportsdevil>
 <referer>http://wiz1.net/</referer>
@@ -80,9 +73,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 <item>
 <title>WWE SURVIVOR SERIES 9 - CYBERxNUKE - WEB</title><sportsdevil>http://hellosports.stream/live-tv-channel/fox-sports-1/</sportsdevil><referer>http://wiz1.net/</referer>
-</item>
-<item>
-<title>WWE SURVIVOR SERIES 10 - CYBERxNUKE - WEB</title><sportsdevil>http://i.imgur.com/58WabRq.png</sportsdevil><referer>http://wiz1.net/</referer>
 </item>
 <item>
 <title>WWE SURVIVOR SERIES 11 - CYBERxNUKE - WEB</title><sportsdevil>http://islington.pw/sports/ufc217.html</sportsdevil><referer>http://wiz1.net/</referer>
