@@ -41,10 +41,24 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart></fanart>
 </item>
 
-<item><title>UFC 218 Early Prelims - CYBERxNUKE - WEB</title><sportsdevil>https://openload.co/embed/_OvP4MSgL3I/</sportsdevil><referer>http://cricfree.sx/update/snone.php</referer><thumbnail></thumbnail><fanart></fanart></item>
-<item><title>UFC 218 Prelims - CYBERxNUKE - WEB</title><sportsdevil>https://openload.co/embed/IzamflfvtyA/</sportsdevil><referer>http://cricfree.sx/update/snone.php</referer><thumbnail></thumbnail><fanart></fanart></item>
-<item><title>UFC 218 Full show - CYBERxNUKE - WEB</title><sportsdevil>https://openload.co/embed/uKfmqgMMM14/</sportsdevil><referer>http://cricfree.sx/update/snone.php</referer><thumbnail></thumbnail><fanart></fanart></item>
-
+<item>
+<title>[COLOR white]UFC[/COLOR] [COLOR red]218[/COLOR][COLOR red] --- Early Prelims[/COLOR]</title>
+<link>https://openload.co/embed/_OvP4MSgL3I/</link>
+<thumbnail>http://media.foxsports.com.au/marketing/prod/pve/UFC_204_FOXSPORTS_16x9hori.gif</thumbnail>
+<fanart>http://dkrepo.netai.net/UltimateUfc/141719-ufc-wallpapers.jpg</fanart>
+</item>
+<item>
+<title>[COLOR white]UFC[/COLOR] [COLOR red]218[/COLOR][COLOR red] --- Prelims[/COLOR]</title>
+<link>https://openload.co/embed/IzamflfvtyA/</link>
+<thumbnail>http://media.foxsports.com.au/marketing/prod/pve/UFC_204_FOXSPORTS_16x9hori.gif</thumbnail>
+<fanart>http://dkrepo.netai.net/UltimateUfc/141719-ufc-wallpapers.jpg</fanart>
+</item>
+<item>
+<title>[COLOR white]UFC[/COLOR] [COLOR red]218[/COLOR][COLOR red] --- Full Show[/COLOR]</title>
+<link>https://openload.co/embed/uKfmqgMMM14/</link>
+<thumbnail>http://media.foxsports.com.au/marketing/prod/pve/UFC_204_FOXSPORTS_16x9hori.gif</thumbnail>
+<fanart>http://dkrepo.netai.net/UltimateUfc/141719-ufc-wallpapers.jpg</fanart>
+</item>
 
 <item>
 <title>Sports </title>
