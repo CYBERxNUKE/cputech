@@ -29,7 +29,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>                   Updated: 12-3-2017      </title>
+<title>                   Updated: 12-03-2017      </title>
 <link>$doregex[openDialog]</link>
 <fanart></fanart>
 </item>
@@ -43,20 +43,20 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 <item>
 <title>[COLOR white]UFC[/COLOR] [COLOR red]218[/COLOR][COLOR red] --- Early Prelims[/COLOR]</title>
-<link>https://openload.co/embed/_OvP4MSgL3I/</link>
-<thumbnail>http://media.foxsports.com.au/marketing/prod/pve/UFC_204_FOXSPORTS_16x9hori.gif</thumbnail>
+<link>https://openload.co/embed/_OvP4MSgL3I/UFC.218.Early.Prelims.WEB-DL.H264.Fight-BB_1.mp4</link>
+<thumbnail>https://foxsportsatnewscorpau.files.wordpress.com/2017/11/ufc-218-16x9-4.jpg</thumbnail>
 <fanart>http://dkrepo.netai.net/UltimateUfc/141719-ufc-wallpapers.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white]UFC[/COLOR] [COLOR red]218[/COLOR][COLOR red] --- Prelims[/COLOR]</title>
-<link>https://openload.co/embed/IzamflfvtyA/</link>
-<thumbnail>http://media.foxsports.com.au/marketing/prod/pve/UFC_204_FOXSPORTS_16x9hori.gif</thumbnail>
+<link>https://openload.co/embed/IzamflfvtyA/UFC.218.Prelims.HDTV.x264-Ebi.mp4</link>
+<thumbnail>https://foxsportsatnewscorpau.files.wordpress.com/2017/11/ufc-218-16x9-4.jpg</thumbnail>
 <fanart>http://dkrepo.netai.net/UltimateUfc/141719-ufc-wallpapers.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white]UFC[/COLOR] [COLOR red]218[/COLOR][COLOR red] --- Full Show[/COLOR]</title>
-<link>https://openload.co/embed/uKfmqgMMM14/</link>
-<thumbnail>http://media.foxsports.com.au/marketing/prod/pve/UFC_204_FOXSPORTS_16x9hori.gif</thumbnail>
+<link>https://openload.co/embed/uKfmqgMMM14/UFC.218.PPV.Holloway.vs.Aldo.2.HDTV.x264-Ebi.mp4</link>
+<thumbnail>https://foxsportsatnewscorpau.files.wordpress.com/2017/11/ufc-218-16x9-4.jpg</thumbnail>
 <fanart>http://dkrepo.netai.net/UltimateUfc/141719-ufc-wallpapers.jpg</fanart>
 </item>
 
