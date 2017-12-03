@@ -41,24 +41,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart></fanart>
 </item>
 
-<item>
-<title>[COLOR white]UFC[/COLOR] [COLOR red]218[/COLOR][COLOR red] --- Early Prelims[/COLOR]</title>
-<link>plugin://plugin.video.angeltv/?url=OProtect.php%3FFile%3D_OvP4MSgL3I&mode=300&name=%5BI%5D%5BB%5D%5BCOLOR+FF42F4E2%5D+Prelims2+%5B%2FCOLOR%5D%5B%2FB%5D%5B%2FI%5D+%5BCOLOR+FFEDD24B%5D%28OpenLoad%29%5B%2FCOLOR%5D&iconimage=C%3A%5CUsers%5CMediaCenter%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.angeltv%5Cresources%5Cmedia%5Copenload.png&description=]</link>
-<thumbnail>https://foxsportsatnewscorpau.files.wordpress.com/2017/11/ufc-218-16x9-4.jpg</thumbnail>
-<fanart>http://dkrepo.netai.net/UltimateUfc/141719-ufc-wallpapers.jpg</fanart>
-</item>
-<item>
-<title>[COLOR white]UFC[/COLOR] [COLOR red]218[/COLOR][COLOR red] --- Prelims[/COLOR]</title>
-<link>plugin://plugin.video.angeltv/?url=OProtect.php%3FFile%3DIzamflfvtyA&mode=300&name=%5BI%5D%5BB%5D%5BCOLOR+FF42F4E2%5D+Prelims2+%5B%2FCOLOR%5D%5B%2FB%5D%5B%2FI%5D+%5BCOLOR+FFEDD24B%5D%28OpenLoad%29%5B%2FCOLOR%5D&iconimage=C%3A%5CUsers%5CMediaCenter%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.angeltv%5Cresources%5Cmedia%5Copenload.png&description=]</link>
-<thumbnail>https://foxsportsatnewscorpau.files.wordpress.com/2017/11/ufc-218-16x9-4.jpg</thumbnail>
-<fanart>http://dkrepo.netai.net/UltimateUfc/141719-ufc-wallpapers.jpg</fanart>
-</item>
-<item>
-<title>[COLOR white]UFC[/COLOR] [COLOR red]218[/COLOR][COLOR red] --- Full Show[/COLOR]</title>
-<link>plugin://plugin.video.angeltv/?url=OProtect.php%3FFile%3DuKfmqgMMM14&mode=300&name=%5BI%5D%5BB%5D%5BCOLOR+FF42F4E2%5D+Prelims2+%5B%2FCOLOR%5D%5B%2FB%5D%5B%2FI%5D+%5BCOLOR+FFEDD24B%5D%28OpenLoad%29%5B%2FCOLOR%5D&iconimage=C%3A%5CUsers%5CMediaCenter%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.video.angeltv%5Cresources%5Cmedia%5Copenload.png&description=]</link>
-<thumbnail>https://foxsportsatnewscorpau.files.wordpress.com/2017/11/ufc-218-16x9-4.jpg</thumbnail>
-<fanart>http://dkrepo.netai.net/UltimateUfc/141719-ufc-wallpapers.jpg</fanart>
-</item>
 
 <item>
 <title>Sports </title>
