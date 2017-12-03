@@ -29,7 +29,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>                   Updated: 12-3-2017      </title>
+<title>                   Updated: 12-03-2017      </title>
 <link>$doregex[openDialog]</link>
 <fanart></fanart>
 </item>
@@ -41,9 +41,9 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart></fanart>
 </item>
 
-<item><title>UFC 218 Early Prelims - CYBERxNUKE - WEB</title><link>https://openload.co/embed/_OvP4MSgL3I/</link><thumbnail></thumbnail><fanart></fanart></item>
-<item><title>UFC 218 Prelims - CYBERxNUKE - WEB</title><link>https://openload.co/embed/IzamflfvtyA</link><thumbnail></thumbnail><fanart></fanart></item>
-<item><title>UFC 218 Full show - CYBERxNUKE - WEB</title><link>https://openload.co/embed/uKfmqgMMM14</link><thumbnail></thumbnail><fanart></fanart></item>
+<item><title>UFC 218 Early Prelims - CYBERxNUKE - WEB</title><sportsdevil>https://openload.co/embed/_OvP4MSgL3I/</sportsdevil><thumbnail></thumbnail><fanart></fanart></item>
+<item><title>UFC 218 Prelims - CYBERxNUKE - WEB</title><sportsdevil>https://openload.co/embed/IzamflfvtyA</sportsdevil><thumbnail></thumbnail><fanart></fanart></item>
+<item><title>UFC 218 Full show - CYBERxNUKE - WEB</title><sportsdevil>https://openload.co/embed/uKfmqgMMM14</sportsdevil><thumbnail></thumbnail><fanart></fanart></item>
 
 
 <item>
