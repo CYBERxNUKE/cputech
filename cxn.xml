@@ -29,17 +29,19 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
+<title>                   Updated: 12-03-2017      </title>
+<link>$doregex[openDialog]</link>
+<fanart></fanart>
+</item>
+
+
+<item>
 <title>Requests</title>
 <link>http://ignorame</link><thumbnail></thumbnail>
 <fanart></fanart>
 <externallink>http://raw.githubusercontent.com/cyberxnuke/cputech/master/requests.xml</externallink>
 </item>
 
-<item>
-<title>                   Updated: 12-03-2017      </title>
-<link>$doregex[openDialog]</link>
-<fanart></fanart>
-</item>
 
 <item>
 <title>WWE SURVIVOR SERIES  - CYBERxNUKE - Acestream</title>
