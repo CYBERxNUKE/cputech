@@ -1,0 +1,13 @@
+#EXTM3U tvg-shift=3
+
+#EXTINF:-1,Heat 720 Brrip
+http://dl.my-film.in/reza/film/Heat.720p-[My-Film].mkv
+
+#EXTINF:-1,Heat 720
+http://dl.my-film.in/reza/film/Heat.1995.720p.BluRay.2CH.x265.HEVC-[My-Film].mkv
+#EXTINF:-1,Heat 1080 Brrip
+http://dl.my-film.in/reza/film/Heat.1995.1080p.BRrip-[My-Film].mp4
+
+#EXTINF:-1,Heat 1080 BluRay 6CH
+http://dl.my-film.in/reza/film/Heat.1995.1080p.BluRay.6CH.x265.HEVC-[My-Film].mkv
+
