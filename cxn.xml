@@ -45,7 +45,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 <item>
 <title>WWE Clash of Champions  - CYBERxNUKE</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher=streams&url=http://www.liveonlinetv247.info/wwenetwork.php</link>
+<sportsdevil>http://www.liveonlinetv247.info/wwenetwork.php</sportsdevil>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
