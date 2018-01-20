@@ -9,21 +9,6 @@
 <item>
 <title>                     [B]    CYBERxNUKE ADD-ON[/B]   </title>
 <link>$doregex[openDialog]</link>
-<regex>
-<name>openDialog</name>
-<expres><![CDATA[#$pyFunction
-import xbmcaddon
-import xbmcgui
-def GetLSProData(page_data,Cookie_Jar,m):
-    __addon__ = xbmcaddon.Addon()
-    __addonname__ = __addon__.getAddonInfo('name')     
-    line1 = "Welcome to CYBERxNUKE ADD-ON"
-    xbmcgui.Dialog().ok(__addonname__, line1)
-    return 
-]]></expres>
-<page></page>
-<cookieJar></cookieJar>
-</regex>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
