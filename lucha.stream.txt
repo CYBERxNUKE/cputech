@@ -1,0 +1,2 @@
+#KODIPROP:inputstreamaddon=inputstream.mpd
+https://video-dft4-3.xx.fbcdn.net/hvideo-prn1/v/rSdQO5HuOPCHyE5EJv45J/live-dash/dash-abr4/1659542190766635.mpd?_nc_rl=AfA7F9wbUsH7qmgy&oh=a4b7bac211469286706b8a345647629e&oe=5A64F64D&_nc_nc=1
