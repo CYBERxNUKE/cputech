@@ -44,7 +44,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>CMLL Viernes de Lucha - CYBERxNUKE</title>
+<title>CMLL Viernes de Lucha 1 - CYBERxNUKE</title>
 <link>http://192.168.0.136:8008/lucha</link>
 <referer>http://streamhd.eu/</referer>
 </item>
