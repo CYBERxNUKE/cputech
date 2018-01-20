@@ -45,7 +45,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 <item>
 <title>CMLL Viernes de Lucha - CYBERxNUKE</title>
-<link>https://ooyalasecurehd3-f.akamaihd.net/i/csportsec02_delivery@332296/master.m3u8?hdnea=st=1516419975~exp=1516420065~acl=/i/csportsec02_delivery@332296/*~hmac=104509042cf52e0628c29bea0b2b8a4e16789e54bd9cb9d5483c3c8d79456fc4</link>
+<link>http://192.168.0.136:8008/lucha</link>
 <referer>http://streamhd.eu/</referer>
 </item>
 
