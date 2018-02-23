@@ -1,5 +1,5 @@
-#EXTM3U tvg-shift=3
-
+ï»¿#EXTM3U
+\
 #EXTINF:-1,Fox Latino
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0x.php
 #EXTINF:-1,Sony Latino
@@ -44,7 +44,7 @@ http://3-120heat.pulsedmedia.com/public-llave1/list/public/univers.php
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/fxm.php
 #EXTINF:-1,Space
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/space.php
-#EXTINF:-1,De Película
+#EXTINF:-1,De Pelï¿½cula
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/depelicula.php
 #EXTINF:-1,AMC
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/amc.php
@@ -94,8 +94,6 @@ http://3-120heat.pulsedmedia.com/public-llave1/list/public/hb0sign.php
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/m4xup.php
 #EXTINF:-1,Max Prime
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/m4xprime.php
-#EXTINF:-1,Fox Classics
-http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0x_classics.php
 #EXTINF:-1,Claro Cinema
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/claro_Cinema.m3u8
 #EXTINF:-1,Boomerang
@@ -120,70 +118,34 @@ http://3-120heat.pulsedmedia.com/public-llave1/list/public/disc_kids.php
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/natgeo_kids.php
 #EXTINF:-1,Natgeo Kids MX
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/natgeo_kidsmx.php
-
-
 #EXTINF:-1, A&E SD
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/aehd-q3.php
-#EXTINF:-1, A&E HD
-http://3-120heat.pulsedmedia.com/public-llave1/list/public/aehd.php
 #EXTINF:-1, AMC SD
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/amc-q3.php
-#EXTINF:-1, AMC HD
-http://3-120heat.pulsedmedia.com/public-llave1/list/public/amc.php
 #EXTINF:-1, ANIMAL PLANET SD
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/anim_planet-q3.php
 #EXTINF:-1, ANIMAL PLANET HD
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/anim_planet.pnp
 #EXTINF:-1, AXN SD
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/axn-q3.php
-#EXTINF:-1, AXN HD
-http://3-120heat.pulsedmedia.com/public-llave1/list/public/axn.php
-#EXTINF:-1, BOOMERANG HD
-http://3-120heat.pulsedmedia.com/public-llave1/list/public/boomerang.php
-#EXTINF:-1, CINEMAX HD
-http://3-120heat.pulsedmedia.com/public-llave1/list/public/c1nemax.php
 #EXTINF:-1, CARTON NETWORD SD
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/cart_net-q3.php
-#EXTINF:-1, CARTON NETWORD HD
-http://3-120heat.pulsedmedia.com/public-llave1/list/public/cart_net.php
 #EXTINF:-1, COMEDIA CENTRAL SD
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/cc-q3.php
-#EXTINF:-1, COMEDIA CENTRAL HD
-http://3-120heat.pulsedmedia.com/public-llave1/list/public/cc.php
 #EXTINF:-1, CINECANAL SD
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/cinecanal-q3.php
-#EXTINF:-1, CINECANAL HD
-http://3-120heat.pulsedmedia.com/public-llave1/list/public/cinecanal.php
-#EXTINF:-1, CINELATINO HD
-http://3-120heat.pulsedmedia.com/public-llave1/list/public/cinelatino.php
-#EXTINF:-1, CINEMA DINAMITA HD
-http://3-120heat.pulsedmedia.com/public-llave1/list/public/cinema_dinamita.php
 #EXTINF:-1, CITY TV HD
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/citytv.php
 #EXTINF:-1, DISNEY SD
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/d1sney-q3.php
-#EXTINF:-1, DISNEY HD
-http://3-120heat.pulsedmedia.com/public-llave1/list/public/d1sney.php
-#EXTINF:-1, DISNEY JR HD
-http://3-120heat.pulsedmedia.com/public-llave1/list/public/d1sneyjr.php
-#EXTINF:-1, DISNEY XD HD
-http://3-120heat.pulsedmedia.com/public-llave1/list/public/d1sneyxd.php
-#EXTINF:-1, DEPELICULA HD
-http://3-120heat.pulsedmedia.com/public-llave1/list/public/depelicula.php
 #EXTINF:-1, DHE SD
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/dhe-q3.php
-#EXTINF:-1, DHE HD
-http://3-120heat.pulsedmedia.com/public-llave1/list/public/dhe.php
 #EXTINF:-1, DISCOVERY CIVILIZACION HD
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/disc_civil.php
 #EXTINF:-1, DISCOVERY HH SD
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/disc_hh-q3.php
-#EXTINF:-1, DISCOVERY HH HD
-http://3-120heat.pulsedmedia.com/public-llave1/list/public/disc_hh.php
 #EXTINF:-1, DISCOVERY KIDS SD
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/disc_kids-q3.php
-#EXTINF:-1, DISCOVERY KIDS HD
-http://3-120heat.pulsedmedia.com/public-llave1/list/public/disc_kids.php
 #EXTINF:-1, DISCOVERY SCIENCE HD
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/disc_science.php
 #EXTINF:-1, DISCOVERY THEATER SD
@@ -224,56 +186,38 @@ http://3-120heat.pulsedmedia.com/public-llave1/list/public/espn_plus-q3.php
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/espn_plus.php
 #EXTINF:-1, FOX SD
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0x-q3.php
-#EXTINF:-1, FOX HD
-http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0x.php
 #EXTINF:-1, FOX ACTION SD
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0x_action-q3.php
-#EXTINF:-1, FOX ACTION HD
-http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0x_action.php
 #EXTINF:-1, FOX ACTION SD (MEX)
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0x_action_mx-q3.php
 #EXTINF:-1, FOX ACTION HD (MEX)
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0x_action_mx.php
 #EXTINF:-1, FOX CINEMA SD
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0x_cinema-q3.php
-#EXTINF:-1, FOX CINEMA HD
-http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0x_cinema.php
 #EXTINF:-1, FOX CINEMA SD (SUB)
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0x_cinema_sub-q3.php
 #EXTINF:-1, FOX CINEMA HD (SUB)
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0x_cinema_sub.php
 #EXTINF:-1, FOX CLASSICS SD
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0x_classics-q3.php
-#EXTINF:-1, FOX CLASSICS HD
-http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0x_classics.php
 #EXTINF:-1, FOX COMEDY SD
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0x_comedy-q3.php
-#EXTINF:-1, FOX COMEDY HD
-http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0x_comedy.php
 #EXTINF:-1, FOX FAMILY SD
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0x_family-q3.php
-#EXTINF:-1, FOX FAMILY HD
-http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0x_family.php
 #EXTINF:-1, FOX MOVIES SD
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0x_movies-q3.php
-#EXTINF:-1, FOX MOVIES HD
-http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0x_movies.php
 #EXTINF:-1, FOX SD (MEX)
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0x_mx-q3.php
 #EXTINF:-1, FOX HD (MEX)
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0x_mx.php
 #EXTINF:-1, FOX SERIES SD
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0x_series-q3.php
-#EXTINF:-1, FOX SERIES HD
-http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0x_series.php
 #EXTINF:-1, FOX SERIES SD (SUB)
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0x_series_sub-q3.php
 #EXTINF:-1, FOX SERIES HD (SUB)
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0x_series_sub.php
 #EXTINF:-1, FOXLIFE SD
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0xlife-q3.php
-#EXTINF:-1, FOXLIFE HD
-http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0xlife.php
 #EXTINF:-1, FOX SPORTS SD
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0xsports-q3.php
 #EXTINF:-1, FOX SPORTS HD
@@ -300,46 +244,30 @@ http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0xsportsmx-q3.php
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0xsportsmx.php
 #EXTINF:-1, FX SD
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/fx-q3.php
-#EXTINF:-1, FX HD
-http://3-120heat.pulsedmedia.com/public-llave1/list/public/fx.php
 #EXTINF:-1, FX SD (MEX)
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/fx_mx-q3.php
 #EXTINF:-1, FX HD (MEX)
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/fx_mx.php
 #EXTINF:-1, FXM SD
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/fxm-q3.php
-#EXTINF:-1, FXM HD
-http://3-120heat.pulsedmedia.com/public-llave1/list/public/fxm.php
 #EXTINF:-1, GOLDEN SD
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/golden-q3.php
-#EXTINF:-1, GOLDEN HD
-http://3-120heat.pulsedmedia.com/public-llave1/list/public/golden.php
 #EXTINF:-1, H2 HD
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/h2.php
 #EXTINF:-1, HBO 2 SD
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/hb02-q3.php
-#EXTINF:-1, HBO 2 HD
-http://3-120heat.pulsedmedia.com/public-llave1/list/public/hb02.php
 #EXTINF:-1, HBO FAMILY SD
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/hb0fam-q3.php
-#EXTINF:-1, HBO FAMILY HD
-http://3-120heat.pulsedmedia.com/public-llave1/list/public/hb0fam.php
 #EXTINF:-1, HBO SD
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/hb0hd-q3.php
-#EXTINF:-1, HBO HD
-http://3-120heat.pulsedmedia.com/public-llave1/list/public/hb0hd.php
 #EXTINF:-1, HBO SD (SUB)
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/hb0hd_sub-q3.php
 #EXTINF:-1, HBO HD (SUB)
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/hb0hd_sub.php
 #EXTINF:-1, HBO PLUS SD
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/hb0plus-q3.php
-#EXTINF:-1, HBO PLUS HD
-http://3-120heat.pulsedmedia.com/public-llave1/list/public/hb0plus.php
 #EXTINF:-1, HBO SIGN SD
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/hb0sign-q3.php
-#EXTINF:-1, HBO SIGN HD
-http://3-120heat.pulsedmedia.com/public-llave1/list/public/hb0sign.php
 #EXTINF:-1, HISTORY SD
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/history-q3.php
 #EXTINF:-1, HISTORY HD
@@ -350,28 +278,16 @@ http://3-120heat.pulsedmedia.com/public-llave1/list/public/hola-q3.php
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/hola.php
 #EXTINF:-1, ID SD
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/idhd-q3.php
-#EXTINF:-1, ID HD
-http://3-120heat.pulsedmedia.com/public-llave1/list/public/idhd.php
-#EXTINF:-1, ISAT HD
-http://3-120heat.pulsedmedia.com/public-llave1/list/public/isat.php
 #EXTINF:-1, MAX PRIME SD
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/m4xprime-q3.php
-#EXTINF:-1, MAX PRIME HD
-http://3-120heat.pulsedmedia.com/public-llave1/list/public/m4xprime.php
 #EXTINF:-1, MAX UP SD
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/m4xup-q3.php
-#EXTINF:-1, MAX UP HD
-http://3-120heat.pulsedmedia.com/public-llave1/list/public/m4xup.php
-#EXTINF:-1, MULTIPREMIER HD
-http://3-120heat.pulsedmedia.com/public-llave1/list/public/multipremier.php
 #EXTINF:-1, NATGEO SD
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/natgeo-q3.php
 #EXTINF:-1, NATGEO HD
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/natgeo.php
 #EXTINF:-1, NATGEO KIDS SD
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/natgeo_kids-q3.php
-#EXTINF:-1, NATGEO KIDS HD
-http://3-120heat.pulsedmedia.com/public-llave1/list/public/natgeo_kids.php
 #EXTINF:-1, NATGEO KIDS SD (MEX)
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/natgeo_kids_mx-q3.php
 #EXTINF:-1, NATGEO KIDS HD (MEX)
@@ -382,62 +298,34 @@ http://3-120heat.pulsedmedia.com/public-llave1/list/public/natgeo_mx-q3.php
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/natgeo_mx.php
 #EXTINF:-1, NICK SD
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/nick-q3.php
-#EXTINF:-1, NICK HD
-http://3-120heat.pulsedmedia.com/public-llave1/list/public/nick.php
 #EXTINF:-1, NICK 2 SD
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/nick2-q3.php
-#EXTINF:-1, NICK 2 HD
-http://3-120heat.pulsedmedia.com/public-llave1/list/public/nick2.php
 #EXTINF:-1, PARAMANT CHANNEL SD
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/param-q3.php
-#EXTINF:-1, PARAMANT CHANNEL HD
-http://3-120heat.pulsedmedia.com/public-llave1/list/public/param.php
 #EXTINF:-1, SONY SD
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/sony-q3.php
-#EXTINF:-1, SONY HD
-http://3-120heat.pulsedmedia.com/public-llave1/list/public/sony.php
 #EXTINF:-1, SPACE SD
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/space-q3.php
-#EXTINF:-1, SPACE HD
-http://3-120heat.pulsedmedia.com/public-llave1/list/public/space.php
-#EXTINF:-1, STUDIO UNIVERSAL HD
-http://3-120heat.pulsedmedia.com/public-llave1/list/public/stdio_univ.php
 #EXTINF:-1, SUNDANCE SD
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/sundance-q3.php
-#EXTINF:-1, SUNDANCE HD
-http://3-120heat.pulsedmedia.com/public-llave1/list/public/sundance.php
 #EXTINF:-1, TBS SD
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/tbs-q3.php
-#EXTINF:-1, TBS HD
-http://3-120heat.pulsedmedia.com/public-llave1/list/public/tbs.php
-#EXTINF:-1, TCM HD
-http://3-120heat.pulsedmedia.com/public-llave1/list/public/tcm.php
 #EXTINF:-1, DISCOVERY TLC SD
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/tlc-q3.php
 #EXTINF:-1, DISCOVERY TLC HD
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/tlc.php
 #EXTINF:-1, TNT SD
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/tnt-q3.php
-#EXTINF:-1, TNT HD
-http://3-120heat.pulsedmedia.com/public-llave1/list/public/tnt.php
 #EXTINF:-1, TNT SERIES SD
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/tnt_ser-q3.php
-#EXTINF:-1, TNT SERIES HD
-http://3-120heat.pulsedmedia.com/public-llave1/list/public/tnt_ser.php
-#EXTINF:-1, TOONCAST HD
-http://3-120heat.pulsedmedia.com/public-llave1/list/public/tooncast.php
 #EXTINF:-1, TRU TV SD
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/trutv_hd-q3.php
-#EXTINF:-1, TRU TV HD
-http://3-120heat.pulsedmedia.com/public-llave1/list/public/trutv_hd.php
 #EXTINF:-1, TV5 HD
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/tv5.php
 #EXTINF:-1, TVE HD
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/tve.php
 #EXTINF:-1, UNICABLE HD
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/unicable.php
-#EXTINF:-1, UNIVERSAL CHANNEL HD
-http://3-120heat.pulsedmedia.com/public-llave1/list/public/univers.php
 #EXTINF:-1, UNO HD
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/uno.php
 #EXTINF:-1, VE PLUS HD
@@ -450,8 +338,6 @@ http://3-120heat.pulsedmedia.com/public-llave1/list/public/vh1hd-q3.php
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/vh1hd.php
 #EXTINF:-1, WARNER SD
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/warner-q3.php
-#EXTINF:-1, WARNER HD
-http://3-120heat.pulsedmedia.com/public-llave1/list/public/warner.php
 #EXTINF:-1, WINSPORTS SD
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/winsports-q3.php
 #EXTINF:-1, WINSPORTS HD
