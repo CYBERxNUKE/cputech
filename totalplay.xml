@@ -95,9 +95,9 @@ http://3-120heat.pulsedmedia.com/public-llave1/list/public/m4xup.php/Stream(05)/
 #EXTINF:-1,Max Prime
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/m4xprime.php/Stream(05)/index.m3u8
 #EXTINF:-1,Fox Classics
-http://3-120heat.pulsedmedia.com:80/public-llave1/list/public/f0x_classics.php
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/f0x_classics.php/Stream(05)/index.m3u8
 #EXTINF:-1,Claro Cinema
-http://3-120heat.pulsedmedia.com/public-llave1/list/public/claro_Cinema.m3u8
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/claro_Cinema.m3u8/Stream(05)/index.m3u8
 #EXTINF:-1,Boomerang
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/boomerang.php/Stream(05)/index.m3u8
 #EXTINF:-1,Cartoon Network
