@@ -23,30 +23,30 @@ https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/MC128/chunkli
 #EXTINF:1,129 - INDIE
 https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/MC129/chunklist.m3u8
 #EXTINF:1,130 - KIDS ONLY
-http://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC130/chunklist.m3u8
+https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC130/chunklist.m3u8
 #EXTINF:1,131 - MEXICANA
-http://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC131/chunklist.m3u8
+https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC131/chunklist.m3u8
 #EXTINF:1,132 - POP COUNTRY
-http://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC132/chunklist.m3u8
+https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC132/chunklist.m3u8
 #EXTINF:1,133 - POP HITS
-http://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC133/chunklist.m3u8
+https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC133/chunklist.m3u8
 #EXTINF:1,138 - ROCK
-http://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC138/chunklist.m3u8
+https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC138/chunklist.m3u8
 #EXTINF:1,139 - METAL
-http://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC139/chunklist.m3u8
+https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC139/chunklist.m3u8
 #EXTINF:1,140 - 90's
 https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC140/chunklist.m3u8
 #EXTINF:1,141 - Y2K RAP
-http://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC141/chunklist.m3u8
+https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC141/chunklist.m3u8
 #EXTINF:1,142 - THROWBACKS
-https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/MC142/chunklist.m3u8
+https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC142/chunklist.m3u8
 #EXTINF:1,143 - BRITISH HITS
-https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/MC143/chunklist.m3u8
+https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC143/chunklist.m3u8
 #EXTINF:1,144 - TODDLERS
-https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/MC144/chunklist.m3u8
+https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC144/chunklist.m3u8
 #EXTINF:1,145 - Y2K
-https://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/MC145/chunklist.m3u8
-#EXTINF:-1,MC Play
+https://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/MC145/chunklist.m3u8
+#EXTINF:-1,MC PLAY
 https://edge.music-choice-play-chainb1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
-#EXTINF:-1,Heavy Metal Television
+#EXTINF:-1,HEAVY METAL TELEVISION
 http://70.166.99.93:1935/hmtv/myStream/playlist.m3u8
