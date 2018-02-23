@@ -1,5 +1,5 @@
-#EXTM3U
-
+﻿#EXTM3U
+\
 #EXTINF:-1,A&E
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/aehd.php/Stream(05)/index.m3u8
 #EXTINF:-1,AMC
@@ -12,6 +12,8 @@ http://3-120heat.pulsedmedia.com/public-llave1/list/public/axn.php/Stream(05)/in
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/boomerang.php/Stream(05)/index.m3u8
 #EXTINF:-1,CINEMAX
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/c1nemax.php/Stream(05)/index.m3u8
+#EXTINF:-1,CARACOL_INT
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/caracol_int.php/index.m3u8
 #EXTINF:-1,CARTOON NETWORK
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/cart_net.php/Stream(05)/index.m3u8
 #EXTINF:-1,COMEDY CENTRAL
@@ -50,6 +52,10 @@ http://3-120heat.pulsedmedia.com/public-llave1/list/public/disc_turbo.php/Stream
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/disc_world.php/Stream(05)/index.m3u8
 #EXTINF:-1,DISCOVERY CHANNEL HD
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/discovery_channel_hd.php/Stream(05)/index.m3u8
+#EXTINF:-1,DW
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/dw.php/index.m3u8
+#EXTINF:-1,DW_AMERIKA
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/dw_amerika.php/index.m3u8
 #EXTINF:-1,E! HD
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/e_ent.php/Stream(05)/index.m3u8
 #EXTINF:-1,EL GOURMET HD
@@ -62,6 +68,8 @@ http://3-120heat.pulsedmedia.com/public-llave1/list/public/espn3_kr.php/Stream(0
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/espn_kr.php/Stream(05)/index.m3u8
 #EXTINF:-1,ESPN + HD
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/espn_plus.php/Stream(05)/index.m3u8
+#EXTINF:-1,ESTRELLAS_LATAM
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/estrellas_latam.php/index.m3u8
 #EXTINF:-1,EUROCHANNEL
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/eurochannel.php/Stream(05)/index.m3u8
 #EXTINF:-1,FOX LATINO
@@ -112,6 +120,8 @@ http://3-120heat.pulsedmedia.com/public-llave1/list/public/fxm.php/Stream(05)/in
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/golden.php/Stream(05)/index.m3u8
 #EXTINF:-1,GOLDEN PREMIER
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/goldp.php/Stream(05)/index.m3u8
+#EXTINF:-1,GOLFCHANNEL
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/golfchannel.php/index.m3u8
 #EXTINF:-1,H2 HD
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/h2.php/Stream(05)/index.m3u8
 #EXTINF:-1,HBO2
@@ -198,54 +208,27 @@ http://3-120heat.pulsedmedia.com/public-llave1/list/public/vh1hd.php/Stream(05)/
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/warner.php/Stream(05)/index.m3u8
 #EXTINF:-1,WINSPORTS HD
 http://3-120heat.pulsedmedia.com/public-llave1/list/public/winsports.php/Stream(05)/index.m3u8
-#EXTINF:-1,CARACOL_INT
-http://3-120heat.pulsedmedia.com/public-llave1/list/public/caracol_int.php/index.m3u8
-
-#EXTINF:-1,DW
-http://3-120heat.pulsedmedia.com/public-llave1/list/public/dw.php/index.m3u8
-
-#EXTINF:-1,DW_AMERIKA
-http://3-120heat.pulsedmedia.com/public-llave1/list/public/dw_amerika.php/index.m3u8
-
-#EXTINF:-1,ESTRELLAS_LATAM
-http://3-120heat.pulsedmedia.com/public-llave1/list/public/estrellas_latam.php/index.m3u8
-
-#EXTINF:-1,GOLFCHANNEL
-http://3-120heat.pulsedmedia.com/public-llave1/list/public/golfchannel.php/index.m3u8
-
-#EXTINF:-1,Azteca 7
-http://aztecalive-lh.akamaihd.net/i/0pq46e6vw_1@502477/index_3_av-p.m3u8
-
-#EXTINF:-1,CANAL DE LAS ESTRELLAS
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
-
 #EXTINF:-1,ATRES SERIES
 http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_4_av-p.m3u8
-
-#EXTINF:-1,ATV
-http://dqsz3cincv704.cloudfront.net/pe/smil:canal_atv.smil/chunklist_b1155072.m3u8
-
-#EXTINF:-1,ATV+
-http://dqsz3cincv704.cloudfront.net/pe/smil:atv_mas.smil/chunklist_b1056768.m3u8
-
-#EXTINF:-1,ATXN
-http://oflash.dfw.swagit.com/livecc02/austintx/smil:atx-16x9-1-b/playlist.m3u8
-
-#EXTINF:-1,ATXN 2
-http://oflash.dfw.swagit.com/livecc02/austintx/smil:atx-16x9-1-a/playlist.m3u8
-
-#EXTINF:-1,NBC KGNS LAREDO TX
-https://playlistserver.aws.syncbak.com/playlist/898815/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAzNjY5NzMsImlzcyI6IldMUyIsIm1kNSI6IjFlN2FjOTI4ODk4ZmZkYTRmMGJjMDBiODVhYThhMjg1IiwibWlkIjoiODk4ODE1In0.o7Ri9T3q6q0SmS7ReLrumBlZXVMQLqYIv5bj6RF3G7Y
-
-#EXTINF:-1,KGNS 2 LAREDO TX
-https://playlistserver.aws.syncbak.com/playlist/13353641/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTA1NDQ3NTIsImlzcyI6IldMUyIsIm1kNSI6ImU1NzE4N2I1ZjkwODkwZjUzODg2OWEwM2UzOTZhZDVlIiwibWlkIjoiMTMzNTM2NDEifQ.KEpEhx99j2MANaoM6Lm7Wnv6hQJNnROwd6yCDtf9zd4
-
-#EXTINF:-1,TELEMUNDO LAREDO TX
-https://playlistserver.aws.syncbak.com/playlist/13355198/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTE2NDc1MDIsImlzcyI6IldMUyIsIm1kNSI6IjQwMWRkMDY2YjUyOGEwZWIxYzcxMzMxNjBhNDgyMGE5IiwibWlkIjoiMTMzNTUxOTgifQ.piLwptYMsquOvh5kVgvpuj2wYSd6SDOblXdfIXGk7PE
-
-#EXTINF:-1,AZTECA 13
-http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/index_3_av-p.m3u8
-
 #EXTINF:-1,AZTECA+ PLUS
 http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/index_3_av-p.m3u8
-
+#EXTINF:-1,Azteca 7
+http://aztecalive-lh.akamaihd.net/i/0pq46e6vw_1@502477/index_3_av-p.m3u8
+#EXTINF:-1,AZTECA 13
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/index_3_av-p.m3u8
+#EXTINF:-1,ATV+
+http://dqsz3cincv704.cloudfront.net/pe/smil:atv_mas.smil/chunklist_b1056768.m3u8
+#EXTINF:-1,ATV
+http://dqsz3cincv704.cloudfront.net/pe/smil:canal_atv.smil/chunklist_b1155072.m3u8
+#EXTINF:-1,CANAL DE LAS ESTRELLAS
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
+#EXTINF:-1,ATXN 2
+http://oflash.dfw.swagit.com/livecc02/austintx/smil:atx-16x9-1-a/playlist.m3u8
+#EXTINF:-1,ATXN
+http://oflash.dfw.swagit.com/livecc02/austintx/smil:atx-16x9-1-b/playlist.m3u8
+#EXTINF:-1,KGNS 2 LAREDO TX
+https://playlistserver.aws.syncbak.com/playlist/13353641/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTA1NDQ3NTIsImlzcyI6IldMUyIsIm1kNSI6ImU1NzE4N2I1ZjkwODkwZjUzODg2OWEwM2UzOTZhZDVlIiwibWlkIjoiMTMzNTM2NDEifQ.KEpEhx99j2MANaoM6Lm7Wnv6hQJNnROwd6yCDtf9zd4
+#EXTINF:-1,TELEMUNDO LAREDO TX
+https://playlistserver.aws.syncbak.com/playlist/13355198/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTE2NDc1MDIsImlzcyI6IldMUyIsIm1kNSI6IjQwMWRkMDY2YjUyOGEwZWIxYzcxMzMxNjBhNDgyMGE5IiwibWlkIjoiMTMzNTUxOTgifQ.piLwptYMsquOvh5kVgvpuj2wYSd6SDOblXdfIXGk7PE
+#EXTINF:-1,NBC KGNS LAREDO TX
+https://playlistserver.aws.syncbak.com/playlist/898815/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAzNjY5NzMsImlzcyI6IldMUyIsIm1kNSI6IjFlN2FjOTI4ODk4ZmZkYTRmMGJjMDBiODVhYThhMjg1IiwibWlkIjoiODk4ODE1In0.o7Ri9T3q6q0SmS7ReLrumBlZXVMQLqYIv5bj6RF3G7Y
