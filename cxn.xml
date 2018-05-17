@@ -14,7 +14,7 @@
 </item>
 
 <item>
-<title>                   Updated: 5-11-2018      </title>
+<title>                   Updated: 5-16-2018      </title>
 <link>$doregex[openDialog]</link>
 <fanart></fanart>
 </item>
@@ -25,13 +25,6 @@
 <link>http://ignorame</link><thumbnail></thumbnail>
 <fanart></fanart>
 <externallink>http://raw.githubusercontent.com/cyberxnuke/cputech/master/requests.xml</externallink>
-</item>
-
-<item>
-<title>Spanish TV</title>
-<link>http://ignorame</link><thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>http://raw.githubusercontent.com/cyberxnuke/cputech/master/totalplay.xml</externallink>
 </item>
 
 <item>
