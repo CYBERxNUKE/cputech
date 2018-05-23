@@ -1,8 +1,8 @@
-shortcut="HomeVideosButton1,plugin.video.salts"
-shortcut="HomeVideosButton2,plugin.video.phstreams"
-shortcut="HomeVideosButton3,plugin.video.SportsDevil"
-shortcut="HomeVideosButton4,plugin.video.sedundnes"
-shortcut="HomeVideosButton5,plugin.video.covenant"
+shortcut="HomeVideosButton1,plugin.video.aragon"
+shortcut="HomeVideosButton2,plugin.video.ProjectCypher"
+shortcut="HomeVideosButton3,plugin.video.placenta"
+shortcut="HomeVideosButton4,plugin.video.incursion"
+shortcut="HomeVideosButton5,plugin.video.neptune"
 
 shortcut="HomeMusicButton1,plugin.audio.radio_de"
 shortcut="HomeMusicButton2,plugin.video.itunes_podcasts"
