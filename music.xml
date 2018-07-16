@@ -1,5 +1,26 @@
 #EXTM3U tvg-shift=3
-`
+
+#EXTINF:1,DJing
+https://www.djing.com/tv/live.m3u8
+#EXTINF:1,Ibiza
+https://www.djing.com/tv/dancefloor.m3u8
+#EXTINF:1,Hot Hot Hot 
+https://www.djing.com/tv/h-01-fta.m3u8
+#EXTINF:1,Classics
+https://www.djing.com/tv/hits.m3u8
+#EXTINF:1,Animation
+https://www.djing.com/tv/animation.m3u8
+#EXTINF:1,Underground
+https://www.djing.com/tv/underground.m3u8
+#EXTINF:1,Summer Vibes
+https://www.djing.com/tv/session_summer-vibes.m3u8
+#EXTINF:1,Electro Rock
+https://www.djing.com/tv/session_electro-rock.m3u8
+#EXTINF:1,French touch
+https://www.djing.com/tv/session_french-touch.m3u8
+#EXTINF:1,Karaoke
+https://www.djing.com/tv/karaoke.m3u8
+
 #EXTINF:1,100 - HIT LIST
 https://edge.music-choice-chaina.top.comcast.net/streamwebvca1/VideoChannels/VC-MC100/O0U9MTUzMTcyMzEzNTtBPTE7Sz0wO1A9MDExMTA7Uz02MTQ5MzcyMDc0OTA3YjgzOGVmZjg1YjViYTM5OTc3M2YzNmE1ZWM1/chunklist.m3u8
 #EXTINF:1,106 - HIP HOP & R&B
