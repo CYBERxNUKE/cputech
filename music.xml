@@ -1,4 +1,9 @@
 #EXTM3U tvg-shift=3
+<item>
+<title>                   Updated: 7-21-2018      </title>
+<link>$doregex[openDialog]</link>
+<fanart></fanart>
+</item>
 
 #EXTINF:1,DJing
 https://www.djing.com/tv/live.m3u8
