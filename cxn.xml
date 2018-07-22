@@ -33,3 +33,10 @@
 <fanart></fanart>
 <externallink>http://raw.githubusercontent.com/cyberxnuke/cputech/master/music.xml</externallink>
 </item>
+
+<item>
+<title>Music Choice</title>
+<link>http://ignorame</link><thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>http://raw.githubusercontent.com/cyberxnuke/cputech/master/audiomusic.xml</externallink>
+</item>
