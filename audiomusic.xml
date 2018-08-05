@@ -1,4 +1,4 @@
-#EXTM3U tvg-shift=3
+#EXTM3U
 #EXTINF:1,22 - Adult Alternative
 http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-022/CYBERxNUKE.m3u8
 #EXTINF:1,163 - ALT R&B
@@ -20,9 +20,9 @@ http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-156/CYBERxN
 #EXTINF:1,5 - Hip-Hop and R&B 
 http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-005/CYBERxNUKE.m3u8
 #EXTINF:1,117 - Hit List 
-http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-117/CYBERxNUKE.m3u8
-#EXTINF:1,2 - Indie 
 http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-002/CYBERxNUKE.m3u8
+#EXTINF:1,2 - Indie 
+http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-117/CYBERxNUKE.m3u8
 #EXTINF:1,134 - K-Pop 
 http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-134/CYBERxNUKE.m3u8
 #EXTINF:1,157 - Latin Jazz 
