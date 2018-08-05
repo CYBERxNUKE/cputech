@@ -14,7 +14,7 @@
 </item>
 
 <item>
-<title>                   Updated: 8-4-2018      </title>
+<title>                   Updated: 8-5-2018      </title>
 <link>$doregex[openDialog]</link>
 <fanart></fanart>
 </item>
@@ -41,12 +41,12 @@
 <externallink>http://raw.githubusercontent.com/cyberxnuke/cputech/master/audiomusic.xml</externallink>
 </item>
 
-<item>
+<plugin>
 <title>UFC 227 - Acestream 1</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>plugin://program.plexus/?url=acestream://d656b460fd424dc94f5b510bb1f50d9bcd473502&mode=1&name=CYBERxNUKE</link>
-</item>
+</plugin>
 
 <item>
 <title>UFC 227</title>
