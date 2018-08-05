@@ -41,12 +41,12 @@
 <externallink>http://raw.githubusercontent.com/cyberxnuke/cputech/master/audiomusic.xml</externallink>
 </item>
 
-<plugin>
+<item>
 <title>UFC 227 - Acestream</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>plugin://program.plexus/?url=acestream://d656b460fd424dc94f5b510bb1f50d9bcd473502&amp;mode=1&amp;name=CYBERxNUKE</link>
-</plugin>
+</item>
 
 <item>
 <title>UFC 227</title>
