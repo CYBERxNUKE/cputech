@@ -49,10 +49,10 @@
 </item>
 
 <item>
-<title>Cowboys 1</title>
+<title>Cowboys</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<link>plugin://plugin.video.youtube/channel/pbQa1LiYgkU</link>
+<link>plugin://plugin.video.youtube/play/?video_id=pbQa1LiYgkU</link>
 </item>
 
 
