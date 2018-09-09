@@ -62,9 +62,16 @@
 </item>
 
 <item>
+<title>Cowboys vs Carolina</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>https://d1l0p3unv1uctl.cloudfront.net/hls/nfl12/index.m3u8</link>
+</item>
+
+<item>
 <title>Bears Vs Packers</title>
 <thumbnail>https://i.imgur.com/MuhEhrx.png</thumbnail>
-<fanart>https://i.imgur.com/MuhEhrx.png</fanart>
+<fanart></fanart>
 <link>https://d1l0p3unv1uctl.cloudfront.net/hls/nfl12/index.m3u8</link>
 </item>
 
