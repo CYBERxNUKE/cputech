@@ -1,174 +1,135 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <!----------------------
-					WELCOME TO CYBERxNUKE List
-					www.CYBERxNUKE.com
+	WELCOME TO CYBERxNUKE List
+	www.CYBERxNUKE.com
 -->
-
-
 
 
 <item>
 <title>                     [B]    CYBERxNUKE ADD-ON[/B]   </title>
 <link>$doregex[openDialog]</link>
-<regex>
-<name>openDialog</name>
-<expres><![CDATA[#$pyFunction
-import xbmcaddon
-import xbmcgui
-def GetLSProData(page_data,Cookie_Jar,m):
-    __addon__ = xbmcaddon.Addon()
-    __addonname__ = __addon__.getAddonInfo('name')     
-    line1 = "Welcome to CYBERxNUKE ADD-ON"
-    xbmcgui.Dialog().ok(__addonname__, line1)
-    return 
-]]></expres>
-<page></page>
-<cookieJar></cookieJar>
-</regex>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>                   Updated: September 17th 2016      </title>
+<title>                   Updated: 9-10-2018      </title>
 <link>$doregex[openDialog]</link>
-<regex>
-<name>openDialog</name>
-<expres><![CDATA[#$pyFunction
-import xbmcaddon
-import xbmcgui
-def GetLSProData(page_data,Cookie_Jar,m):
-    __addon__ = xbmcaddon.Addon()
-    __addonname__ = __addon__.getAddonInfo('name')     
-    line1 = "            CYBERxNUKE "
-    xbmcgui.Dialog().ok(__addonname__, line1)
-    return 
-]]></expres>
-<page></page>
-<cookieJar></cookieJar>
-</regex><thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
 
 <item>
-<title>Canelo Vs Smith</title>
-<sportsdevil>http://streamhdeu.com/player1/stream1.php</sportsdevil>
-<referer>http://streamhd.eu/</referer>
-</item>
-
-<item>
-<title>Sports </title>
+<title>Requests</title>
 <link>http://ignorame</link><thumbnail></thumbnail>
 <fanart></fanart>
-<externallink>http://raw.githubusercontent.com/cyberxnuke/cputech/master/new.xml</externallink>
-</item>
-<item>
-<title>IPTV</title>
-<link>http://ignorame</link><thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>http://raw.githubusercontent.com/cyberxnuke/cputech/master/iptv.xml</externallink>
-</item>
-<item>
-<title>Total Play</title>
-<link>http://ignorame</link><thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>http://raw.githubusercontent.com/cyberxnuke/cputech/master/tp.xml</externallink>
+<externallink>http://raw.githubusercontent.com/cyberxnuke/cputech/master/requests.xml</externallink>
 </item>
 
 <item>
-<title>     [B]Arenavision[/B] AGENDA / SCHEDULE </title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<item><title> [makelist.param2] [makelist.param4] [makelist.param5]  </title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=My+acestream+channel</link>
-			<regex>
-			<name>hash</name> 
-			<expres>this.loadPlayer\("(.*?)"</expres>
-			<page>http://www.arenavision.in/AV[makelist.param6]</page>
-			<referer>http://www.arenavision.in</referer>
-			<setcookie>beget=begetok</setcookie>
-			</regex>
-			<thumbnail></thumbnail>
-</item>	
-]]></listrepeat>
-<expres>190px">(.*?)<[\w\W\s]{0,45}182px">(.*?)<[\w\W\s]{0,45}188px">(.*?)<[\w\W\s]{0,45}283px">(.*?)<[\w\W\s]{0,45}685px">(.*?)<[\w\W\s]{0,45}317px">(.*?)-</expres>
-<page>http://arenavision.in/agenda</page>
-<Agent>Mozilla</Agent>
-</regex>
+<title>Music Videos</title>
+<link>http://ignorame</link><thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>http://raw.githubusercontent.com/cyberxnuke/cputech/master/music.xml</externallink>
+</item>
+
+<item>
+<title>Music Choice</title>
+<link>http://ignorame</link><thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>http://raw.githubusercontent.com/cyberxnuke/cputech/master/audiomusic.xml</externallink>
+</item>
+
+<item>
+<title>Lucha Libre AAA - All day</title>
 <thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://cheme.co/test.php?channel=luchalibreaaa</item>
+<item>
+
+<item>
+<title>Impact Wrestling - All day</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://cheme.co/test.php?channel=impactwrestling</link>
+</item>
+
+<item>
+<title>[COLOR white]WWE Network 1[/COLOR]</title>
+<thumbnail>http://www.wwe.com/a/i/wwe_network_logo.png</thumbnail>
+<link>http://hlslive-l3c.med1.net.wwe.com/ls01/wwe/LINEAR/master_wired.m3u8|Cookie=mediaAuth=a06e2dc0e366b956c91a6e3cab8762e8b94e17a748934f1fac6b2c9046a8f2efe73395fa46fff823e1d22444e748767fb9cf92382d9f697462c6cff3e8c011a516f443471ca55cd11beb93e3b934a4ab219715c069736055cd8c08809389747ea305c38d01d62d2a172a0509011a965df4d6966c82197e4c7054086576aee5c1377bd6b6a0fa8a2b8b51c187c679ce6dd181d62f5264485a3895e62d9a9a146071db4e64ef0cece29c56a09dd0cf63555b62e7a1a0bf2deb1ffb31fc21eac2c11b3e9461e90c303eaed310981a151617e6c0c59420cb08146e9ec70c989071d6392d0fd59f63031cb4f4d15a9df8ebb83caf814ac170b6d2d407a424c8d894c23e013e3400a13ed0b743a311490605aa764700cdfa738d99</link>
+</item>
+
+<item>
+<title>Rams Vs Raiders</title>
+<thumbnail>https://i.imgur.com/v32UdiL.png</thumbnail>
+<fanart></fanart>
+<link>http://cdn.whostreams.net:8080/hls/vn9gmlfgqx58.m3u8?s=wysyrxP5-ipRz3PXo5gvzw&e=1536652698</link>
+</item>
+
+<item>
+<title>Rams Vs Raiders 2</title>
+<thumbnail>https://i.imgur.com/v32UdiL.png</thumbnail>
+<fanart></fanart>
+<link>http://d2eghxc986ya43.cloudfront.net/tv/d264nmaw9ov6qr_espn.m3u8</link>
 </item>
 
 
-
-
 <item>
- <title>Canal 1</title>
- <link>$doregex[url]></link>
- <regex>
- <name>url</name>
- <expres>source: '(.*?)'</expres>
- <page>http://tumarcador.xyz/canal1.php</page>
- <referer>http://tumarcador.xyz/canal1.php</referer>
- <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
- </regex>
- </item>
-
-<item>
- <title>Canal 2</title>
- <link>$doregex[url]></link>
- <regex>
- <name>url</name>
- <expres>source: '(.*?)'</expres>
- <page>http://tumarcador.xyz/canal2.php</page>
- <referer>http://tumarcador.xyz/canal2.php</referer>
- <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
- </regex>
- </item>
-
-<item>
- <title>Canal 3</title>
- <link>$doregex[url]></link>
- <regex>
- <name>url</name>
- <expres>source: '(.*?)'</expres>
- <page>http://tumarcador.xyz/canal3.php</page>
- <referer>http://tumarcador.xyz/canal3.php</referer>
- <agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36</agent>
- </regex>
- </item>
-
-<item>
-<title>TEST5rsa</title>
-<link>$doregex[get_RTMP] playpath=$doregex[get_Path] token=$doregex[get_Token] swfUrl=http://ssl.p.jwpcdn.com/player/v/7.3.6/jwplayer.flash.swf swfVfy=1 live=1 timeout=13  pageUrl=http://yotv.co/embedo.php?live=cricone&vw=620&vh=490</link>
-<regex>
-<name>get_RTMP</name>
-<expres>file: [",']([^"]+)\/</expres>
-<page>http://yotv.co/embedo.php?live=cricone&vw=620&vh=490</page>
-<referer>http://cricfree.sx/update/snone.php</referer>
-<agent>Mozilla/5.0</agent>
-</regex>
-<regex>
-<name>get_Path</name>
-<expres>file: [",'].*\/([^"]+)[",']</expres>
-<page>http://yotv.co/embedo.php?live=cricone&vw=620&vh=490</page>
-<referer>http://cricfree.sx/update/snone.php</referer>
-<agent>Mozilla/5.0</agent>
-</regex>
-<regex>
-<name>get_Token</name>
-<expres>securetoken: [",']([^"]+)[",']</expres>
-<page>http://yotv.co/embedo.php?live=cricone&vw=620&vh=490</page>
-<referer>http://cricfree.sx/update/snone.php</referer>
-<agent>Mozilla/5.0</agent>
-</regex> 
+<title>Univision Deportes</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://sced.cdnak.neulion.net/250/nlds/univision/as/live/udnoo_hd_ipad.m3u8</link>
 </item>
 
- <item>
- <title>Wizwig</title>
- <sportsdevil>http://wiz1.net/ch95</sportsdevil>
- <referer>http://wiz1.net/</referer>
- </item>
+<item>
+<title>Animax</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://210.210.155.35/session/873789ac-6d81-11e8-83d2-b82a72d63267/uq2663/h/h18/01.m3u8</link>
+</item>
+
+<item>
+<title>FS 1</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://hlslinear-l3c.clt2.media.foxsportsgo.com/token=exp=1532395972~id=aa337d80-8fe8-4465-b173-6bcdcc2a5d48-69545-8bd157fdcae132cf63f0be8c3d6f896936a7ef3e~hash=af82cd0e3e1603fd85a9574bb438a57382ab32fa/ls01/foxsports/FOX_SPORTS_1/live/2018/07/05/70639315/2500K/2500_slide_ads.m3u8</link>
+</item>
+
+<item>
+<title>TEST 1</title>
+<link>http://ignorame</link><thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://github.com/PROJECTOTEAM/PRINCIPAL/raw/master/LIVE%20SPORTS/live%20Sports%20Menu%20Principal.xml</externallink>
+</item>
+
+<item>
+<title>TEST 2</title>
+<link>http://ignorame</link><thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://github.com/PROJECTOTEAM/PRINCIPAL/raw/master/LIVE%20SPORTS/Novo%20Documento%20de%20Texto.txt</externallink>
+</item>
+
+<item>
+<title>TEST 3</title>
+<link>http://ignorame</link><thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>http://supremacy.org.uk/MMA/UFCTv.xml</externallink>
+</item>
+
+<item>
+<title>TEST 4</title>
+<link>http://ignorame</link><thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>http://gen-tec.co/gentecwiz/PLEASE%20SUBSCRIBE%20TO%20CHARLIE%20TEC%20YOUTUBE/star/acestreams.xml</externallink>
+</item>
+
+<item>
+<title>TEST 5</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>plugin://program.plexus/?url=d656b460fd424dc94f5b510bb1f50d9bcd473502&amp;mode=1&amp;name=CYBERxNUKE</link>
+</item>
+
+
