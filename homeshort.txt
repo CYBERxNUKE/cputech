@@ -1,6 +1,7 @@
 shortcut="HomeVideosButton1,plugin.video.CYBERxNUKE"
 shortcut="HomeVideosButton2,plugin.video.pressplay"
 shortcut="HomeVideosButton3,plugin.video.SportsDevil"
+shortcut="HomeVideosButton3,plugin.video.seren"
 shortcut="HomeVideosButton5,plugin.video.thecrew"
 shortcut="HomeProgramButton1,plugin.video.nukewizard"
 shortcut="HomeMusicButton5,plugin.audio.soundcloud"
